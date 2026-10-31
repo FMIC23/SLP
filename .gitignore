@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+# Material personal con derechos: NUNCA se publica
+material/*
+!material/README.md
+data/private/*
+!data/private/README.md
+public/private/*
+!public/private/.gitkeep

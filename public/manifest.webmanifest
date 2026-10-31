@@ -1,0 +1,12 @@
+{
+  "name": "Entrenador C1 · SLP 3",
+  "short_name": "C1·SLP3",
+  "description": "Inglés C1 Advanced y SLP 3 (STANAG 6001) con vocabulario industrial y policial",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#1d3557",
+  "lang": "es",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
