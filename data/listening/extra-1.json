@@ -1,0 +1,1474 @@
+[
+  {
+    "meta": {
+      "id": "ls-x1-01",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Cafés de reparación y economía circular",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The repair café",
+    "part": "part1",
+    "instructions": "You will hear an extract from a conversation. For each question, choose the answer (A, B or C) which fits best according to what you hear.",
+    "speakers": {
+      "Woman": "female",
+      "Man": "male"
+    },
+    "script": [
+      {
+        "speaker": "Woman",
+        "text": "You went along to that repair café at the community centre last weekend, didn't you? How was it?"
+      },
+      {
+        "speaker": "Man",
+        "text": "Yeah, I did. I took that old lamp of my gran's, the one that kept flickering. And, well, I'll be honest, I went in expecting a bunch of retired engineers tutting at me for not knowing how a fuse works."
+      },
+      {
+        "speaker": "Woman",
+        "text": "And was it like that?"
+      },
+      {
+        "speaker": "Man",
+        "text": "Not at all, actually. The guy who looked at it, he must've been in his seventies, but he didn't just fix it for me. He handed me the screwdriver and talked me through it, step by step. Took twice as long, mind you, but I came away knowing how to rewire a plug, which I'd never have bothered to learn otherwise."
+      },
+      {
+        "speaker": "Woman",
+        "text": "That's the bit that appeals to me, to be honest. It's not really about saving money, is it? I mean, you could buy a new lamp for a tenner."
+      },
+      {
+        "speaker": "Man",
+        "text": "Well, for some people it is about money. There was a woman there with a sewing machine that'd cost a fortune to replace. But for most of us, I think it's more... I don't know, a reaction against just chucking things away the minute they stop working."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Mm. Although I do wonder how long it can last. It all depends on a handful of volunteers giving up their Saturdays, doesn't it? Once they get tired of it, that's that."
+      },
+      {
+        "speaker": "Man",
+        "text": "That's the thing, though. They've thought about that. They're running little workshops so that people like me can eventually take over. That's precisely why he made me do the work myself."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Oh, clever. So it's kind of training up its own replacements."
+      },
+      {
+        "speaker": "Man",
+        "text": "Exactly. Whether it'll actually work, who knows, but I was impressed they'd even considered it."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-01-q1",
+        "kind": "choice",
+        "prompt": "What did the man find unexpected about his visit to the repair café?",
+        "options": [
+          "how quickly his lamp was repaired",
+          "being encouraged to carry out the repair himself",
+          "how few of the volunteers were retired engineers"
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "Esperaba que le reprendieran, pero \"he didn't just fix it for me. He handed me the screwdriver and talked me through it\". A es falsa (\"Took twice as long\"); C no se dice: el voluntario \"must've been in his seventies\"."
+      },
+      {
+        "id": "ls-x1-01-q2",
+        "kind": "choice",
+        "prompt": "What does the man say about the people who run the repair café?",
+        "options": [
+          "They have planned for volunteers eventually being replaced.",
+          "They are mainly motivated by saving people money.",
+          "They are finding it hard to persuade volunteers to give up Saturdays."
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "\"They're running little workshops so that people like me can eventually take over.\" B contradice \"for most of us... a reaction against just chucking things away\"; C es solo una preocupación de la mujer."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-02",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Hidrógeno en hornos cerámicos y emisiones de NOx",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Hydrogen in the kiln",
+    "part": "part1",
+    "instructions": "You will hear an extract from a conversation. For each question, choose the answer (A, B or C) which fits best according to what you hear.",
+    "speakers": {
+      "Woman": "female",
+      "Man": "male"
+    },
+    "script": [
+      {
+        "speaker": "Woman",
+        "text": "So, how did the first week of the hydrogen blend go on Kiln 2? I've only seen the summary."
+      },
+      {
+        "speaker": "Man",
+        "text": "Better than I'd feared, to be honest. We ran at ten per cent hydrogen by volume and the flame was stable throughout. And the tiles coming out were within spec, no change in colour, which was the thing the sales team were panicking about."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Right, so what's the catch? There's always a catch with you."
+      },
+      {
+        "speaker": "Man",
+        "text": "Ha. Well, it's not the kiln, it's the NOx. Hydrogen burns hotter, and our nitrogen oxide readings crept up. Not over the permit limit, but closer than I'm comfortable with. If we go to twenty per cent, which is the plan for phase two, I reckon we'd be pushing it."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Couldn't we just tweak the burners?"
+      },
+      {
+        "speaker": "Man",
+        "text": "We could, and the supplier swears their low-NOx burners would sort it. But that's a capital outlay we hadn't budgeted for, and frankly, I'd rather see data from another site before I stake my reputation on their brochure."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Fair enough. Though I've got to say, the board are going to want phase two on schedule. They've already told the press we'll be at twenty per cent by spring."
+      },
+      {
+        "speaker": "Man",
+        "text": "Well, that's their problem, isn't it? Sorry, that came out wrong. What I mean is, I'll give them the numbers, but I'm not going to sign off on something that puts us in breach of our permit just because of a press release."
+      },
+      {
+        "speaker": "Woman",
+        "text": "No, and I'd back you on that. Let me take it to them. Better a slightly embarrassing delay than a visit from the environmental inspector."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-02-q1",
+        "kind": "choice",
+        "prompt": "According to the man, what was the main problem during the trial?",
+        "options": [
+          "The colour of the tiles changed slightly.",
+          "The flame became unstable at times.",
+          "Emissions of one pollutant rose."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"it's the NOx... our nitrogen oxide readings crept up\". A y B se niegan: \"no change in colour\" y \"the flame was stable throughout\"."
+      },
+      {
+        "id": "ls-x1-02-q2",
+        "kind": "choice",
+        "prompt": "What is the man's attitude to the supplier's claims about its burners?",
+        "options": [
+          "He wants independent evidence before accepting them.",
+          "He believes them but thinks the burners are too expensive.",
+          "He expects the board to reject them."
+        ],
+        "answer": 0,
+        "tag": "attitude",
+        "explanation": "\"I'd rather see data from another site before I stake my reputation on their brochure.\" El coste se menciona, pero no dice que crea al proveedor; la junta no ha opinado sobre los quemadores."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-03",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Prevención de estafas a personas mayores",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Scam awareness for older residents",
+    "part": "part1",
+    "instructions": "You will hear an extract from a conversation. For each question, choose the answer (A, B or C) which fits best according to what you hear.",
+    "speakers": {
+      "Sergeant": "female",
+      "Officer": "male"
+    },
+    "script": [
+      {
+        "speaker": "Officer",
+        "text": "How did the talk at the senior citizens' centre go yesterday, Sarge?"
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "Oh, it was a real eye-opener, though maybe not in the way I'd expected. I'd prepared all these slides on phishing emails and fake bank websites, and about five minutes in, a gentleman at the back put his hand up and said, \"Love, half of us don't even have email.\""
+      },
+      {
+        "speaker": "Officer",
+        "text": "Ouch."
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "Quite. But he had a point. What they were actually worried about was the phone. Calls from someone claiming to be from the bank, or from a grandchild who's supposedly been arrested abroad and needs money wiring. So I ditched the slides and we just talked."
+      },
+      {
+        "speaker": "Officer",
+        "text": "And did that work better?"
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "Much better. People started sharing what had happened to them. One lady had lost nearly four thousand euros and had never reported it, because she was too ashamed. She thought she'd be told off for being gullible."
+      },
+      {
+        "speaker": "Officer",
+        "text": "That's the problem, isn't it? Half these cases never reach us, so our figures are way off."
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "Which is exactly why I think these sessions matter more than the leaflets we've been handing out. A leaflet can tell you what a scam looks like, but it can't make you feel it's OK to come forward."
+      },
+      {
+        "speaker": "Officer",
+        "text": "So are you going to do more of them?"
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "I'd like to, but I want to change the format. Smaller groups, and ideally with somebody from the bank there too, so they can explain what the bank will never ask you to do. That carries more weight coming from them than from us."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-03-q1",
+        "kind": "choice",
+        "prompt": "Why did the sergeant abandon her prepared presentation?",
+        "options": [
+          "She was running out of time.",
+          "It didn't address what the audience were really worried about.",
+          "Several people found it difficult to see the slides."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "Le dijeron \"half of us don't even have email\" y \"What they were actually worried about was the phone. ... So I ditched the slides\". No se mencionan problemas de tiempo ni de visibilidad."
+      },
+      {
+        "id": "ls-x1-03-q2",
+        "kind": "choice",
+        "prompt": "What does the sergeant see as the main value of the sessions?",
+        "options": [
+          "They are cheaper to run than producing leaflets.",
+          "They allow bank staff to identify vulnerable customers.",
+          "They make victims more willing to report what happened."
+        ],
+        "answer": 2,
+        "tag": "inference",
+        "explanation": "\"A leaflet... can't make you feel it's OK to come forward.\" El coste no se menciona y la presencia del banco es para explicar \"what the bank will never ask you to do\"."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-04",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Rehabilitación de una mina a cielo abierto",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "From coal pit to lake",
+    "part": "part2",
+    "instructions": "You will hear a talk. For each question, complete the sentence with a word or short phrase (1-3 words) that you hear.",
+    "speakers": {
+      "Marta": "female"
+    },
+    "script": [
+      {
+        "speaker": "Marta",
+        "text": "Hello, everyone. I'm Marta, and I'm an environmental engineer. For the past eight years I've been working on the rehabilitation of a former open-pit coal mine in the north of the country, and today I'd like to tell you a bit about what that actually involves. Because, believe me, it's a lot more than just planting a few trees."
+      },
+      {
+        "speaker": "Marta",
+        "text": "When the mine closed, the company left behind what was basically a huge hole in the ground, about a hundred and twenty metres deep, surrounded by waste heaps. And the first question everyone asked was: what on earth are we going to turn this into?"
+      },
+      {
+        "speaker": "Marta",
+        "text": "Now, the local council's initial idea was a golf course. I'm not joking. But once we'd done the hydrological studies, it became clear that the pit was going to fill up with groundwater whatever we did. So, rather than fight that, we decided to work with it, and the plan became a lake."
+      },
+      {
+        "speaker": "Marta",
+        "text": "The trouble is, you can't simply let a pit flood and hope for the best. The rock here contains a lot of pyrite, and when pyrite's exposed to air and water, it produces sulphuric acid. That's what we call acid mine drainage, and it can make the water so acidic that nothing survives in it."
+      },
+      {
+        "speaker": "Marta",
+        "text": "So the biggest part of our work in the early years was controlling the chemistry. We added crushed limestone to neutralise the acid, and we're still monitoring the pH every single week, even now."
+      },
+      {
+        "speaker": "Marta",
+        "text": "The waste heaps were another headache. They were basically bare slopes of loose material, and every time it rained heavily, tonnes of sediment washed down into the river. Our solution was to reshape the slopes to a gentler angle and then cover them with a layer of topsoil. We couldn't get enough topsoil locally, actually, so we ended up using treated sewage sludge from a nearby city, which, believe it or not, makes a brilliant growing medium."
+      },
+      {
+        "speaker": "Marta",
+        "text": "Then came the planting. Our first attempt, I'll admit, was a bit of a disaster. We planted fast-growing pine because we wanted quick results, and most of the saplings died in the first dry summer. What we learnt was that native species, things like holm oak and broom, which are used to the local climate, do far better, even if they grow more slowly."
+      },
+      {
+        "speaker": "Marta",
+        "text": "One thing that really surprised us was how quickly wildlife came back on its own. Within three years of the lake forming, we'd recorded over forty species of birds, including some that hadn't been seen in the area for decades. Herons were among the first to arrive, which delighted the local birdwatching group."
+      },
+      {
+        "speaker": "Marta",
+        "text": "Of course, a project like this isn't just about nature. The town lost something like six hundred jobs when the mine closed, and there was a lot of resentment. People felt the company had simply walked away. So from the start we involved local residents in the decisions, and that's made a huge difference. Several former miners now work as guides, showing visitors around and telling them about the history of the site."
+      },
+      {
+        "speaker": "Marta",
+        "text": "If I had to pick the single most important lesson from all this, I'd say it's that rehabilitation needs to be planned before a mine even opens, not after it closes. That's now a legal requirement in the European Union, and companies have to set aside a financial guarantee to cover the costs. Back when this mine opened, nobody was thinking that way."
+      },
+      {
+        "speaker": "Marta",
+        "text": "Right, I think that's probably enough from me. I'm happy to take any questions."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-04-q1",
+        "kind": "text",
+        "prompt": "The local council originally wanted to turn the site into a _____.",
+        "accepted": [
+          "golf course",
+          "a golf course"
+        ],
+        "tag": "detail",
+        "explanation": "\"the local council's initial idea was a golf course. I'm not joking.\" Luego se optó por un lago."
+      },
+      {
+        "id": "ls-x1-04-q2",
+        "kind": "text",
+        "prompt": "To neutralise the acid, the team added crushed _____ to the water.",
+        "accepted": [
+          "limestone"
+        ],
+        "tag": "detail",
+        "explanation": "\"We added crushed limestone to neutralise the acid\"."
+      },
+      {
+        "id": "ls-x1-04-q3",
+        "kind": "text",
+        "prompt": "The pH of the water is still monitored every _____.",
+        "accepted": [
+          "week",
+          "single week"
+        ],
+        "tag": "detail",
+        "explanation": "\"we're still monitoring the pH every single week, even now.\""
+      },
+      {
+        "id": "ls-x1-04-q4",
+        "kind": "text",
+        "prompt": "Because there wasn't enough local topsoil, the slopes were covered with treated _____ from a nearby city.",
+        "accepted": [
+          "sewage sludge",
+          "sludge"
+        ],
+        "tag": "detail",
+        "explanation": "\"we ended up using treated sewage sludge from a nearby city\"."
+      },
+      {
+        "id": "ls-x1-04-q5",
+        "kind": "text",
+        "prompt": "In the first planting attempt, most of the fast-growing _____ died during a dry summer.",
+        "accepted": [
+          "pine",
+          "pines",
+          "pine saplings"
+        ],
+        "tag": "detail",
+        "explanation": "\"We planted fast-growing pine... and most of the saplings died in the first dry summer.\" Las especies autóctonas funcionaron mejor."
+      },
+      {
+        "id": "ls-x1-04-q6",
+        "kind": "text",
+        "prompt": "Within three years of the lake forming, more than _____ species of birds had been recorded.",
+        "accepted": [
+          "forty",
+          "40"
+        ],
+        "tag": "detail",
+        "explanation": "\"we'd recorded over forty species of birds\". No confundir con \"six hundred jobs\" ni \"a hundred and twenty metres\"."
+      },
+      {
+        "id": "ls-x1-04-q7",
+        "kind": "text",
+        "prompt": "Several former miners are now employed at the site as _____.",
+        "accepted": [
+          "guides"
+        ],
+        "tag": "detail",
+        "explanation": "\"Several former miners now work as guides, showing visitors around\"."
+      },
+      {
+        "id": "ls-x1-04-q8",
+        "kind": "text",
+        "prompt": "In the EU, companies must now set aside a financial _____ to cover rehabilitation costs.",
+        "accepted": [
+          "guarantee"
+        ],
+        "tag": "detail",
+        "explanation": "\"companies have to set aside a financial guarantee to cover the costs.\""
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-05",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Delitos medioambientales: tráfico ilegal de residuos",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Investigating waste crime",
+    "part": "part3",
+    "instructions": "You will hear an interview. For each question, choose the answer (A, B, C or D) which fits best according to what you hear.",
+    "speakers": {
+      "Interviewer": "female",
+      "Daniel": "male"
+    },
+    "script": [
+      {
+        "speaker": "Interviewer",
+        "text": "My guest today works in a specialist police unit that investigates environmental crime. Daniel, welcome. I suspect people imagine your job involves chasing poachers through the forest. Is that fair?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Occasionally, yes, but it's a pretty small part of it these days. If I'm honest, the bulk of my caseload is waste. Illegal dumping, fake recycling companies, that kind of thing. It's not glamorous, but it's where the money is, and where there's money, you get organised crime."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Why is waste so attractive to criminals?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Because getting rid of it legally is expensive. A business producing, say, contaminated soil or old tyres has to pay a licensed operator to deal with it properly. So along comes someone who offers to take it off their hands for half the price, with all the right paperwork. The paperwork's forged, of course, and the waste ends up buried on a farm or dumped in an abandoned warehouse. The criminal pockets the fee, and the cost of the clean-up lands on the taxpayer."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "And the business that handed it over, do they know?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Some genuinely don't. But I'll be blunt: a lot of them simply choose not to ask questions. If a price looks too good to be true, it usually is, and the law's quite clear that the producer remains responsible for their waste until it's properly disposed of. So we're increasingly prosecuting them as well, which has certainly got people's attention."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "How do these cases usually come to light?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Rarely through the kind of tip-off you'd imagine. Quite often it's satellite imagery. We work with analysts who compare images over time, and if a field suddenly develops a mound that wasn't there six months ago, that's a red flag. Then there's the money. The waste moves physically, but it also leaves a financial trail, and following that is frequently what lets us identify who's actually running things, rather than just the lorry driver."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "You mention lorry drivers. Is it difficult to get people to cooperate?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Extremely. These networks are well organised, and the drivers are often on very low pay, sometimes from abroad, and frankly scared. They know very little, and they know that saying anything could cost them a great deal more than a fine. So we've had to learn to build cases that don't depend on witnesses at all. Documents, phone data, GPS logs from the vehicles. It's slower, but it holds up in court."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "There's been a lot of talk about penalties being too lenient. Do you agree?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Partly. For a long time, environmental offences were treated almost as administrative matters. A fine, and that was it, and for a criminal group making millions, a fine is just a business expense. That's changing; the new European directive raises maximum sentences considerably. But honestly, what worries me more isn't the size of the penalties, it's how long cases take. By the time something comes to trial, the company's been dissolved and the people behind it have moved on."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "What about the international dimension?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "It's huge. Waste crosses borders all the time, legally and illegally. Plastic and electronic waste in particular get shipped to countries where processing is cheap and controls are weak, labelled as second-hand goods or recyclable material. We work closely with colleagues abroad, through Europol and the like, and joint operations at ports have been really productive. The challenge is that standards of enforcement vary enormously from one country to another, and the criminals know exactly where the weak points are."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Finally, what keeps you motivated? It sounds like an uphill struggle."
+      },
+      {
+        "speaker": "Daniel",
+        "text": "It can feel that way. But I grew up near a river that was basically dead because of a tannery upstream, and today kids swim in it. That happened because somebody enforced the rules. So when people tell me environmental crime is victimless, I just think, well, the victims are all of us. They're just not standing in front of you making a complaint."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-05-q1",
+        "kind": "choice",
+        "prompt": "What does Daniel say about many of the businesses that hand over waste to criminals?",
+        "options": [
+          "They are usually victims of sophisticated fraud.",
+          "They deliberately avoid finding out what happens to it.",
+          "They cannot be held legally responsible for it.",
+          "They tend to report suspicious offers to the police."
+        ],
+        "answer": 1,
+        "tag": "inference",
+        "explanation": "\"a lot of them simply choose not to ask questions\". A solo vale para algunos (\"Some genuinely don't\"); C contradice \"the producer remains responsible\"."
+      },
+      {
+        "id": "ls-x1-05-q2",
+        "kind": "choice",
+        "prompt": "According to Daniel, what is the main benefit of following the financial trail?",
+        "options": [
+          "It allows the authorities to recover clean-up costs.",
+          "It is quicker than analysing satellite images.",
+          "It provides evidence that is easier to present in court.",
+          "It reveals who is in charge rather than just who does the dumping."
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"following that is frequently what lets us identify who's actually running things, rather than just the lorry driver.\" Las demás ventajas no se mencionan."
+      },
+      {
+        "id": "ls-x1-05-q3",
+        "kind": "choice",
+        "prompt": "Why does Daniel's unit avoid relying on witnesses?",
+        "options": [
+          "Drivers are generally too frightened to say anything.",
+          "Witness statements are not admissible in environmental cases.",
+          "Most witnesses are themselves under investigation.",
+          "Witnesses from abroad are difficult to trace."
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "Los conductores están \"frankly scared\" y saben que hablar \"could cost them a great deal more than a fine\". Que algunos sean extranjeros es un detalle, no la razón."
+      },
+      {
+        "id": "ls-x1-05-q4",
+        "kind": "choice",
+        "prompt": "What is Daniel's main concern about the justice system?",
+        "options": [
+          "Penalties are still far too low.",
+          "The new European directive is too complex to apply.",
+          "Judges lack the technical knowledge to assess cases.",
+          "Cases take so long that those responsible escape."
+        ],
+        "answer": 3,
+        "tag": "attitude",
+        "explanation": "\"what worries me more isn't the size of the penalties, it's how long cases take. By the time something comes to trial, the company's been dissolved\". A es solo una preocupación parcial (\"Partly\")."
+      },
+      {
+        "id": "ls-x1-05-q5",
+        "kind": "choice",
+        "prompt": "What does Daniel suggest about international waste crime?",
+        "options": [
+          "Most illegal shipments are now intercepted at ports.",
+          "Criminals take advantage of differences in enforcement.",
+          "Joint operations have so far achieved little.",
+          "Electronic waste is rarely shipped legally."
+        ],
+        "answer": 1,
+        "tag": "inference",
+        "explanation": "\"standards of enforcement vary enormously... and the criminals know exactly where the weak points are.\" C contradice \"joint operations at ports have been really productive\"."
+      },
+      {
+        "id": "ls-x1-05-q6",
+        "kind": "choice",
+        "prompt": "Why does Daniel mention the river where he grew up?",
+        "options": [
+          "to show that enforcing the law can produce tangible results",
+          "to explain why he specialised in water pollution",
+          "to criticise the tannery that polluted it",
+          "to suggest that young people care more about nature"
+        ],
+        "answer": 0,
+        "tag": "purpose",
+        "explanation": "\"today kids swim in it. That happened because somebody enforced the rules.\" Lo usa para argumentar que el delito ambiental tiene víctimas y que actuar funciona."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-06",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Ciencia ciudadana y polinizadores",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Counting insects: citizen science",
+    "part": "part3",
+    "instructions": "You will hear an interview. For each question, choose the answer (A, B, C or D) which fits best according to what you hear.",
+    "speakers": {
+      "Interviewer": "male",
+      "Laura": "female"
+    },
+    "script": [
+      {
+        "speaker": "Interviewer",
+        "text": "Today I'm talking to Laura, an ecologist who coordinates a citizen science project monitoring insects across the country. Laura, for anyone who doesn't know, what exactly is citizen science?"
+      },
+      {
+        "speaker": "Laura",
+        "text": "Put simply, it's when members of the public help collect data for real scientific research. In our case, volunteers spend fifteen minutes counting pollinators, so bees, hoverflies, butterflies, in a small patch of ground, and then they upload what they've seen through an app. It sounds modest, but when you've got thousands of people doing it all over the country, you end up with a dataset that no research team could ever produce on its own."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "So it's essentially about scale."
+      },
+      {
+        "speaker": "Laura",
+        "text": "Scale and spread, really. Professional scientists tend to cluster in certain places: near universities, in nature reserves. Volunteers are everywhere, in back gardens, school playgrounds, industrial estates. And that's exactly where we were missing information. Some of our most interesting findings have come from places we'd never have thought to look. We found a thriving population of one rather rare solitary bee, for instance, on a strip of wasteland next to a motorway service station. No professional would ever have gone and stood there with a clipboard, believe me."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "But how reliable is data collected by amateurs? I imagine plenty of scientists are sceptical."
+      },
+      {
+        "speaker": "Laura",
+        "text": "They were, and to some extent they were right to be. In the early days we had people confidently reporting species that don't even occur in this country. So we did two things. First, we simplified what we ask for. Instead of naming the exact species, most volunteers just sort insects into broad groups, which almost anyone can do accurately. And second, every record that comes with a photo is checked by an expert. Interestingly, when we compared our volunteers' counts with professionals' counts at the same sites, the overall trends matched remarkably closely, even if individual identifications weren't perfect."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Has taking part changed the volunteers themselves, do you think?"
+      },
+      {
+        "speaker": "Laura",
+        "text": "Oh, enormously, and that's something we really didn't anticipate. We set this up as a data-gathering exercise, full stop. But in our surveys, people keep telling us it's changed the way they see their surroundings. They notice things they used to walk straight past. Several have gone on to persuade their local council to mow the verges less often, which is a lovely, unplanned side effect."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Are there any downsides?"
+      },
+      {
+        "speaker": "Laura",
+        "text": "Well, keeping people engaged is a constant battle. Lots of people sign up enthusiastically in spring, do two or three counts, and then disappear. And that matters, because what we really need is the same person counting the same spot year after year. A single count is a snapshot, but it's the long-term series that tells you whether populations are genuinely declining. So we've put a lot of effort into staying in touch with volunteers, sending them personalised results, showing them how their data's been used."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "And what have you actually found?"
+      },
+      {
+        "speaker": "Laura",
+        "text": "The headline is, I'm afraid, not great. Most pollinator groups are down, some quite sharply. But it's not uniformly bad. Hoverflies in urban areas are holding up surprisingly well, possibly because gardens offer such a variety of flowers over a long season. I wouldn't want to overstate that, though. It's one bright spot, not a reason to relax."
+      },
+      {
+        "speaker": "Interviewer",
+        "text": "Last question: where do you see citizen science going?"
+      },
+      {
+        "speaker": "Laura",
+        "text": "I think technology's going to change things a lot. Image recognition is getting good enough that an app can suggest an identification on the spot. That's great, but I do have a slight worry. If the phone does all the thinking, people might stop really looking. And for me, the looking is half the point."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-06-q1",
+        "kind": "choice",
+        "prompt": "According to Laura, what is especially valuable about the volunteers' contribution?",
+        "options": [
+          "They are often more careful than professional researchers.",
+          "They provide data at no cost to universities.",
+          "They record data in places scientists rarely study.",
+          "They identify species that experts tend to overlook."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"Volunteers are everywhere... And that's exactly where we were missing information.\" No dice que sean más cuidadosos; al principio cometían errores de identificación."
+      },
+      {
+        "id": "ls-x1-06-q2",
+        "kind": "choice",
+        "prompt": "How did the project respond to concerns about the reliability of its data?",
+        "options": [
+          "It reduced the level of detail volunteers had to provide.",
+          "It restricted participation to trained volunteers.",
+          "It stopped accepting records without photographs.",
+          "It asked professionals to repeat every count."
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "\"we simplified what we ask for. Instead of naming the exact species, most volunteers just sort insects into broad groups\". Las fotos se revisan, pero no se exigen."
+      },
+      {
+        "id": "ls-x1-06-q3",
+        "kind": "choice",
+        "prompt": "What does Laura say about the effect of the project on volunteers?",
+        "options": [
+          "It was the main reason the project was set up.",
+          "It was a benefit the organisers had not foreseen.",
+          "It has mostly affected younger participants.",
+          "It has proved difficult to measure reliably."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"that's something we really didn't anticipate. We set this up as a data-gathering exercise, full stop.\" A es lo contrario."
+      },
+      {
+        "id": "ls-x1-06-q4",
+        "kind": "choice",
+        "prompt": "Why is Laura concerned when volunteers drop out?",
+        "options": [
+          "Recruiting new volunteers is very expensive.",
+          "The app needs a minimum number of users to function.",
+          "Funders judge the project on participant numbers.",
+          "Repeated counts at the same site are what reveal trends."
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"what we really need is the same person counting the same spot year after year... it's the long-term series that tells you whether populations are genuinely declining.\""
+      },
+      {
+        "id": "ls-x1-06-q5",
+        "kind": "choice",
+        "prompt": "How does Laura feel about the results for urban hoverflies?",
+        "options": [
+          "She thinks they prove cities are now better for insects than the countryside.",
+          "She is encouraged but reluctant to draw broad conclusions from them.",
+          "She suspects they reflect errors in the volunteers' data.",
+          "She expects them to persuade more people to plant gardens."
+        ],
+        "answer": 1,
+        "tag": "attitude",
+        "explanation": "Dice que resisten \"surprisingly well\" pero \"I wouldn't want to overstate that... It's one bright spot, not a reason to relax.\""
+      },
+      {
+        "id": "ls-x1-06-q6",
+        "kind": "choice",
+        "prompt": "What reservation does Laura express about image recognition apps?",
+        "options": [
+          "They are not yet accurate enough to be useful.",
+          "They could make volunteers unnecessary.",
+          "They may reduce how closely people observe nature.",
+          "They will be too expensive for many participants."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"If the phone does all the thinking, people might stop really looking.\" Reconoce que la tecnología \"is getting good enough\", así que A no vale."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-07",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Trabajar en turno de noche",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Working nights",
+    "part": "part4",
+    "instructions": "You will hear five short extracts in which people talk about working night shifts. Task One (questions 1-5): choose from the list (A-H) why each speaker started working nights. Task Two (questions 6-10): choose from the list (A-H) the main advice each speaker gives to new night workers. Each option may be used only once in each task; three options in each task are not needed.",
+    "speakers": {
+      "Speaker 1": "female",
+      "Speaker 2": "male",
+      "Speaker 3": "female",
+      "Speaker 4": "male",
+      "Speaker 5": "female"
+    },
+    "script": [
+      {
+        "speaker": "Speaker 1",
+        "text": "I'd been on days for years on a busy surgical ward, and I loved it, but once the twins came along, the childcare costs were just crazy. My partner works nine to five, so going onto nights meant one of us was always at home with them. It's not something I'd have chosen otherwise, believe me. The money's a bit better, but that wasn't really the point."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "If someone asked me for one tip, I'd say don't pretend you're fine when you're not. For the whole first year I kept telling my partner everything was great, and meanwhile I was snapping at everyone. Once I admitted I was struggling, we worked out a routine that actually suited both of us."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "When you join the force here, you go straight onto response, and response means nights, one week in four. There's no opting out, that's just the deal. Some of my mates assumed I'd asked for it because I've always been a bit of a night owl, but no."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "Honestly, the thing I wish someone had told me is about food. On my first few runs of nights I lived on crisps and energy drinks from the petrol station, and I felt dreadful. Now I take a proper cooked meal in with me and I eat it at the same time every shift, whatever's going on. Sounds trivial, but it's made all the difference."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "I work in the control room of a chemical plant, so it's twelve-hour shifts, days and nights. I'll be straight with you: I moved from the lab to the control room for the shift allowance. We'd just bought a house, and the extra thirty per cent made the mortgage manageable."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "As for advice, the people who struggle are the ones who treat sleep as something they'll fit in around everything else. I put my sleep in the family calendar, blackout blinds, phone off, and everyone knows not to disturb me unless the house is on fire. My colleagues laugh, but I'm the one who isn't exhausted."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "I'm on the night desk at a hotel near the airport. I took it on when I started my engineering degree, because things go pretty quiet after about two, and the manager's happy for me to have my books out as long as I deal with any guests. Turned out I could get through a whole chapter between check-ins."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "What I'd say to anyone new is: don't be greedy. In my first month I said yes to every extra shift going, because the money was good and I wanted to impress the boss, and I ended up ill and failed an exam. Get used to the pattern first."
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "I edit the overnight news bulletins for a radio station. During the day the newsroom's chaos, phones ringing, people shouting across desks, and I found I just couldn't concentrate. On nights there are three of us, it's calm, and I can actually think. I asked to switch, and nobody else wanted it, so that was easy."
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "The thing that's helped me most is getting outside as soon as I wake up in the afternoon, even just a walk round the block. Without that bit of daylight, I'd feel like I was living in a cave. Coffee doesn't do it, believe me, I've tried."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-07-q1",
+        "kind": "choice",
+        "prompt": "Speaker 1: why did they start working nights?",
+        "options": [
+          "to earn a higher income",
+          "to look after their family during the day",
+          "it was a compulsory part of the job",
+          "to be able to study at the same time",
+          "to avoid commuting in heavy traffic",
+          "to work in a calmer environment",
+          "a health problem made day work difficult",
+          "to impress a manager"
+        ],
+        "answer": 1,
+        "tag": "paraphrase",
+        "explanation": "Una de las dos personas debía estar en casa: \"going onto nights meant one of us was always at home with them\". El dinero \"wasn't really the point\"."
+      },
+      {
+        "id": "ls-x1-07-q2",
+        "kind": "choice",
+        "prompt": "Speaker 2: why did they start working nights?",
+        "options": [
+          "to earn a higher income",
+          "to look after their family during the day",
+          "it was a compulsory part of the job",
+          "to be able to study at the same time",
+          "to avoid commuting in heavy traffic",
+          "to work in a calmer environment",
+          "a health problem made day work difficult",
+          "to impress a manager"
+        ],
+        "answer": 2,
+        "tag": "paraphrase",
+        "explanation": "Es obligatorio: \"There's no opting out, that's just the deal.\" No lo pidió por ser \"a night owl\"."
+      },
+      {
+        "id": "ls-x1-07-q3",
+        "kind": "choice",
+        "prompt": "Speaker 3: why did they start working nights?",
+        "options": [
+          "to earn a higher income",
+          "to look after their family during the day",
+          "it was a compulsory part of the job",
+          "to be able to study at the same time",
+          "to avoid commuting in heavy traffic",
+          "to work in a calmer environment",
+          "a health problem made day work difficult",
+          "to impress a manager"
+        ],
+        "answer": 0,
+        "tag": "paraphrase",
+        "explanation": "\"I moved from the lab to the control room for the shift allowance... the extra thirty per cent made the mortgage manageable.\""
+      },
+      {
+        "id": "ls-x1-07-q4",
+        "kind": "choice",
+        "prompt": "Speaker 4: why did they start working nights?",
+        "options": [
+          "to earn a higher income",
+          "to look after their family during the day",
+          "it was a compulsory part of the job",
+          "to be able to study at the same time",
+          "to avoid commuting in heavy traffic",
+          "to work in a calmer environment",
+          "a health problem made day work difficult",
+          "to impress a manager"
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "\"I took it on when I started my engineering degree... I could get through a whole chapter between check-ins.\" Lo de impresionar al jefe se refiere a los turnos extra, no a por qué empezó."
+      },
+      {
+        "id": "ls-x1-07-q5",
+        "kind": "choice",
+        "prompt": "Speaker 5: why did they start working nights?",
+        "options": [
+          "to earn a higher income",
+          "to look after their family during the day",
+          "it was a compulsory part of the job",
+          "to be able to study at the same time",
+          "to avoid commuting in heavy traffic",
+          "to work in a calmer environment",
+          "a health problem made day work difficult",
+          "to impress a manager"
+        ],
+        "answer": 5,
+        "tag": "paraphrase",
+        "explanation": "\"During the day the newsroom's chaos... On nights... it's calm, and I can actually think.\""
+      },
+      {
+        "id": "ls-x1-07-q6",
+        "kind": "choice",
+        "prompt": "Speaker 1: what is their main advice?",
+        "options": [
+          "Treat your sleep as a fixed commitment.",
+          "Don't rely on caffeine to keep going.",
+          "Make an effort to see friends who work days.",
+          "Eat proper meals at regular times.",
+          "Get some daylight soon after waking up.",
+          "Don't accept extra shifts too soon.",
+          "Find a hobby you can do at unusual hours.",
+          "Be honest with the people you live with about how you feel."
+        ],
+        "answer": 7,
+        "tag": "paraphrase",
+        "explanation": "\"don't pretend you're fine when you're not... Once I admitted I was struggling\" a su pareja."
+      },
+      {
+        "id": "ls-x1-07-q7",
+        "kind": "choice",
+        "prompt": "Speaker 2: what is their main advice?",
+        "options": [
+          "Treat your sleep as a fixed commitment.",
+          "Don't rely on caffeine to keep going.",
+          "Make an effort to see friends who work days.",
+          "Eat proper meals at regular times.",
+          "Get some daylight soon after waking up.",
+          "Don't accept extra shifts too soon.",
+          "Find a hobby you can do at unusual hours.",
+          "Be honest with the people you live with about how you feel."
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "\"I take a proper cooked meal in with me and I eat it at the same time every shift\". Las bebidas energéticas son lo que hacía mal al principio."
+      },
+      {
+        "id": "ls-x1-07-q8",
+        "kind": "choice",
+        "prompt": "Speaker 3: what is their main advice?",
+        "options": [
+          "Treat your sleep as a fixed commitment.",
+          "Don't rely on caffeine to keep going.",
+          "Make an effort to see friends who work days.",
+          "Eat proper meals at regular times.",
+          "Get some daylight soon after waking up.",
+          "Don't accept extra shifts too soon.",
+          "Find a hobby you can do at unusual hours.",
+          "Be honest with the people you live with about how you feel."
+        ],
+        "answer": 0,
+        "tag": "paraphrase",
+        "explanation": "\"I put my sleep in the family calendar... everyone knows not to disturb me\"."
+      },
+      {
+        "id": "ls-x1-07-q9",
+        "kind": "choice",
+        "prompt": "Speaker 4: what is their main advice?",
+        "options": [
+          "Treat your sleep as a fixed commitment.",
+          "Don't rely on caffeine to keep going.",
+          "Make an effort to see friends who work days.",
+          "Eat proper meals at regular times.",
+          "Get some daylight soon after waking up.",
+          "Don't accept extra shifts too soon.",
+          "Find a hobby you can do at unusual hours.",
+          "Be honest with the people you live with about how you feel."
+        ],
+        "answer": 5,
+        "tag": "paraphrase",
+        "explanation": "\"don't be greedy... I said yes to every extra shift going... Get used to the pattern first.\""
+      },
+      {
+        "id": "ls-x1-07-q10",
+        "kind": "choice",
+        "prompt": "Speaker 5: what is their main advice?",
+        "options": [
+          "Treat your sleep as a fixed commitment.",
+          "Don't rely on caffeine to keep going.",
+          "Make an effort to see friends who work days.",
+          "Eat proper meals at regular times.",
+          "Get some daylight soon after waking up.",
+          "Don't accept extra shifts too soon.",
+          "Find a hobby you can do at unusual hours.",
+          "Be honest with the people you live with about how you feel."
+        ],
+        "answer": 4,
+        "tag": "paraphrase",
+        "explanation": "\"getting outside as soon as I wake up... Without that bit of daylight\". El café \"doesn't do it\", pero no es su consejo principal."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-08",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Briefing sobre una notificación roja de Interpol",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Briefing: Interpol Red Notice",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Inspector": "male",
+      "Officer": "female"
+    },
+    "script": [
+      {
+        "speaker": "Inspector",
+        "text": "Right, everyone, let's make a start. This morning we received an Interpol Red Notice relating to a foreign national who may be in our area. For those of you who are newer to the unit, a Red Notice is a request to locate and provisionally arrest a person pending extradition. It is not an international arrest warrant in itself. Any arrest is made under our own national law, and it's the judicial authority here that will decide on extradition."
+      },
+      {
+        "speaker": "Inspector",
+        "text": "The subject is a forty-two-year-old male wanted by another member country for large-scale investment fraud. He allegedly ran a fake cryptocurrency scheme that cost several thousand investors over thirty million euros. He's not considered violent, and there's no record of him carrying weapons. However, he's described as highly intelligent and extremely persuasive, so expect him to try to talk his way out of things."
+      },
+      {
+        "speaker": "Inspector",
+        "text": "So why do we think he's here? Last Thursday, a rental car booked with a credit card linked to one of his known aliases was returned at the airport. The rental agreement gave a local address, which turned out to be a holiday apartment. The owner says the tenant paid three months in advance, in cash."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Sir, do we know if he's travelling alone?"
+      },
+      {
+        "speaker": "Inspector",
+        "text": "Good question. According to the requesting country, he may be accompanied by a woman in her thirties, possibly his partner. She is not the subject of any notice, so she is not to be detained unless she commits an offence. Is that clear?"
+      },
+      {
+        "speaker": "Officer",
+        "text": "Understood. And what's the plan for the apartment?"
+      },
+      {
+        "speaker": "Inspector",
+        "text": "We're not going in today. First, we need to confirm he's actually there. Team Two will set up discreet observation from this afternoon. Nobody approaches the building. If he's spotted, you report to me directly, and the arrest will be coordinated with the duty judge. Bear in mind he speaks Spanish fluently, so don't assume he can't understand what you say in front of him."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Will there be an interpreter for the arrest?"
+      },
+      {
+        "speaker": "Inspector",
+        "text": "Yes, one has been booked. He must be informed of his rights in a language he fully understands, even if his Spanish is good. We do this by the book. Any questions? No? Then Team Two, see me after this for the observation rota."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-08-q1",
+        "kind": "choice",
+        "prompt": "What does the inspector explain about a Red Notice?",
+        "options": [
+          "It allows officers from the requesting country to make the arrest.",
+          "It is a request to locate and provisionally arrest someone, not a warrant.",
+          "It leads automatically to extradition.",
+          "It is only issued for violent offences."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"a Red Notice is a request to locate and provisionally arrest a person pending extradition. It is not an international arrest warrant in itself.\" La extradición la decide el juez nacional."
+      },
+      {
+        "id": "ls-x1-08-q2",
+        "kind": "choice",
+        "prompt": "How is the subject described?",
+        "options": [
+          "as potentially armed and dangerous",
+          "as unable to speak the local language",
+          "as very good at persuading people",
+          "as having no previous record of fraud"
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"he's described as highly intelligent and extremely persuasive\". No es violento y \"speaks Spanish fluently\"."
+      },
+      {
+        "id": "ls-x1-08-q3",
+        "kind": "choice",
+        "prompt": "What led the police to believe the subject might be in the area?",
+        "options": [
+          "A car hired using a card linked to one of his aliases.",
+          "A sighting reported by airport staff.",
+          "A tip-off from the owner of an apartment.",
+          "A bank transfer made in his real name."
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "\"a rental car booked with a credit card linked to one of his known aliases was returned at the airport.\" El propietario solo aportó información después."
+      },
+      {
+        "id": "ls-x1-08-q4",
+        "kind": "choice",
+        "prompt": "What instruction does the inspector give about the woman who may be with him?",
+        "options": [
+          "She should be detained and questioned about his whereabouts.",
+          "She is the subject of a separate notice.",
+          "She should be approached to confirm his location.",
+          "She may only be detained if she commits an offence."
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"She is not the subject of any notice, so she is not to be detained unless she commits an offence.\""
+      },
+      {
+        "id": "ls-x1-08-q5",
+        "kind": "choice",
+        "prompt": "What is the plan for today?",
+        "options": [
+          "to enter the apartment and make the arrest",
+          "to keep the building under discreet observation",
+          "to interview the owner of the apartment",
+          "to request a search warrant from the duty judge"
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"We're not going in today... Team Two will set up discreet observation from this afternoon. Nobody approaches the building.\""
+      },
+      {
+        "id": "ls-x1-08-q6",
+        "kind": "choice",
+        "prompt": "Why will an interpreter be present at the arrest?",
+        "options": [
+          "because the subject does not speak Spanish",
+          "because the requesting country insists on it",
+          "to translate any documents found in the apartment",
+          "to ensure he understands his rights fully"
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"He must be informed of his rights in a language he fully understands, even if his Spanish is good.\" A contradice \"he speaks Spanish fluently\"."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-09",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Relevo de turno en una central de biomasa",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Shift handover at a biomass power plant",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Elena": "female",
+      "Tom": "male"
+    },
+    "script": [
+      {
+        "speaker": "Elena",
+        "text": "Morning, Tom. Right, let's go through the handover. Overall it's been a fairly quiet night, but there are three things you need to know about."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Go on."
+      },
+      {
+        "speaker": "Elena",
+        "text": "First, boiler feed pump B. At about two a.m. we got a high-vibration alarm on the motor bearing. We switched over to pump A, which is running fine, and B is now isolated and locked out. The permit's in the system for maintenance to look at it this morning, but they won't be in until eight."
+      },
+      {
+        "speaker": "Tom",
+        "text": "So we've got no standby on feedwater at the moment."
+      },
+      {
+        "speaker": "Elena",
+        "text": "Correct. That's the main risk on your shift. If A trips, we lose the boiler, so keep a close eye on it. I've lowered the alarm threshold on A's bearing temperature so you'll get an early warning."
+      },
+      {
+        "speaker": "Tom",
+        "text": "OK. What's the second thing?"
+      },
+      {
+        "speaker": "Elena",
+        "text": "Fuel. The delivery that was due yesterday afternoon came in six hours late, and the wood chip was wet, around forty-five per cent moisture against our usual thirty-five. We've been blending it with drier stock from silo two, but that's now down to about a quarter full. If the next delivery's wet as well, you might have to reduce load."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Have we told the supplier?"
+      },
+      {
+        "speaker": "Elena",
+        "text": "I've emailed them and copied in the fuel manager, but nobody's replied yet. You'll want to chase that up."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Right. And the third?"
+      },
+      {
+        "speaker": "Elena",
+        "text": "The grid operator rang at four. They're asking us to be ready to provide extra output between six and nine this evening, because there's a forecast drop in wind generation. I've told them we'll confirm by midday, once we know what's happening with the pump."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Makes sense. Anything else? Injuries, near misses?"
+      },
+      {
+        "speaker": "Elena",
+        "text": "One near miss. A contractor was found walking through the turbine hall without hearing protection. He wasn't working there, just passing through, but I've reported it and had a word with his supervisor. That's everything. The log's up to date."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Great, thanks. I'll sign for the handover."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-09-q1",
+        "kind": "choice",
+        "prompt": "What happened to feed pump B during the night?",
+        "options": [
+          "It tripped because of a high bearing temperature.",
+          "It was taken out of service after a vibration alarm.",
+          "It was repaired by the maintenance team.",
+          "It failed to start when pump A was stopped."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"we got a high-vibration alarm on the motor bearing... B is now isolated and locked out.\" Mantenimiento no llega hasta las ocho."
+      },
+      {
+        "id": "ls-x1-09-q2",
+        "kind": "choice",
+        "prompt": "What does Elena consider the main risk for Tom's shift?",
+        "options": [
+          "Maintenance may arrive later than planned.",
+          "Pump A's bearing has already overheated.",
+          "There is no backup feedwater pump available.",
+          "The permit for the repair has not been issued."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "Tom: \"we've got no standby on feedwater\"; Elena: \"Correct. That's the main risk on your shift.\" Bajó el umbral de alarma de A como precaución, no porque se haya sobrecalentado."
+      },
+      {
+        "id": "ls-x1-09-q3",
+        "kind": "choice",
+        "prompt": "What was the problem with the fuel delivery?",
+        "options": [
+          "It was unloaded into the wrong silo.",
+          "It was rejected by the fuel manager.",
+          "Only a quarter of the order arrived.",
+          "It arrived late and was wetter than usual."
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"came in six hours late, and the wood chip was wet, around forty-five per cent moisture against our usual thirty-five.\" \"A quarter full\" se refiere al silo dos."
+      },
+      {
+        "id": "ls-x1-09-q4",
+        "kind": "choice",
+        "prompt": "What might Tom have to do if the next delivery is also wet?",
+        "options": [
+          "run the plant at a lower output",
+          "switch to fuel from a different supplier",
+          "cancel the grid operator's request",
+          "stop blending fuel from silo two"
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "\"If the next delivery's wet as well, you might have to reduce load.\" Reducir la carga = generar menos potencia."
+      },
+      {
+        "id": "ls-x1-09-q5",
+        "kind": "choice",
+        "prompt": "Why did the grid operator call?",
+        "options": [
+          "to report a fault on the transmission network",
+          "to ask the plant to be ready to increase output in the evening",
+          "to ask the plant to cut output because of high wind generation",
+          "to confirm the plant's schedule for midday"
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"asking us to be ready to provide extra output between six and nine this evening, because there's a forecast drop in wind generation.\" Es una bajada de eólica, no un exceso."
+      },
+      {
+        "id": "ls-x1-09-q6",
+        "kind": "choice",
+        "prompt": "What was the near miss?",
+        "options": [
+          "A contractor was slightly injured in the turbine hall.",
+          "A contractor started work without a permit.",
+          "A contractor was in a noisy area without ear protection.",
+          "An operator removed his hearing protection while working."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"A contractor was found walking through the turbine hall without hearing protection. He wasn't working there, just passing through\"."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-x1-10",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Comunicación por radio en un accidente de tráfico",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Radio traffic: collision on the N-340",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Control": "female",
+      "Patrol": "male"
+    },
+    "script": [
+      {
+        "speaker": "Patrol",
+        "text": "Control, this is Tango Two-Four, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Tango Two-Four, Control, go ahead, over."
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Control, we're on scene at the collision on the N-340, kilometre point one-five-two, northbound. Two vehicles involved: a white articulated lorry and a dark blue saloon car. The car has left the road and is on its side in the ditch. Request one ambulance, possibly two, and the fire service for extraction, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Copy, Tango Two-Four. Ambulance and fire service requested. How many casualties, over?"
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Lorry driver is out of the cab, walking and talking, minor cuts only. Car has two occupants. Driver is conscious but trapped by the legs. Front passenger is unconscious, breathing. I say again, front passenger unconscious, breathing, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Roger. Two casualties in the car, one unconscious. Medical units estimate twelve minutes. Any hazards on scene, over?"
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Affirmative. Diesel leaking from the lorry's fuel tank onto the carriageway. We've closed the northbound lane and set out cones about two hundred metres back. Traffic's being filtered past on the hard shoulder. Request a second unit to manage traffic at the next junction, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Copy. Tango Two-Six is en route to junction one-five-five, ETA eight minutes. Pass me the registrations, over."
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Lorry: four-three-seven-one, Hotel Kilo Lima. Trailer is foreign-registered, I'll pass that later. Car: eight-zero-two-two, Bravo Delta Romeo, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Read back: lorry four-three-seven-one Hotel Kilo Lima, car eight-zero-two-two Bravo Delta Romeo, over."
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Correct, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Tango Two-Four, be advised, the car comes back as reported stolen yesterday in another province. Approach with caution, over."
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Copy that, stolen. Occupants are in no condition to go anywhere, but we'll secure the vehicle and preserve it for forensic examination. Will advise once casualties have been extracted, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Copy. Also be advised, a recovery truck has been requested for both vehicles, ETA forty minutes. Do you require the environmental team for the spill, over?"
+      },
+      {
+        "speaker": "Patrol",
+        "text": "Affirmative. The diesel is starting to reach the drain on the verge. Request environmental team and absorbent material as soon as possible, over."
+      },
+      {
+        "speaker": "Control",
+        "text": "Roger, Tango Two-Four, environmental team requested. Control out."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-x1-10-q1",
+        "kind": "choice",
+        "prompt": "Where is the car after the collision?",
+        "options": [
+          "blocking both northbound lanes",
+          "on the hard shoulder",
+          "underneath the lorry's trailer",
+          "on its side off the road"
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"The car has left the road and is on its side in the ditch.\""
+      },
+      {
+        "id": "ls-x1-10-q2",
+        "kind": "choice",
+        "prompt": "What is the condition of the front passenger of the car?",
+        "options": [
+          "conscious but trapped by the legs",
+          "unconscious but breathing",
+          "walking, with minor cuts",
+          "not breathing"
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"Front passenger is unconscious, breathing. I say again...\" A describe al conductor del coche y C al camionero."
+      },
+      {
+        "id": "ls-x1-10-q3",
+        "kind": "choice",
+        "prompt": "What hazard does the patrol report?",
+        "options": [
+          "fuel spilling onto the road",
+          "a fire in the lorry's cab",
+          "part of the load on the carriageway",
+          "poor visibility on the bend"
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "\"Diesel leaking from the lorry's fuel tank onto the carriageway.\""
+      },
+      {
+        "id": "ls-x1-10-q4",
+        "kind": "choice",
+        "prompt": "What will Tango Two-Six do?",
+        "options": [
+          "escort the ambulance to the scene",
+          "check the trailer's foreign registration",
+          "manage traffic at the next junction",
+          "take statements from the drivers"
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "La patrulla pide \"a second unit to manage traffic at the next junction\" y Control responde \"Tango Two-Six is en route to junction one-five-five\"."
+      },
+      {
+        "id": "ls-x1-10-q5",
+        "kind": "choice",
+        "prompt": "What is the car's registration?",
+        "options": [
+          "4371 HKL",
+          "8022 BDR",
+          "8022 BTR",
+          "8202 BDR"
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"Car: eight-zero-two-two, Bravo Delta Romeo\" = 8022 BDR. 4371 HKL es el camión."
+      },
+      {
+        "id": "ls-x1-10-q6",
+        "kind": "choice",
+        "prompt": "What does the patrol intend to do after learning the car is stolen?",
+        "options": [
+          "arrest the occupants at the scene immediately",
+          "request armed backup before approaching",
+          "search the lorry for stolen goods",
+          "secure the car and preserve it for forensic examination"
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"we'll secure the vehicle and preserve it for forensic examination.\" Los ocupantes \"are in no condition to go anywhere\"."
+      }
+    ]
+  }
+]
