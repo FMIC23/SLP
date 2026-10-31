@@ -1,0 +1,1776 @@
+[
+  {
+    "meta": {
+      "id": "sp-interview-01",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Home and daily life",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Where you live and your routine",
+    "part": "interview",
+    "prompt": "The examiner asks you some questions about yourself. Answer each question in 20-30 seconds: give a direct answer, then extend it with a reason, an example or a contrast between past and present.",
+    "points": [
+      "Where do you live, and what do you like most about the area?",
+      "How has your town or city changed over the last ten years?",
+      "What does a typical weekday look like for you at the moment?",
+      "Do you prefer to plan your free time or be spontaneous? Why?",
+      "If you could live anywhere else in the world for a year, where would it be?",
+      "What is something you have recently started doing to look after your health?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "What I like most about it is...",
+      "It has changed beyond recognition since...",
+      "These days I tend to...",
+      "I'd say I'm more of a planner than...",
+      "I've always been drawn to...",
+      "Given the choice, I'd probably...",
+      "To be honest, it depends on...",
+      "I've recently got into..."
+    ],
+    "followUp": [
+      "Would you say your area is a good place for young people? Why (not)?",
+      "What would you change about your daily routine if you could?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-interview-02",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Learning and languages",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Learning English and other skills",
+    "part": "interview",
+    "prompt": "The examiner asks you some questions about yourself. Answer each question in 20-30 seconds: give a direct answer, then extend it with a reason, an example or a contrast between past and present.",
+    "points": [
+      "How long have you been learning English, and why are you learning it now?",
+      "What do you find most challenging about speaking English?",
+      "Which method of learning has worked best for you so far?",
+      "Do you think it is easier to learn a language as a child or as an adult?",
+      "What skill, apart from languages, would you like to learn in the future?",
+      "How do you usually keep yourself motivated when studying for an exam?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "I've been studying it on and off since...",
+      "What I struggle with most is...",
+      "I find it much easier to... than to...",
+      "It's made a huge difference to...",
+      "There's a lot to be said for...",
+      "I've always wanted to have a go at...",
+      "What keeps me going is...",
+      "I'm determined to..."
+    ],
+    "followUp": [
+      "Do you think technology will make learning languages unnecessary?",
+      "Who was the best teacher you ever had and why?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-interview-03",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Work and technology",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Your studies, work and technology",
+    "part": "interview",
+    "prompt": "The examiner asks you some questions about yourself. Answer each question in 20-30 seconds: give a direct answer, then extend it with a reason, an example or a contrast between past and present.",
+    "points": [
+      "What did you study, and why did you choose that field?",
+      "What do you enjoy most about working in engineering or industry?",
+      "Can you describe a project or task you are particularly proud of?",
+      "How has technology changed the way people work in your sector?",
+      "Would you prefer to work in an office, on site, or a mixture of both?",
+      "Where do you see yourself professionally in five years' time?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "I went into engineering because...",
+      "What I find really rewarding is...",
+      "One thing I'm particularly proud of is...",
+      "It has completely transformed the way we...",
+      "I'd rather... than...",
+      "Ideally, I'd like to be...",
+      "The hands-on side of the job...",
+      "In the long run, I hope to..."
+    ],
+    "followUp": [
+      "Is there any job in your sector that you think will disappear soon?",
+      "What advice would you give to someone starting an engineering degree?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-interview-04",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Community and safety",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Safety and your community",
+    "part": "interview",
+    "prompt": "The examiner asks you some questions about yourself. Answer each question in 20-30 seconds: give a direct answer, then extend it with a reason, an example or a contrast between past and present.",
+    "points": [
+      "Do you feel safe walking around your town at night? Why (not)?",
+      "What kinds of problems does your neighbourhood have, if any?",
+      "How do people in your area usually get to know their neighbours?",
+      "Have you ever had to help a stranger in a difficult situation?",
+      "What do you think makes a good police officer?",
+      "How do you usually find out about local news?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "Generally speaking, it's a fairly safe place, although...",
+      "The main issue round here is...",
+      "People tend to keep themselves to themselves.",
+      "I happened to be there when...",
+      "Above all, a good officer needs to be...",
+      "I mostly keep up with the news through...",
+      "I wouldn't say it's a problem as such, but...",
+      "Looking back, I'm glad I..."
+    ],
+    "followUp": [
+      "Do you think social media makes people feel more or less safe?",
+      "Would you like to work in public service? Why (not)?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-interview-05",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Travel and free time",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Travel, holidays and free time",
+    "part": "interview",
+    "prompt": "The examiner asks you some questions about yourself. Answer each question in 20-30 seconds: give a direct answer, then extend it with a reason, an example or a contrast between past and present.",
+    "points": [
+      "What do you usually do to relax after a long day?",
+      "Tell me about a memorable trip you have taken.",
+      "Do you prefer travelling alone or with other people?",
+      "How important is it for you to disconnect from technology on holiday?",
+      "Is there a hobby you used to have but have given up? Why?",
+      "What kind of trip would you like to take in the future?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "Nothing beats... after a long day.",
+      "One trip that really stands out is...",
+      "It was a real eye-opener because...",
+      "The great thing about travelling alone is...",
+      "I find it hard to switch off from...",
+      "I used to be really into..., but I gave it up when...",
+      "It's been on my bucket list for ages.",
+      "I'm not much of a..."
+    ],
+    "followUp": [
+      "Do you think tourism does more good than harm to the places people visit?",
+      "How do you think holidays will change in the future?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-interview-06",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Career and public service",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Career goals and public service",
+    "part": "interview",
+    "prompt": "The examiner asks you some questions about yourself. Answer each question in 20-30 seconds: give a direct answer, then extend it with a reason, an example or a contrast between past and present.",
+    "points": [
+      "Why are you interested in a career in public service or law enforcement?",
+      "What qualities do you think you could bring to a team?",
+      "How do you usually handle stressful situations?",
+      "What kind of training do you think is most important for a new officer?",
+      "Have you ever worked or studied in an international environment?",
+      "What would you find most difficult about working shifts?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "What appeals to me most is the chance to...",
+      "I'd like to think I'm...",
+      "When things get stressful, I try to...",
+      "I'd single out... as particularly important.",
+      "It gave me a taste of what it's like to...",
+      "I imagine the hardest part would be...",
+      "I've always had a strong sense of...",
+      "I'm used to working under pressure because..."
+    ],
+    "followUp": [
+      "How do you think the role of the police will change in the next twenty years?",
+      "Would you be willing to take part in an international mission? Why (not)?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-01",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Teamwork",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "People working together",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say why the people might be working together in these situations and how important good communication is for each group. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: a group of surgeons and nurses around an operating table, focused, wearing masks.",
+      "Picture B: a crew of volunteers in high-visibility vests filling sandbags beside a flooded river.",
+      "Picture C: four students sitting at a café table with laptops, pointing at a screen and laughing.",
+      "Question 1: Why might the people be working together?",
+      "Question 2: How important is good communication for each group?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "Both pictures show people..., but whereas in A..., in B...",
+      "They appear to be...",
+      "It looks as if they're trying to...",
+      "I'd imagine that...",
+      "There's a sense of urgency in...",
+      "By contrast, the atmosphere in... seems far more relaxed.",
+      "Communication would be absolutely vital here because...",
+      "A breakdown in communication could have serious consequences.",
+      "Of the two, I'd say..."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which group do you think is under the most pressure?",
+      "Extra: Do you prefer working alone or in a team?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-02",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Learning new skills",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Learning something new",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say what the people might find challenging about learning in these ways and how they might feel. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: an elderly man being shown how to use a smartphone by his granddaughter.",
+      "Picture B: an apprentice welder practising on a metal plate under the supervision of an instructor.",
+      "Picture C: a young woman alone at home following an online yoga class on a tablet.",
+      "Question 1: What might the people find challenging about learning in these ways?",
+      "Question 2: How might they be feeling?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "In both pictures someone is acquiring a new skill, but...",
+      "He seems slightly bewildered by...",
+      "She might be finding it hard to...",
+      "It must be quite daunting to...",
+      "The advantage of having someone beside you is...",
+      "Without any feedback, it's easy to...",
+      "I get the impression that...",
+      "He's probably feeling a mixture of... and..."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which way of learning would you prefer?",
+      "Extra: Is it ever too late to learn something new?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-03",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Working conditions",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Demanding working environments",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say what risks the workers might face and what could be done to make their jobs safer. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: a miner operating a drilling rig in a dimly lit underground tunnel.",
+      "Picture B: a technician in a harness inspecting a wind turbine blade at height.",
+      "Picture C: an operator in protective clothing monitoring molten metal being poured in a steelworks.",
+      "Question 1: What risks might the workers face?",
+      "Question 2: What could be done to make their jobs safer?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "Both of these jobs are physically demanding, but the hazards are quite different.",
+      "He could be exposed to dust, noise and the risk of rockfall.",
+      "Working at height obviously involves the risk of a fall.",
+      "Presumably, he has received specific training in...",
+      "Proper ventilation / fall arrest systems / regular gas monitoring would...",
+      "One way of minimising the risk would be to...",
+      "Automation could potentially remove workers from...",
+      "Neither job is one I'd take on lightly."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which job do you think requires the most training?",
+      "Extra: Would you be prepared to do any of these jobs? Why (not)?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-04",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Energy generation",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Ways of generating energy",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say what the advantages of each way of producing energy might be and why some people might oppose them. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: a large solar photovoltaic plant covering hills, with a substation in the foreground.",
+      "Picture B: the cooling towers of a nuclear power station releasing steam beside a river.",
+      "Picture C: a small hydroelectric dam in a mountain valley with a reservoir behind it.",
+      "Question 1: What might the advantages of each way of producing energy be?",
+      "Question 2: Why might some people oppose them?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "A clear advantage of... is that it's low-carbon / dispatchable.",
+      "Unlike solar, nuclear can generate power round the clock.",
+      "On the downside, it takes up a vast amount of land.",
+      "Local residents might object to... on the grounds that...",
+      "There are concerns over waste disposal and safety.",
+      "Its visual impact on the landscape...",
+      "It depends to a large extent on weather conditions.",
+      "Weighing it up, I'd say..."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which of these would you prefer to have near your home?",
+      "Extra: Should countries rely on a single energy source?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-05",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Police and the public",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Police officers interacting with the public",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say what the officers might be trying to achieve and how the members of the public might be feeling. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: an officer kneeling to talk to a lost child in a busy shopping centre.",
+      "Picture B: officers in riot gear standing in a line facing a crowd of protesters.",
+      "Picture C: a traffic officer explaining something to a driver who has been stopped at a checkpoint.",
+      "Question 1: What might the officers be trying to achieve?",
+      "Question 2: How might the members of the public be feeling?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "In A, the officer is clearly trying to reassure...",
+      "The situation in B looks considerably more tense.",
+      "Their main aim is probably to keep order while...",
+      "The child may well be frightened, but...",
+      "The protesters might feel that...",
+      "He looks rather irritated, perhaps because...",
+      "De-escalation would be key in this situation.",
+      "Body language plays a huge part in..."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which of these situations requires the most skill from the officers?",
+      "Extra: How can the police build trust with young people?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-06",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Security in public places",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Security measures in different places",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say why security might be necessary in these places and how the people might feel about these measures. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: passengers placing trays with bags on a conveyor at an airport security checkpoint.",
+      "Picture B: a guard checking bags at the entrance to a football stadium on match day.",
+      "Picture C: a CCTV operator watching dozens of screens in a city control room.",
+      "Question 1: Why might security be necessary in these places?",
+      "Question 2: How might people feel about these measures?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "Both pictures relate to the prevention of...",
+      "Large crowds are a potential target for...",
+      "Most passengers seem to accept it as a necessary evil.",
+      "Some people might feel that their privacy is being invaded.",
+      "It may give people a sense of reassurance.",
+      "On the other hand, it can be rather time-consuming and intrusive.",
+      "It's a question of striking a balance between... and...",
+      "I'd imagine the operator has to stay alert for hours on end."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which of these measures do you think is the most effective?",
+      "Extra: Are we becoming too dependent on surveillance cameras?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-07",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Pressure and stress",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "People under pressure",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say why the people might be under pressure and how they could cope with it. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: a student surrounded by books and notes late at night before an exam.",
+      "Picture B: an air traffic controller wearing a headset in front of radar screens.",
+      "Picture C: a chef shouting orders in a crowded restaurant kitchen during service.",
+      "Question 1: Why might the people be under pressure?",
+      "Question 2: How could they cope with it?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "They all seem to be working against the clock.",
+      "The stakes are much higher for... because...",
+      "A single mistake could have catastrophic consequences.",
+      "He looks utterly exhausted.",
+      "Taking regular breaks might help him to...",
+      "Good planning would go a long way towards...",
+      "Some people actually thrive under pressure.",
+      "The pressure in A is self-imposed, whereas in C..."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which person do you think has the most stressful situation?",
+      "Extra: Is some stress good for us?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-long-turn-08",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Inspection and maintenance",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Inspection and maintenance work",
+    "part": "long-turn",
+    "prompt": "Here are three pictures. Compare TWO of them and say why this kind of work is important and what skills the workers need. You have about one minute. Structure: (1) say which two you have chosen, (2) compare/contrast them (similarities, differences), (3) speculate to answer both questions, (4) round off.",
+    "points": [
+      "Picture A: an engineer using a drone to inspect a high-voltage transmission tower.",
+      "Picture B: two mechanics checking the engine of an aircraft in a hangar with a checklist.",
+      "Picture C: a technician using an ultrasonic device to check welds on a pipeline in a desert.",
+      "Question 1: Why is this kind of work important?",
+      "Question 2: What skills do the workers need?"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 60,
+    "usefulLanguage": [
+      "Preventive maintenance helps to avoid costly breakdowns.",
+      "If a defect went unnoticed, it could lead to...",
+      "A meticulous approach is essential.",
+      "He needs to be familiar with non-destructive testing techniques.",
+      "Using a drone means nobody has to climb the tower.",
+      "They are working through a checklist, which suggests...",
+      "Attention to detail is arguably the most important skill.",
+      "Both jobs require a combination of technical knowledge and..."
+    ],
+    "followUp": [
+      "Partner question (30 s): Which of these jobs would you find most interesting?",
+      "Extra: Will robots and drones replace inspectors completely?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-collaborative-01",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Urban planning",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Improving a town centre",
+    "part": "collaborative",
+    "prompt": "Talk to your partner (or record yourself playing both roles) for about two minutes about the central question, using the prompts. Do not rush to agree: explore each prompt, invite your partner's opinion, agree or disagree with reasons. Then you will have one minute to reach a decision.",
+    "points": [
+      "Central question: How could these changes make a town centre a better place to live?",
+      "Prompt 1: pedestrianising the main streets",
+      "Prompt 2: creating more green spaces",
+      "Prompt 3: offering cheaper rents to local shops",
+      "Prompt 4: improving public transport links",
+      "Prompt 5: organising regular cultural events"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "Shall we start with...?",
+      "What's your take on...?",
+      "I see your point, but don't you think...?",
+      "That's a fair point, although...",
+      "Another thing to bear in mind is...",
+      "Let's move on to...",
+      "I'm not entirely convinced that...",
+      "Going back to what you said about...",
+      "So, are we agreed that...?"
+    ],
+    "followUp": [
+      "Decision (1 min): Which TWO changes would have the greatest impact on residents' quality of life?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-collaborative-02",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Workplace safety",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Making a factory safer",
+    "part": "collaborative",
+    "prompt": "Talk to your partner (or record yourself playing both roles) for about two minutes about the central question, using the prompts. Do not rush to agree: explore each prompt, invite your partner's opinion, agree or disagree with reasons. Then you will have one minute to reach a decision.",
+    "points": [
+      "Central question: How effective might these measures be in reducing accidents in a factory?",
+      "Prompt 1: more frequent safety training",
+      "Prompt 2: installing machine guards and sensors",
+      "Prompt 3: rewarding teams with no accidents",
+      "Prompt 4: encouraging workers to report near misses",
+      "Prompt 5: stricter penalties for breaking safety rules"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "Shall we kick off with...?",
+      "I'd say that one is crucial because...",
+      "The trouble with... is that it might encourage people to...",
+      "Engineering controls are generally more reliable than...",
+      "Do you think people would actually...?",
+      "That might backfire if...",
+      "I couldn't agree more.",
+      "It all comes down to safety culture, doesn't it?",
+      "Let's narrow it down."
+    ],
+    "followUp": [
+      "Decision (1 min): Which measure would be the most effective in the long term?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-collaborative-03",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Neighbourhood crime prevention",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Reducing crime in a neighbourhood",
+    "part": "collaborative",
+    "prompt": "Talk to your partner (or record yourself playing both roles) for about two minutes about the central question, using the prompts. Do not rush to agree: explore each prompt, invite your partner's opinion, agree or disagree with reasons. Then you will have one minute to reach a decision.",
+    "points": [
+      "Central question: How might these initiatives help to reduce crime in a neighbourhood?",
+      "Prompt 1: more police officers on foot patrol",
+      "Prompt 2: installing CCTV and better street lighting",
+      "Prompt 3: youth clubs and sports facilities",
+      "Prompt 4: neighbourhood watch schemes",
+      "Prompt 5: social media channels to report incidents"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "How do you feel about...?",
+      "Visible policing tends to reassure residents.",
+      "That might simply displace crime to other areas.",
+      "Prevention is better than cure, so...",
+      "I'm in two minds about...",
+      "It could create a climate of suspicion.",
+      "You've got a point there.",
+      "On the face of it..., but in practice...",
+      "Shall we try to reach a decision?"
+    ],
+    "followUp": [
+      "Decision (1 min): Which TWO initiatives should the local council fund first?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-collaborative-04",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Wellbeing at work",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Improving wellbeing at work",
+    "part": "collaborative",
+    "prompt": "Talk to your partner (or record yourself playing both roles) for about two minutes about the central question, using the prompts. Do not rush to agree: explore each prompt, invite your partner's opinion, agree or disagree with reasons. Then you will have one minute to reach a decision.",
+    "points": [
+      "Central question: How might these options improve employees' wellbeing?",
+      "Prompt 1: flexible working hours",
+      "Prompt 2: the option to work from home",
+      "Prompt 3: an on-site gym or sports activities",
+      "Prompt 4: access to counselling services",
+      "Prompt 5: team-building trips"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "What do you reckon about...?",
+      "It would give people more control over...",
+      "It suits some people better than others.",
+      "There's a risk of feeling isolated.",
+      "Mental health is just as important as...",
+      "I'd go along with that.",
+      "That's not necessarily the case.",
+      "Perhaps we could combine... and...",
+      "We seem to be in agreement on..."
+    ],
+    "followUp": [
+      "Decision (1 min): Which option would benefit the largest number of employees?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-collaborative-05",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Energy transition",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Priorities for a region's energy transition",
+    "part": "collaborative",
+    "prompt": "Talk to your partner (or record yourself playing both roles) for about two minutes about the central question, using the prompts. Do not rush to agree: explore each prompt, invite your partner's opinion, agree or disagree with reasons. Then you will have one minute to reach a decision.",
+    "points": [
+      "Central question: How important are these actions for a region trying to cut its carbon emissions?",
+      "Prompt 1: building large wind and solar farms",
+      "Prompt 2: subsidising electric vehicles",
+      "Prompt 3: insulating homes and public buildings",
+      "Prompt 4: producing green hydrogen for industry",
+      "Prompt 5: retraining workers from coal and oil sectors"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "Shall we look at... first?",
+      "It's by far the most cost-effective measure.",
+      "That depends on whether the grid can cope with...",
+      "Green hydrogen is promising, but it's still very expensive.",
+      "We mustn't overlook the social side of...",
+      "I take your point, but...",
+      "That would only benefit people who can afford...",
+      "In terms of impact, I'd rank... above...",
+      "Shall we go for...?"
+    ],
+    "followUp": [
+      "Decision (1 min): Which action should receive the most public funding?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-collaborative-06",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "International missions",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Preparing officers for international missions",
+    "part": "collaborative",
+    "prompt": "Talk to your partner (or record yourself playing both roles) for about two minutes about the central question, using the prompts. Do not rush to agree: explore each prompt, invite your partner's opinion, agree or disagree with reasons. Then you will have one minute to reach a decision.",
+    "points": [
+      "Central question: How useful would these types of preparation be for officers going on an international mission?",
+      "Prompt 1: intensive language training",
+      "Prompt 2: learning about the local culture and history",
+      "Prompt 3: first aid and survival training",
+      "Prompt 4: training in human rights and use of force",
+      "Prompt 5: meeting officers who have been on previous missions"
+    ],
+    "prepSeconds": 15,
+    "speakSeconds": 120,
+    "usefulLanguage": [
+      "I'd say... is absolutely essential.",
+      "Without a shared language, it's impossible to...",
+      "Cultural awareness can prevent misunderstandings that...",
+      "That's something you can't learn from a book.",
+      "Officers need to understand the legal framework they operate in.",
+      "First-hand experience is invaluable.",
+      "Fair enough, but what about...?",
+      "Both are important, but if I had to choose...",
+      "So, let's settle on..."
+    ],
+    "followUp": [
+      "Decision (1 min): Which TWO types of preparation are the most important?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-discussion-01",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Technology and society",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Technology and everyday life",
+    "part": "discussion",
+    "prompt": "The examiner asks you some deeper questions related to the topic. Aim for 45-60 seconds per answer: state your view, justify it, give an example, consider the other side and conclude. Also practise reacting to an imagined partner (\"I see what you mean, but...\").",
+    "points": [
+      "Do you think people rely too much on their smartphones? Why (not)?",
+      "Some say technology has made us more connected but lonelier. What is your view?",
+      "Should children be taught to code at primary school?",
+      "Who should be responsible for protecting people's personal data online?",
+      "How might artificial intelligence change the jobs of ordinary people in the next decade?",
+      "Is it possible to slow down technological change, and would it be desirable?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "I'd go along with that to some extent, but...",
+      "It's a double-edged sword.",
+      "There's no straightforward answer to that.",
+      "If we look at it from another angle...",
+      "The danger is that...",
+      "Personally, I'm rather sceptical about...",
+      "It goes without saying that...",
+      "At the end of the day...",
+      "Having said that..."
+    ],
+    "followUp": [
+      "Do you agree with what your partner said about AI and jobs?",
+      "What technology could you not live without?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-discussion-02",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Industry and the environment",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Industry, growth and the environment",
+    "part": "discussion",
+    "prompt": "The examiner asks you some deeper questions related to the topic. Aim for 45-60 seconds per answer: state your view, justify it, give an example, consider the other side and conclude. Also practise reacting to an imagined partner (\"I see what you mean, but...\").",
+    "points": [
+      "Is it possible for a country to grow economically while reducing its emissions?",
+      "Should companies that pollute be made to pay for the full environmental damage they cause?",
+      "Would you support reopening mines in Europe to secure critical raw materials? Why (not)?",
+      "How far should consumers be responsible for the environmental impact of what they buy?",
+      "Do you think nuclear power should be part of the solution to climate change?",
+      "What role should engineers play in public debates about technology and the environment?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "There's growing evidence that...",
+      "It's not a question of either... or...",
+      "The polluter pays principle...",
+      "That would make us less dependent on...",
+      "I'm in favour, provided that...",
+      "Consumers can only do so much.",
+      "From an engineering point of view...",
+      "It's easy to say that, but in practice...",
+      "I'd be prepared to accept... as long as..."
+    ],
+    "followUp": [
+      "What would you say to someone who opposes a wind farm near their village?",
+      "Is \"green growth\" realistic or wishful thinking?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-discussion-03",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Security and freedom",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Security, privacy and freedom",
+    "part": "discussion",
+    "prompt": "The examiner asks you some deeper questions related to the topic. Aim for 45-60 seconds per answer: state your view, justify it, give an example, consider the other side and conclude. Also practise reacting to an imagined partner (\"I see what you mean, but...\").",
+    "points": [
+      "Is it acceptable for the police to use facial recognition in public spaces?",
+      "How can governments balance national security and individual freedoms?",
+      "Should social media companies be obliged to share data with law enforcement?",
+      "Do you think harsher sentences reduce crime? Why (not)?",
+      "What is the most effective way to prevent young people from becoming radicalised?",
+      "How has international cooperation changed the way crime is fought?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "It's a very fine line between... and...",
+      "There need to be robust safeguards in place.",
+      "Under strict judicial control, I think...",
+      "The evidence on that is far from conclusive.",
+      "It tends to address the symptoms rather than the causes.",
+      "Criminals don't respect borders, so...",
+      "I can see where people are coming from, but...",
+      "It's a slippery slope.",
+      "In an ideal world..., but realistically..."
+    ],
+    "followUp": [
+      "Would you accept more surveillance in exchange for greater safety?",
+      "What should the priority of the police be in the coming years?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-discussion-04",
+      "skill": "speaking",
+      "level": "C1",
+      "topic": "Work and careers",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Work, careers and the future",
+    "part": "discussion",
+    "prompt": "The examiner asks you some deeper questions related to the topic. Aim for 45-60 seconds per answer: state your view, justify it, give an example, consider the other side and conclude. Also practise reacting to an imagined partner (\"I see what you mean, but...\").",
+    "points": [
+      "Is job security more important than job satisfaction?",
+      "Why do you think some young people choose not to go to university nowadays?",
+      "Should employers be able to monitor what their staff do on company computers?",
+      "Do you think the four-day working week will become the norm? Why (not)?",
+      "How important is it to speak foreign languages for career progression?",
+      "What are the advantages and disadvantages of staying with the same employer for your whole career?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "It depends very much on one's circumstances.",
+      "There's been a shift in attitudes towards...",
+      "A degree no longer guarantees...",
+      "I'd draw the line at...",
+      "Productivity doesn't necessarily depend on hours worked.",
+      "It opens doors that would otherwise...",
+      "On the plus side..., on the downside...",
+      "Loyalty used to be rewarded, but nowadays...",
+      "All in all, I'd say..."
+    ],
+    "followUp": [
+      "How do you think your own career will develop?",
+      "Would you accept a higher salary for a job you found boring?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-presentation-01",
+      "skill": "speaking",
+      "level": "C1/SLP3",
+      "topic": "Tailings dam safety",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Tailings dam risks and mitigation",
+    "part": "presentation",
+    "prompt": "You have 2 minutes to prepare (notes only, no full script) and 2-3 minutes to speak. Follow the structure in the points: signpost each section clearly so the listener always knows where you are. Task: Present the main risks of a tailings dam to a group of non-specialist local officials, and explain the measures used to mitigate them.",
+    "points": [
+      "Opening: what a tailings dam is and why mines need one (one or two sentences).",
+      "Risk 1: structural failure (overtopping, internal erosion/piping, liquefaction after an earthquake).",
+      "Risk 2: environmental contamination (seepage, acid mine drainage, heavy metals reaching rivers).",
+      "Mitigation: design choices (downstream vs upstream construction, filtered/dry stacking), monitoring (piezometers, satellite InSAR, drones), emergency preparedness (warning sirens, evacuation plans).",
+      "Close: summarise in one sentence and invite questions."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "usefulLanguage": [
+      "Today I'd like to talk you through...",
+      "To put it simply, a tailings dam is...",
+      "The most serious risk, by far, is...",
+      "This can happen when...",
+      "To give you an idea of the scale...",
+      "There are three main lines of defence.",
+      "Moving on to mitigation...",
+      "What this means in practice is...",
+      "To sum up, ...",
+      "I'd be happy to take any questions."
+    ],
+    "followUp": [
+      "Q: What happened in the major dam failures of recent years, and what lessons were learnt?",
+      "Q: Who should pay for monitoring once a mine closes?",
+      "Q: Would you live downstream of a tailings dam?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-presentation-02",
+      "skill": "speaking",
+      "level": "C1/SLP3",
+      "topic": "Combined-cycle power plant",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "How a combined-cycle power plant works",
+    "part": "presentation",
+    "prompt": "You have 2 minutes to prepare (notes only, no full script) and 2-3 minutes to speak. Follow the structure in the points: signpost each section clearly so the listener always knows where you are. Task: Explain how a combined-cycle gas turbine (CCGT) power plant works to a group of first-year engineering students, and describe its role in today's electricity system.",
+    "points": [
+      "Introduction: purpose of the plant and what \"combined cycle\" means.",
+      "Stage 1: the gas turbine (compressor, combustion chamber, turbine, generator).",
+      "Stage 2: the heat recovery steam generator (HRSG) using hot exhaust gases.",
+      "Stage 3: the steam turbine, condenser and cooling system; overall efficiency (around 60%) compared with a simple-cycle plant.",
+      "Role in the grid: flexibility to back up wind and solar; emissions; future with hydrogen blending."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "usefulLanguage": [
+      "Let me start by explaining...",
+      "First of all, air is drawn into the compressor, where...",
+      "The hot exhaust gases, which would otherwise be wasted, are then...",
+      "This is what gives the plant its name.",
+      "As a result, the overall efficiency rises to...",
+      "Compared with a coal-fired plant, ...",
+      "Its key advantage is that it can ramp up quickly when...",
+      "Looking ahead, ...",
+      "Does that make sense so far?"
+    ],
+    "followUp": [
+      "Q: Why is a CCGT more efficient than an open-cycle gas turbine?",
+      "Q: Can these plants run on 100% hydrogen?",
+      "Q: Should we keep building gas plants during the energy transition?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-presentation-03",
+      "skill": "speaking",
+      "level": "C1/SLP3",
+      "topic": "ISO 45001 procedure",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Briefing your team on a new ISO 45001 procedure",
+    "part": "presentation",
+    "prompt": "You have 2 minutes to prepare (notes only, no full script) and 2-3 minutes to speak. Follow the structure in the points: signpost each section clearly so the listener always knows where you are. Task: You are the HSE manager. Brief your maintenance team on a new procedure for reporting near misses, introduced as part of the company's ISO 45001 occupational health and safety management system.",
+    "points": [
+      "Why: what ISO 45001 requires (hazard identification, worker participation, continual improvement) and why near misses matter.",
+      "What counts as a near miss (give two concrete examples from the plant).",
+      "How: the new reporting steps (app or form, within 24 hours, no blame, who investigates).",
+      "What happens next: feedback to the reporter, monthly review, corrective actions.",
+      "Close: what you expect from the team from Monday; handle concerns (\"Will I get in trouble?\")."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "usefulLanguage": [
+      "The reason I've called this meeting is...",
+      "I know what some of you are thinking...",
+      "Let me be absolutely clear: this is not about blame.",
+      "A near miss is basically an accident that didn't happen, for example...",
+      "From now on, ...",
+      "The process is straightforward: first..., then..., finally...",
+      "You'll get feedback within...",
+      "Every report helps us to...",
+      "Any questions before we wrap up?"
+    ],
+    "followUp": [
+      "Q: What if a supervisor discourages people from reporting?",
+      "Q: How will you measure whether the procedure is working?",
+      "Q: What is the difference between a hazard, a near miss and an incident?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-presentation-04",
+      "skill": "speaking",
+      "level": "C1/SLP3",
+      "topic": "ATEX and explosive atmospheres",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Explosive atmospheres and ATEX zones",
+    "part": "presentation",
+    "prompt": "You have 2 minutes to prepare (notes only, no full script) and 2-3 minutes to speak. Follow the structure in the points: signpost each section clearly so the listener always knows where you are. Task: Explain to new contractors arriving at a chemical plant what an explosive atmosphere is, how ATEX zones are classified, and what rules they must follow inside them.",
+    "points": [
+      "The fire/explosion triangle: fuel (gas, vapour, dust), oxygen and an ignition source.",
+      "Zone classification: 0/1/2 for gases, 20/21/22 for dusts, based on how often an explosive atmosphere is present.",
+      "Equipment: only ATEX-certified tools and devices (Ex marking); no mobile phones.",
+      "Work permits: hot work permit, gas testing before and during work.",
+      "Close: key rules in three bullet points; consequences of non-compliance."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "usefulLanguage": [
+      "Before you set foot on site, you need to understand...",
+      "An explosion needs three things...",
+      "Remove any one of them and...",
+      "The zones are classified according to...",
+      "In Zone 0, for example, ...",
+      "This means that, under no circumstances, ...",
+      "If in doubt, stop and ask.",
+      "Let me just recap the three golden rules.",
+      "Is everything clear?"
+    ],
+    "followUp": [
+      "Q: Why can dust be as dangerous as gas?",
+      "Q: What should a contractor do if a gas detector alarms?",
+      "Q: Who is responsible for zone classification on site?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-presentation-05",
+      "skill": "speaking",
+      "level": "C1/SLP3",
+      "topic": "Digital evidence",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Chain of custody for digital evidence",
+    "part": "presentation",
+    "prompt": "You have 2 minutes to prepare (notes only, no full script) and 2-3 minutes to speak. Follow the structure in the points: signpost each section clearly so the listener always knows where you are. Task: Explain to a group of newly qualified officers how to seize and preserve digital evidence (phones, laptops, storage devices) so that it is admissible in court.",
+    "points": [
+      "Why it matters: digital evidence is fragile and easily challenged by the defence.",
+      "At the scene: secure the area, photograph devices, decide whether to switch off (Faraday bags for phones, live acquisition for running systems).",
+      "Documentation: who, what, when, where; labelling, seals, evidence log.",
+      "Transfer and storage: signed handovers, secure storage, forensic copies (hash values) – never work on the original.",
+      "Close: common mistakes that have caused cases to collapse."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "usefulLanguage": [
+      "What I want to get across today is...",
+      "One careless mistake can render the evidence inadmissible.",
+      "The first thing you should do on arrival is...",
+      "Under no circumstances should you...",
+      "Every time the item changes hands, ...",
+      "This creates an unbroken record of...",
+      "Put simply, a hash value is a digital fingerprint.",
+      "I've seen cases fall apart because...",
+      "Let me finish with a quick checklist."
+    ],
+    "followUp": [
+      "Q: Should you look through a suspect's phone at the scene?",
+      "Q: What would you do if a device starts wiping itself remotely?",
+      "Q: How is cloud-stored data obtained legally?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-presentation-06",
+      "skill": "speaking",
+      "level": "C1/SLP3",
+      "topic": "Road safety data",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Motorcycle accidents: data and proposals",
+    "part": "presentation",
+    "prompt": "You have 2 minutes to prepare (notes only, no full script) and 2-3 minutes to speak. Follow the structure in the points: signpost each section clearly so the listener always knows where you are. Task: Present to a regional road safety committee the trends in motorcycle fatalities in your area over the last five years (invent plausible figures) and propose three measures to reduce them.",
+    "points": [
+      "Introduction: purpose of the presentation and data sources.",
+      "Trends: overall figures, peaks (weekends, summer, mountain roads), age groups, main causes (speed, loss of control, collisions at junctions).",
+      "Proposal 1: targeted enforcement on high-risk routes.",
+      "Proposal 2: infrastructure (motorcycle-friendly crash barriers, road surface maintenance).",
+      "Proposal 3: awareness campaign and advanced riding courses; close with expected impact."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 180,
+    "usefulLanguage": [
+      "As you can see from the figures, ...",
+      "Fatalities rose sharply between... and...",
+      "The peak occurs at weekends during the summer months.",
+      "Riders aged over 45 account for...",
+      "In the majority of cases, the main contributing factor was...",
+      "What the data tells us is that...",
+      "With this in mind, I'd like to propose three measures.",
+      "If implemented, these measures could...",
+      "Thank you for your attention."
+    ],
+    "followUp": [
+      "Q: How would you measure the success of the campaign?",
+      "Q: Are speed cameras effective on mountain roads?",
+      "Q: How would you convince experienced riders to take a course?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-interview-01",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Personal background",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Warm-up: background, routine and interests",
+    "part": "slp-interview",
+    "prompt": "STANAG 6001 oral proficiency interview, warm-up phase moving to Level 3 probes. Answer naturally and at length (1-2 minutes per answer). Level 3 requires you to support opinions, hypothesise and deal with abstract topics, so after each factual answer, develop it: reasons, examples, comparisons, consequences.",
+    "points": [
+      "Warm-up: Tell me a little about yourself: where you are from, your family and what you do.",
+      "Describe your typical working day in detail.",
+      "What do you do in your free time, and how has that changed over the years?",
+      "Describe the region you come from to someone who has never been there.",
+      "Probe (opinion): What do you think are the biggest challenges facing young people in your country today?",
+      "Probe (hypothetical): If you had been born in a different country, how do you think your life would be different?",
+      "Probe (abstract): Is it better to specialise in one area or to have a broad range of skills?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "I come from a small town in..., which is known for...",
+      "My day usually starts at... and...",
+      "Over the years, I've become more interested in...",
+      "What strikes visitors most is...",
+      "In my view, the most pressing issue is...",
+      "Had I been born in..., I would probably have...",
+      "It's hard to say for sure, but...",
+      "There are arguments on both sides.",
+      "Generally speaking, I'd lean towards..."
+    ],
+    "followUp": [
+      "Wind-down: What are your plans for the next few months?",
+      "Why is achieving SLP 3 important for you?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-interview-02",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Engineering career",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Your professional experience in engineering",
+    "part": "slp-interview",
+    "prompt": "STANAG 6001 oral proficiency interview. The interviewer explores your professional background in engineering. Give detailed, organised answers; use precise technical vocabulary but explain it as you would to a non-specialist. Be ready for hypothetical and opinion questions.",
+    "points": [
+      "What is your current job or field of study, and what are your main responsibilities?",
+      "Describe a technical project you have been involved in from start to finish.",
+      "Tell me about a problem that went wrong at work and how it was solved.",
+      "What regulations or standards most affect your work (e.g. ISO, CE marking, safety rules)?",
+      "Probe (opinion): Should engineering decisions be made by engineers or by politicians?",
+      "Probe (hypothetical): If you were put in charge of a plant with a poor safety record, what would you do in your first month?",
+      "Probe (abstract): How will the energy transition change the engineering profession?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "I'm responsible for...",
+      "The project involved...",
+      "At first, we underestimated...",
+      "In the end, we traced the problem back to...",
+      "What I learnt from that experience was...",
+      "Compliance with... is mandatory, which means...",
+      "If I were in that position, the first thing I'd do is...",
+      "Ultimately, it's a question of...",
+      "It would be naïve to think that..."
+    ],
+    "followUp": [
+      "What do you like least about your job?",
+      "Would you be willing to work abroad on a project? Where and why?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-interview-03",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Police unit and duties",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Your unit, duties and experience",
+    "part": "slp-interview",
+    "prompt": "STANAG 6001 oral proficiency interview for law enforcement personnel. Describe your organisation and role accurately and in detail. The interviewer will move from factual description to opinions, hypotheses and abstract issues. (If you are not yet an officer, answer as the officer you are training to become.)",
+    "points": [
+      "Describe your organisation and where your unit fits within it.",
+      "What are your main duties, and what does a typical shift involve?",
+      "Tell me about a challenging situation you have dealt with (or might deal with) on duty.",
+      "How does your unit cooperate with other agencies, both national and international?",
+      "Probe (opinion): What do you think is the biggest threat to public security in your country today?",
+      "Probe (hypothetical): If you could change one thing about police training, what would it be and why?",
+      "Probe (abstract): To what extent should the police reflect the diversity of the society they serve?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "My unit is part of... and is responsible for...",
+      "On a typical shift, we...",
+      "What made it particularly difficult was...",
+      "We work closely with...",
+      "Information is shared through...",
+      "I'd argue that the main threat is..., because...",
+      "If it were up to me, I would...",
+      "Public trust depends on...",
+      "That's a complex issue, but broadly speaking..."
+    ],
+    "followUp": [
+      "What do you find most rewarding about the job?",
+      "How has the job changed in the last ten years?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-interview-04",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "International missions",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "International cooperation and missions",
+    "part": "slp-interview",
+    "prompt": "STANAG 6001 oral proficiency interview. The interviewer focuses on international work: missions abroad, multinational cooperation and the role of English. Answer with examples and be prepared to speculate and defend your views.",
+    "points": [
+      "Have you ever taken part in an international mission, exercise or course? Describe it. (If not, which one would you like to join and why?)",
+      "What are the main difficulties of working in a multinational team?",
+      "Why is English so important in international police and military cooperation?",
+      "Describe the role of organisations such as Europol, Interpol or Frontex in general terms.",
+      "Probe (opinion): Do international missions really help to stabilise conflict areas?",
+      "Probe (hypothetical): Imagine you are deployed abroad and a local colleague asks you to ignore an irregularity. What would you do?",
+      "Probe (abstract): Should national police forces eventually be replaced by a European police force?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "I had the opportunity to take part in...",
+      "One of the main challenges was...",
+      "Different procedures and cultures can lead to...",
+      "English is the working language, so...",
+      "In general terms, its role is to...",
+      "Their impact depends largely on...",
+      "I would report it through the chain of command, because...",
+      "National sovereignty is a sensitive issue.",
+      "I can't see that happening in the near future, mainly because..."
+    ],
+    "followUp": [
+      "What did you learn about yourself from working abroad?",
+      "What advice would you give to an officer going on their first mission?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-interview-05",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Professional development",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Training, leadership and current affairs",
+    "part": "slp-interview",
+    "prompt": "STANAG 6001 oral proficiency interview, final phase. The interviewer moves to abstract and current topics: leadership, training and news. Level 3 candidates must discuss unfamiliar topics coherently, support opinions and hypothesise. Avoid one-sentence answers.",
+    "points": [
+      "How do you keep up to date in your professional field?",
+      "Describe a good leader you have worked with. What made them effective?",
+      "What kind of training has been most useful in your career so far?",
+      "Tell me about a news story that has caught your attention recently and why.",
+      "Probe (opinion): Are leaders born or made?",
+      "Probe (hypothetical): If your organisation had to cut its budget by 20%, where should the cuts be made?",
+      "Probe (abstract): Has social media had a positive or negative effect on public debate?"
+    ],
+    "prepSeconds": 0,
+    "speakSeconds": 300,
+    "usefulLanguage": [
+      "I make a point of reading...",
+      "What set her apart was...",
+      "She led by example.",
+      "The most valuable training I've had was...",
+      "What struck me about that story was...",
+      "I think it's a combination of both, although...",
+      "Cuts would have to be made, but not at the expense of...",
+      "On the one hand..., on the other hand...",
+      "Ultimately, the jury is still out."
+    ],
+    "followUp": [
+      "What is the most important decision you have had to make in your career?",
+      "How do you see your organisation in ten years' time?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-briefing-01",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Summit security",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Security plan for an international summit",
+    "part": "slp-briefing",
+    "prompt": "You are the deputy operations officer. Brief a multinational audience of liaison officers on the security plan for a two-day international summit of heads of government in your city. Use the standard briefing structure: Situation, Mission, Execution, Support, Command and communications. You have 2 minutes to prepare notes and 4 minutes to speak.",
+    "points": [
+      "Situation: dates, venue (conference centre + hotels), threat assessment (protests expected, terrorist threat level, drones).",
+      "Mission: ensure the safety of delegations, protect the public and maintain normal city life as far as possible.",
+      "Execution: security perimeters (red/amber/green zones), road closures and motorcades, airspace restrictions, counter-drone measures.",
+      "Support: medical services, liaison with foreign protection teams, accreditation of personnel.",
+      "Command and communications: command post location, radio channels, reporting procedures; close and invite questions."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Good morning, everyone. The purpose of this briefing is to...",
+      "I'll cover five areas: ...",
+      "Let me begin with the situation.",
+      "The current threat level is assessed as...",
+      "Our mission is to...",
+      "The venue will be divided into three security zones.",
+      "Access to the red zone will be restricted to...",
+      "All incidents must be reported immediately to...",
+      "That concludes the briefing. Are there any questions?"
+    ],
+    "followUp": [
+      "Q: How will you handle an unauthorised demonstration near the red zone?",
+      "Q: What happens if a drone is detected over the venue?",
+      "Q: How will foreign protection officers be allowed to carry weapons?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-briefing-02",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Road safety campaign",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Summer road safety campaign",
+    "part": "slp-briefing",
+    "prompt": "You are a traffic police officer. Brief officers from the regional command on next month's summer road safety campaign focusing on alcohol, drugs and distraction at the wheel. 2 minutes to prepare, 4 minutes to speak.",
+    "points": [
+      "Background: last summer's accident figures (invent plausible data) and main contributing factors.",
+      "Objectives of the campaign: reduce fatalities by a specific target; raise awareness.",
+      "Operational plan: checkpoints (times and locations), number of breath and drug tests, focus on mobile phone use, cooperation with local police.",
+      "Communication: media campaign, social networks, presence at festivals.",
+      "Evaluation: indicators and reporting dates; close."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "The aim of this briefing is to outline...",
+      "Last summer, there were... fatalities on our roads, ...",
+      "Alcohol was a factor in roughly...",
+      "Our target is to reduce... by...",
+      "Checkpoints will be set up at...",
+      "Particular attention will be paid to...",
+      "We'll be working alongside...",
+      "Results will be reported weekly to...",
+      "To sum up the key points..."
+    ],
+    "followUp": [
+      "Q: How will you avoid checkpoints causing traffic jams?",
+      "Q: What will you do about foreign drivers?",
+      "Q: How do you prove a driver was using a phone?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-briefing-03",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Joint maritime operation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Joint maritime surveillance operation",
+    "part": "slp-briefing",
+    "prompt": "You are a liaison officer in a joint maritime operation coordinated with other EU countries to detect migrant smuggling and drug trafficking at sea. Brief the participating crews (coast guard, police vessels, aerial units from three countries) before the operation starts. 2 minutes to prepare, 4 minutes to speak.",
+    "points": [
+      "Situation: operational area, recent trends in smuggling routes, weather forecast.",
+      "Mission: detection, interception and, above all, saving lives at sea in accordance with international law.",
+      "Execution: assets and patrol sectors, aerial surveillance and radar, rules for boarding and interception, procedure when a vessel in distress is detected.",
+      "Coordination: international coordination centre, common radio frequencies, language (English), information sharing.",
+      "Human rights: treatment of migrants, vulnerable persons, handover to authorities ashore; questions."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Good afternoon. I'd like to welcome our colleagues from...",
+      "Over the past three months, we have observed a shift in routes towards...",
+      "Our first priority, at all times, is the safeguarding of life at sea.",
+      "Each unit will be assigned a patrol sector.",
+      "Once a target has been identified, ...",
+      "All communications will be in English on channel...",
+      "Should a vessel be found in distress, ...",
+      "Migrants must be treated with dignity and...",
+      "Are there any points that need clarifying?"
+    ],
+    "followUp": [
+      "Q: What if a smuggling boat refuses to stop?",
+      "Q: Which country is responsible for people rescued in international waters?",
+      "Q: How do you identify victims of trafficking among migrants?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-briefing-04",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Plant shutdown",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Briefing on a planned plant shutdown",
+    "part": "slp-briefing",
+    "prompt": "You are the project engineer responsible for a two-week maintenance shutdown (turnaround) at a refinery or chemical plant. Brief the contractors and plant supervisors at the kick-off meeting. 2 minutes to prepare, 4 minutes to speak.",
+    "points": [
+      "Scope: main work packages (heat exchanger cleaning, valve replacement, tank inspection) and why the shutdown is needed.",
+      "Schedule: key dates and critical path; daily coordination meeting.",
+      "Safety: permit-to-work system, isolation and LOTO, confined space entry, gas testing, ATEX zones.",
+      "Logistics: access control, laydown areas, waste management, number of workers on site.",
+      "Communication: reporting lines, escalation of problems, emergency procedures; close."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Thank you all for coming. The purpose of today's meeting is to...",
+      "The shutdown will start on... and is scheduled to last...",
+      "The critical path runs through...",
+      "Safety is non-negotiable.",
+      "No work will begin without a valid permit.",
+      "Confined space entry will require...",
+      "We'll hold a coordination meeting every day at...",
+      "Any delays must be escalated immediately to...",
+      "Let's make this a zero-incident shutdown."
+    ],
+    "followUp": [
+      "Q: What happens if a contractor discovers additional damage that is not in the scope?",
+      "Q: How will you manage the language barrier with foreign contractors?",
+      "Q: What are the most common causes of accidents during shutdowns?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-briefing-05",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Event organisation",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Briefing volunteers for a city marathon",
+    "part": "slp-briefing",
+    "prompt": "You are the volunteer coordinator for an international city marathon with 10,000 runners. Brief a group of volunteers (many of them foreign students) on their roles on race day. 2 minutes to prepare, 4 minutes to speak.",
+    "points": [
+      "Overview: race day timetable, route and key locations (start, finish, drinks stations, medical points).",
+      "Roles: registration, drinks stations, marshals at crossings, information points.",
+      "Rules and conduct: what volunteers can and cannot do, dealing with members of the public and drivers.",
+      "Emergencies: what to do if a runner collapses, lost children, severe weather.",
+      "Communication and logistics: team leaders, radios/phone numbers, meeting point, uniforms and meals; close."
+    ],
+    "prepSeconds": 120,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Hello everyone, and thank you for volunteering.",
+      "Let me give you a quick overview of the day.",
+      "You'll each be assigned to one of four teams.",
+      "Your main job will be to...",
+      "Please don't attempt to...; instead...",
+      "If a runner collapses, the first thing to do is...",
+      "Your team leader will be your point of contact.",
+      "Make sure you're at the meeting point by...",
+      "Any questions? No question is a silly question."
+    ],
+    "followUp": [
+      "Q: What should a marshal do if a driver insists on crossing the route?",
+      "Q: How will volunteers who don't speak Spanish communicate with the public?",
+      "Q: What would you do if the race had to be stopped due to a storm?"
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-roleplay-01",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Airport: lost documents",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Foreign traveller with lost documents at the airport",
+    "part": "slp-roleplay",
+    "prompt": "Role-play. YOU: a Guardia Civil officer at the border control post of an international airport. THE OTHER PERSON (examiner or a partner): a foreign traveller who is about to miss a connecting flight and has lost their passport and wallet in the terminal. They are stressed and somewhat aggressive. Take 1 minute to think about what you need to achieve, then play the scene (about 4 minutes).",
+    "points": [
+      "Calm the traveller down and establish a professional but empathetic tone.",
+      "Obtain key information: name, nationality, flight details, when and where the documents were last seen.",
+      "Explain the procedure: filing a report (denuncia) for loss/theft, contacting their consulate for an emergency travel document, checking lost property and CCTV.",
+      "Manage expectations: explain clearly what you can and cannot do about the connecting flight.",
+      "Close: summarise next steps, give contact details and the report reference."
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "I understand this is very stressful for you. Let's see how we can sort it out.",
+      "Could you tell me exactly when you last had your passport?",
+      "Can you describe the wallet?",
+      "The first thing we need to do is file a report.",
+      "Your consulate will be able to issue an emergency travel document.",
+      "I'm afraid I'm not in a position to...",
+      "What I can do, however, is...",
+      "Please try to calm down so that I can help you.",
+      "Here's your reference number. If anything turns up, we'll contact you on..."
+    ],
+    "followUp": [
+      "Variation: The traveller's documents are found, but one passport photo does not seem to match the holder. How do you handle it?",
+      "Variation: The traveller claims a staff member stole the wallet."
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-roleplay-02",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Emission exceedance",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Plant manager explaining an emission exceedance to an inspector",
+    "part": "slp-roleplay",
+    "prompt": "Role-play. YOU: the manager of a cement plant. THE OTHER PERSON: an environmental inspector who has arrived after the continuous monitoring system recorded dust (particulate) emissions above the permitted limit for six hours last night. Neighbours have complained on social media. Take 1 minute to prepare, then play the scene (about 4 minutes).",
+    "points": [
+      "Acknowledge the exceedance honestly without admitting more than the facts show.",
+      "Explain the technical cause (e.g. ruptured filter bags in the baghouse after a temperature spike) and the immediate actions taken.",
+      "Provide data: duration, peak values, when normal operation was restored; offer access to records.",
+      "Propose corrective and preventive measures with a timeline (bag replacement, temperature alarms, maintenance review).",
+      "Discuss communication with neighbours and next steps (report deadline, follow-up visit)."
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Thank you for coming. I'd like to be completely transparent about what happened.",
+      "The exceedance began at approximately 23:10 and lasted...",
+      "Our preliminary investigation points to...",
+      "As soon as the alarm went off, we...",
+      "I'm happy to give you full access to the monitoring data.",
+      "To prevent a recurrence, we intend to...",
+      "We'll submit a full report by...",
+      "We're also planning to inform the residents directly.",
+      "I appreciate your concern, and I can assure you that..."
+    ],
+    "followUp": [
+      "Variation: The inspector suggests the plant has hidden previous exceedances.",
+      "Variation: The inspector announces a possible temporary closure. Negotiate."
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-roleplay-03",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Traffic accident with foreign driver",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Road accident involving a foreign driver",
+    "part": "slp-roleplay",
+    "prompt": "Role-play. YOU: a traffic officer arriving at a minor collision on a motorway. THE OTHER PERSON: a foreign tourist driving a rental car who rear-ended a local van. Nobody is seriously hurt, but the tourist is confused, speaks no Spanish and refuses to take a breathalyser test because they \"don't understand the procedure\". Take 1 minute to prepare, then play the scene (about 4 minutes).",
+    "points": [
+      "Ensure safety first: check for injuries, secure the scene, move people away from traffic.",
+      "Identify yourself and explain calmly what is happening and why.",
+      "Explain the breathalyser test: it is compulsory, what refusal means legally, the procedure step by step.",
+      "Collect information: documents (licence, passport, rental agreement, insurance), account of events.",
+      "Explain next steps: accident report form, contact with the rental company, possible fine and how to pay it."
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Are you injured? Do you need medical assistance?",
+      "Please step behind the barrier for your own safety.",
+      "I'm a traffic officer. I need to ask you a few questions.",
+      "All drivers involved in an accident are required by law to...",
+      "Refusing the test is a criminal offence in this country.",
+      "You just need to blow steadily into this tube until I tell you to stop.",
+      "May I see your driving licence and the rental agreement, please?",
+      "In your own words, what happened?",
+      "You'll receive a copy of the report for your insurance company."
+    ],
+    "followUp": [
+      "Variation: The test is positive (just above the limit). Explain the consequences.",
+      "Variation: The van driver becomes aggressive towards the tourist."
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-roleplay-04",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Contractor negotiation",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Negotiating delays and safety with a contractor",
+    "part": "slp-roleplay",
+    "prompt": "Role-play. YOU: the project manager of a company building a new substation. THE OTHER PERSON: the site manager of the civil works contractor. The project is three weeks behind schedule, and yesterday one of the contractor's workers was seen working at height without a harness. The contractor wants an extension and more money because of \"unforeseen ground conditions\". Take 1 minute to prepare, then play the scene (about 4 minutes).",
+    "points": [
+      "Raise the safety incident first and make it clear it is non-negotiable; agree immediate actions.",
+      "Discuss the causes of the delay; ask for evidence of the unforeseen ground conditions.",
+      "Negotiate: explore options (extra shifts, resequencing, partial extension) without conceding everything.",
+      "Refer to the contract terms (penalties, variation orders) diplomatically.",
+      "Reach and summarise an agreement with actions, owners and deadlines."
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "Before we discuss the schedule, I need to raise a serious safety issue.",
+      "This is simply not acceptable, and it mustn't happen again.",
+      "I'd like to see the geotechnical data that supports your claim.",
+      "I understand your position, but...",
+      "What if we were to...?",
+      "We might be able to consider..., provided that...",
+      "Under the contract, any variation has to be...",
+      "Let's see if we can find some middle ground.",
+      "So, just to recap what we've agreed..."
+    ],
+    "followUp": [
+      "Variation: The contractor threatens to stop work if no extra payment is agreed.",
+      "Variation: Your own manager calls, demanding the original deadline be kept."
+    ]
+  },
+  {
+    "meta": {
+      "id": "sp-slp-roleplay-05",
+      "skill": "speaking",
+      "level": "SLP3",
+      "topic": "Hosting a foreign colleague",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Solving an accommodation problem for a visiting colleague",
+    "part": "slp-roleplay",
+    "prompt": "Role-play. YOU: responsible for hosting a foreign colleague who is attending a week-long training course in your city. THE OTHER PERSON: the manager of the hotel you booked. Your colleague arrived late last night to find their room had been given to someone else, and they were sent to a much worse hotel far from the course venue. Take 1 minute to prepare, then play the scene (about 4 minutes).",
+    "points": [
+      "Explain the problem clearly and firmly, referring to the booking confirmation.",
+      "Express dissatisfaction politely but convincingly; describe the impact on your colleague.",
+      "Make specific demands (room tonight, transport costs, compensation/discount).",
+      "Respond to the manager's excuses and negotiate a reasonable solution.",
+      "Confirm the agreement and ask for it in writing."
+    ],
+    "prepSeconds": 60,
+    "speakSeconds": 240,
+    "usefulLanguage": [
+      "I'm calling about a booking made under the name...",
+      "I have the confirmation email right here.",
+      "Frankly, I find this totally unacceptable.",
+      "My colleague had to travel... to get to the course.",
+      "What I would expect is...",
+      "I appreciate that mistakes happen, but...",
+      "Would you be prepared to...?",
+      "That seems a reasonable compromise.",
+      "Could you confirm that in writing, please?"
+    ],
+    "followUp": [
+      "Variation: The manager insists the booking was cancelled by your organisation.",
+      "Variation: Your colleague now wants to leave the course early. Persuade them to stay."
+    ]
+  }
+]
