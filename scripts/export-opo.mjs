@@ -2,6 +2,7 @@
 /**
  * Exporta la versión PÚBLICA (sin material privado) al proyecto OpoIndustriales.
  *   node scripts/export-opo.mjs ../opoindustriales      → copia el build en ../opoindustriales/public/ingles/
+ * Compila con VITE_EDITION=opo (perfil «Alumno/a», textos sin ámbito policial).
  * Aparta temporalmente data/private y public/private para que el build no los incluya.
  */
 import { cpSync, existsSync, renameSync, rmSync } from 'node:fs';
@@ -23,7 +24,7 @@ let status = 1;
 try {
   moves.forEach(([a, b]) => renameSync(a, b));
   const npm = process.platform === 'win32' ? 'npm.cmd' : 'npm';
-  status = spawnSync(npm, ['run', 'build'], { cwd: ROOT, stdio: 'inherit', shell: process.platform === 'win32' }).status ?? 1;
+  status = spawnSync(npm, ['run', 'build'], { cwd: ROOT, stdio: 'inherit', shell: process.platform === 'win32', env: { ...process.env, VITE_EDITION: 'opo' } }).status ?? 1;
 } finally {
   moves.forEach(([a, b]) => renameSync(b, a));
 }
