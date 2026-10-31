@@ -12,14 +12,14 @@ export interface TaskRef {
 
 /**
  * Recomienda la siguiente tarea:
- * 1. Ordena destrezas por rendimiento (peor primero); speaking recibe un plus de prioridad
- *    porque es la debilidad declarada del usuario.
+ * 1. Ordena destrezas por rendimiento (peor primero); la destreza prioritaria del perfil
+ *    (`boost`, p. ej. speaking para Fran) recibe un plus.
  * 2. Dentro de la destreza, prefiere tareas no hechas; si todas están hechas, la de peor resultado.
  * 3. Si hay `focusDomain`, prefiere ese dominio.
  */
 export function recommend(attempts: Attempt[], tasks: TaskRef[], opts: { boost?: Partial<Record<Skill, number>>; focusDomain?: string; exclude?: string[] } = {}): TaskRef | undefined {
   const stats = skillStats(attempts);
-  const order = prioritizeSkills(stats, opts.boost ?? { speaking: 15 });
+  const order = prioritizeSkills(stats, opts.boost ?? {});
   const done = new Map<string, number>();
   for (const a of attempts) {
     const pct = a.max ? a.score / a.max : 0;

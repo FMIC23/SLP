@@ -1,6 +1,7 @@
 import { externalResources, grammarRefs, materialIndex } from '../core/content';
 import { store } from '../core/store';
 import { download, h, SKILL_LABEL } from '../ui/dom';
+import type { Skill } from '../core/types';
 import { englishVoices, voicesReady } from '../ui/tts';
 
 export function grammarView(main: HTMLElement, params: string[]) {
@@ -34,9 +35,10 @@ export function resourcesView(main: HTMLElement) {
 
 export function settingsView(main: HTMLElement) {
   main.append(h('h1', null, 'Ajustes y copia de seguridad'));
+  main.append(profilesCard());
   // Exportar / importar
   const exp = h('button', { type: 'button' }, 'Exportar progreso (JSON)');
-  exp.addEventListener('click', () => download(`progreso-c1-slp-${new Date().toISOString().slice(0, 10)}.json`, store.exportJson(), 'application/json'));
+  exp.addEventListener('click', () => download(`progreso-${store.profileId}-${new Date().toISOString().slice(0, 10)}.json`, store.exportJson(), 'application/json'));
   const file = h('input', { type: 'file', accept: 'application/json,.json', id: 'imp' });
   const msg = h('p', { 'aria-live': 'polite' });
   file.addEventListener('change', async () => {
@@ -57,7 +59,7 @@ export function settingsView(main: HTMLElement) {
     }
   });
   main.append(
-    h('div', { class: 'card' }, h('h2', { style: 'margin-top:0' }, 'Copia de seguridad'), h('p', { class: 'small muted' }, 'El progreso vive solo en este navegador (localStorage). Exporta una copia periódicamente o para pasarla a otro dispositivo.'), h('div', { class: 'row' }, exp, h('label', { for: 'imp', class: 'btn secondary' }, 'Importar JSON…'), file, reset), msg),
+    h('div', { class: 'card' }, h('h2', { style: 'margin-top:0' }, 'Copia de seguridad'), h('p', { class: 'small muted' }, `Se exporta e importa el progreso del perfil activo (${store.profile.name}). El progreso vive solo en este navegador (localStorage): exporta una copia periódicamente o para pasarla a otro dispositivo.`), h('div', { class: 'row' }, exp, h('label', { for: 'imp', class: 'btn secondary' }, 'Importar JSON…'), file, reset), msg),
   );
   file.style.display = 'none';
 
@@ -70,6 +72,16 @@ export function settingsView(main: HTMLElement) {
   const newCards = h('input', { type: 'number', min: '0', max: '100', value: String(store.data.settings.dailyNewCards), id: 'newc', style: 'width:6rem' });
   newCards.addEventListener('change', () => {
     store.data.settings.dailyNewCards = Math.max(0, Number(newCards.value) || 0);
+    store.save();
+  });
+  const prio = h(
+    'select',
+    { id: 'prio' },
+    h('option', { value: '' }, 'Ninguna (solo según resultados)'),
+    (['speaking', 'writing', 'listening', 'reading', 'useofenglish', 'vocabulary'] as Skill[]).map((s) => h('option', { value: s, selected: store.data.settings.prioritySkill === s }, SKILL_LABEL[s])),
+  );
+  prio.addEventListener('change', () => {
+    store.data.settings.prioritySkill = prio.value as Skill | '';
     store.save();
   });
   const voiceSel = h('select', { id: 'voice' }, h('option', { value: '' }, 'Automática (británica si existe)'));
@@ -88,7 +100,75 @@ export function settingsView(main: HTMLElement) {
       h('p', null, h('label', { for: 'rate' }, 'Velocidad de voz por defecto (Listening): '), rate),
       h('p', null, h('label', { for: 'voice' }, 'Voz principal: '), voiceSel),
       h('p', null, h('label', { for: 'newc' }, 'Tarjetas nuevas por sesión de vocabulario: '), newCards),
+      h('p', null, h('label', { for: 'prio' }, 'Destreza a priorizar en las recomendaciones: '), prio),
     ),
+  );
+}
+
+function profilesCard() {
+  const box = h('div', { class: 'card' }, h('h2', { style: 'margin-top:0' }, 'Perfiles'));
+  const msg = h('p', { 'aria-live': 'polite', class: 'small' });
+  const draw = () => {
+    box.replaceChildren(
+      h('h2', { style: 'margin-top:0' }, 'Perfiles'),
+      h('p', { class: 'small muted' }, 'Cada perfil tiene su propio progreso, tarjetas, plan semanal y ajustes en este navegador. Cambia de perfil desde el selector de la barra superior.'),
+      h(
+        'table',
+        null,
+        h(
+          'tbody',
+          null,
+          store.profiles.map((p) => {
+            const name = h('input', { type: 'text', value: p.name, 'aria-label': `Nombre del perfil ${p.name}`, style: 'width:10rem' });
+            name.addEventListener('change', () => {
+              store.renameProfile(p.id, name.value);
+              refreshHeader();
+            });
+            const use = h('button', { type: 'button', class: 'secondary', disabled: p.id === store.profileId }, p.id === store.profileId ? 'Activo' : 'Usar');
+            use.addEventListener('click', () => {
+              store.switchProfile(p.id);
+              location.reload();
+            });
+            const del = h('button', { type: 'button', class: 'secondary', disabled: p.id === store.profileId || store.profiles.length <= 1 }, 'Borrar');
+            del.addEventListener('click', () => {
+              if (!confirm(`¿Borrar el perfil ${p.name} y TODO su progreso? Exporta antes una copia.`)) return;
+              try {
+                store.deleteProfile(p.id);
+                draw();
+                refreshHeader();
+              } catch (e) {
+                msg.textContent = (e as Error).message;
+              }
+            });
+            return h('tr', null, h('td', null, name), h('td', null, use), h('td', null, del));
+          }),
+        ),
+      ),
+    );
+    const nn = h('input', { type: 'text', placeholder: 'Nuevo perfil', 'aria-label': 'Nombre del nuevo perfil', style: 'width:10rem' });
+    const add = h('button', { type: 'button' }, 'Añadir perfil');
+    add.addEventListener('click', () => {
+      try {
+        store.addProfile(nn.value);
+        draw();
+        refreshHeader();
+      } catch (e) {
+        msg.textContent = (e as Error).message;
+      }
+    });
+    box.append(h('div', { class: 'row', style: 'margin-top:.6rem' }, nn, add), msg);
+  };
+  draw();
+  return box;
+}
+
+/** Actualiza el selector de perfil de la cabecera (sin importar main.ts para evitar ciclos). */
+function refreshHeader() {
+  const sel = document.getElementById('profile') as HTMLSelectElement | null;
+  if (!sel) return;
+  sel.replaceChildren(
+    ...store.profiles.map((p) => h('option', { value: p.id, selected: p.id === store.profileId }, `👤 ${p.name}`)),
+    h('option', { value: '__manage' }, 'Gestionar perfiles…'),
   );
 }
 

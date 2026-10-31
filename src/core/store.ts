@@ -1,6 +1,33 @@
 import type { Attempt, Progress, Skill, SrsState } from './types';
 
-const KEY = 'slp-c1-progress-v1';
+const LEGACY_KEY = 'slp-c1-progress-v1';
+const PROFILES_KEY = 'slp-profiles';
+const ACTIVE_KEY = 'slp-active-profile';
+
+export interface Profile {
+  id: string;
+  name: string;
+}
+
+export const DEFAULT_PROFILES: Profile[] = [
+  { id: 'fran', name: 'Fran' },
+  { id: 'mayka', name: 'Mayka' },
+];
+
+export function progressKey(profileId: string): string {
+  return `${LEGACY_KEY}:${profileId}`;
+}
+
+export function slugifyProfile(name: string): string {
+  return (
+    name
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '') || 'perfil'
+  );
+}
 
 export function today(): string {
   const d = new Date();
@@ -31,7 +58,7 @@ export function emptyProgress(): Progress {
     studyDays: [],
     writings: {},
     plan: defaultPlan(),
-    settings: { voiceRate: 1, dailyNewCards: 15 },
+    settings: { voiceRate: 1, dailyNewCards: 15, prioritySkill: 'speaking' },
   };
 }
 
@@ -54,31 +81,125 @@ export function sanitizeProgress(raw: unknown): Progress {
 
 type Listener = () => void;
 
-class Store {
+export class Store {
   data: Progress;
+  profiles: Profile[];
+  profileId: string;
   private listeners: Listener[] = [];
   private storage: Storage | null;
 
   constructor(storage: Storage | null) {
     this.storage = storage;
+    this.profiles = this.loadProfiles();
+    const active = this.read(ACTIVE_KEY);
+    this.profileId = this.profiles.some((p) => p.id === active) ? active! : this.profiles[0].id;
+    this.migrateLegacy();
     this.data = this.load();
+  }
+
+  private read(k: string): string | null {
+    try {
+      return this.storage?.getItem(k) ?? null;
+    } catch {
+      return null;
+    }
+  }
+
+  private write(k: string, v: string) {
+    try {
+      this.storage?.setItem(k, v);
+    } catch {
+      /* almacenamiento lleno o bloqueado */
+    }
+  }
+
+  private loadProfiles(): Profile[] {
+    try {
+      const raw = this.read(PROFILES_KEY);
+      const list = raw ? (JSON.parse(raw) as Profile[]) : [];
+      const ok = Array.isArray(list) ? list.filter((p) => p && typeof p.id === 'string' && typeof p.name === 'string') : [];
+      return ok.length ? ok : DEFAULT_PROFILES.map((p) => ({ ...p }));
+    } catch {
+      return DEFAULT_PROFILES.map((p) => ({ ...p }));
+    }
+  }
+
+  /** El progreso guardado antes de existir los perfiles pasa al primer perfil (Fran). */
+  private migrateLegacy() {
+    const legacy = this.read(LEGACY_KEY);
+    if (legacy && !this.read(progressKey(this.profiles[0].id))) {
+      this.write(progressKey(this.profiles[0].id), legacy);
+    }
+    if (legacy) {
+      try {
+        this.storage?.removeItem(LEGACY_KEY);
+      } catch {
+        /* */
+      }
+    }
   }
 
   private load(): Progress {
     try {
-      const raw = this.storage?.getItem(KEY);
-      return raw ? sanitizeProgress(JSON.parse(raw)) : emptyProgress();
+      const raw = this.read(progressKey(this.profileId));
+      if (raw) return sanitizeProgress(JSON.parse(raw));
     } catch {
-      return emptyProgress();
+      /* datos corruptos: se empieza de cero */
+    }
+    const p = emptyProgress();
+    // Solo el primer perfil (Fran) prioriza speaking por defecto
+    if (this.profileId !== this.profiles[0].id) p.settings.prioritySkill = '';
+    return p;
+  }
+
+  get profile(): Profile {
+    return this.profiles.find((p) => p.id === this.profileId) ?? this.profiles[0];
+  }
+
+  private saveProfiles() {
+    this.write(PROFILES_KEY, JSON.stringify(this.profiles));
+  }
+
+  switchProfile(id: string) {
+    if (!this.profiles.some((p) => p.id === id)) return;
+    this.profileId = id;
+    this.write(ACTIVE_KEY, id);
+    this.data = this.load();
+    this.listeners.forEach((l) => l());
+  }
+
+  addProfile(name: string): Profile {
+    const clean = name.trim().slice(0, 30);
+    if (!clean) throw new Error('El nombre no puede estar vacío');
+    let id = slugifyProfile(clean);
+    let n = 2;
+    while (this.profiles.some((p) => p.id === id)) id = `${slugifyProfile(clean)}-${n++}`;
+    const p = { id, name: clean };
+    this.profiles.push(p);
+    this.saveProfiles();
+    return p;
+  }
+
+  renameProfile(id: string, name: string) {
+    const p = this.profiles.find((x) => x.id === id);
+    if (!p || !name.trim()) return;
+    p.name = name.trim().slice(0, 30);
+    this.saveProfiles();
+  }
+
+  deleteProfile(id: string) {
+    if (this.profiles.length <= 1 || id === this.profileId) throw new Error('No se puede borrar el perfil activo ni el último perfil');
+    this.profiles = this.profiles.filter((p) => p.id !== id);
+    this.saveProfiles();
+    try {
+      this.storage?.removeItem(progressKey(id));
+    } catch {
+      /* */
     }
   }
 
   save() {
-    try {
-      this.storage?.setItem(KEY, JSON.stringify(this.data));
-    } catch {
-      /* almacenamiento lleno o bloqueado */
-    }
+    this.write(progressKey(this.profileId), JSON.stringify(this.data));
     this.listeners.forEach((l) => l());
   }
 
@@ -133,4 +254,10 @@ export const store = new Store(safeStorage());
 
 export function attemptsFor(taskId: string): Attempt[] {
   return store.data.attempts.filter((a) => a.taskId === taskId);
+}
+
+/** Plus de prioridad para la destreza elegida en Ajustes (por defecto speaking en el perfil de Fran). */
+export function boost(): Partial<Record<Skill, number>> {
+  const s = store.data.settings.prioritySkill;
+  return s ? { [s]: 15 } : {};
 }
