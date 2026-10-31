@@ -1,0 +1,719 @@
+[
+  {
+    "meta": {
+      "id": "rd-slp-01",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "EU industrial emissions rules",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Briefing Note: Revised Industrial Emissions Rules",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 14,
+    "text": "TO: Site directors and environmental managers. FROM: Corporate Compliance Department. SUBJECT: Revised EU industrial emissions framework – what changes and when.\n\nThe revision of the EU's framework for industrial emissions, agreed after protracted negotiations between the institutions, will have significant implications for each of our production sites. This note summarises the changes most relevant to our operations. It is not a substitute for legal advice, and site directors should consult the compliance team before taking any decisions based on it.\n\nThe most immediate change concerns the way permit limits are set. Until now, competent authorities have frequently granted permits at the upper, least demanding end of the emission ranges associated with best available techniques. Under the revised rules, authorities will be expected to set the strictest limits achievable by each installation, and operators who argue for looser limits will bear the burden of demonstrating why the tighter values are not feasible. In practical terms, we should assume that permit reviews over the coming years will result in lower limits for dust, nitrogen oxides and several metals.\n\nSecond, every installation covered by the rules will be required to implement an environmental management system that addresses not only emissions but also the use of water, energy and raw materials, as well as hazardous chemicals. Sites that already hold ISO 14001 certification are well placed, but certification alone will not automatically demonstrate compliance; the new system must include specific elements, such as a chemicals inventory and a plan for substituting the most hazardous substances where alternatives exist.\n\nThird, operators will need to prepare transformation plans setting out how each installation intends to contribute to the EU's goal of a clean, circular and climate-neutral economy by 2050. These plans will initially be indicative rather than binding, but they will be made public, and we anticipate that investors, customers and campaigners will scrutinise them closely. A vague or unambitious plan is therefore likely to carry a reputational cost even where it carries no legal one.\n\nFinally, the enforcement regime has been strengthened considerably. For the most serious infringements, Member States must provide for fines of at least 3% of the operator's annual turnover in the EU, and members of the public whose health has been damaged by a breach will have a right to seek compensation. Taken together, these provisions mark a clear departure from the view, still common in parts of our industry, that occasional breaches are simply a cost of doing business.\n\nThe timetable is less urgent than some headlines have suggested. Member States have a transition period in which to incorporate the rules into national law, and many obligations will apply only when individual permits are next reviewed. However, the compliance team strongly advises against treating this as a reason to delay. Upgrading abatement equipment typically takes two to three years from approval to commissioning, and sites that start planning only when a permit review is announced may find themselves with no realistic way of meeting the new limits in time.\n\nEach site director is asked to nominate a contact person by the end of next month. A workshop will then be organised to review site-specific risks.",
+    "questions": [
+      {
+        "id": "rd-slp-01-q1",
+        "kind": "choice",
+        "prompt": "What is the main purpose of the note?",
+        "options": [
+          "to explain how EU legislation is negotiated and adopted",
+          "to outline the key regulatory changes and encourage early preparation",
+          "to announce the company's own new environmental targets",
+          "to provide legal advice that sites can rely on in permit applications"
+        ],
+        "answer": 1,
+        "explanation": "Resume los cambios relevantes y pide no esperar («advises against treating this as a reason to delay»). El propio texto dice que «It is not a substitute for legal advice», y la negociación solo se menciona de pasada.",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-slp-01-q2",
+        "kind": "choice",
+        "prompt": "Under the revised rules, who must justify a permit with less strict emission limits?",
+        "options": [
+          "the competent authority",
+          "the European Commission",
+          "the operator of the installation",
+          "an independent auditor"
+        ],
+        "answer": 2,
+        "explanation": "«operators who argue for looser limits will bear the burden of demonstrating why the tighter values are not feasible».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-01-q3",
+        "kind": "choice",
+        "prompt": "What does the note imply about sites that are already ISO 14001 certified?",
+        "options": [
+          "They will automatically be considered compliant.",
+          "They are exempt from preparing a chemicals inventory.",
+          "They should give up their certification and adopt the new system.",
+          "They have a head start but may need to add elements to their current system."
+        ],
+        "answer": 3,
+        "explanation": "«are well placed, but certification alone will not automatically demonstrate compliance; the new system must include specific elements». No están exentas ni deben abandonar la certificación.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-01-q4",
+        "kind": "choice",
+        "prompt": "The sentence \"A vague or unambitious plan is therefore likely to carry a reputational cost even where it carries no legal one\" implies that",
+        "options": [
+          "transformation plans will be legally binding from the outset.",
+          "a weak plan could damage the company's image even if it is not penalised.",
+          "campaigners will be able to challenge the plans in court.",
+          "investors will refuse to finance installations with weak plans."
+        ],
+        "answer": 1,
+        "explanation": "Los planes son «indicative rather than binding» (no hay sanción legal), pero al ser públicos un plan pobre perjudicaría la reputación. Las opciones C y D van más allá de lo que dice el texto.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-01-q5",
+        "kind": "choice",
+        "prompt": "How does the writer regard the view that \"occasional breaches are simply a cost of doing business\"?",
+        "options": [
+          "as a reasonable position for minor infringements",
+          "with sympathy, given the cost of compliance",
+          "as an attitude that the new rules make untenable",
+          "without expressing any opinion on it"
+        ],
+        "answer": 2,
+        "explanation": "Las nuevas sanciones y el derecho a indemnización «mark a clear departure from the view...»: la postura queda superada. No hay simpatía ni neutralidad.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-slp-01-q6",
+        "kind": "choice",
+        "prompt": "Why does the compliance team advise sites not to wait for their permit review?",
+        "options": [
+          "The rules will apply immediately, before national transposition.",
+          "Permit reviews have already been scheduled for all sites.",
+          "Fines will be applied retroactively to past breaches.",
+          "New abatement equipment takes a long time to install."
+        ],
+        "answer": 3,
+        "explanation": "Mejorar los equipos de reducción lleva «two to three years from approval to commissioning», por lo que esperar puede impedir cumplir a tiempo. El texto dice expresamente que hay un periodo transitorio.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-01-q7",
+        "kind": "choice",
+        "prompt": "In the third paragraph, \"bear the burden of demonstrating\" is closest in meaning to",
+        "options": [
+          "be allowed to demonstrate",
+          "be responsible for proving",
+          "be prevented from showing",
+          "share the cost of demonstrating"
+        ],
+        "answer": 1,
+        "explanation": "«Bear the burden of proof/demonstrating» es una expresión fija: recae sobre alguien la responsabilidad de probar algo. No se refiere a costes compartidos.",
+        "tag": "vocabulary"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-slp-02",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Chemical leak incident report",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Incident Report: Acid Release at a Storage Terminal",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 14,
+    "text": "INCIDENT REPORT – Ref. IR-14/26 (summary for distribution). Facility: bulk chemical storage terminal, unloading bay 3. Classification: reportable dangerous occurrence.\n\nSummary. At approximately 02:40 on 14 February, a release of hydrochloric acid (33% solution) occurred from a flexible transfer hose connecting a road tanker to storage tank 4B. The release continued for an estimated eleven minutes before the transfer was halted, during which time approximately 1,800 litres of acid were discharged into the bunded unloading area. A visible vapour cloud drifted towards the site boundary. No injuries were reported, and air monitoring at the perimeter recorded concentrations below the level at which off-site action would have been required.\n\nSequence of events. The tanker driver connected the hose and began the transfer at 02:15, supervised by a single night-shift operator. At 02:40, the operator noticed vapour rising from the hose coupling and pressed the emergency stop for the transfer pump. However, the pump continued to run because the stop button on the unloading gantry had been rewired to a circuit decommissioned during maintenance work in December. The operator then ran to the control room, approximately 90 metres away, and shut down the pump manually at 02:51. The site emergency plan was activated at 02:53 and the fire service was notified at 02:58.\n\nImmediate cause. Inspection of the hose revealed a split at the coupling end, adjacent to a section of reinforcement that had corroded. The hose had passed its last visual inspection in November. However, records show that it was nineteen months old, well beyond the twelve-month replacement interval specified in the terminal's own maintenance procedure.\n\nUnderlying causes. The investigation team identified three contributing factors. First, the maintenance management system did not generate automatic replacement alerts for hoses; replacement depended on a paper register that had not been updated since the departure of the technician responsible for it. Second, the modification to the gantry circuit was not subjected to a formal management-of-change review, so its effect on the emergency stop was never assessed, nor was the stop tested after the work. Third, staffing levels on the night shift meant that the operator was the only person present able to respond, and could not isolate the pump and manage the release at the same time.\n\nIt should be emphasised that the bund performed as designed and contained the liquid in full. Had it not done so, the acid would have entered the surface water drainage system, which discharges directly into the harbour.\n\nRecommendations. (1) All flexible hoses to be inspected and any that exceed their replacement interval to be withdrawn from service immediately. (2) Hose replacement to be integrated into the computerised maintenance system with automatic alerts. (3) All emergency stops on site to be functionally tested within seven days, and after any future electrical modification. (4) The management-of-change procedure to be reissued and applied to all modifications, however minor. (5) Night-shift staffing for hazardous transfers to be reviewed, with a minimum of two trained persons present.\n\nThe investigation team wishes to stress that the operator's actions were prompt and appropriate given the information available. The failings identified are organisational rather than individual.",
+    "questions": [
+      {
+        "id": "rd-slp-02-q1",
+        "kind": "choice",
+        "prompt": "What is the report mainly about?",
+        "options": [
+          "a chemical release that injured several workers",
+          "a release with limited consequences that revealed organisational weaknesses",
+          "a delay by the fire service in responding to an emergency",
+          "the contamination of a harbour by hydrochloric acid"
+        ],
+        "answer": 1,
+        "explanation": "No hubo heridos y el ácido quedó contenido, pero se identifican fallos de mantenimiento, gestión del cambio y plantilla. El ácido no llegó al puerto.",
+        "tag": "gist"
+      },
+      {
+        "id": "rd-slp-02-q2",
+        "kind": "choice",
+        "prompt": "Why did the pump keep running after the emergency stop was pressed?",
+        "options": [
+          "The operator pressed the wrong button.",
+          "The pump had a mechanical fault.",
+          "The button had been connected to a circuit that was no longer in use.",
+          "The tanker driver overrode the stop command."
+        ],
+        "answer": 2,
+        "explanation": "«the stop button... had been rewired to a circuit decommissioned during maintenance work in December».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-02-q3",
+        "kind": "choice",
+        "prompt": "What can be inferred about the hose inspection carried out in November?",
+        "options": [
+          "It was never actually carried out.",
+          "It detected the corrosion, but no action was taken.",
+          "It failed to identify that the hose was already overdue for replacement.",
+          "It was carried out by unqualified staff."
+        ],
+        "answer": 2,
+        "explanation": "En febrero la manguera tenía 19 meses; en noviembre ya tenía unos 16, más que el intervalo de 12, y aun así «had passed». Nada indica que se detectara la corrosión ni que el inspector no estuviera cualificado.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-02-q4",
+        "kind": "choice",
+        "prompt": "Which of the following is NOT presented as an underlying cause of the incident?",
+        "options": [
+          "reliance on a paper register that was out of date",
+          "the absence of a formal review of an electrical modification",
+          "having only one person able to respond at night",
+          "the failure of the containment bund"
+        ],
+        "answer": 3,
+        "explanation": "El dique de contención «performed as designed and contained the liquid in full»; las otras tres son las causas subyacentes enumeradas.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-02-q5",
+        "kind": "choice",
+        "prompt": "What does the paragraph about the bund suggest?",
+        "options": [
+          "The harbour suffered minor contamination.",
+          "The bund was too small for the volume released.",
+          "The consequences could have been considerably more serious.",
+          "The drainage system must be redesigned immediately."
+        ],
+        "answer": 2,
+        "explanation": "La condicional «Had it not done so, the acid would have entered... the harbour» subraya lo que pudo pasar. No se pide rediseñar el drenaje.",
+        "tag": "inference",
+        "grammarRef": "conditionals-mixed"
+      },
+      {
+        "id": "rd-slp-02-q6",
+        "kind": "choice",
+        "prompt": "What is the purpose of the final paragraph?",
+        "options": [
+          "to recommend disciplinary action against the operator",
+          "to question the adequacy of the operator's training",
+          "to thank the fire service for its rapid response",
+          "to make clear that the organisation, not the operator, is at fault"
+        ],
+        "answer": 3,
+        "explanation": "«the operator's actions were prompt and appropriate... The failings identified are organisational rather than individual».",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-slp-02-q7",
+        "kind": "choice",
+        "prompt": "In recommendation (4), \"however minor\" means",
+        "options": [
+          "only if the modification is significant",
+          "no matter how small the modification is",
+          "except for very small modifications",
+          "especially for small modifications"
+        ],
+        "answer": 1,
+        "explanation": "«However + adjetivo» equivale a «no matter how»: el procedimiento debe aplicarse a todas las modificaciones, por pequeñas que sean.",
+        "tag": "vocabulary"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-slp-03",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Drug trafficking through seaports",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Threat Assessment Extract: Criminal Exploitation of Seaports",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 15,
+    "text": "Key judgement. Large container ports in the EU remain the principal entry points for cocaine destined for European markets, and it is highly likely that the volume trafficked through them will continue to increase over the next two years. Record seizures in recent years should not be interpreted as evidence that law enforcement is gaining the upper hand; they are more plausibly a reflection of the sheer quantity being shipped.\n\nModus operandi. Criminal networks have largely moved away from concealing drugs inside legitimate cargo, a method that requires the complicity of exporters and is vulnerable to targeted inspections. The predominant technique is now the so-called \"rip-on/rip-off\", in which bags are placed inside a container shortly before departure and removed at the destination port before customs controls take place. This method depends almost entirely on access to the port's restricted areas and on information about the location and inspection status of specific containers.\n\nCorruption as an enabler. As a consequence, insiders have become the networks' most valuable asset. Dock workers, crane operators, lorry drivers, security staff and, in some cases, employees with access to port IT systems are recruited, often through a combination of financial inducement and intimidation. Payments reported in investigations range from a few thousand euros for a single extraction to considerably larger sums for providing access credentials. Once an employee has accepted a payment, the network typically uses that initial compromise as leverage to secure further cooperation. Refusal can result in threats against the employee or their family.\n\nSpill-over violence. Competition between networks for control of port access has been accompanied by a marked rise in violence in several port cities, including shootings, the use of explosives against premises and the kidnapping of individuals suspected of stealing consignments. There is a realistic possibility that this violence will spread to ports where it has not previously been observed, as networks displaced by enforcement pressure seek alternative routes.\n\nDisplacement. Increased controls at the largest hubs have already prompted some networks to divert shipments to smaller ports with fewer resources for screening. These ports are judged to be less resilient to infiltration, and their authorities may have limited experience of the threat. Intelligence also indicates growing use of transhipment through ports outside the EU, where consignments are re-documented to disguise their origin before onward shipment.\n\nOutlook. Seizure-focused enforcement alone is unlikely to alter the threat significantly. Measures that reduce opportunities for insider recruitment — including the vetting of port staff, restrictions on access to container data and the rotation of personnel in sensitive roles — are assessed to offer greater long-term benefit. An effective response will also require closer cooperation between customs, police and private port operators, whose interests do not always align.\n\nNote on probability language: \"highly likely\" denotes a probability of approximately 80–90%; \"realistic possibility\" denotes approximately 40–50%.",
+    "questions": [
+      {
+        "id": "rd-slp-03-q1",
+        "kind": "choice",
+        "prompt": "According to the key judgement, record seizures",
+        "options": [
+          "prove that enforcement is succeeding.",
+          "are expected to fall over the next two years.",
+          "probably reflect larger shipments rather than enforcement success.",
+          "are mainly the result of better intelligence."
+        ],
+        "answer": 2,
+        "explanation": "«should not be interpreted as evidence that law enforcement is gaining the upper hand; they are more plausibly a reflection of the sheer quantity being shipped».",
+        "tag": "gist"
+      },
+      {
+        "id": "rd-slp-03-q2",
+        "kind": "choice",
+        "prompt": "The expression \"gaining the upper hand\" means",
+        "options": [
+          "starting to win control of the situation",
+          "receiving more resources",
+          "acting more aggressively",
+          "losing public support"
+        ],
+        "answer": 0,
+        "explanation": "«Gain the upper hand» = tomar ventaja, empezar a imponerse. Es una expresión figurada; no tiene que ver con recursos ni con apoyo público.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "rd-slp-03-q3",
+        "kind": "choice",
+        "prompt": "Why have networks largely abandoned hiding drugs inside legitimate cargo?",
+        "options": [
+          "Because it is more expensive than other methods.",
+          "Because it needs exporters' complicity and is exposed to targeted checks.",
+          "Because customs no longer inspect containers at the destination.",
+          "Because port employees refused to cooperate with it."
+        ],
+        "answer": 1,
+        "explanation": "El método «requires the complicity of exporters and is vulnerable to targeted inspections». El coste no se menciona.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-03-q4",
+        "kind": "choice",
+        "prompt": "What does the text imply about the first payment an employee accepts?",
+        "options": [
+          "It is usually larger than later payments.",
+          "It is normally reported to the authorities.",
+          "It can trap the employee into continued collaboration.",
+          "It is only offered to staff with IT access."
+        ],
+        "answer": 2,
+        "explanation": "La red usa «that initial compromise as leverage to secure further cooperation», y negarse puede acarrear amenazas.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-03-q5",
+        "kind": "choice",
+        "prompt": "How likely do the authors consider it that the violence will spread to other ports?",
+        "options": [
+          "almost certain",
+          "approximately 80–90%",
+          "approximately 40–50%",
+          "highly unlikely"
+        ],
+        "answer": 2,
+        "explanation": "Usan «realistic possibility», que según la nota final equivale a «approximately 40–50%». El 80–90% corresponde a «highly likely».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-03-q6",
+        "kind": "choice",
+        "prompt": "Why are smaller ports considered vulnerable?",
+        "options": [
+          "They have fewer screening resources and less experience of the threat.",
+          "They handle most of the cocaine entering Europe.",
+          "Their staff are paid more by criminal networks.",
+          "They are located outside the EU."
+        ],
+        "answer": 0,
+        "explanation": "«fewer resources for screening... less resilient to infiltration... limited experience of the threat». Los grandes puertos siguen siendo la principal entrada y los de fuera de la UE son otra cuestión.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-03-q7",
+        "kind": "choice",
+        "prompt": "What is the authors' position on seizure-focused enforcement?",
+        "options": [
+          "It should be abandoned in favour of prevention.",
+          "It is insufficient on its own and should be complemented by preventive measures.",
+          "It is the most cost-effective response available.",
+          "It should be led by private port operators."
+        ],
+        "answer": 1,
+        "explanation": "«alone is unlikely to alter the threat significantly»: no dicen que se abandone («alone»), sino que se complemente con medidas contra el reclutamiento de empleados.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-slp-03-q8",
+        "kind": "choice",
+        "prompt": "The phrase \"spill-over violence\" refers to violence that",
+        "options": [
+          "occurs only among port employees.",
+          "results from accidents during unloading.",
+          "is caused by drug consumption.",
+          "extends beyond the trafficking activity into the wider community."
+        ],
+        "answer": 3,
+        "explanation": "«Spill over» = desbordarse: la violencia sale del ámbito del tráfico y afecta a las ciudades portuarias (tiroteos, explosivos, secuestros).",
+        "tag": "vocabulary"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-slp-04",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Border management and migration policy",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Opinion: A Fence Is Not a Policy",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 13,
+    "text": "Every summer, the images return with grim predictability: overcrowded boats, exhausted families on a beach, and politicians promising that this time the borders will be secured. And every summer, the debate collapses into a false choice between those who would build ever higher fences and those who appear to believe that borders should not be policed at all. Both positions, I would argue, are a comfortable refuge from the harder work of designing a system that actually functions.\n\nLet me declare an interest. I spent the better part of two decades as a border guard, and I do not believe that a state can — or should — renounce control over who enters its territory. Effective controls protect not only the public but also migrants themselves, many of whom are exploited by smuggling networks that treat human beings as cargo. A border that is visibly porous is, in effect, an advertisement for those networks.\n\nYet the experience of the last decade shows that physical barriers, on their own, achieve far less than their advocates claim. Fences redirect flows rather than stopping them, pushing people towards more dangerous routes and into the hands of more ruthless smugglers. Each new barrier is followed, with depressing regularity, by a rise in deaths on the alternative routes. A policy that measures success by the number of crossings at a particular point, while ignoring what happens a hundred kilometres away, is not border management; it is displacement dressed up as achievement.\n\nWhat, then, would work? First, asylum procedures that reach decisions in weeks rather than years. Lengthy uncertainty serves nobody: genuine refugees are left in limbo, while those with no valid claim remain for so long that removal becomes practically impossible. Speed, combined with fair process, is the most effective deterrent to abuse of the system, and it costs far less than the alternatives.\n\nSecond, serious investment in intelligence-led action against smuggling networks, including financial investigation. The organisers of these routes rarely set foot in a boat; they are found by following the money, not by patrolling the shore. Third, credible legal pathways for those who meet the criteria, whether as refugees or as workers in sectors that need them. Every person who can apply from abroad is a person who does not need a smuggler.\n\nNone of this is glamorous, and none of it fits neatly into a campaign slogan. It requires cooperation with countries of origin and transit, whose priorities will not always match ours, and a degree of patience that electoral cycles do not reward. But the alternative is to keep repeating a script whose ending we already know.\n\nMy former colleagues on the front line deserve better than to be cast as the last line of defence in a battle that politicians have chosen not to fight anywhere else. They can control a border. They cannot, on their own, fix a broken system.",
+    "questions": [
+      {
+        "id": "rd-slp-04-q1",
+        "kind": "choice",
+        "prompt": "What is the writer's central argument?",
+        "options": [
+          "Borders should be opened to anyone who wishes to enter.",
+          "Physical barriers should be extended and reinforced.",
+          "Effective border control depends on policies that go beyond physical barriers.",
+          "Border guards are not adequately trained for their work."
+        ],
+        "answer": 2,
+        "explanation": "El autor defiende el control fronterizo, pero dice que las vallas solas no bastan y propone asilo rápido, investigación financiera y vías legales.",
+        "tag": "gist"
+      },
+      {
+        "id": "rd-slp-04-q2",
+        "kind": "choice",
+        "prompt": "Why does the writer mention having worked as a border guard?",
+        "options": [
+          "to establish credibility and show support for border control in principle",
+          "to complain about working conditions at the border",
+          "to describe a particularly difficult rescue",
+          "to explain the reasons for leaving the service"
+        ],
+        "answer": 0,
+        "explanation": "«Let me declare an interest»: su experiencia le da autoridad y deja claro que no rechaza el control («I do not believe that a state can — or should — renounce control»).",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-slp-04-q3",
+        "kind": "choice",
+        "prompt": "What does the writer mean by \"A border that is visibly porous is, in effect, an advertisement for those networks\"?",
+        "options": [
+          "Smuggling networks publicise their services openly.",
+          "Weak controls encourage smuggling by signalling that entry is easy.",
+          "Border guards sometimes collaborate with smugglers.",
+          "Governments advertise their border policies abroad."
+        ],
+        "answer": 1,
+        "explanation": "Lenguaje figurado: una frontera claramente permeable «anuncia» a los traficantes que el negocio es viable. No se habla de anuncios literales ni de corrupción.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "rd-slp-04-q4",
+        "kind": "choice",
+        "prompt": "The phrase \"displacement dressed up as achievement\" suggests that some policies",
+        "options": [
+          "genuinely reduce the total number of irregular crossings.",
+          "present the mere relocation of a problem as a success.",
+          "move border guards to more dangerous areas.",
+          "are deliberately concealed from the public."
+        ],
+        "answer": 1,
+        "explanation": "«Dress up as» = disfrazar de. Las vallas desvían los flujos a otras rutas, pero se presentan como un logro porque bajan los cruces en un punto concreto.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-04-q5",
+        "kind": "choice",
+        "prompt": "According to the writer, why are slow asylum procedures harmful?",
+        "options": [
+          "They are cheaper but less fair.",
+          "They attract more economic migrants.",
+          "They overload the courts in countries of transit.",
+          "They leave genuine refugees in uncertainty and make removing others impractical."
+        ],
+        "answer": 3,
+        "explanation": "«genuine refugees are left in limbo, while those with no valid claim remain for so long that removal becomes practically impossible».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-04-q6",
+        "kind": "choice",
+        "prompt": "How does the writer suggest the organisers of smuggling routes can best be caught?",
+        "options": [
+          "by increasing maritime patrols along the coast",
+          "by tracing their financial activity",
+          "by arresting the people who steer the boats",
+          "by building barriers on the main routes"
+        ],
+        "answer": 1,
+        "explanation": "«they are found by following the money, not by patrolling the shore»; además, «rarely set foot in a boat».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-04-q7",
+        "kind": "choice",
+        "prompt": "Which best describes the tone of the final paragraph?",
+        "options": [
+          "indifferent and detached",
+          "celebratory and optimistic",
+          "apologetic and self-critical",
+          "protective of colleagues and critical of politicians"
+        ],
+        "answer": 3,
+        "explanation": "Defiende a sus antiguos compañeros («deserve better») y reprocha a los políticos haber elegido no actuar en otros frentes.",
+        "tag": "tone"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-slp-05",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Power transformer failure",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Technical Memorandum: Transformer Failure",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 14,
+    "text": "TO: Asset Management Committee. FROM: Substation Engineering. SUBJECT: Failure of 132/33 kV transformer T2 at Northfield substation – preliminary findings.\n\nThis memorandum presents the preliminary findings of the investigation into the failure of transformer T2 at Northfield substation on 3 September, which resulted in the loss of supply to approximately 14,000 customers for up to six hours. A full report will follow once laboratory analysis of the winding samples is complete.\n\nBackground. T2 was commissioned in 1984 and had therefore exceeded its nominal design life of forty years. Its condition had been assessed annually using dissolved gas analysis (DGA) of the insulating oil, a technique that detects gases released when insulation is subjected to abnormal electrical or thermal stress. Results up to and including the 2025 sample were within normal limits, although a gradual rise in carbon monoxide had been noted since 2021, consistent with ageing of the paper insulation.\n\nSequence of events. At 14:12, the transformer's Buchholz relay operated, followed within milliseconds by the differential protection, which disconnected the unit. Staff attending the site reported a strong smell of burning oil and a small discharge of oil from the pressure relief device. There was no fire. Supply was restored to most customers within ninety minutes by reconfiguring the 33 kV network, but around 2,000 customers remained off supply until a mobile generator was connected.\n\nFindings to date. An oil sample taken after the trip showed very high levels of acetylene, a gas associated with high-energy arcing. Internal inspection revealed a flashover between turns on the high-voltage winding of the B phase, with evidence of severe localised overheating. The most likely explanation is that the insulating paper had degraded to the point where it could no longer withstand normal operating stresses, and that a voltage surge — possibly caused by a lightning strike recorded on an overhead line 8 km away some twenty minutes earlier — provided the final trigger.\n\nDiscussion. Two points deserve particular attention. First, annual DGA sampling is clearly too infrequent to detect rapidly developing faults in transformers at this stage of life. Online monitoring, which provides continuous gas readings, would have offered at least a chance of earlier warning, although it cannot be stated with certainty that it would have prevented this failure. Second, the network's ability to restore supply depended on spare capacity at adjacent substations, which is projected to be absorbed by new housing and electric vehicle charging within five years. Under those conditions, an equivalent failure would leave a substantially larger number of customers without power for considerably longer.\n\nRecommendations. The committee is asked to approve (a) the installation of online DGA monitoring on all transformers over thirty-five years old, beginning with the twelve units identified as highest risk; (b) a review of the replacement programme, which currently prioritises units by age alone rather than by condition and criticality; and (c) the procurement of a strategic spare 132/33 kV transformer, given that lead times for new units currently exceed eighteen months.",
+    "questions": [
+      {
+        "id": "rd-slp-05-q1",
+        "kind": "choice",
+        "prompt": "What is the main purpose of the memorandum?",
+        "options": [
+          "to present the final conclusions of the investigation",
+          "to report initial findings and request approval for preventive measures",
+          "to apologise to customers affected by the outage",
+          "to identify the staff responsible for the failure"
+        ],
+        "answer": 1,
+        "explanation": "Presenta «preliminary findings» (el informe completo llegará después) y pide al comité aprobar medidas («The committee is asked to approve»).",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-slp-05-q2",
+        "kind": "choice",
+        "prompt": "What did the gradual rise in carbon monoxide since 2021 indicate?",
+        "options": [
+          "high-energy arcing inside the transformer",
+          "a fault in the Buchholz relay",
+          "the ageing of the paper insulation",
+          "contamination of the oil sample"
+        ],
+        "answer": 2,
+        "explanation": "«consistent with ageing of the paper insulation». El arco eléctrico se asocia al acetileno, detectado después del fallo.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-05-q3",
+        "kind": "choice",
+        "prompt": "How was supply restored to most customers?",
+        "options": [
+          "by connecting a mobile generator",
+          "by reconfiguring the 33 kV network",
+          "by repairing the B-phase winding",
+          "by installing a spare transformer"
+        ],
+        "answer": 1,
+        "explanation": "«Supply was restored to most customers within ninety minutes by reconfiguring the 33 kV network»; el generador móvil solo sirvió a unos 2.000 clientes.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-05-q4",
+        "kind": "choice",
+        "prompt": "What role do the engineers attribute to the lightning strike?",
+        "options": [
+          "It was the sole cause of the failure.",
+          "It caused a fire inside the transformer.",
+          "It had no connection with the failure.",
+          "It probably triggered a failure that degraded insulation had made likely."
+        ],
+        "answer": 3,
+        "explanation": "La causa de fondo es el papel aislante degradado; la sobretensión, «possibly» por el rayo, «provided the final trigger». No hubo incendio.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-05-q5",
+        "kind": "choice",
+        "prompt": "How would you describe the writers' statement about online monitoring?",
+        "options": [
+          "confident that it would have prevented the failure",
+          "dismissive of its usefulness",
+          "cautious about how much difference it would have made",
+          "based on claims made by equipment suppliers"
+        ],
+        "answer": 2,
+        "explanation": "Lenguaje matizado: «at least a chance of earlier warning, although it cannot be stated with certainty that it would have prevented this failure».",
+        "tag": "tone"
+      },
+      {
+        "id": "rd-slp-05-q6",
+        "kind": "choice",
+        "prompt": "What concern about the future is raised in the Discussion section?",
+        "options": [
+          "Lightning strikes are expected to become more frequent.",
+          "Shrinking spare capacity would make a similar failure more disruptive.",
+          "Electric vehicles will damage transformer insulation.",
+          "New housing will be built too close to substations."
+        ],
+        "answer": 1,
+        "explanation": "La capacidad de reserva de las subestaciones vecinas será absorbida por viviendas y recarga de vehículos, de modo que un fallo similar afectaría a más clientes durante más tiempo.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-05-q7",
+        "kind": "choice",
+        "prompt": "What does recommendation (b) imply about the current replacement programme?",
+        "options": [
+          "It is too expensive to maintain.",
+          "It replaces transformers too early.",
+          "It ignores the actual state and importance of each unit.",
+          "It has been suspended until the full report is ready."
+        ],
+        "answer": 2,
+        "explanation": "Critica implícitamente que prioriza «by age alone rather than by condition and criticality».",
+        "tag": "inference"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-slp-06",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Drug seizure operation and international cooperation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Press Release: Smuggling Network Dismantled",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 12,
+    "text": "PRESS RELEASE – For immediate publication. Joint operation dismantles hashish smuggling network operating along the southern coast.\n\nA joint operation led by Spanish law enforcement agencies, with the support of authorities in Portugal and France and coordinated through Europol, has dismantled a criminal network suspected of smuggling large quantities of hashish from North Africa into Europe using high-speed boats. Twenty-three people have been arrested in the three countries, and 14 tonnes of hashish have been seized since the investigation began.\n\nThe investigation, codenamed Operation Marea, was launched eighteen months ago after officers detected an unusual pattern of fuel purchases at several marinas along the southern coast. Investigators established that the network refuelled its high-speed boats at sea, relying on supply vessels and on individuals ashore who stockpiled petrol in garages and warehouses close to the beaches. This logistical support enabled the boats to remain at sea for days without returning to port, reducing their exposure to controls.\n\nThe network is believed to have operated with an unusually high degree of organisation. Its members were divided into cells responsible for logistics, transport, surveillance and money laundering, with minimal contact between them. Lookouts used encrypted messaging applications to report the position of patrol vessels in real time. Profits were laundered through a network of car dealerships and restaurants, as well as through cryptocurrency transactions.\n\nIn the final phase of the operation, officers carried out 31 searches, seizing seven high-speed boats, 40,000 litres of fuel, firearms, €1.2 million in cash and numerous communication devices. Several properties and luxury vehicles have also been frozen pending judicial proceedings.\n\nA spokesperson for the investigating unit stressed that the significance of the operation went beyond the quantity seized. \"The confrontations we have seen at sea and on our beaches in recent years show that these networks are prepared to put lives at risk, including those of officers and bathers. Dismantling the logistical structure that allows these boats to operate is as important as intercepting the drugs themselves.\"\n\nThe spokesperson also highlighted the role of international cooperation: \"Organised crime does not stop at borders, and neither can we. The real-time exchange of intelligence with our partners was decisive at every stage.\"\n\nThe investigation remains open, and further arrests have not been ruled out. Members of the public who observe suspicious activity, such as the storage of large quantities of fuel, are encouraged to contact the authorities through the usual channels. Anonymity is guaranteed.",
+    "questions": [
+      {
+        "id": "rd-slp-06-q1",
+        "kind": "choice",
+        "prompt": "What is the main point of the press release?",
+        "options": [
+          "to report a single large seizure of hashish at a port",
+          "to announce that a cross-border smuggling network and its logistics have been dismantled",
+          "to describe new legislation against high-speed boats",
+          "to request additional resources for maritime surveillance"
+        ],
+        "answer": 1,
+        "explanation": "Anuncia la desarticulación de una red transnacional, con detenciones en tres países, y subraya su estructura logística. Las 14 toneladas son acumuladas, no una sola incautación.",
+        "tag": "gist"
+      },
+      {
+        "id": "rd-slp-06-q2",
+        "kind": "choice",
+        "prompt": "What first drew investigators' attention to the network?",
+        "options": [
+          "a tip-off from a member of the public",
+          "a confrontation on a beach",
+          "an unusual pattern of fuel purchases",
+          "intelligence received from Europol"
+        ],
+        "answer": 2,
+        "explanation": "«launched eighteen months ago after officers detected an unusual pattern of fuel purchases at several marinas».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-06-q3",
+        "kind": "choice",
+        "prompt": "Why was refuelling at sea important to the network?",
+        "options": [
+          "Fuel was cheaper at sea than in marinas.",
+          "It allowed the boats to avoid returning to port and facing controls.",
+          "It made the boats faster than patrol vessels.",
+          "It enabled the network to sell fuel to other groups."
+        ],
+        "answer": 1,
+        "explanation": "«enabled the boats to remain at sea for days without returning to port, reducing their exposure to controls».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-slp-06-q4",
+        "kind": "choice",
+        "prompt": "Why did the network probably keep \"minimal contact\" between its cells?",
+        "options": [
+          "Because members spoke different languages.",
+          "Because each cell operated in a different country.",
+          "To limit the damage if one cell was discovered.",
+          "To increase the profits of each cell."
+        ],
+        "answer": 2,
+        "explanation": "Inferencia: la compartimentación evita que la caída de una célula exponga a las demás. El texto no menciona idiomas ni beneficios por célula.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-slp-06-q5",
+        "kind": "choice",
+        "prompt": "What is the purpose of the spokesperson's statement in the sixth paragraph?",
+        "options": [
+          "to downplay the quantity of drugs seized",
+          "to criticise the response of coastal residents",
+          "to stress that disrupting logistics matters as much as seizing drugs",
+          "to warn bathers to avoid certain beaches"
+        ],
+        "answer": 2,
+        "explanation": "«Dismantling the logistical structure... is as important as intercepting the drugs themselves». No resta importancia a la incautación, sino que añade otra dimensión.",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-slp-06-q6",
+        "kind": "choice",
+        "prompt": "What does the spokesperson mean by \"Organised crime does not stop at borders, and neither can we\"?",
+        "options": [
+          "Police intend to patrol the territorial waters of other countries.",
+          "Law enforcement must work across national boundaries through cooperation.",
+          "Border controls should be removed to make investigations easier.",
+          "Criminal networks are moving away from coastal areas."
+        ],
+        "answer": 1,
+        "explanation": "Expresión figurada: si el crimen es transnacional, la respuesta policial también, lo que se concreta en el intercambio de inteligencia con los socios.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "rd-slp-06-q7",
+        "kind": "choice",
+        "prompt": "What is the main purpose of the final paragraph?",
+        "options": [
+          "to invite the public to report relevant information",
+          "to announce the date of the trial",
+          "to explain why some suspects were released",
+          "to give details of the arrests still planned"
+        ],
+        "answer": 0,
+        "explanation": "Anima a los ciudadanos a comunicar actividades sospechosas y garantiza el anonimato. Solo dice que no se descartan más detenciones, sin detalles.",
+        "tag": "purpose"
+      }
+    ]
+  }
+]
