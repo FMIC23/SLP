@@ -1,5 +1,6 @@
 import './ui/styles.css';
 import { h, clear } from './ui/dom';
+import { store } from './core/store';
 import { homeView } from './views/home';
 import { readingView } from './views/reading';
 import { uoeView } from './views/uoe';
@@ -39,6 +40,24 @@ toggle.addEventListener('click', () => {
   const open = nav.classList.toggle('open');
   toggle.setAttribute('aria-expanded', String(open));
 });
+
+const profileSel = document.getElementById('profile') as HTMLSelectElement;
+export function renderProfiles() {
+  profileSel.replaceChildren(
+    ...store.profiles.map((p) => h('option', { value: p.id, selected: p.id === store.profileId }, `👤 ${p.name}`)),
+    h('option', { value: '__manage' }, 'Gestionar perfiles…'),
+  );
+}
+profileSel.addEventListener('change', () => {
+  if (profileSel.value === '__manage') {
+    renderProfiles();
+    location.hash = '#/ajustes';
+    return;
+  }
+  store.switchProfile(profileSel.value);
+  render();
+});
+renderProfiles();
 
 function render() {
   if (typeof cleanup === 'function') cleanup();

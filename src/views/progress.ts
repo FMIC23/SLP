@@ -1,7 +1,7 @@
 import { allTasks, grammarRefs } from '../core/content';
 import { recommend } from '../core/recommend';
 import { cambridgeBand, errorTagCounts, percentToCambridge, percentToSlp, skillStats, streak } from '../core/scoring';
-import { store, today, defaultPlan } from '../core/store';
+import { boost, store, today, defaultPlan } from '../core/store';
 import type { Skill } from '../core/types';
 import { bar, h, SKILL_LABEL, DOMAIN_LABEL } from '../ui/dom';
 
@@ -77,7 +77,7 @@ export function progressView(main: HTMLElement) {
   const a = store.data.attempts;
   const stats = skillStats(a);
   const st = streak(store.data.studyDays, today());
-  const next = recommend(a, allTasks());
+  const next = recommend(a, allTasks(), { boost: boost() });
   main.append(h('h1', null, 'Progreso'));
   main.append(
     h(

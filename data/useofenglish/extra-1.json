@@ -1,0 +1,1376 @@
+[
+  {
+    "meta": {
+      "id": "uoe-x1-mc-cloze-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Citizen science",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Science for everyone",
+    "part": "mc-cloze",
+    "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "For most of its history, science was the preserve of professionals working in laboratories and universities. In recent years, however, a growing number of ordinary people have been [[1]] part in research projects, from counting birds in their gardens to classifying distant galaxies on their laptops. This phenomenon, known as citizen science, has [[2]] scientists to gather data on a scale that would otherwise be far beyond their means. Thanks to smartphones and inexpensive sensors, almost anyone with a little spare time can now contribute, wherever they happen to live.\n\nNor is the arrangement a one-[[3]] street. Volunteers often report that taking part has deepened their understanding of the natural world and given them a [[4]] of ownership over discoveries they helped to make. Some projects have even [[5]] findings published in leading journals, with the volunteers' contributions formally acknowledged.\n\nCritics have [[6]] doubt on the reliability of data collected by untrained participants. A volunteer who misidentifies a species, for example, could distort the results of an entire survey. Project designers have responded by building in checks, such as asking several people to classify the same image and [[7]] only the answers on which most of them agree. Far [[8]] undermining the approach, these safeguards have helped citizen science earn a reputation for rigour that its early sceptics would hardly have predicted.",
+    "questions": [
+      {
+        "id": "uoe-x1-mc-cloze-01-q1",
+        "kind": "choice",
+        "options": [
+          "taking",
+          "having",
+          "making",
+          "playing"
+        ],
+        "answer": 0,
+        "explanation": "«Take part in» (participar) es la colocación fija. «Play» exigiría artículo («play a part in»); «have» y «make» no forman esta expresión.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q2",
+        "kind": "choice",
+        "options": [
+          "let",
+          "enabled",
+          "made",
+          "caused"
+        ],
+        "answer": 1,
+        "explanation": "«Enable somebody to do something» (permitir/posibilitar). «Let» y «made» van con infinitivo sin «to»; «caused» tiene un sentido de provocar algo no deseado.",
+        "tag": "grammar",
+        "grammarRef": "gerund-infinitive"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q3",
+        "kind": "choice",
+        "options": [
+          "side",
+          "lane",
+          "way",
+          "direction"
+        ],
+        "answer": 2,
+        "explanation": "«A one-way street» es una expresión fija para una relación en la que solo una parte se beneficia. Las demás palabras no forman la expresión.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q4",
+        "kind": "choice",
+        "options": [
+          "spirit",
+          "sense",
+          "mood",
+          "taste"
+        ],
+        "answer": 1,
+        "explanation": "«A sense of ownership» (sentimiento de pertenencia o de que algo es propio) es la colocación natural. «Spirit», «mood» y «taste» no se combinan con «of ownership».",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q5",
+        "kind": "choice",
+        "options": [
+          "brought",
+          "arisen",
+          "caused",
+          "yielded"
+        ],
+        "answer": 3,
+        "explanation": "«Yield findings/results» (dar resultados) es la colocación correcta. «Arisen» es intransitivo, «caused findings» no tiene sentido y «brought» necesitaría «about».",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q6",
+        "kind": "choice",
+        "options": [
+          "cast",
+          "placed",
+          "laid",
+          "set"
+        ],
+        "answer": 0,
+        "explanation": "«Cast doubt on something» (poner en duda) es la colocación fija. Ninguno de los otros verbos se combina con «doubt» con este sentido.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q7",
+        "kind": "choice",
+        "options": [
+          "agreeing",
+          "accepting",
+          "consenting",
+          "assenting"
+        ],
+        "answer": 1,
+        "explanation": "«Accept the answers» es transitivo directo. «Agree», «consent» y «assent» necesitarían preposición («agree with/to», «consent to», «assent to»).",
+        "tag": "grammar",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-01-q8",
+        "kind": "choice",
+        "options": [
+          "away",
+          "off",
+          "from",
+          "out"
+        ],
+        "answer": 2,
+        "explanation": "«Far from + -ing» (lejos de / en vez de) es una expresión fija que introduce lo contrario de lo esperado.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-mc-cloze-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "District heating networks",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Heat on tap",
+    "part": "mc-cloze",
+    "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "District heating, in which hot water produced at a central plant is piped to homes and businesses across a neighbourhood, is hardly a new idea. Several northern European cities have relied on it for decades, and in some of them the vast [[1]] of buildings are connected to a network. What has changed is the range of heat sources that engineers can now make [[2]] of.\n\nTraditionally, networks were fed by large boilers burning coal, gas or oil. Today, engineers are increasingly looking to capture heat that would otherwise go to [[3]]: the warm water discharged by data centres, the exhaust from industrial processes, even the wastewater flowing through sewers. Large heat pumps raise the temperature of these low-grade sources to a level suitable for distribution, [[4]] reducing both emissions and fuel costs.\n\nThe technical case is strong, but the initial costs can be [[5]]. Laying insulated pipes beneath existing streets is disruptive, and investors need to be confident that enough customers will connect to [[6]] the outlay. For this reason, some municipalities have made connection compulsory for new developments, a measure that has been criticised for [[7]] consumers of choice.\n\nAnother difficulty is that heat, unlike electricity, cannot be transported over long distances without significant losses. Networks must therefore be planned [[8]] close cooperation with local industry, which is precisely why their success depends as much on urban planning as on engineering.",
+    "questions": [
+      {
+        "id": "uoe-x1-mc-cloze-02-q1",
+        "kind": "choice",
+        "options": [
+          "number",
+          "majority",
+          "amount",
+          "share"
+        ],
+        "answer": 1,
+        "explanation": "«The vast majority of» es la colocación fija. «A vast number of» llevaría «a», no «the»; «amount» es para incontables y «share» no se combina con «vast».",
+        "tag": "collocation",
+        "grammarRef": "quantifiers"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q2",
+        "kind": "choice",
+        "options": [
+          "use",
+          "benefit",
+          "profit",
+          "advantage"
+        ],
+        "answer": 0,
+        "explanation": "«Make use of» (aprovechar, utilizar). Con «benefit», «profit» y «advantage» se dice «benefit from», «profit from», «take advantage of».",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q3",
+        "kind": "choice",
+        "options": [
+          "loss",
+          "waste",
+          "ruin",
+          "spoil"
+        ],
+        "answer": 1,
+        "explanation": "«Go to waste» (desperdiciarse) es una expresión fija. «Go to ruin» existe pero significa arruinarse/deteriorarse, no desaprovecharse.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q4",
+        "kind": "choice",
+        "options": [
+          "whereby",
+          "whereas",
+          "thereby",
+          "wherein"
+        ],
+        "answer": 2,
+        "explanation": "«Thereby + -ing» (con lo cual, de ese modo) introduce la consecuencia. «Whereby» y «wherein» son relativos que exigen una oración completa; «whereas» es de contraste.",
+        "tag": "linking",
+        "grammarRef": "linking-cause"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q5",
+        "kind": "choice",
+        "options": [
+          "forbidding",
+          "prohibitive",
+          "preventive",
+          "restrictive"
+        ],
+        "answer": 1,
+        "explanation": "«Prohibitive costs» (costes desorbitados, que impiden actuar) es la colocación. «Forbidding» significa amenazador; «preventive» y «restrictive» no se aplican a costes.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q6",
+        "kind": "choice",
+        "options": [
+          "excuse",
+          "defend",
+          "justify",
+          "pardon"
+        ],
+        "answer": 2,
+        "explanation": "«Justify the outlay» (justificar la inversión). «Excuse» y «pardon» son perdonar; «defend» no implica que la inversión compense.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q7",
+        "kind": "choice",
+        "options": [
+          "denying",
+          "depriving",
+          "removing",
+          "preventing"
+        ],
+        "answer": 1,
+        "explanation": "«Deprive somebody of something» (privar a alguien de algo). «Deny» no lleva «of» en esta estructura, «remove» sería «remove something from» y «prevent» va con «from + -ing».",
+        "tag": "preposition",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-x1-mc-cloze-02-q8",
+        "kind": "choice",
+        "options": [
+          "with",
+          "under",
+          "by",
+          "in"
+        ],
+        "answer": 3,
+        "explanation": "«In (close) cooperation with» es la expresión fija para «en (estrecha) colaboración con».",
+        "tag": "preposition",
+        "grammarRef": "dependent-prepositions"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-open-cloze-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "The shipping container and globalisation",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The box that changed the world",
+    "part": "open-cloze",
+    "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "It is hard to think of an invention that has done more to shape the modern economy, and [[1]] to attract public attention, than the shipping container. Before its introduction in the 1950s, cargo was loaded onto ships piece by piece, a process [[2]] could keep a vessel in port for a week or more. Dock work was slow, labour-intensive and notoriously prone to theft.\n\nThe idea behind the container was disarmingly simple: pack goods into standard-sized steel boxes that could be moved directly from lorry to ship to train [[3]] ever being opened. [[4]] simple the concept may have been, its adoption was anything but smooth. Ports had to be rebuilt, cranes redesigned and agreements reached on the precise dimensions of the boxes, a process that took the [[5]] part of two decades.\n\nOnce these obstacles had been overcome, the effects were dramatic. The cost of shipping fell so sharply that it [[6]] longer made sense for many manufacturers to produce goods close to where they were sold. Entire industries relocated, and the global supply chains we now take [[7]] granted began to take shape.\n\nNot everyone benefited, of course. Traditional port cities, [[8]] docks were too small or too congested to adapt, went into decline, and thousands of dockworkers lost their livelihoods almost overnight.",
+    "questions": [
+      {
+        "id": "uoe-x1-open-cloze-01-q1",
+        "kind": "text",
+        "accepted": [
+          "less"
+        ],
+        "explanation": "Estructura paralela de comparación: «done more to shape... and less to attract... than». Hace falta el comparativo «less», que comparte el «than» con «more».",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q2",
+        "kind": "text",
+        "accepted": [
+          "that",
+          "which"
+        ],
+        "explanation": "Relativo especificativo referido a «a process» y sujeto de «could keep»: «that» o «which».",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q3",
+        "kind": "text",
+        "accepted": [
+          "without"
+        ],
+        "explanation": "«Without + -ing» (sin que se abrieran): tras preposición, gerundio. El sentido es que las cajas no se abrían en ningún momento.",
+        "tag": "preposition",
+        "grammarRef": "gerund-infinitive"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q4",
+        "kind": "text",
+        "accepted": [
+          "however"
+        ],
+        "explanation": "«However + adjetivo + sujeto + verbo» (por muy sencillo que fuera) expresa concesión. «No matter how» serían dos palabras.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q5",
+        "kind": "text",
+        "accepted": [
+          "better",
+          "best"
+        ],
+        "explanation": "«The better part of» (casi, la mayor parte de) es una expresión fija; «the best part of» es una variante británica también aceptada.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q6",
+        "kind": "text",
+        "accepted": [
+          "no"
+        ],
+        "explanation": "«No longer» (ya no) con el verbo en afirmativa: «it no longer made sense».",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q7",
+        "kind": "text",
+        "accepted": [
+          "for"
+        ],
+        "explanation": "«Take something for granted» (dar algo por sentado); aquí con el objeto antepuesto en la relativa: «the supply chains we now take for granted».",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-open-cloze-01-q8",
+        "kind": "text",
+        "accepted": [
+          "whose"
+        ],
+        "explanation": "Relativo posesivo: los muelles pertenecen a las ciudades portuarias («cities whose docks...»).",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-open-cloze-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Drones in search and rescue operations",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Eyes in the sky",
+    "part": "open-cloze",
+    "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "When a hiker goes missing in the mountains, the first hours are often decisive. Until recently, searches depended almost entirely [[1]] teams on foot and, weather permitting, a helicopter. Today, many police mountain rescue units also deploy drones fitted with thermal cameras, which can cover difficult terrain far more quickly than any ground team.\n\nThe advantages are obvious. A drone can be launched within minutes, costs a fraction of what a helicopter flight does, and can operate in conditions [[2]] would be too dangerous for a crewed aircraft. At night, [[3]] a missing person is often hardest to find, a thermal camera can pick out the heat of a human body against the cold ground.\n\nNevertheless, drones are by [[4]] means a complete solution. Battery life remains limited, and strong winds can ground them altogether. Dense forest is a particular problem, [[5]] the canopy blocks the thermal signal. Operators also stress that spotting a figure on a screen is only the start: someone still has to reach the person, assess how seriously they [[6]] been hurt and bring them to safety.\n\nThere are legal considerations too. Pilots must be properly qualified, and flights near airports or over crowds are strictly regulated. In an emergency, police units are generally granted exemptions, [[7]] they are expected to justify each deployment afterwards. Used responsibly, drones have already [[8]] the difference between life and death for dozens of people.",
+    "questions": [
+      {
+        "id": "uoe-x1-open-cloze-02-q1",
+        "kind": "text",
+        "accepted": [
+          "on",
+          "upon"
+        ],
+        "explanation": "«Depend on/upon» (depender de): preposición dependiente del verbo.",
+        "tag": "preposition",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q2",
+        "kind": "text",
+        "accepted": [
+          "that",
+          "which"
+        ],
+        "explanation": "Relativo especificativo sujeto referido a «conditions»: «that» o «which».",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q3",
+        "kind": "text",
+        "accepted": [
+          "when"
+        ],
+        "explanation": "«At night, when...» es una relativa explicativa de tiempo: el antecedente «night» pide «when».",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q4",
+        "kind": "text",
+        "accepted": [
+          "no"
+        ],
+        "explanation": "«By no means» (en absoluto, de ningún modo) es una expresión fija negativa.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q5",
+        "kind": "text",
+        "accepted": [
+          "as",
+          "because",
+          "since"
+        ],
+        "explanation": "Conector causal seguido de oración: el dosel del bosque bloquea la señal térmica. Valen «as», «because» y «since».",
+        "tag": "linking",
+        "grammarRef": "linking-cause"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q6",
+        "kind": "text",
+        "accepted": [
+          "have"
+        ],
+        "explanation": "Present perfect pasivo en una pregunta indirecta: «how seriously they have been hurt» (sin inversión sujeto-verbo).",
+        "tag": "grammar",
+        "grammarRef": "verb-tenses"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q7",
+        "kind": "text",
+        "accepted": [
+          "although",
+          "though",
+          "but",
+          "yet",
+          "while",
+          "whilst"
+        ],
+        "explanation": "Contraste: se les concede la exención, pero deben justificar luego cada vuelo. Valen «although», «though», «but», «yet» o «while/whilst».",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-x1-open-cloze-02-q8",
+        "kind": "text",
+        "accepted": [
+          "made"
+        ],
+        "explanation": "«Make the difference between life and death» (marcar la diferencia entre la vida y la muerte): colocación con «make», aquí en present perfect.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-word-formation-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Noise pollution in cities",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The invisible pollutant",
+    "part": "word-formation",
+    "instructions": "For questions 1-8, read the text below. Use the word given in capitals to form a word that fits in the gap in the same line.",
+    "text": "Of all the forms of pollution that affect city dwellers, noise is perhaps the most [[1]] (ESTIMATE). Unlike smog, it leaves no visible trace, and many people assume that they simply grow used to it over time. Research suggests otherwise. Prolonged [[2]] (EXPOSE) to traffic noise has been linked to raised blood pressure, disturbed sleep and reduced concentration in children, effects that persist even when residents claim to have stopped noticing the sound.\n\nPart of the difficulty lies in the fact that the harm is [[3]] (CUMULATE): no single passing lorry does any measurable damage, but years of them may. This makes noise an [[4]] (USUAL) awkward problem for policymakers, who tend to respond more readily to sudden crises than to slow, invisible ones.\n\nSome cities have nonetheless taken action. Low-noise road surfaces, stricter limits on night-time deliveries and the [[5]] (ELECTRIC) of bus fleets have all produced measurable improvements. Planners are also paying more attention to the [[6]] (ARRANGE) of buildings, since a well-designed courtyard can shield bedrooms from the street almost entirely.\n\nCampaigners argue, however, that such measures remain [[7]] (DISAPPOINT) rare and that noise deserves the same legal recognition as air pollution. Until it receives it, they warn, millions of people will continue to suffer health effects that are entirely [[8]] (AVOID).",
+    "questions": [
+      {
+        "id": "uoe-x1-word-formation-01-q1",
+        "kind": "text",
+        "stem": "ESTIMATE",
+        "prompt": "ESTIMATE",
+        "accepted": [
+          "underestimated"
+        ],
+        "explanation": "Tras «the most» hace falta un adjetivo; el sentido (se le resta importancia) pide prefijo y participio: «underestimated».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q2",
+        "kind": "text",
+        "stem": "EXPOSE",
+        "prompt": "EXPOSE",
+        "accepted": [
+          "exposure"
+        ],
+        "explanation": "Sujeto de «has been linked» tras el adjetivo «prolonged»: sustantivo «exposure» (exposición). «Exposition» significa exposición en el sentido de explicación o muestra.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q3",
+        "kind": "text",
+        "stem": "CUMULATE",
+        "prompt": "CUMULATE",
+        "accepted": [
+          "cumulative"
+        ],
+        "explanation": "Adjetivo tras «is»: «cumulative» (acumulativo), coherente con la explicación de que el daño se va sumando.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q4",
+        "kind": "text",
+        "stem": "USUAL",
+        "prompt": "USUAL",
+        "accepted": [
+          "unusually"
+        ],
+        "explanation": "Adverbio que modifica al adjetivo «awkward», con sentido negativo («excepcionalmente»): prefijo un- y sufijo -ly. Por eso el artículo es «an».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q5",
+        "kind": "text",
+        "stem": "ELECTRIC",
+        "prompt": "ELECTRIC",
+        "accepted": [
+          "electrification"
+        ],
+        "explanation": "Tras «the» y antes de «of» se necesita un sustantivo: «electrification» (electrificación de las flotas de autobuses).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q6",
+        "kind": "text",
+        "stem": "ARRANGE",
+        "prompt": "ARRANGE",
+        "accepted": [
+          "arrangement"
+        ],
+        "explanation": "Sustantivo tras «the» y antes de «of»: «arrangement» (disposición, distribución de los edificios).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q7",
+        "kind": "text",
+        "stem": "DISAPPOINT",
+        "prompt": "DISAPPOINT",
+        "accepted": [
+          "disappointingly"
+        ],
+        "explanation": "Adverbio que modifica a «rare»: «disappointingly» (decepcionantemente).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-01-q8",
+        "kind": "text",
+        "stem": "AVOID",
+        "prompt": "AVOID",
+        "accepted": [
+          "avoidable"
+        ],
+        "explanation": "Adjetivo tras «entirely»: «avoidable» (evitable). «Unavoidable» contradiría la crítica de los activistas.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-word-formation-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Tailings dam safety in mining",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Holding back the mud",
+    "part": "word-formation",
+    "instructions": "For questions 1-8, read the text below. Use the word given in capitals to form a word that fits in the gap in the same line.",
+    "text": "Tailings dams, which store the fine slurry left behind once valuable minerals have been extracted from ore, rank among the largest structures ever built. Their [[1]] (FAIL), though relatively rare, can be catastrophic, releasing millions of cubic metres of mud that bury everything in their path.\n\nInvestigations into past disasters reveal a [[2]] (TROUBLE) pattern. In many cases, warning signs such as seepage or cracking had been noted but not acted upon, often because responsibility for the dam was [[3]] (CLEAR). Some structures had been raised repeatedly over decades using the cheaper upstream method, in which each new embankment is built partly on the [[4]] (CONSOLIDATE) tailings themselves.\n\nIn response, the industry has adopted a global standard that requires operators to appoint an [[5]] (DEPEND) engineer of record and to assess the consequences of a possible breach for downstream communities. Several countries have gone further, banning upstream construction [[6]] (RIGHT) and ordering existing dams of that type to be decommissioned.\n\nTechnology is playing its part as well. Satellite radar can now detect [[7]] (MOVE) of a few millimetres in an embankment, and sensors buried in the structure measure water pressure continuously. Experts insist, however, that no instrument can compensate for a weak safety culture. Ultimately, the [[8]] (RELY) of a tailings dam depends on whether those in charge are willing to act on bad news.",
+    "questions": [
+      {
+        "id": "uoe-x1-word-formation-02-q1",
+        "kind": "text",
+        "stem": "FAIL",
+        "prompt": "FAIL",
+        "accepted": [
+          "failure",
+          "failures"
+        ],
+        "explanation": "Tras el posesivo «their» se necesita un sustantivo: «failure» (rotura, colapso); el plural «failures» también concuerda con «can be».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q2",
+        "kind": "text",
+        "stem": "TROUBLE",
+        "prompt": "TROUBLE",
+        "accepted": [
+          "troubling"
+        ],
+        "explanation": "Adjetivo antes de «pattern» con el sentido de «preocupante»: «troubling». «Troubled» describiría a quien sufre el problema.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q3",
+        "kind": "text",
+        "stem": "CLEAR",
+        "prompt": "CLEAR",
+        "accepted": [
+          "unclear"
+        ],
+        "explanation": "Adjetivo tras «was» con sentido negativo (la responsabilidad no estaba clara): prefijo un-.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q4",
+        "kind": "text",
+        "stem": "CONSOLIDATE",
+        "prompt": "CONSOLIDATE",
+        "accepted": [
+          "unconsolidated"
+        ],
+        "explanation": "Adjetivo antes de «tailings»: los residuos sobre los que se construye no están compactados, «unconsolidated» (prefijo un- + participio).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q5",
+        "kind": "text",
+        "stem": "DEPEND",
+        "prompt": "DEPEND",
+        "accepted": [
+          "independent"
+        ],
+        "explanation": "Adjetivo antes de «engineer»: el ingeniero responsable debe ser «independent» (prefijo in- + sufijo -ent). Por eso el artículo es «an».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q6",
+        "kind": "text",
+        "stem": "RIGHT",
+        "prompt": "RIGHT",
+        "accepted": [
+          "outright"
+        ],
+        "explanation": "Adverbio que significa «totalmente, de plano»: «ban something outright» (prohibir por completo).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q7",
+        "kind": "text",
+        "stem": "MOVE",
+        "prompt": "MOVE",
+        "accepted": [
+          "movements",
+          "movement"
+        ],
+        "explanation": "Sustantivo objeto de «detect»: «movements» (o «movement») de unos pocos milímetros.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-x1-word-formation-02-q8",
+        "kind": "text",
+        "stem": "RELY",
+        "prompt": "RELY",
+        "accepted": [
+          "reliability"
+        ],
+        "explanation": "Sustantivo tras «the» y antes de «of»: «reliability» (fiabilidad).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-kwt-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Mixed transformations: daily life",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 5",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-x1-kwt-01-q1",
+        "kind": "text",
+        "original": "It’s a pity I didn’t take your advice.",
+        "keyword": "REGRET",
+        "prompt": "I _____ your advice.",
+        "parts": [
+          [
+            "regret not",
+            "regret having not",
+            "regret that i did not",
+            "regret i did not",
+            "regret that i didn't",
+            "regret i didn't"
+          ],
+          [
+            "taking",
+            "having taken",
+            "take"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "regret not taking",
+          "regret not having taken",
+          "regret having not taken",
+          "regret that i did not take",
+          "regret that i didn't take",
+          "regret i did not take",
+          "regret i didn't take"
+        ],
+        "explanation": "«Regret + -ing» se refiere a algo pasado que lamentamos: «regret not taking / not having taken». También vale «regret (that) I didn’t take».",
+        "tag": "grammar",
+        "grammarRef": "gerund-infinitive"
+      },
+      {
+        "id": "uoe-x1-kwt-01-q2",
+        "kind": "text",
+        "original": "My brother found it hard to get used to working nights.",
+        "keyword": "ACCUSTOMED",
+        "prompt": "My brother had difficulty _____ working nights.",
+        "parts": [
+          [
+            "getting",
+            "becoming",
+            "growing"
+          ],
+          [
+            "accustomed to"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "getting accustomed to",
+          "becoming accustomed to",
+          "growing accustomed to"
+        ],
+        "explanation": "«Have difficulty + -ing»: «had difficulty getting/becoming accustomed to». Ojo: «accustomed to» va seguido de -ing («working»), porque «to» es preposición.",
+        "tag": "grammar",
+        "grammarRef": "gerund-infinitive"
+      },
+      {
+        "id": "uoe-x1-kwt-01-q3",
+        "kind": "text",
+        "original": "The film was not as good as I had expected.",
+        "keyword": "LIVE",
+        "prompt": "The film _____ my expectations.",
+        "parts": [
+          [
+            "did not",
+            "didn't",
+            "failed to"
+          ],
+          [
+            "live up to"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "did not live up to",
+          "didn't live up to",
+          "failed to live up to"
+        ],
+        "explanation": "«Live up to (somebody’s) expectations» (estar a la altura de las expectativas), en negativa o con «fail to».",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      },
+      {
+        "id": "uoe-x1-kwt-01-q4",
+        "kind": "text",
+        "original": "It was wrong of you to shout at the waiter.",
+        "keyword": "SHOULD",
+        "prompt": "You _____ at the waiter.",
+        "parts": [
+          [
+            "should not have",
+            "shouldn't have"
+          ],
+          [
+            "shouted"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "should not have shouted",
+          "shouldn't have shouted"
+        ],
+        "explanation": "Crítica de una acción pasada: «should not have + participio» (no deberías haber gritado).",
+        "tag": "grammar",
+        "grammarRef": "modals-deduction"
+      },
+      {
+        "id": "uoe-x1-kwt-01-q5",
+        "kind": "text",
+        "original": "I’m sure she didn’t receive my message.",
+        "keyword": "CANNOT",
+        "prompt": "She _____ my message.",
+        "parts": [
+          [
+            "cannot have",
+            "cannot possibly have"
+          ],
+          [
+            "received",
+            "got",
+            "gotten"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "cannot have received",
+          "cannot possibly have received",
+          "cannot have got",
+          "cannot have gotten"
+        ],
+        "explanation": "Deducción negativa sobre el pasado: «cannot have + participio» (es imposible que lo haya recibido). No sirve «must not have».",
+        "tag": "grammar",
+        "grammarRef": "modals-deduction"
+      },
+      {
+        "id": "uoe-x1-kwt-01-q6",
+        "kind": "text",
+        "original": "Whose idea was it to hold the party outdoors?",
+        "keyword": "CAME",
+        "prompt": "Who _____ holding the party outdoors?",
+        "parts": [
+          [
+            "came up with"
+          ],
+          [
+            "the idea of"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "came up with the idea of"
+        ],
+        "explanation": "«Come up with an idea» (ocurrírsele una idea); «the idea of + -ing» enlaza con «holding».",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-kwt-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Transformations: investigations and policing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 6",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-x1-kwt-02-q1",
+        "kind": "text",
+        "original": "The police are investigating the cause of the fire.",
+        "keyword": "LOOKED",
+        "prompt": "The cause of the fire is _____ by the police.",
+        "parts": [
+          [
+            "being looked"
+          ],
+          [
+            "into"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "being looked into"
+        ],
+        "explanation": "Pasiva continua de un phrasal verb: «is being looked into». La partícula se mantiene detrás del participio.",
+        "tag": "grammar",
+        "grammarRef": "passive"
+      },
+      {
+        "id": "uoe-x1-kwt-02-q2",
+        "kind": "text",
+        "original": "‘I didn’t see the driver’s face,’ said the witness.",
+        "keyword": "CLAIMED",
+        "prompt": "The witness _____ the driver’s face.",
+        "parts": [
+          [
+            "claimed not to have",
+            "claimed that she had not",
+            "claimed she had not",
+            "claimed that he had not",
+            "claimed he had not",
+            "claimed that she did not",
+            "claimed she did not",
+            "claimed he did not",
+            "claimed that he did not"
+          ],
+          [
+            "seen",
+            "see"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "claimed not to have seen",
+          "claimed that she had not seen",
+          "claimed she had not seen",
+          "claimed that she hadn't seen",
+          "claimed she hadn't seen",
+          "claimed that he had not seen",
+          "claimed he had not seen",
+          "claimed that he hadn't seen",
+          "claimed he hadn't seen",
+          "claimed that she did not see",
+          "claimed she did not see",
+          "claimed she didn't see",
+          "claimed that she didn't see",
+          "claimed he did not see",
+          "claimed he didn't see",
+          "claimed that he did not see",
+          "claimed that he didn't see"
+        ],
+        "explanation": "«Claim + infinitivo perfecto negativo»: «claimed not to have seen». También vale el estilo indirecto «claimed (that) she had not seen».",
+        "tag": "grammar",
+        "grammarRef": "reporting-verbs"
+      },
+      {
+        "id": "uoe-x1-kwt-02-q3",
+        "kind": "text",
+        "original": "If the officers hadn’t acted quickly, the suspect would have escaped.",
+        "keyword": "FOR",
+        "prompt": "But _____ action, the suspect would have escaped.",
+        "parts": [
+          [
+            "for the officers'",
+            "for the",
+            "for their"
+          ],
+          [
+            "quick",
+            "rapid",
+            "swift",
+            "prompt"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "for the officers' quick",
+          "for the officers' rapid",
+          "for the officers' swift",
+          "for the officers' prompt",
+          "for the quick",
+          "for the rapid",
+          "for the swift",
+          "for the prompt",
+          "for their quick",
+          "for their rapid",
+          "for their swift",
+          "for their prompt"
+        ],
+        "explanation": "«But for + sustantivo» equivale a «if it had not been for» (de no ser por). «Acted quickly» pasa a «quick/swift/prompt action».",
+        "tag": "grammar",
+        "grammarRef": "conditionals-mixed"
+      },
+      {
+        "id": "uoe-x1-kwt-02-q4",
+        "kind": "text",
+        "original": "The suspect was released because there was not enough evidence.",
+        "keyword": "LACK",
+        "prompt": "The suspect was released _____ evidence.",
+        "parts": [
+          [
+            "because of",
+            "due to",
+            "owing to",
+            "on account of",
+            "for",
+            "through"
+          ],
+          [
+            "a lack of",
+            "the lack of",
+            "lack of"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "because of a lack of",
+          "because of the lack of",
+          "because of lack of",
+          "due to a lack of",
+          "due to the lack of",
+          "due to lack of",
+          "owing to a lack of",
+          "owing to the lack of",
+          "owing to lack of",
+          "on account of a lack of",
+          "on account of the lack of",
+          "for lack of",
+          "for a lack of",
+          "through lack of",
+          "through a lack of"
+        ],
+        "explanation": "Causa con sustantivo: «because of / due to / owing to (a) lack of», o la expresión fija «for lack of».",
+        "tag": "linking",
+        "grammarRef": "linking-cause"
+      },
+      {
+        "id": "uoe-x1-kwt-02-q5",
+        "kind": "text",
+        "original": "‘You must wear body cameras on every patrol,’ the chief told the officers.",
+        "keyword": "INSISTED",
+        "prompt": "The chief _____ body cameras on every patrol.",
+        "parts": [
+          [
+            "insisted on the officers",
+            "insisted on officers",
+            "insisted on their",
+            "insisted on them",
+            "insisted that the officers",
+            "insisted the officers",
+            "insisted that officers",
+            "insisted that they",
+            "insisted they"
+          ],
+          [
+            "wearing",
+            "wear",
+            "wore",
+            "should wear"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "insisted on the officers wearing",
+          "insisted on officers wearing",
+          "insisted on their wearing",
+          "insisted on them wearing",
+          "insisted that the officers wear",
+          "insisted that the officers should wear",
+          "insisted that the officers wore",
+          "insisted the officers wear",
+          "insisted the officers should wear",
+          "insisted the officers wore",
+          "insisted that officers wear",
+          "insisted that officers should wear",
+          "insisted that they wear",
+          "insisted that they should wear",
+          "insisted that they wore",
+          "insisted they wear",
+          "insisted they should wear",
+          "insisted they wore"
+        ],
+        "explanation": "«Insist on somebody + -ing» o «insist that somebody (should) wear» (subjuntivo). Ambos patrones son correctos.",
+        "tag": "grammar",
+        "grammarRef": "reporting-verbs"
+      },
+      {
+        "id": "uoe-x1-kwt-02-q6",
+        "kind": "text",
+        "original": "Nobody had any idea who had sent the anonymous letter.",
+        "keyword": "FAINTEST",
+        "prompt": "Nobody _____ who had sent the anonymous letter.",
+        "parts": [
+          [
+            "had the faintest"
+          ],
+          [
+            "idea",
+            "clue",
+            "notion"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "had the faintest idea",
+          "had the faintest clue",
+          "had the faintest notion"
+        ],
+        "explanation": "«Not have the faintest idea» (no tener ni la menor idea); con «nobody» el verbo va en afirmativa.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-kwt-03",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Transformations: plant operations and maintenance",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 7",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-x1-kwt-03-q1",
+        "kind": "text",
+        "original": "The plant manager will probably approve the new budget.",
+        "keyword": "LIKELY",
+        "prompt": "The plant manager _____ the new budget.",
+        "parts": [
+          [
+            "is likely",
+            "is very likely",
+            "is highly likely",
+            "is most likely",
+            "is quite likely"
+          ],
+          [
+            "to approve"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "is likely to approve",
+          "is very likely to approve",
+          "is highly likely to approve",
+          "is most likely to approve",
+          "is quite likely to approve"
+        ],
+        "explanation": "«Be likely to + infinitivo» expresa probabilidad con sujeto personal.",
+        "tag": "grammar",
+        "grammarRef": "modals-deduction"
+      },
+      {
+        "id": "uoe-x1-kwt-03-q2",
+        "kind": "text",
+        "original": "The inspection revealed that the safety valves had not been tested for two years.",
+        "keyword": "SINCE",
+        "prompt": "The inspection revealed that it was two years _____ been tested.",
+        "parts": [
+          [
+            "since the safety valves",
+            "since the valves"
+          ],
+          [
+            "had",
+            "had last"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "since the safety valves had",
+          "since the safety valves had last",
+          "since the valves had",
+          "since the valves had last"
+        ],
+        "explanation": "«It was + periodo + since + past perfect» (hacía dos años que no se probaban / desde la última prueba).",
+        "tag": "grammar",
+        "grammarRef": "verb-tenses"
+      },
+      {
+        "id": "uoe-x1-kwt-03-q3",
+        "kind": "text",
+        "original": "Production can restart only if the inspector approves the repairs.",
+        "keyword": "PROVIDED",
+        "prompt": "Production can restart _____ the repairs.",
+        "parts": [
+          [
+            "provided that",
+            "provided"
+          ],
+          [
+            "the inspector approves",
+            "the inspector has approved"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "provided the inspector approves",
+          "provided that the inspector approves",
+          "provided the inspector has approved",
+          "provided that the inspector has approved"
+        ],
+        "explanation": "«Provided (that)» = «only if» (siempre que, a condición de que), seguido de presente con valor de futuro.",
+        "tag": "linking",
+        "grammarRef": "conditionals-mixed"
+      },
+      {
+        "id": "uoe-x1-kwt-03-q4",
+        "kind": "text",
+        "original": "The new extraction system is not as noisy as the old one.",
+        "keyword": "NOWHERE",
+        "prompt": "The new extraction system is _____ the old one.",
+        "parts": [
+          [
+            "nowhere near"
+          ],
+          [
+            "as noisy as",
+            "so noisy as"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "nowhere near as noisy as",
+          "nowhere near so noisy as"
+        ],
+        "explanation": "«Nowhere near as + adjetivo + as» (ni de lejos tan... como) refuerza la comparación negativa.",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      },
+      {
+        "id": "uoe-x1-kwt-03-q5",
+        "kind": "text",
+        "original": "We first became aware of the error during the audit.",
+        "keyword": "ATTENTION",
+        "prompt": "The error _____ during the audit.",
+        "parts": [
+          [
+            "came to",
+            "was brought to",
+            "was first brought to"
+          ],
+          [
+            "our attention"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "came to our attention",
+          "was brought to our attention",
+          "first came to our attention",
+          "was first brought to our attention"
+        ],
+        "explanation": "«Come to somebody’s attention» o «be brought to somebody’s attention» (llegar a conocimiento de alguien).",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-kwt-03-q6",
+        "kind": "text",
+        "original": "Management did not tell the workforce about the changes until the last minute.",
+        "keyword": "KEPT",
+        "prompt": "The workforce _____ about the changes until the last minute.",
+        "parts": [
+          [
+            "was kept",
+            "were kept"
+          ],
+          [
+            "in the dark"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "was kept in the dark",
+          "were kept in the dark"
+        ],
+        "explanation": "«Keep somebody in the dark» (mantener a alguien en la ignorancia), aquí en pasiva. «Workforce» admite verbo en singular o plural.",
+        "tag": "fixed-expression",
+        "grammarRef": "passive"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-x1-gapped-sentences-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Polysemous words: everyday contexts",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Gapped sentences 3",
+    "part": "gapped-sentences",
+    "instructions": "For questions 1-6, think of ONE word only which can be used appropriately in all three sentences.",
+    "questions": [
+      {
+        "id": "uoe-x1-gapped-sentences-01-q1",
+        "kind": "text",
+        "prompt": "The children were _____ asleep by the time we got home. / Her advice on investments has always been _____, so I would listen to her. / Engineers confirmed that the old bridge was structurally _____ despite its age.",
+        "accepted": [
+          "sound"
+        ],
+        "explanation": "«Sound»: «sound asleep» (profundamente dormido), consejo sensato («sound advice») y estructuralmente sólido. «Fast» solo vale en la primera frase.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-x1-gapped-sentences-01-q2",
+        "kind": "text",
+        "prompt": "The insurance policy doesn’t _____ damage caused by flooding. / The newspaper sent its best reporter to _____ the elections in the north. / We took _____ under a tree when the storm broke.",
+        "accepted": [
+          "cover"
+        ],
+        "explanation": "«Cover»: cubrir un seguro, informar sobre un acontecimiento y «take cover» (ponerse a cubierto).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-gapped-sentences-01-q3",
+        "kind": "text",
+        "prompt": "It’s only _____ that everyone pays the same share of the bill. / The weather will be _____ and dry for most of the weekend. / Thousands of visitors attend the annual book _____ in the city centre.",
+        "accepted": [
+          "fair"
+        ],
+        "explanation": "«Fair»: justo, tiempo bueno/despejado («fair weather») y feria («book fair»).",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-x1-gapped-sentences-01-q4",
+        "kind": "text",
+        "prompt": "Fresh evidence has come to _____ that challenges the official version of events. / Pack something _____ to eat for the journey. / Could you _____ the candles on the birthday cake?",
+        "accepted": [
+          "light"
+        ],
+        "explanation": "«Light»: «come to light» (salir a la luz), comida ligera y encender velas.",
+        "tag": "vocabulary",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-x1-gapped-sentences-01-q5",
+        "kind": "text",
+        "prompt": "The unions and management finally struck a _____ late last night. / I’ve got a great _____ of work to get through before Friday. / Teachers have to _____ with all kinds of difficult situations.",
+        "accepted": [
+          "deal"
+        ],
+        "explanation": "«Deal»: «strike a deal» (cerrar un acuerdo), «a great deal of» (mucho) y «deal with» (afrontar, ocuparse de).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-x1-gapped-sentences-01-q6",
+        "kind": "text",
+        "prompt": "We found a quiet _____ by the river for our picnic. / Did you manage to _____ any mistakes in the report? / The minister was put on the _____ when a journalist asked about the missing funds.",
+        "accepted": [
+          "spot"
+        ],
+        "explanation": "«Spot»: lugar, detectar/localizar un error y «put somebody on the spot» (poner a alguien en un aprieto).",
+        "tag": "vocabulary",
+        "grammarRef": "fixed-expressions"
+      }
+    ]
+  }
+]

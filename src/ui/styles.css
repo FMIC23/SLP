@@ -48,6 +48,7 @@ a { color: var(--primary-2); }
 .topbar nav { display: flex; flex-wrap: wrap; gap: .25rem; }
 .topbar nav a { color: #e9eefc; text-decoration: none; padding: .35rem .6rem; border-radius: 6px; font-size: .95rem; }
 .topbar nav a[aria-current='page'], .topbar nav a:hover { background: rgba(255,255,255,.18); color: #fff; }
+.profile-pick select { background: #2a4a75; color: #fff; border: 1px solid #fff6; border-radius: 6px; padding: .25rem .4rem; }
 .menu-toggle { display: none; margin-left: auto; background: transparent; color: #fff; border: 1px solid #fff8; border-radius: 6px; padding: .3rem .7rem; }
 @media (max-width: 760px) {
   .menu-toggle { display: inline-block; }

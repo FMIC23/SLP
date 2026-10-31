@@ -2,7 +2,7 @@ import { allTasks, decks, listening, reading, speakingCards, useOfEnglish, writi
 import { recommend } from '../core/recommend';
 import { isDue } from '../core/sm2';
 import { skillStats, streak } from '../core/scoring';
-import { store, today } from '../core/store';
+import { boost, store, today } from '../core/store';
 import { bar, h, SKILL_LABEL, DOMAIN_LABEL } from '../ui/dom';
 import { todayPlan } from './progress';
 
@@ -15,14 +15,15 @@ export function homeView(main: HTMLElement) {
   const plan = todayPlan();
   const stats = skillStats(a);
   const tasks = allTasks();
-  const recs = [recommend(a, tasks)];
-  const r2 = recommend(a, tasks, { exclude: recs.filter(Boolean).map((x) => x!.id), boost: { speaking: 15 }, focusDomain: 'police' });
+  const recs = [recommend(a, tasks, { boost: boost() })];
+  const r2 = recommend(a, tasks, { exclude: recs.filter(Boolean).map((x) => x!.id), boost: boost(), focusDomain: 'police' });
   if (r2) recs.push(r2);
-  const r3 = recommend(a, tasks.filter((x) => x.skill === 'speaking'), { exclude: recs.filter(Boolean).map((x) => x!.id) });
+  const pr = store.data.settings.prioritySkill;
+  const r3 = pr ? recommend(a, tasks.filter((x) => x.skill === pr), { exclude: recs.filter(Boolean).map((x) => x!.id) }) : undefined;
   if (r3) recs.push(r3);
 
   main.append(
-    h('h1', null, 'Tu entrenamiento de hoy'),
+    h('h1', null, `Hola, ${store.profile.name}: tu entrenamiento de hoy`),
     h('p', { class: 'muted' }, 'Inglés C1 Advanced y SLP 3 (STANAG 6001) con vocabulario industrial y policial. Todo tu progreso se guarda en este navegador.'),
     h(
       'div',
@@ -47,7 +48,7 @@ export function homeView(main: HTMLElement) {
       { class: 'grid' },
       recs.filter(Boolean).map((r) => h('a', { class: 'tile', href: r!.route }, h('h3', null, r!.title), h('div', { class: 'small muted' }, `${SKILL_LABEL[r!.skill]} · ${DOMAIN_LABEL[r!.domain] ?? r!.domain}`))),
     ),
-    h('p', { class: 'small muted' }, 'La recomendación prioriza tus destrezas más flojas y da un plus a speaking.'),
+    h('p', { class: 'small muted' }, store.data.settings.prioritySkill ? `La recomendación prioriza tus destrezas más flojas y da un plus a ${SKILL_LABEL[store.data.settings.prioritySkill]} (cámbialo en Ajustes).` : 'La recomendación prioriza tus destrezas más flojas.'),
     h('h2', null, 'Destrezas'),
     h(
       'div',

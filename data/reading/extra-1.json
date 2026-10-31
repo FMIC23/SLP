@@ -1,0 +1,977 @@
+[
+  {
+    "meta": {
+      "id": "rd-x1-mc-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Sleep deprivation and productivity at work",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The Overtime Illusion",
+    "format": "multiple-choice",
+    "instructions": "You are going to read an article. For questions 1–6, choose the answer which you think fits best according to the text.",
+    "timeMinutes": 15,
+    "text": "For much of the last century, the ability to function on very little sleep was worn as a badge of honour. Executives boasted of four-hour nights, junior doctors swapped stories of thirty-six-hour shifts, and anyone who admitted to needing eight hours risked being thought of as lacking ambition. Sleep, in this view, was dead time: a biological tax that the truly committed would keep to a minimum, in the way that a shrewd accountant trims any other overhead.\n\nThat attitude has not disappeared, but it has become increasingly difficult to defend. Over the past two decades, laboratory studies have converged on an uncomfortable finding: people who are chronically short of sleep are remarkably poor judges of their own impairment. In one often-cited design, volunteers restricted to six hours a night for a fortnight performed, by the end, as badly on attention tasks as others who had been kept awake for two nights in a row. Yet when asked how they felt, the six-hour group reported only mild sleepiness and insisted they had adapted. Their performance said otherwise; their self-assessment had simply stopped tracking it after the first few days.\n\nIt is this gap between perceived and actual capacity, rather than tiredness itself, that makes sleep loss so insidious in the workplace. A worker who knows she is exhausted can compensate, by double-checking figures, postponing a difficult decision or asking a colleague for a second opinion. One who is convinced she is performing normally does none of these things. The errors that result are rarely dramatic. They tend instead to be small lapses of attention, a misread number here, an ambiguous email left unclarified there, which accumulate quietly until one of them happens to matter.\n\nOrganisations have been slow to respond, partly because the costs are so hard to see. Absenteeism appears in a spreadsheet; presenteeism, being physically at work while functioning well below one's usual level, does not. Economists who have attempted to put a figure on it arrive at estimates large enough to raise eyebrows, though they readily concede that their methods involve a good deal of extrapolation. What is far less contested is the direction of the effect. Few researchers now believe that the hours gained by sleeping less are converted into anything resembling equivalent output.\n\nSome employers have drawn practical conclusions. A number of firms have stopped scheduling meetings before nine or after five, on the grounds that early and late slots tend to eat into sleep at either end of the day. Others have introduced policies discouraging emails outside working hours, not primarily out of concern for staff well-being, as managers are frank enough to admit, but because messages sent at midnight generate anxious replies at one in the morning, and the whole cycle feeds on itself, clogging inboxes and fragmenting the following day. A smaller group has experimented with allowing staff to choose their own start times, an idea grounded in evidence that individuals differ in their natural rhythms and that forcing so-called night owls to perform at eight in the morning wastes a proportion of their capacity.\n\nThese measures are welcome, but sceptics point out that they address the symptoms of a culture rather than the culture itself. As long as visible effort is rewarded, whether it is the late-night email noted approvingly by a manager or the colleague praised for always being available, individuals will continue to calculate that sacrificing sleep is a sensible career investment. Changing that calculation requires managers to judge staff on what they produce rather than on how long they appear to be working, which is considerably easier to recommend than to put into practice.\n\nThere is also a risk of overcorrection. Sleep has acquired, in some circles, an almost moral significance, with wearable devices scoring each night and apps urging users to improve their sleep hygiene. Clinicians report seeing patients whose anxiety about sleeping well has itself become the main obstacle to doing so. The lesson of the research, they suggest, is not that every lost hour must be anxiously accounted for, but something more modest and more useful: that the feeling of having adapted to too little sleep is not to be trusted.",
+    "questions": [
+      {
+        "id": "rd-x1-mc-01-q1",
+        "kind": "choice",
+        "prompt": "In the first paragraph, the writer compares sleep to an overhead in order to",
+        "options": [
+          "explain why doctors were required to work such long shifts.",
+          "suggest that executives were careless in managing their time.",
+          "show that sleep used to be regarded as a cost to be reduced.",
+          "argue that people needed more sleep than they realised."
+        ],
+        "answer": 2,
+        "explanation": "La comparación con un «overhead» que un contable «trims» refleja la visión de la época: el sueño era un gasto que había que recortar. El texto no critica la gestión del tiempo de los directivos ni explica los turnos médicos, y en ese párrafo aún no se argumenta nada a favor de dormir más.",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-x1-mc-01-q2",
+        "kind": "choice",
+        "prompt": "What does the writer present as the most significant finding about the six-hour group?",
+        "options": [
+          "Their judgement of their own condition ceased to reflect their actual performance.",
+          "They were reluctant to admit to the researchers how sleepy they felt.",
+          "Their performance declined faster than that of people kept awake for two nights.",
+          "They had adapted successfully to the restriction after a few days."
+        ],
+        "answer": 0,
+        "explanation": "«Their self-assessment had simply stopped tracking it»: su autoevaluación dejó de corresponderse con su rendimiento real. Rindieron igual de mal (no peor) que el otro grupo, nada indica que ocultaran nada, y la supuesta adaptación es justo lo que el rendimiento desmiente.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-mc-01-q3",
+        "kind": "choice",
+        "prompt": "According to the third paragraph, why is sleep loss particularly harmful at work?",
+        "options": [
+          "It tends to cause dramatic errors that are difficult to put right.",
+          "It leads people to put off important decisions for too long.",
+          "It makes people resentful of colleagues who offer them advice.",
+          "It stops people from taking steps to make up for their reduced capacity."
+        ],
+        "answer": 3,
+        "explanation": "Quien no se sabe cansado «does none of these things», es decir, no aplica las estrategias de compensación. El texto dice que los errores «are rarely dramatic»; posponer decisiones es una de esas estrategias, no una consecuencia, y no se habla de resentimiento.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-mc-01-q4",
+        "kind": "choice",
+        "prompt": "What point does the writer make about economists’ estimates in the fourth paragraph?",
+        "options": [
+          "They have been largely ignored by employers.",
+          "They are imprecise, although the general trend they indicate is widely accepted.",
+          "They exaggerate the cost of absenteeism compared with that of presenteeism.",
+          "They have been rejected by most researchers who study sleep."
+        ],
+        "answer": 1,
+        "explanation": "Los economistas admiten «a good deal of extrapolation» (imprecisión), pero «what is far less contested is the direction of the effect». No se dice que se ignoren ni que se rechacen, y el absentismo no se compara así.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-mc-01-q5",
+        "kind": "choice",
+        "prompt": "The writer mentions the policy on emails outside working hours to illustrate that",
+        "options": [
+          "managers are chiefly motivated by concern for their employees’ health.",
+          "messages sent late at night are seldom genuinely urgent.",
+          "employees often disregard rules introduced by their employers.",
+          "some measures are adopted for practical reasons rather than out of concern for staff."
+        ],
+        "answer": 3,
+        "explanation": "Los propios directivos admiten que no lo hacen «primarily out of concern for staff well-being», sino porque el ciclo de mensajes nocturnos entorpece el día siguiente. A dice lo contrario; C y B no aparecen en el texto.",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-x1-mc-01-q6",
+        "kind": "choice",
+        "prompt": "In the final paragraph, the writer suggests that",
+        "options": [
+          "wearable devices are the most reliable way of monitoring sleep.",
+          "clinicians are too ready to diagnose sleep disorders.",
+          "the main message of sleep research is sometimes taken too far.",
+          "people should pay closer attention to their sleep hygiene."
+        ],
+        "answer": 2,
+        "explanation": "Habla de «a risk of overcorrection»: algunas personas convierten la investigación en una obsesión, cuando la lección real es más modesta. No elogia los dispositivos, no critica a los médicos y D es precisamente el exceso que cuestiona.",
+        "tag": "inference"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-mc-02",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Slope stability monitoring in open-pit mines",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Watching the Walls Move",
+    "format": "multiple-choice",
+    "instructions": "You are going to read an article. For questions 1–6, choose the answer which you think fits best according to the text.",
+    "timeMinutes": 15,
+    "text": "Standing on the rim of a large open-pit mine, it is tempting to think of the benched walls below as permanent features of the landscape, as solid as the mountains they were cut from. Geotechnical engineers know better. Every pit wall is moving, all the time; the only questions worth asking are how fast, in which direction, and whether the rate is changing. A wall that creeps a few millimetres a month may stand for decades. One that has begun to accelerate, however gently, is telling those who know how to listen that it may not.\n\nFor most of mining history, listening meant walking. Surveyors would visit a network of prisms fixed to the benches, measure their positions with optical instruments and compare the results with the previous round. The method was accurate but intermittent: a prism read on Tuesday said nothing about what happened on Wednesday night. Experienced engineers supplemented the figures with their own eyes, looking for tension cracks along the crest or small falls of loose rock, the kind of evidence that tends to precede a larger failure by days or weeks. Much depended on who happened to be looking, and when.\n\nThe arrival of ground-based radar transformed the picture. Mounted on a trailer at the edge of the pit, a slope-monitoring radar scans an entire wall every few minutes, detecting movements of a fraction of a millimetre across millions of points, day and night and largely regardless of rain or dust. Its output is a colour-coded map on which a developing instability shows up as a spreading bloom of warm colours, accompanied by a graph of displacement against time. When that graph starts to curve upwards, alarms are sent to the control room and, if necessary, the area below is evacuated.\n\nIt would be easy to conclude that the technology has made slope failures a thing of the past. It has not, and the reasons are instructive. Radar is extraordinarily good at telling an operator that something is moving; it is far less good at saying why, or how far the movement will go. A wall can accelerate for a while and then stabilise of its own accord, particularly once water from heavy rain has drained away. Engineers who evacuate at every flicker on the screen soon find that production managers, and eventually the workforce, start to treat alarms with weary scepticism. Those who wait too long risk something far worse.\n\nThe most sophisticated operations try to resolve this dilemma by combining the radar data with models of how a particular wall is expected to behave. Inverse-velocity analysis, for instance, plots the reciprocal of the rate of movement against time; if the points line up towards zero, extending the line gives an estimate of when the slope will collapse. The technique has a respectable track record, but its practitioners are the first to warn that it can produce a confident-looking date from data that do not justify one. A forecast, they stress, is a prompt for judgement, not a substitute for it.\n\nWhat has changed most, perhaps, is not the instruments but the organisation around them. At well-run mines, trigger action response plans set out in advance what happens at each level of alarm, who is informed, which areas are cleared and who has the authority to resume work, so that decisions are not improvised under pressure at three in the morning. Crucially, the people who interpret the data are given the standing to halt production without having to justify every precaution to an impatient superior. Several investigations into past failures have concluded that the warning signs were recorded perfectly well; it was the authority to act on them that was missing.\n\nNone of this makes the job less stressful for the engineers involved. Monitoring a wall that is moving is, one veteran observes, a little like watching a pan of milk: nothing happens for a long time, and then everything happens at once. The difference is that, with the right instruments and the right procedures, the milk can now usually be taken off the heat in time.",
+    "questions": [
+      {
+        "id": "rd-x1-mc-02-q1",
+        "kind": "choice",
+        "prompt": "What point does the writer make in the first paragraph?",
+        "options": [
+          "Pit walls are considerably less stable than they appear to visitors.",
+          "Changes in the speed of movement matter more than movement itself.",
+          "Most pit walls will eventually collapse if they are not monitored.",
+          "Engineers find it impossible to predict how long a wall will stand."
+        ],
+        "answer": 1,
+        "explanation": "Todas las paredes se mueven; lo relevante es «whether the rate is changing»: una pared que repta despacio puede durar décadas, una que acelera no. El texto no dice que sean mucho menos estables ni que acaben colapsando, ni que sea imposible predecir nada.",
+        "tag": "gist"
+      },
+      {
+        "id": "rd-x1-mc-02-q2",
+        "kind": "choice",
+        "prompt": "The writer’s main criticism of the traditional monitoring method is that",
+        "options": [
+          "the instruments it relied on were not sufficiently precise.",
+          "surveyors could not reach the most dangerous parts of the pit.",
+          "engineers paid too little attention to visible signs of instability.",
+          "it left long intervals during which changes could go unnoticed."
+        ],
+        "answer": 3,
+        "explanation": "«Accurate but intermittent»: la lectura del martes no decía nada de la noche del miércoles. El método era preciso (descarta A), los ingenieros sí observaban grietas (descarta C) y no se habla de zonas inaccesibles.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-mc-02-q3",
+        "kind": "choice",
+        "prompt": "What does the writer suggest about ground-based radar in the fourth paragraph?",
+        "options": [
+          "It frequently detects movements that do not actually exist.",
+          "Its usefulness is limited by poor weather conditions.",
+          "It cannot on its own tell engineers whether a movement will end in failure.",
+          "It has encouraged production managers to disregard safety warnings."
+        ],
+        "answer": 2,
+        "explanation": "El radar detecta que algo se mueve pero es «far less good at saying why, or how far the movement will go». B contradice el tercer párrafo («largely regardless of rain or dust»); el escepticismo de D lo causan las evacuaciones excesivas, no el radar.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-x1-mc-02-q4",
+        "kind": "choice",
+        "prompt": "According to the fourth paragraph, what is the danger of evacuating too readily?",
+        "options": [
+          "Alarms may eventually cease to be taken seriously.",
+          "Production targets may repeatedly be missed.",
+          "The wall may be weakened by the disruption.",
+          "Engineers may lose the confidence of the regulator."
+        ],
+        "answer": 0,
+        "explanation": "Quien evacúa ante cualquier parpadeo consigue que se traten las alarmas «with weary scepticism». No se mencionan objetivos de producción, daños a la pared ni reguladores.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-mc-02-q5",
+        "kind": "choice",
+        "prompt": "How does the writer present inverse-velocity analysis?",
+        "options": [
+          "as a dependable method that has made human judgement unnecessary",
+          "as a valuable tool whose results must be interpreted with caution",
+          "as an outdated technique that radar has largely replaced",
+          "as a theoretical model that has seldom been tested in practice"
+        ],
+        "answer": 1,
+        "explanation": "Tiene «a respectable track record», pero puede dar una fecha engañosamente segura: «a prompt for judgement, not a substitute for it». A contradice esa idea; se usa junto al radar (no lo sustituye) y sí se ha probado en la práctica.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-x1-mc-02-q6",
+        "kind": "choice",
+        "prompt": "According to the sixth paragraph, investigations into past failures found that",
+        "options": [
+          "the monitoring instruments were not sensitive enough.",
+          "inexperienced staff had misread the data.",
+          "those monitoring the slopes lacked the power to stop work.",
+          "response plans existed but had been ignored."
+        ],
+        "answer": 2,
+        "explanation": "Las señales se registraron bien; «it was the authority to act on them that was missing». No se culpa a los instrumentos ni a la inexperiencia, y los planes de respuesta se presentan como la solución, no como algo ignorado.",
+        "tag": "detail"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-gt-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Wildfire arson investigation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Reading the Ashes",
+    "format": "gapped-text",
+    "instructions": "You are going to read an article from which six paragraphs have been removed. Choose from the paragraphs the one which fits each gap (1–6). There is one extra paragraph which you do not need to use.",
+    "timeMinutes": 15,
+    "text": "When a fire investigator arrives at the scene of a wildfire, the first thing she does is turn her back on the worst of the damage. It sounds perverse, but the blackened ridges where the flames reached their full fury are, for her purposes, almost useless. Intense heat destroys evidence. What she is looking for lies at the opposite end of the fire's path, in the place where it began, quietly, perhaps as a single smouldering patch no bigger than a dinner plate.\n\n[[1]]\n\nThat area, once identified, is cordoned off with the same rigour as any crime scene. Investigators walk it in narrow parallel lines, sometimes on hands and knees, often sweeping the ash with magnets for the metal remains of a device. Footprints are photographed and cast, tyre marks are recorded, and the ground is searched for anything that does not belong there.\n\n[[2]]\n\nOnly when the accidental explanations have been eliminated does the possibility of a deliberate fire come into focus. Even then, the evidence is rarely as conclusive as television dramas suggest. Arsonists seldom use sophisticated devices; a match or a cigarette lighter applied to dry grass leaves virtually nothing behind once the fire has passed.\n\n[[3]]\n\nThis geographical insight has led to some notable arrests. In one case, analysts noticed that a string of roadside fires had all begun within a few minutes' drive of a particular junction, and always on weekday evenings. Patrols were concentrated in the area at the relevant times, and within a fortnight a vehicle was stopped as it drove away from a freshly lit fire.\n\n[[4]]\n\nMotive, however, is often the hardest element to establish, and investigators are wary of assuming one too early. Fires are started out of revenge, to conceal other crimes, to clear land for grazing or development, and occasionally to defraud insurers. Each motive points to a different kind of suspect and a different line of inquiry, and fixing on the wrong one can waste weeks.\n\n[[5]]\n\nAll of this takes time, and time is precisely what an investigation in the middle of a fire season does not have. While one fire is being examined, others are breaking out, and the investigators are frequently the same small team stretched across a vast area. Some regions have responded by training firefighters to protect the probable point of origin from the outset, so that the evidence survives the very operations designed to put the fire out.\n\n[[6]]\n\nNot every fire will give up its secrets, of course. But the discipline of treating every wildfire as a potential crime until it is shown to be otherwise has gradually changed how the public, as well as the emergency services, think about the causes of the blazes that now define so many summers.",
+    "questions": [
+      {
+        "id": "rd-x1-gt-01-q1",
+        "kind": "choice",
+        "prompt": "Gap 1",
+        "options": [
+          "For this reason, investigators pay as much attention to patterns as to physical traces. A single fire on a remote hillside may defy explanation, but a series of fires starting near the same road, at similar times of day, over several weeks, tells a different story. Mapping these clusters has become one of the most productive tools available, not least because serial fire-setters tend to operate within a limited radius of where they live or work.",
+          "It is a modest change, but its effects have been noticeable. Where crews have been taught to keep vehicles and hoses away from the spot where a fire seems to have started, investigators report finding far more usable evidence. As one of them puts it, the people who arrive first decide, without realising it, whether there will ever be a prosecution.",
+          "Finding that place is a matter of reading the landscape backwards. A fire leaves a surprising amount of directional information behind it: grass stems that fall towards the direction from which the flames came, rocks blackened on one side and clean on the other, the angle at which the bark of trees has been charred. Each of these indicators is unreliable on its own. Taken together, and plotted carefully on a map, they begin to point towards a common area.",
+          "Weather records are consulted at this point as well. Wind speed and humidity at the moment of ignition determine how rapidly a fire spreads, and an experienced analyst can use them to calculate how long it must have been burning before the first emergency call was received. Discrepancies between that calculation and witness statements are often revealing.",
+          "The driver turned out to be a volunteer firefighter. Cases like this one are deeply uncomfortable for the services concerned, but they are not as rare as might be supposed. Researchers who have studied serial arsonists describe a recurring profile of individuals who crave recognition or excitement, some of whom seek it by creating emergencies they can then be seen to tackle.",
+          "What they find there is frequently disappointing. The great majority of wildfires have entirely innocent origins: a spark from a power line brought down by the wind, a mower blade striking a stone, lightning on a dry hillside. A crucial part of the investigator's job is to rule these out systematically, because an arson charge that overlooks an obvious accidental cause will not survive its first encounter with a competent defence lawyer.",
+          "Increasingly, the inquiry extends well beyond the burnt ground itself. Mobile phone data can place a device near the point of origin at the critical moment; satellite imagery can narrow down when a fire started to within minutes; and the dashboard cameras of passing motorists have, more than once, captured a vehicle pulling away from a plume of smoke. Gathering and preserving this material quickly is essential, since much of it is overwritten within days."
+        ],
+        "answer": 2,
+        "explanation": "«Finding that place» retoma «the place where it began» y el párrafo termina con «a common area», que enlaza con «That area, once identified». El párrafo del tiempo meteorológico no tiene antecedente aquí.",
+        "tag": "cohesion",
+        "grammarRef": "reference-cohesion"
+      },
+      {
+        "id": "rd-x1-gt-01-q2",
+        "kind": "choice",
+        "prompt": "Gap 2",
+        "options": [
+          "For this reason, investigators pay as much attention to patterns as to physical traces. A single fire on a remote hillside may defy explanation, but a series of fires starting near the same road, at similar times of day, over several weeks, tells a different story. Mapping these clusters has become one of the most productive tools available, not least because serial fire-setters tend to operate within a limited radius of where they live or work.",
+          "It is a modest change, but its effects have been noticeable. Where crews have been taught to keep vehicles and hoses away from the spot where a fire seems to have started, investigators report finding far more usable evidence. As one of them puts it, the people who arrive first decide, without realising it, whether there will ever be a prosecution.",
+          "Finding that place is a matter of reading the landscape backwards. A fire leaves a surprising amount of directional information behind it: grass stems that fall towards the direction from which the flames came, rocks blackened on one side and clean on the other, the angle at which the bark of trees has been charred. Each of these indicators is unreliable on its own. Taken together, and plotted carefully on a map, they begin to point towards a common area.",
+          "Weather records are consulted at this point as well. Wind speed and humidity at the moment of ignition determine how rapidly a fire spreads, and an experienced analyst can use them to calculate how long it must have been burning before the first emergency call was received. Discrepancies between that calculation and witness statements are often revealing.",
+          "The driver turned out to be a volunteer firefighter. Cases like this one are deeply uncomfortable for the services concerned, but they are not as rare as might be supposed. Researchers who have studied serial arsonists describe a recurring profile of individuals who crave recognition or excitement, some of whom seek it by creating emergencies they can then be seen to tackle.",
+          "What they find there is frequently disappointing. The great majority of wildfires have entirely innocent origins: a spark from a power line brought down by the wind, a mower blade striking a stone, lightning on a dry hillside. A crucial part of the investigator's job is to rule these out systematically, because an arson charge that overlooks an obvious accidental cause will not survive its first encounter with a competent defence lawyer.",
+          "Increasingly, the inquiry extends well beyond the burnt ground itself. Mobile phone data can place a device near the point of origin at the critical moment; satellite imagery can narrow down when a fire started to within minutes; and the dashboard cameras of passing motorists have, more than once, captured a vehicle pulling away from a plume of smoke. Gathering and preserving this material quickly is essential, since much of it is overwritten within days."
+        ],
+        "answer": 5,
+        "explanation": "«What they find there» se refiere al terreno registrado, y la idea de descartar causas accidentales («rule these out») prepara «Only when the accidental explanations have been eliminated». El distractor meteorológico encajaría localmente («at this point»), pero no explica las «accidental explanations» del párrafo siguiente.",
+        "tag": "cohesion",
+        "grammarRef": "reference-cohesion"
+      },
+      {
+        "id": "rd-x1-gt-01-q3",
+        "kind": "choice",
+        "prompt": "Gap 3",
+        "options": [
+          "For this reason, investigators pay as much attention to patterns as to physical traces. A single fire on a remote hillside may defy explanation, but a series of fires starting near the same road, at similar times of day, over several weeks, tells a different story. Mapping these clusters has become one of the most productive tools available, not least because serial fire-setters tend to operate within a limited radius of where they live or work.",
+          "It is a modest change, but its effects have been noticeable. Where crews have been taught to keep vehicles and hoses away from the spot where a fire seems to have started, investigators report finding far more usable evidence. As one of them puts it, the people who arrive first decide, without realising it, whether there will ever be a prosecution.",
+          "Finding that place is a matter of reading the landscape backwards. A fire leaves a surprising amount of directional information behind it: grass stems that fall towards the direction from which the flames came, rocks blackened on one side and clean on the other, the angle at which the bark of trees has been charred. Each of these indicators is unreliable on its own. Taken together, and plotted carefully on a map, they begin to point towards a common area.",
+          "Weather records are consulted at this point as well. Wind speed and humidity at the moment of ignition determine how rapidly a fire spreads, and an experienced analyst can use them to calculate how long it must have been burning before the first emergency call was received. Discrepancies between that calculation and witness statements are often revealing.",
+          "The driver turned out to be a volunteer firefighter. Cases like this one are deeply uncomfortable for the services concerned, but they are not as rare as might be supposed. Researchers who have studied serial arsonists describe a recurring profile of individuals who crave recognition or excitement, some of whom seek it by creating emergencies they can then be seen to tackle.",
+          "What they find there is frequently disappointing. The great majority of wildfires have entirely innocent origins: a spark from a power line brought down by the wind, a mower blade striking a stone, lightning on a dry hillside. A crucial part of the investigator's job is to rule these out systematically, because an arson charge that overlooks an obvious accidental cause will not survive its first encounter with a competent defence lawyer.",
+          "Increasingly, the inquiry extends well beyond the burnt ground itself. Mobile phone data can place a device near the point of origin at the critical moment; satellite imagery can narrow down when a fire started to within minutes; and the dashboard cameras of passing motorists have, more than once, captured a vehicle pulling away from a plume of smoke. Gathering and preserving this material quickly is essential, since much of it is overwritten within days."
+        ],
+        "answer": 0,
+        "explanation": "«For this reason» responde a que una cerilla «leaves virtually nothing behind», y el mapeo de focos con un radio limitado prepara «This geographical insight».",
+        "tag": "cohesion",
+        "grammarRef": "reference-cohesion"
+      },
+      {
+        "id": "rd-x1-gt-01-q4",
+        "kind": "choice",
+        "prompt": "Gap 4",
+        "options": [
+          "For this reason, investigators pay as much attention to patterns as to physical traces. A single fire on a remote hillside may defy explanation, but a series of fires starting near the same road, at similar times of day, over several weeks, tells a different story. Mapping these clusters has become one of the most productive tools available, not least because serial fire-setters tend to operate within a limited radius of where they live or work.",
+          "It is a modest change, but its effects have been noticeable. Where crews have been taught to keep vehicles and hoses away from the spot where a fire seems to have started, investigators report finding far more usable evidence. As one of them puts it, the people who arrive first decide, without realising it, whether there will ever be a prosecution.",
+          "Finding that place is a matter of reading the landscape backwards. A fire leaves a surprising amount of directional information behind it: grass stems that fall towards the direction from which the flames came, rocks blackened on one side and clean on the other, the angle at which the bark of trees has been charred. Each of these indicators is unreliable on its own. Taken together, and plotted carefully on a map, they begin to point towards a common area.",
+          "Weather records are consulted at this point as well. Wind speed and humidity at the moment of ignition determine how rapidly a fire spreads, and an experienced analyst can use them to calculate how long it must have been burning before the first emergency call was received. Discrepancies between that calculation and witness statements are often revealing.",
+          "The driver turned out to be a volunteer firefighter. Cases like this one are deeply uncomfortable for the services concerned, but they are not as rare as might be supposed. Researchers who have studied serial arsonists describe a recurring profile of individuals who crave recognition or excitement, some of whom seek it by creating emergencies they can then be seen to tackle.",
+          "What they find there is frequently disappointing. The great majority of wildfires have entirely innocent origins: a spark from a power line brought down by the wind, a mower blade striking a stone, lightning on a dry hillside. A crucial part of the investigator's job is to rule these out systematically, because an arson charge that overlooks an obvious accidental cause will not survive its first encounter with a competent defence lawyer.",
+          "Increasingly, the inquiry extends well beyond the burnt ground itself. Mobile phone data can place a device near the point of origin at the critical moment; satellite imagery can narrow down when a fire started to within minutes; and the dashboard cameras of passing motorists have, more than once, captured a vehicle pulling away from a plume of smoke. Gathering and preserving this material quickly is essential, since much of it is overwritten within days."
+        ],
+        "answer": 4,
+        "explanation": "«The driver» retoma «a vehicle was stopped», y la búsqueda de reconocimiento introduce la cuestión del móvil: «Motive, however, is often the hardest element...».",
+        "tag": "cohesion",
+        "grammarRef": "reference-cohesion"
+      },
+      {
+        "id": "rd-x1-gt-01-q5",
+        "kind": "choice",
+        "prompt": "Gap 5",
+        "options": [
+          "For this reason, investigators pay as much attention to patterns as to physical traces. A single fire on a remote hillside may defy explanation, but a series of fires starting near the same road, at similar times of day, over several weeks, tells a different story. Mapping these clusters has become one of the most productive tools available, not least because serial fire-setters tend to operate within a limited radius of where they live or work.",
+          "It is a modest change, but its effects have been noticeable. Where crews have been taught to keep vehicles and hoses away from the spot where a fire seems to have started, investigators report finding far more usable evidence. As one of them puts it, the people who arrive first decide, without realising it, whether there will ever be a prosecution.",
+          "Finding that place is a matter of reading the landscape backwards. A fire leaves a surprising amount of directional information behind it: grass stems that fall towards the direction from which the flames came, rocks blackened on one side and clean on the other, the angle at which the bark of trees has been charred. Each of these indicators is unreliable on its own. Taken together, and plotted carefully on a map, they begin to point towards a common area.",
+          "Weather records are consulted at this point as well. Wind speed and humidity at the moment of ignition determine how rapidly a fire spreads, and an experienced analyst can use them to calculate how long it must have been burning before the first emergency call was received. Discrepancies between that calculation and witness statements are often revealing.",
+          "The driver turned out to be a volunteer firefighter. Cases like this one are deeply uncomfortable for the services concerned, but they are not as rare as might be supposed. Researchers who have studied serial arsonists describe a recurring profile of individuals who crave recognition or excitement, some of whom seek it by creating emergencies they can then be seen to tackle.",
+          "What they find there is frequently disappointing. The great majority of wildfires have entirely innocent origins: a spark from a power line brought down by the wind, a mower blade striking a stone, lightning on a dry hillside. A crucial part of the investigator's job is to rule these out systematically, because an arson charge that overlooks an obvious accidental cause will not survive its first encounter with a competent defence lawyer.",
+          "Increasingly, the inquiry extends well beyond the burnt ground itself. Mobile phone data can place a device near the point of origin at the critical moment; satellite imagery can narrow down when a fire started to within minutes; and the dashboard cameras of passing motorists have, more than once, captured a vehicle pulling away from a plume of smoke. Gathering and preserving this material quickly is essential, since much of it is overwritten within days."
+        ],
+        "answer": 6,
+        "explanation": "Tras hablar de las distintas líneas de investigación, este párrafo amplía la investigación más allá del terreno quemado; «All of this takes time» resume la recogida de datos de móviles, satélites y cámaras.",
+        "tag": "cohesion",
+        "grammarRef": "reference-cohesion"
+      },
+      {
+        "id": "rd-x1-gt-01-q6",
+        "kind": "choice",
+        "prompt": "Gap 6",
+        "options": [
+          "For this reason, investigators pay as much attention to patterns as to physical traces. A single fire on a remote hillside may defy explanation, but a series of fires starting near the same road, at similar times of day, over several weeks, tells a different story. Mapping these clusters has become one of the most productive tools available, not least because serial fire-setters tend to operate within a limited radius of where they live or work.",
+          "It is a modest change, but its effects have been noticeable. Where crews have been taught to keep vehicles and hoses away from the spot where a fire seems to have started, investigators report finding far more usable evidence. As one of them puts it, the people who arrive first decide, without realising it, whether there will ever be a prosecution.",
+          "Finding that place is a matter of reading the landscape backwards. A fire leaves a surprising amount of directional information behind it: grass stems that fall towards the direction from which the flames came, rocks blackened on one side and clean on the other, the angle at which the bark of trees has been charred. Each of these indicators is unreliable on its own. Taken together, and plotted carefully on a map, they begin to point towards a common area.",
+          "Weather records are consulted at this point as well. Wind speed and humidity at the moment of ignition determine how rapidly a fire spreads, and an experienced analyst can use them to calculate how long it must have been burning before the first emergency call was received. Discrepancies between that calculation and witness statements are often revealing.",
+          "The driver turned out to be a volunteer firefighter. Cases like this one are deeply uncomfortable for the services concerned, but they are not as rare as might be supposed. Researchers who have studied serial arsonists describe a recurring profile of individuals who crave recognition or excitement, some of whom seek it by creating emergencies they can then be seen to tackle.",
+          "What they find there is frequently disappointing. The great majority of wildfires have entirely innocent origins: a spark from a power line brought down by the wind, a mower blade striking a stone, lightning on a dry hillside. A crucial part of the investigator's job is to rule these out systematically, because an arson charge that overlooks an obvious accidental cause will not survive its first encounter with a competent defence lawyer.",
+          "Increasingly, the inquiry extends well beyond the burnt ground itself. Mobile phone data can place a device near the point of origin at the critical moment; satellite imagery can narrow down when a fire started to within minutes; and the dashboard cameras of passing motorists have, more than once, captured a vehicle pulling away from a plume of smoke. Gathering and preserving this material quickly is essential, since much of it is overwritten within days."
+        ],
+        "answer": 1,
+        "explanation": "«It is a modest change» se refiere a formar a los bomberos para proteger el punto de origen, y su efecto (más pruebas útiles) enlaza con el cierre sobre el enfoque de «posible delito».",
+        "tag": "cohesion",
+        "grammarRef": "reference-cohesion"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-mm-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Remote work and the changing city",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Life After the Office: Five Perspectives",
+    "format": "multiple-matching",
+    "instructions": "You are going to read an article in which five people discuss how remote working has affected them. For questions 1–10, choose from the sections (A–E). The sections may be chosen more than once.",
+    "timeMinutes": 15,
+    "sections": [
+      {
+        "label": "A",
+        "title": "Software developer",
+        "text": "When my employer announced that we could work from anywhere, I gave it a month before moving back to the coastal town where I grew up. The rent on a three-bedroom house there is less than I was paying for a studio flat in the capital, and I can see the sea from my desk. I won't pretend it has all been plain sailing, though. The broadband was so unreliable for the first six months that I spent half my working days in the local library, which was hardly the idyll I had pictured. What I hadn't anticipated was how much I would miss the casual exchanges with colleagues, the overheard conversation that solves a problem you didn't know you had. I now travel back to the city office one week in every six, and I've come to see those trips not as a chore but as the part of the job where the real learning happens."
+      },
+      {
+        "label": "B",
+        "title": "Urban planner",
+        "text": "For years, my profession treated the central business district as the fixed point around which everything else was arranged: transport lines radiated out from it, and housing policy assumed that people would travel in each morning. That assumption has been badly shaken. Weekday footfall in many city centres remains well below what it was, and some colleagues argue that we should simply convert empty offices into homes. I'm more cautious. Office buildings have deep floor plans that make it very hard to bring natural light into flats, and conversions done in a hurry tend to produce exactly the kind of substandard housing we spent decades trying to eliminate. My view is that city centres need to become places people visit for reasons other than work, such as culture, learning or simply meeting each other, and that shift will take a generation, not a single planning cycle."
+      },
+      {
+        "label": "C",
+        "title": "Café owner",
+        "text": "My café sits at the foot of three office towers, and for ten years our business model was simple: coffees from seven until nine, a rush at lunchtime, and nothing much after four. When the towers emptied, I honestly thought I would have to close. What saved us was something I'd resisted for years, namely opening at weekends and in the evenings and turning the back room into a space that local groups could hire. Our regulars are completely different now: fewer suits, more parents with pushchairs and students with laptops. Takings on Mondays and Fridays are still dismal, because nobody wants to go into the office on those days. But Tuesdays to Thursdays are almost back to normal, and the weekends more than make up for the rest. Frankly, the business is in better shape than it was before."
+      },
+      {
+        "label": "D",
+        "title": "HR director",
+        "text": "From where I sit, the debate is often framed far too simply, as if staff either want to be at home or in the office. Our surveys show that most people want a mixture, but they want it to make sense: there's nothing more demoralising than commuting for an hour to sit in a near-empty building and spend the day on video calls. So we've stopped issuing blanket rules about attendance and instead asked each team to agree among themselves on the days when they'll all come in together. One thing does worry me, though. Younger employees, who often live in cramped shared flats, tend to be the keenest to come in, and they are also the ones who stand to benefit most from working alongside experienced colleagues. If senior staff choose to stay at home, those juniors lose out twice over."
+      },
+      {
+        "label": "E",
+        "title": "Village councillor",
+        "text": "Our village had been losing people for decades. The school was down to a single class, and the last shop closed eight years ago. Then, quite suddenly, we had families arriving from the city and buying houses that had stood empty for years. On the whole it's been wonderful: the school has taken on a second teacher, and a cooperative has reopened the shop. But I'd be lying if I said there was no friction. House prices have risen beyond what many young people who grew up here can afford, and some long-standing residents feel, rightly or wrongly, that the newcomers treat the village as a backdrop rather than a community. We've started holding open meetings where both groups can air their concerns, and attendance has been encouraging, though I'm under no illusion that the tension will simply disappear."
+      }
+    ],
+    "questions": [
+      {
+        "id": "rd-x1-mm-01-q1",
+        "kind": "choice",
+        "prompt": "Which person mentions a problem with a basic service that affected their working routine?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 0,
+        "explanation": "A: la conexión de banda ancha era tan poco fiable que trabajaba media semana desde la biblioteca. Ningún otro menciona fallos de servicios básicos.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q2",
+        "kind": "choice",
+        "prompt": "Which person mentions that rising costs have excluded some local people?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 4,
+        "explanation": "E: los precios de la vivienda han subido «beyond what many young people who grew up here can afford». A habla de alquileres más bajos, no de exclusión.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q3",
+        "kind": "choice",
+        "prompt": "Which person warns that a proposed solution could bring back a problem from the past?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 1,
+        "explanation": "B: las conversiones precipitadas producirían «the kind of substandard housing we spent decades trying to eliminate».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q4",
+        "kind": "choice",
+        "prompt": "Which person says that the people they serve have changed?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 2,
+        "explanation": "C: «Our regulars are completely different now: fewer suits, more parents...». E habla de nuevos vecinos, no de su clientela.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q5",
+        "kind": "choice",
+        "prompt": "Which person describes letting groups decide on their own arrangements?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 3,
+        "explanation": "D: «asked each team to agree among themselves on the days when they’ll all come in together».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q6",
+        "kind": "choice",
+        "prompt": "Which person admits that reality did not at first match what they had imagined?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 0,
+        "explanation": "A: pasar media jornada en la biblioteca «was hardly the idyll I had pictured».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q7",
+        "kind": "choice",
+        "prompt": "Which person mentions an initiative to bring together people with different points of view?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 4,
+        "explanation": "E: reuniones abiertas «where both groups can air their concerns». Los equipos de D se coordinan, pero no se trata de grupos enfrentados.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q8",
+        "kind": "choice",
+        "prompt": "Which person says that survival depended on doing something they had long been reluctant to do?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 2,
+        "explanation": "C: «What saved us was something I’d resisted for years», abrir fines de semana y por la tarde.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q9",
+        "kind": "choice",
+        "prompt": "Which person believes that the change they describe will take a long time to achieve?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 1,
+        "explanation": "B: la transformación de los centros urbanos «will take a generation, not a single planning cycle». E no habla de plazos, solo de que la tensión no desaparecerá sola.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-x1-mm-01-q10",
+        "kind": "choice",
+        "prompt": "Which person is concerned that those who would gain most from contact with others may miss out on it?",
+        "options": [
+          "A – Software developer",
+          "B – Urban planner",
+          "C – Café owner",
+          "D – HR director",
+          "E – Village councillor"
+        ],
+        "answer": 3,
+        "explanation": "D: los jóvenes son quienes más se benefician de trabajar junto a colegas veteranos y «lose out twice over» si estos se quedan en casa.",
+        "tag": "paraphrase"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-ct-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Ethics of forensic DNA databases",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Who Should Be on the DNA Database?",
+    "format": "cross-text",
+    "instructions": "You are going to read four extracts in which experts give their views on the same issue. For questions 1–4, choose from the experts A–D. The experts may be chosen more than once.",
+    "timeMinutes": 12,
+    "sections": [
+      {
+        "label": "A",
+        "title": "Forensic geneticist",
+        "text": "Few tools have transformed criminal investigation as profoundly as the national DNA database, and I say that as someone who spends her working life testing its limits. The difficulty is that our techniques have become so sensitive that we can now generate a profile from a handful of cells, and cells travel. A person who shook hands with an offender, or merely touched the same door handle, may leave traces at a scene they never visited. Courts are not always alert to this, and investigators sometimes treat a match as the end of an inquiry rather than the start of one. On retention, I see no scientific case for keeping indefinitely the profiles of people who were never charged; a limited period for serious offences seems a reasonable compromise. Familial searching, which looks for close relatives of an unknown offender, is a genuinely powerful technique, but it draws innocent family members into an investigation, so it should be reserved for the gravest crimes and require prior authorisation from a judge."
+      },
+      {
+        "label": "B",
+        "title": "Civil liberties campaigner",
+        "text": "Supporters of ever-larger databases speak as if each additional profile makes society safer. The evidence does not bear this out. When you look closely at the cases in which a database match was obtained, a large proportion involve suspects whom the police had already identified by other means; the match confirmed the case rather than solved it. Meanwhile, the cost to individuals is real. Being held on a criminal database carries a stigma, and people who have been arrested and released without charge, disproportionately young men from certain neighbourhoods, have every right to have their profiles destroyed immediately. As for familial searching, I find it hard to see how any safeguard could make it acceptable. It turns people into suspects simply because of who their relatives are, which is the opposite of how justice in a free society is meant to work."
+      },
+      {
+        "label": "C",
+        "title": "Retired detective",
+        "text": "I spent thirty years investigating serious crime, and I can name cases, from rapes and murders to assaults that had gone unsolved for decades, that would never have been cleared up without the database. The science is robust; in all those years I never saw a conviction overturned because a DNA match turned out to be wrong. What troubles me is the pressure to delete the profiles of people who are arrested but not convicted. Offenders are seldom convicted the first time they come to police attention, and keeping their profiles is often what allows us to link them to a later crime. Familial searching should be used far more widely, in my view; it is a legitimate investigative technique, and the relatives concerned are, after all, only asked to help eliminate themselves. The rules governing all this already exist. What we need is the confidence to use the tools we have."
+      },
+      {
+        "label": "D",
+        "title": "Bioethicist",
+        "text": "The ethical questions raised by DNA databases are less about the technology itself, which has proved its worth many times over, than about the conditions under which the state holds such intimate information. A DNA sample reveals far more than a fingerprint: potentially, a person's ancestry, family relationships and predisposition to disease. That is why I believe that the retention of profiles from people who have not been convicted should be strictly time-limited. Familial searching poses the sharpest dilemma. I would not ban it, because there are crimes so grave that the interests of victims must weigh heavily, but its use ought to be confined to such cases and approved by an independent authority before any search is run. Above all, the public must be able to see how these decisions are taken; a database that commands no trust will eventually lose its legitimacy, however effective it may be."
+      }
+    ],
+    "questions": [
+      {
+        "id": "rd-x1-ct-01-q1",
+        "kind": "choice",
+        "prompt": "Which expert takes a different view from the others on keeping the profiles of people who are arrested but not convicted?",
+        "options": [
+          "A – Forensic geneticist",
+          "B – Civil liberties campaigner",
+          "C – Retired detective",
+          "D – Bioethicist"
+        ],
+        "answer": 2,
+        "explanation": "C se opone a borrar esos perfiles porque permiten vincular a delincuentes con delitos posteriores. A y D quieren un plazo limitado y B su destrucción inmediata.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-x1-ct-01-q2",
+        "kind": "choice",
+        "prompt": "Which expert shares A’s opinion on familial searching?",
+        "options": [
+          "A – Forensic geneticist",
+          "B – Civil liberties campaigner",
+          "C – Retired detective",
+          "D – Bioethicist"
+        ],
+        "answer": 3,
+        "explanation": "A y D la aceptan solo para los delitos más graves y con autorización previa (un juez / una autoridad independiente). B la rechaza por completo y C quiere ampliarla.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-x1-ct-01-q3",
+        "kind": "choice",
+        "prompt": "Which expert disagrees with C about how much DNA databases contribute to solving crimes?",
+        "options": [
+          "A – Forensic geneticist",
+          "B – Civil liberties campaigner",
+          "C – Retired detective",
+          "D – Bioethicist"
+        ],
+        "answer": 1,
+        "explanation": "B sostiene que muchas coincidencias solo confirman sospechosos ya identificados: «confirmed the case rather than solved it». A («Few tools have transformed criminal investigation...») y D («proved its worth») coinciden con C.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-x1-ct-01-q4",
+        "kind": "choice",
+        "prompt": "Which expert expresses a different view from C on the reliability of DNA evidence?",
+        "options": [
+          "A – Forensic geneticist",
+          "B – Civil liberties campaigner",
+          "C – Retired detective",
+          "D – Bioethicist"
+        ],
+        "answer": 0,
+        "explanation": "C afirma que «The science is robust», mientras que A advierte de que la transferencia de células puede situar a inocentes en una escena y de que una coincidencia no debe cerrar la investigación. B y D no tratan la fiabilidad.",
+        "tag": "attitude"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-slp-01",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "ATEX hazardous area classification in a refinery",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Safety Bulletin: Revised Hazardous Zones at the Crude Unit",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 13,
+    "text": "TO: All unit personnel and contractors, Crude Distillation Area. FROM: Process Safety Department. SUBJECT: Revised hazardous area classification and work controls.\n\nFollowing the revamp of the crude distillation unit, the hazardous area classification for the area has been reviewed, and the updated drawings came into force on Monday. This bulletin summarises the changes that matter most for day-to-day work. It does not replace the drawings themselves, which remain the authoritative reference and are displayed in the unit control room and on the permit office notice board.\n\nAs before, the area is divided into zones according to how likely it is that a flammable gas atmosphere will be present. Zone 0, where such an atmosphere is present continuously or for long periods, is confined to the interior of tanks and process vessels and is not normally accessible. Zone 1, where an explosive atmosphere is likely to occur occasionally in normal operation, now includes an enlarged radius around the new pump seals on the eastern side of the unit. Zone 2, where an explosive atmosphere is not expected in normal operation and would persist only briefly if it did occur, covers most of the remaining process area.\n\nThe most significant change concerns the area around the relocated sample points. Because operators routinely open these points to take samples, small releases are an expected part of normal operation, and the surrounding area has therefore been reclassified from Zone 2 to Zone 1. Contractors who worked on the unit before the revamp should not assume that the boundaries they remember still apply.\n\nAll electrical and non-electrical equipment taken into a classified zone must carry the appropriate certification for that zone. In practice, this means that equipment suitable only for Zone 2 may no longer be used near the sample points. Mobile phones, cameras, tablets and battery-powered tools are not permitted in Zone 0 or Zone 1 unless they are specifically certified, and the fact that a device is used routinely elsewhere on site is no guarantee that it complies.\n\nHot work, meaning welding, grinding, cutting or any activity that produces sparks or open flames, remains prohibited in any classified zone unless a hot work permit has been issued. Permits will be issued only after continuous gas monitoring has been set up at the work location and the area has been shown to be gas-free. If the monitor alarms at any point, work must stop immediately and may resume only after the permit has been revalidated by the area authority. The person carrying out the work may not restart on their own judgement, even if the reading returns to zero.\n\nSeveral near misses over the past year involved contractors who held a valid permit but had moved a few metres away from the location it specified. A permit applies to the exact location and task described on it and to nothing else.\n\nSupervisors are asked to brief their teams on these changes before the start of the next shift and to record that the briefing has taken place. Questions about the classification should be directed to the Process Safety Department rather than to unit operators, who are not authorised to interpret it.",
+    "questions": [
+      {
+        "id": "rd-x1-slp-01-q1",
+        "kind": "choice",
+        "prompt": "What is the main purpose of the bulletin?",
+        "options": [
+          "to announce that the revamp of the unit has been completed",
+          "to report on the causes of recent near misses",
+          "to replace the classification drawings with a simpler summary",
+          "to inform staff of changes to the hazardous zones and the related work rules"
+        ],
+        "answer": 3,
+        "explanation": "Resume los cambios de clasificación y las normas de trabajo asociadas. El boletín dice expresamente que no sustituye a los planos, y los incidentes y la reforma se mencionan solo de pasada.",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-x1-slp-01-q2",
+        "kind": "choice",
+        "prompt": "Why has the area around the sample points been reclassified?",
+        "options": [
+          "because a leak was detected there after the revamp",
+          "because the new pump seals have been installed next to them",
+          "because small releases are expected there during routine operations",
+          "because operators no longer need regular access to them"
+        ],
+        "answer": 2,
+        "explanation": "«Small releases are an expected part of normal operation» al abrir los puntos de muestreo; eso corresponde a la definición de Zona 1. Las juntas de las bombas afectan a otra zona y no se menciona ninguna fuga.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-01-q3",
+        "kind": "choice",
+        "prompt": "What does the bulletin imply about contractors who worked on the unit before the revamp?",
+        "options": [
+          "They may rely on outdated knowledge of the zone boundaries.",
+          "They were responsible for the near misses mentioned.",
+          "They must be retrained before returning to the site.",
+          "They know the drawings better than the unit operators."
+        ],
+        "answer": 0,
+        "explanation": "«Should not assume that the boundaries they remember still apply»: su recuerdo de los límites puede estar desfasado. No se exige formación ni se les culpa de los incidentes.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-x1-slp-01-q4",
+        "kind": "choice",
+        "prompt": "Which statement about portable electronic devices is correct?",
+        "options": [
+          "They may be used in Zone 1 if they are in common use elsewhere on site.",
+          "They are not allowed in Zone 0 or Zone 1 unless they are specifically certified.",
+          "They are allowed anywhere in the unit except inside vessels.",
+          "They may be used near the sample points if they are certified for Zone 2."
+        ],
+        "answer": 1,
+        "explanation": "Así lo dice el texto. El uso habitual en otras zonas «is no guarantee», y el equipo apto solo para Zona 2 ya no puede usarse junto a los puntos de muestreo, que ahora son Zona 1.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-01-q5",
+        "kind": "choice",
+        "prompt": "If the gas monitor alarms during hot work, the worker must",
+        "options": [
+          "stop work until the reading returns to zero.",
+          "move to another location covered by the permit.",
+          "stop work and wait until the permit has been revalidated.",
+          "inform the unit operators and continue with caution."
+        ],
+        "answer": 2,
+        "explanation": "El trabajo solo se reanuda tras revalidar el permiso, «even if the reading returns to zero». Un permiso cubre una única ubicación, y los operadores no están autorizados a interpretar la clasificación.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-01-q6",
+        "kind": "choice",
+        "prompt": "The near misses mentioned in the bulletin involved",
+        "options": [
+          "work carried out without any permit at all.",
+          "faults in the continuous gas monitoring equipment.",
+          "equipment that did not have the correct certification.",
+          "work carried out away from the location stated on the permit."
+        ],
+        "answer": 3,
+        "explanation": "Los contratistas tenían un permiso válido «but had moved a few metres away from the location it specified».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-01-q7",
+        "kind": "choice",
+        "prompt": "Who should answer questions about the new classification?",
+        "options": [
+          "the Process Safety Department",
+          "the shift supervisors",
+          "the permit office",
+          "the unit operators"
+        ],
+        "answer": 0,
+        "explanation": "Las dudas van al Departamento de Seguridad de Procesos; los operadores «are not authorised to interpret it». Los supervisores solo informan a sus equipos.",
+        "tag": "detail"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-slp-02",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Money laundering through crypto-assets",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Assessment Extract: Laundering Criminal Proceeds Through Crypto-Assets",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 14,
+    "text": "This extract is taken from a strategic assessment prepared for national financial investigation units. It is intended to inform operational planning and does not refer to any ongoing case.\n\nOver the reporting period, the use of crypto-assets to launder the proceeds of crime has continued to grow, although it remains small in comparison with traditional methods such as cash smuggling and trade-based laundering. Its significance lies less in the volumes involved than in the speed with which funds can be moved across borders and the difficulty of identifying the individuals behind them.\n\nThe most common pattern observed begins with the conversion of criminal cash into crypto-assets, either through peer-to-peer traders operating outside the regulated sector or through cash-for-crypto kiosks with weak identity checks. The assets are then moved through a series of wallets, often hundreds of them, in an attempt to break the link between their origin and their final destination. Mixing services, which pool the funds of many users and redistribute them, are frequently used at this stage, as is chain-hopping, in which assets are repeatedly exchanged for other crypto-assets on different networks.\n\nContrary to a widespread assumption, most crypto-assets are not anonymous. Transactions on the main public networks are permanently recorded and visible to anyone, and specialist analytical tools allow investigators to follow funds across thousands of transfers. The weak point for investigators is not the movement of funds but the moment of identification: linking a wallet to a real person. This generally becomes possible only when assets pass through a regulated service provider that is obliged to verify its customers' identity. Criminal networks are well aware of this and increasingly rely on unregulated exchanges in jurisdictions with limited supervision.\n\nThe final stage, in which laundered assets are converted back into conventional currency or used to buy property and luxury goods, remains the point at which most cases are detected. Suspicious transaction reports filed by regulated exchanges have led to a number of significant investigations, and their quality has improved markedly since reporting obligations were extended to crypto-asset service providers.\n\nThe assessment identifies three priorities. First, investigators require continuous training, since criminal techniques evolve faster than standard courses are updated. Second, seizure procedures must be adapted: unlike a bank account, a wallet cannot simply be frozen by a court order sent to a bank, and assets that are not promptly transferred to a wallet controlled by the authorities may be moved by accomplices within minutes. Third, international cooperation remains essential, since a single laundering chain commonly crosses several jurisdictions within hours, far faster than formal requests for mutual legal assistance can be processed.\n\nThe assessment concludes that the threat is likely to increase moderately over the next two years. It cautions, however, against portraying crypto-assets as primarily a criminal tool, noting that the great majority of transactions are legitimate and that disproportionate restrictions could push users towards less transparent alternatives.",
+    "questions": [
+      {
+        "id": "rd-x1-slp-02-q1",
+        "kind": "choice",
+        "prompt": "According to the assessment, why is laundering through crypto-assets considered significant?",
+        "options": [
+          "It now accounts for most of the criminal proceeds that are laundered.",
+          "It allows funds to be moved rapidly while concealing who controls them.",
+          "It has replaced cash smuggling in most criminal networks.",
+          "It cannot be traced using the methods currently available."
+        ],
+        "answer": 1,
+        "explanation": "Su importancia está en «the speed with which funds can be moved across borders and the difficulty of identifying the individuals behind them». El texto dice que el volumen sigue siendo pequeño y que los fondos sí se pueden rastrear.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-02-q2",
+        "kind": "choice",
+        "prompt": "What is the purpose of moving assets through large numbers of wallets?",
+        "options": [
+          "to reduce the fees charged by exchanges",
+          "to avoid the identity checks at cash kiosks",
+          "to obscure the connection between the source and the destination of funds",
+          "to convert the assets back into conventional currency"
+        ],
+        "answer": 2,
+        "explanation": "«In an attempt to break the link between their origin and their final destination». Las comprobaciones de los cajeros son anteriores y la reconversión es la fase final.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-02-q3",
+        "kind": "choice",
+        "prompt": "According to the assessment, the main difficulty for investigators is",
+        "options": [
+          "following transfers on public networks.",
+          "obtaining access to transaction records.",
+          "telling mixing services apart from legitimate exchanges.",
+          "connecting a wallet to an identifiable person."
+        ],
+        "answer": 3,
+        "explanation": "«The weak point for investigators is not the movement of funds but the moment of identification: linking a wallet to a real person». Las transacciones públicas son visibles para cualquiera.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-02-q4",
+        "kind": "choice",
+        "prompt": "It can be inferred that criminal networks prefer unregulated exchanges because",
+        "options": [
+          "they do not check who their customers are.",
+          "they offer faster transfers between different networks.",
+          "they accept cash directly from customers.",
+          "they are based in countries that refuse to cooperate with the police."
+        ],
+        "answer": 0,
+        "explanation": "La identificación solo es posible cuando los fondos pasan por un proveedor regulado «obliged to verify its customers’ identity»; los no regulados no lo están. «Limited supervision» no equivale a negarse a cooperar.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-x1-slp-02-q5",
+        "kind": "choice",
+        "prompt": "At which stage are most cases detected?",
+        "options": [
+          "when cash is first converted into crypto-assets",
+          "during chain-hopping between networks",
+          "when assets are converted back or spent on goods",
+          "when mixing services redistribute the funds"
+        ],
+        "answer": 2,
+        "explanation": "La fase final (reconversión o compra de bienes) «remains the point at which most cases are detected», gracias a los informes de operaciones sospechosas.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-02-q6",
+        "kind": "choice",
+        "prompt": "What problem with seizing crypto-assets does the assessment mention?",
+        "options": [
+          "Assets may be moved by accomplices if they are not secured quickly.",
+          "Banks refuse to freeze accounts linked to crypto-assets.",
+          "Courts are reluctant to issue orders against wallets.",
+          "The value of seized assets often falls before they can be sold."
+        ],
+        "answer": 0,
+        "explanation": "Si no se transfieren rápido a una cartera de las autoridades, «may be moved by accomplices within minutes». Las demás opciones no aparecen en el texto.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-02-q7",
+        "kind": "choice",
+        "prompt": "Which best describes the tone of the conclusion?",
+        "options": [
+          "alarmist, calling for strict limits on crypto-assets",
+          "optimistic, predicting a fall in crypto-related crime",
+          "dismissive, suggesting the threat has been exaggerated by the media",
+          "measured, warning against overstating their criminal use"
+        ],
+        "answer": 3,
+        "explanation": "Prevé un aumento moderado de la amenaza pero advierte contra presentar los criptoactivos como herramienta principalmente criminal y contra restricciones desproporcionadas: un tono equilibrado. No predice una caída ni menciona a los medios.",
+        "tag": "tone"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-x1-slp-03",
+      "skill": "reading",
+      "level": "SLP3",
+      "topic": "Battery gigafactory and raw material supply chains",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Feature: The Long Road to a Battery Cell",
+    "format": "stanag",
+    "instructions": "Read the text carefully and answer the questions. Choose the option that best reflects the information, ideas or tone of the text.",
+    "timeMinutes": 13,
+    "text": "When a regional government announced last year that a battery gigafactory would be built on a former industrial site on its outskirts, the news was greeted as a turning point. The plant, designed to produce cells for electric vehicles, promised several thousand jobs and a place in what politicians like to call the value chain of the future. Construction is now well advanced. What has become clearer in the meantime is how much of that value chain lies far beyond the factory gates.\n\nA lithium-ion cell is, at its simplest, a sandwich of a cathode, an anode and a separator soaked in electrolyte. Each layer depends on materials that are mined, refined and processed in a small number of countries. Lithium is extracted mainly from hard-rock mines and salt flats on other continents; most of the world's graphite for anodes is processed in a single country; and the refining of cobalt and nickel is similarly concentrated. A factory in Europe can assemble cells, but unless the earlier stages of the chain are diversified, it remains exposed to export restrictions, price swings and shipping disruption over which it has no control.\n\nThe company behind the project insists that it has taken this into account. It has signed long-term supply agreements with several producers, including two European mines that are not yet in operation, and it plans to switch part of its production to a cathode chemistry that does not require cobalt. Industry analysts regard these steps as sensible, but note that agreements with mines that have not yet been built are, in effect, a bet that permitting and financing will proceed on schedule, something that has rarely happened in the European mining sector.\n\nRecycling is often presented as the long-term answer. Batteries contain valuable metals that can be recovered, and new EU rules will require minimum proportions of recycled content in new batteries over the coming decade. However, recycling can only supply material that has already entered the system. With sales of electric vehicles rising quickly and most batteries expected to last well over ten years, the number of batteries reaching the end of their life will remain small relative to demand for many years. In the meantime, the main source of recycled material is scrap from the factories themselves.\n\nThere is also the question of skills. The plant will need hundreds of technicians trained in electrochemistry, clean-room procedures and quality control, profiles that local training centres have only just begun to offer. The company has partnered with a vocational college to design new courses, but the first students will not graduate until after production starts, which means that the early phase will rely heavily on staff recruited from abroad.\n\nNone of this suggests that the project is misguided. It does suggest that the factory is only one link in a long chain, and that the economic security it is meant to provide will depend on decisions taken in mines, refineries and classrooms far from the assembly line.",
+    "questions": [
+      {
+        "id": "rd-x1-slp-03-q1",
+        "kind": "choice",
+        "prompt": "What is the main point of the article?",
+        "options": [
+          "The factory’s success depends on many stages outside its control.",
+          "The gigafactory is unlikely ever to be completed.",
+          "Battery cells are too expensive to manufacture in Europe.",
+          "Politicians exaggerated the number of jobs the plant would create."
+        ],
+        "answer": 0,
+        "explanation": "La idea central es que gran parte de la cadena de valor «lies far beyond the factory gates». La construcción está avanzada, y no se habla de costes excesivos ni de empleos exagerados.",
+        "tag": "gist"
+      },
+      {
+        "id": "rd-x1-slp-03-q2",
+        "kind": "choice",
+        "prompt": "According to the second paragraph, the factory is vulnerable because",
+        "options": [
+          "it lacks the technology to assemble cells.",
+          "it depends on a single cathode chemistry.",
+          "the processing of key materials is concentrated in a few countries.",
+          "shipping costs to Europe are higher than elsewhere."
+        ],
+        "answer": 2,
+        "explanation": "Los materiales se extraen y refinan en «a small number of countries», lo que expone la fábrica a restricciones, precios y transporte. Sí puede ensamblar celdas, y la química del cátodo aparece en el párrafo siguiente.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-03-q3",
+        "kind": "choice",
+        "prompt": "Why does the company plan to change part of its cathode production?",
+        "options": [
+          "to reduce its reliance on cobalt",
+          "to meet new EU recycling requirements",
+          "to increase the energy density of its cells",
+          "to use materials from European mines"
+        ],
+        "answer": 0,
+        "explanation": "Usará una química de cátodo «that does not require cobalt», cuyo refinado está muy concentrado: reduce su dependencia. Las demás razones no se mencionan.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-x1-slp-03-q4",
+        "kind": "choice",
+        "prompt": "What do analysts suggest about the agreements with mines not yet in operation?",
+        "options": [
+          "They are not permitted under EU rules.",
+          "They will have to be renegotiated once production begins.",
+          "They guarantee lower prices than existing contracts.",
+          "They involve a considerable degree of uncertainty."
+        ],
+        "answer": 3,
+        "explanation": "Son «in effect, a bet» sobre plazos de permisos y financiación que rara vez se cumplen: implican incertidumbre.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-x1-slp-03-q5",
+        "kind": "choice",
+        "prompt": "Why will recycling not solve the supply problem in the short term?",
+        "options": [
+          "The technology to recover metals does not yet exist.",
+          "Too few batteries will reach the end of their life for many years.",
+          "EU rules do not yet require any recycled content.",
+          "Scrap from factories cannot be recycled."
+        ],
+        "answer": 1,
+        "explanation": "Las baterías duran más de diez años y las ventas crecen, así que las que llegan al final de su vida serán pocas frente a la demanda. El texto dice que los metales «can be recovered» y que la chatarra de fábrica es hoy la principal fuente reciclada.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-03-q6",
+        "kind": "choice",
+        "prompt": "What does the article say about the plant’s early workforce?",
+        "options": [
+          "It will consist mainly of graduates from a local college.",
+          "It will be trained by vehicle manufacturers.",
+          "It will be smaller than originally planned.",
+          "It will depend to a large extent on workers from other countries."
+        ],
+        "answer": 3,
+        "explanation": "Como los primeros alumnos se graduarán después del arranque, la fase inicial «will rely heavily on staff recruited from abroad».",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-x1-slp-03-q7",
+        "kind": "choice",
+        "prompt": "What is the writer’s overall attitude to the project?",
+        "options": [
+          "enthusiastic and uncritical",
+          "dismissive of its economic value",
+          "supportive but realistic about its limitations",
+          "strictly neutral, expressing no opinion"
+        ],
+        "answer": 2,
+        "explanation": "«None of this suggests that the project is misguided», pero insiste en las dependencias externas: apoyo con realismo. El autor sí opina, así que no es neutral.",
+        "tag": "attitude"
+      }
+    ]
+  }
+]

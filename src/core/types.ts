@@ -232,5 +232,5 @@ export interface Progress {
   studyDays: string[]; // YYYY-MM-DD
   writings: Record<string, { text: string; updated: string; selfScore?: Record<string, number> }>;
   plan: WeeklyPlan;
-  settings: { voiceRate: number; voiceName?: string; dailyNewCards: number };
+  settings: { voiceRate: number; voiceName?: string; dailyNewCards: number; /** Destreza a priorizar en las recomendaciones ('' = ninguna). */ prioritySkill?: Skill | '' };
 }

@@ -61,7 +61,7 @@ describe('recomendación', () => {
     { id: 's1', skill: 'speaking', title: 'S1', topic: 't', domain: 'general', route: '' },
   ];
   it('sin historial recomienda speaking', () => {
-    expect(recommend([], tasks)?.id).toBe('s1');
+    expect(recommend([], tasks, { boost: { speaking: 15 } })?.id).toBe('s1');
   });
   it('prefiere tareas no hechas de la destreza más floja y el dominio pedido', () => {
     const a = [att('speaking', 20, 25, 's1'), att('reading', 1, 6, 'r1')];
