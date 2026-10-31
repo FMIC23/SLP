@@ -1,6 +1,7 @@
 // Carga de contenido en tiempo de build (Vite import.meta.glob).
 // data/private/ solo existe en local (está en .gitignore): si está, se incluye; si no, se ignora.
 import type {
+  CuerpoExam,
   Deck,
   ExternalResource,
   GrammarRef,
@@ -34,6 +35,7 @@ const writingMods = import.meta.glob(['../../data/writing/tasks*.json', '../../d
 const phraseMods = import.meta.glob('../../data/writing/phrase-bank.json', { eager: true });
 const speakingMods = import.meta.glob(['../../data/speaking/cards*.json', '../../data/private/speaking/*.json'], { eager: true });
 const debateMods = import.meta.glob('../../data/speaking/debate-questions.json', { eager: true });
+const cuerpoMods = import.meta.glob(['../../data/cuerpos/*.json', '../../data/private/cuerpos/*.json'], { eager: true });
 const materialIndexMods = import.meta.glob('../../data/private/material-index.json', { eager: true });
 
 export const reading = flatten<ReadingTask>(readingMods);
@@ -44,6 +46,7 @@ export const writingTasks = flatten<WritingTask>(writingMods);
 export const phraseBank = flatten<PhraseGroup>(phraseMods);
 export const speakingCards = flatten<SpeakingCard>(speakingMods);
 export const debateQuestions = flatten<{ topic: string; domain: string; questions: string[] }>(debateMods);
+export const cuerpoExams = flatten<CuerpoExam>(cuerpoMods);
 export const grammarRefs = grammar as GrammarRef[];
 export const externalResources = resources as ExternalResource[];
 export const materialIndex = flatten<{ title: string; type: string; skill: string; folder: string; url: string; usage: string }>(materialIndexMods);
@@ -69,5 +72,6 @@ export function allTasks(): AnyTask[] {
     ...listening.map((t) => ({ id: t.meta.id, skill: 'listening', title: t.title, topic: t.meta.topic, domain: t.meta.domain, route: `#/listening/${t.meta.id}` })),
     ...writingTasks.map((t) => ({ id: t.meta.id, skill: 'writing', title: t.title, topic: t.meta.topic, domain: t.meta.domain, route: `#/writing/${t.meta.id}` })),
     ...speakingCards.map((t) => ({ id: t.meta.id, skill: 'speaking', title: t.title, topic: t.meta.topic, domain: t.meta.domain, route: `#/speaking/${t.meta.id}` })),
+    ...cuerpoExams.map((t) => ({ id: t.meta.id, skill: 'writing', title: `${t.cuerpo}: ${t.title}`, topic: t.meta.topic, domain: t.meta.domain, route: `#/cuerpos/${t.meta.id}` })),
   ];
 }

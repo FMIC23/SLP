@@ -340,6 +340,7 @@ export function mockView(main: HTMLElement, params: string[]) {
     h('h1', null, 'Simulacros'),
     h('p', { class: 'muted' }, 'Exámenes cronometrados por destreza o completos, compuestos con ejercicios del banco (prioriza los que no has hecho). Al terminar obtienes una puntuación estimada en la escala Cambridge y en niveles SLP.'),
   );
+  main.append(h('div', { class: 'card' }, h('strong', null, 'Oposiciones IIE y Minas: '), 'el ejercicio de inglés del cuerpo (resumen de un texto leído dos veces + traducción directa + oral con el tribunal) tiene su propia sección: ', h('a', { href: '#/cuerpos' }, 'Inglés IIE/Minas'), '.'));
   for (const target of ['C1', 'SLP3'] as const) {
     main.append(h('h2', null, target === 'C1' ? 'Cambridge C1 Advanced' : 'SLP 3 (STANAG 6001)'));
     main.append(h('div', { class: 'grid' }, MOCKS.filter((m) => m.target === target).map((m) => h('a', { class: 'tile', href: `#/simulacros/${m.id}` }, h('h3', null, m.title), h('p', { class: 'small muted' }, m.description)))));

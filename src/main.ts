@@ -9,6 +9,7 @@ import { writingView } from './views/writing';
 import { speakingView } from './views/speaking';
 import { vocabView } from './views/vocab';
 import { mockView } from './views/mock';
+import { cuerposView } from './views/cuerpos';
 import { progressView } from './views/progress';
 import { grammarView, resourcesView, settingsView, guideView } from './views/misc';
 
@@ -23,6 +24,7 @@ const routes: { path: string; label?: string; view: View }[] = [
   { path: 'speaking', label: 'Speaking', view: speakingView },
   { path: 'vocabulario', label: 'Vocabulario', view: vocabView },
   { path: 'simulacros', label: 'Simulacros', view: mockView },
+  { path: 'cuerpos', label: 'Inglés IIE/Minas', view: cuerposView },
   { path: 'progreso', label: 'Progreso', view: progressView },
   { path: 'guia', label: 'Guía C1/SLP', view: guideView },
   { path: 'recursos', label: 'Recursos', view: resourcesView },

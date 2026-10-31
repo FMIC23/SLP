@@ -234,3 +234,25 @@ export interface Progress {
   plan: WeeklyPlan;
   settings: { voiceRate: number; voiceName?: string; dailyNewCards: number; /** Destreza a priorizar en las recomendaciones ('' = ninguna). */ prioritySkill?: Skill | '' };
 }
+
+// ---------- Ejercicio de inglés de los cuerpos IIE / Minas ----------
+
+/**
+ * Simulacro del 2.º ejercicio (inglés) de los Cuerpos de Ingenieros Industriales (IIE) y de Minas del Estado:
+ * (a) texto en inglés leído dos veces → resumen escrito en inglés; (b) traducción directa ES → EN;
+ * 2 h sin diccionario; después lectura ante el tribunal y conversación (≤ 10 min).
+ */
+export interface CuerpoExam {
+  meta: Meta;
+  title: string;
+  cuerpo: 'IIE' | 'Minas';
+  listening: { title: string; text: string };
+  /** Ideas clave que debe recoger el resumen (en inglés). */
+  keyPoints: string[];
+  modelSummary: string;
+  spanish: { title: string; text: string };
+  modelTranslation: string;
+  /** Términos difíciles del texto en castellano: "es → en". */
+  glossary: string[];
+  oralQuestions: string[];
+}
