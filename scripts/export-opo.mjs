@@ -5,7 +5,7 @@
  * Compila con VITE_EDITION=opo (perfil «Alumno/a», textos sin ámbito policial).
  * Aparta temporalmente data/private y public/private para que el build no los incluya.
  */
-import { cpSync, existsSync, renameSync, rmSync } from 'node:fs';
+import { cpSync, existsSync, readFileSync, renameSync, rmSync, writeFileSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
 import { join, resolve } from 'node:path';
 
@@ -32,4 +32,9 @@ if (status !== 0) process.exit(status);
 rmSync(dest, { recursive: true, force: true });
 cpSync(join(ROOT, 'dist'), dest, { recursive: true });
 rmSync(join(dest, 'private'), { recursive: true, force: true });
+// Textos estáticos de la edición opo (sin ámbito policial)
+for (const f of ['index.html', 'manifest.webmanifest']) {
+  const p = join(dest, f);
+  if (existsSync(p)) writeFileSync(p, readFileSync(p, 'utf8').replaceAll('con vocabulario industrial y policial', 'con vocabulario técnico e industrial'));
+}
 console.log(`✔ Versión pública copiada en ${dest} (servida en /ingles/index.html)`);

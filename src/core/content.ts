@@ -13,11 +13,17 @@ import type {
   WritingTask,
 } from './types';
 import grammar from '../../data/grammar.json';
+import { IS_OPO } from './edition';
 import resources from '../../data/resources.json';
 
 type Mod = Record<string, unknown>;
 
+/** En la edición «opo» (OpoIndustriales) se excluye el contenido del ámbito policial. */
 function flatten<T>(mods: Mod): T[] {
+  return flattenAll<T>(mods).filter((x) => !IS_OPO || (x as { meta?: { domain?: string } })?.meta?.domain !== 'police');
+}
+
+function flattenAll<T>(mods: Mod): T[] {
   return Object.keys(mods)
     .sort()
     .flatMap((k) => {
@@ -45,7 +51,7 @@ export const decks = flatten<Deck>(vocabMods).filter((d) => d && d.meta && Array
 export const writingTasks = flatten<WritingTask>(writingMods);
 export const phraseBank = flatten<PhraseGroup>(phraseMods);
 export const speakingCards = flatten<SpeakingCard>(speakingMods);
-export const debateQuestions = flatten<{ topic: string; domain: string; questions: string[] }>(debateMods);
+export const debateQuestions = flattenAll<{ topic: string; domain: string; questions: string[] }>(debateMods).filter((g) => !IS_OPO || g.domain !== 'police');
 export const cuerpoExams = flatten<CuerpoExam>(cuerpoMods);
 export const grammarRefs = grammar as GrammarRef[];
 export const externalResources = resources as ExternalResource[];
