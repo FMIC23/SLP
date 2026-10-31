@@ -1,4 +1,5 @@
 import type { Attempt, Progress, Skill, SrsState } from './types';
+import { IS_OPO } from './edition';
 
 const LEGACY_KEY = 'slp-c1-progress-v1';
 const PROFILES_KEY = 'slp-profiles';
@@ -9,10 +10,12 @@ export interface Profile {
   name: string;
 }
 
-export const DEFAULT_PROFILES: Profile[] = [
-  { id: 'fran', name: 'Fran' },
-  { id: 'mayka', name: 'Mayka' },
-];
+export const DEFAULT_PROFILES: Profile[] = IS_OPO
+  ? [{ id: 'alumno', name: 'Alumno/a' }]
+  : [
+      { id: 'fran', name: 'Fran' },
+      { id: 'mayka', name: 'Mayka' },
+    ];
 
 export function progressKey(profileId: string): string {
   return `${LEGACY_KEY}:${profileId}`;
@@ -148,7 +151,7 @@ export class Store {
     }
     const p = emptyProgress();
     // Solo el primer perfil (Fran) prioriza speaking por defecto
-    if (this.profileId !== this.profiles[0].id) p.settings.prioritySkill = '';
+    if (IS_OPO || this.profileId !== this.profiles[0].id) p.settings.prioritySkill = '';
     return p;
   }
 

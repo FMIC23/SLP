@@ -3,6 +3,7 @@ import { recommend } from '../core/recommend';
 import { isDue } from '../core/sm2';
 import { skillStats, streak } from '../core/scoring';
 import { boost, store, today } from '../core/store';
+import { IS_OPO } from '../core/edition';
 import { bar, h, SKILL_LABEL, DOMAIN_LABEL } from '../ui/dom';
 import { todayPlan } from './progress';
 
@@ -24,7 +25,7 @@ export function homeView(main: HTMLElement) {
 
   main.append(
     h('h1', null, `Hola, ${store.profile.name}: tu entrenamiento de hoy`),
-    h('p', { class: 'muted' }, 'Inglés C1 Advanced y SLP 3 (STANAG 6001) con vocabulario industrial y policial. Todo tu progreso se guarda en este navegador.'),
+    h('p', { class: 'muted' }, IS_OPO ? 'Inglés C1 para el ejercicio de idioma de los Cuerpos de Ingenieros Industriales y de Minas del Estado, con vocabulario técnico de industria, energía y minería. Tu progreso se guarda en este navegador.' : 'Inglés C1 Advanced y SLP 3 (STANAG 6001) con vocabulario industrial y policial. Todo tu progreso se guarda en este navegador.'),
     h(
       'div',
       { class: 'kpi' },

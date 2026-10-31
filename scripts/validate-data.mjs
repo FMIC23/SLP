@@ -131,6 +131,19 @@ function validateFile(path, folder) {
         for (const k of ['title', 'part', 'prompt', 'prepSeconds', 'speakSeconds']) if (item[k] === undefined || item[k] === '') err(file, `${item.meta?.id} falta ${k}`);
         if (!Array.isArray(item.points)) err(file, `${item.meta?.id} points debe ser array`);
         break;
+      case 'cuerpos': {
+        checkMeta(file, item.meta, 'writing');
+        if (!['IIE', 'Minas'].includes(item.cuerpo)) err(file, `${item.meta?.id} cuerpo inválido`);
+        for (const k of ['title', 'modelSummary', 'modelTranslation']) if (!item[k]) err(file, `${item.meta?.id} falta ${k}`);
+        if (!item.listening?.text || !item.spanish?.text) err(file, `${item.meta?.id} faltan textos`);
+        const wc = (t) => (t ?? '').trim().split(/\s+/).filter(Boolean).length;
+        const le = wc(item.listening?.text);
+        const es = wc(item.spanish?.text);
+        if (le < 400 || le > 1000) warn.push(`${file}: ${item.meta?.id} texto inglés con ${le} palabras (400-1000)`);
+        if (es < 400 || es > 900) warn.push(`${file}: ${item.meta?.id} texto castellano con ${es} palabras (400-900)`);
+        if (!item.keyPoints?.length || !item.oralQuestions?.length || !item.glossary?.length) err(file, `${item.meta?.id} faltan keyPoints/glossary/oralQuestions`);
+        break;
+      }
       default:
         break;
     }
@@ -145,7 +158,7 @@ function walk(dir, folder) {
   }
 }
 
-for (const folder of ['reading', 'useofenglish', 'listening', 'vocabulary', 'writing', 'speaking']) {
+for (const folder of ['reading', 'useofenglish', 'listening', 'vocabulary', 'writing', 'speaking', 'cuerpos']) {
   const d = join(DATA, folder);
   if (existsSync(d)) walk(d, folder);
   const p = join(DATA, 'private', folder);

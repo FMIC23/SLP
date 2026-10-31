@@ -26,6 +26,9 @@ const TAG_INFO: Record<string, { label: string; refs?: string[] }> = {
   'word-formation': { label: 'Formación de palabras', refs: ['word-formation-prefix', 'word-formation-suffix'] },
   'fixed-expression': { label: 'Expresiones fijas', refs: ['fixed-expressions'] },
   preposition: { label: 'Preposiciones', refs: ['dependent-prepositions'] },
+  'cuerpo-escrito': { label: 'Cuerpos IIE/Minas: resumen y traducción escritos' },
+  'cuerpo-oral': { label: 'Cuerpos IIE/Minas: lectura y conversación con el tribunal' },
+  'cuerpo-resumen-ideas': { label: 'Cuerpos IIE/Minas: ideas clave que faltan en el resumen' },
   paraphrase: { label: 'Paráfrasis (reconocer lo mismo con otras palabras)' },
 };
 

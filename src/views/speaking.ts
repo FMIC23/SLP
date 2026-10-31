@@ -26,7 +26,7 @@ export const SPEAKING_RUBRIC = [
 ];
 
 /** Grabadora local (MediaRecorder). Nada se sube: el audio queda en memoria y puedes descargarlo. */
-function recorder() {
+export function recorder() {
   const wrap = h('div', { class: 'row' });
   const btn = h('button', { type: 'button' }, '● Grabar');
   const status = h('span', { class: 'small', 'aria-live': 'polite' });
