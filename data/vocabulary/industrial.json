@@ -1,0 +1,1810 @@
+[
+  {
+    "meta": {
+      "id": "voc-ind-energy",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "energy",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Energy & power systems",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-energy-001",
+        "front": "the grid / power grid",
+        "back": "la red eléctrica",
+        "example": "Surplus electricity from the solar farm is fed into the grid.",
+        "note": "\"Off-grid\" = aislado de la red. \"Grid operator\" = operador del sistema."
+      },
+      {
+        "id": "voc-ind-energy-002",
+        "front": "baseload",
+        "back": "carga base (demanda mínima continua)",
+        "example": "Nuclear plants have traditionally supplied the baseload.",
+        "note": "Frente a \"peak load\" (carga punta)."
+      },
+      {
+        "id": "voc-ind-energy-003",
+        "front": "peak demand",
+        "back": "demanda punta, pico de demanda",
+        "example": "Peak demand usually occurs on cold winter evenings.",
+        "note": "Colocación: meet / shave peak demand (peak shaving)."
+      },
+      {
+        "id": "voc-ind-energy-004",
+        "front": "installed capacity",
+        "back": "potencia instalada",
+        "example": "The country's installed wind capacity now exceeds 30 GW.",
+        "note": "No confundir con la energía generada (output, en MWh)."
+      },
+      {
+        "id": "voc-ind-energy-005",
+        "front": "load factor / capacity factor",
+        "back": "factor de carga / de capacidad",
+        "example": "Offshore wind farms tend to have a higher capacity factor than onshore ones.",
+        "note": "Porcentaje de la producción real frente a la máxima teórica."
+      },
+      {
+        "id": "voc-ind-energy-006",
+        "front": "intermittency",
+        "back": "intermitencia (de las renovables)",
+        "example": "Battery storage helps to offset the intermittency of solar power.",
+        "note": "Adjetivo: intermittent sources."
+      },
+      {
+        "id": "voc-ind-energy-007",
+        "front": "energy storage",
+        "back": "almacenamiento de energía",
+        "example": "Pumped-hydro remains the most widespread form of large-scale energy storage.",
+        "note": "Tipos: battery, pumped-hydro (bombeo), thermal storage."
+      },
+      {
+        "id": "voc-ind-energy-008",
+        "front": "green hydrogen",
+        "back": "hidrógeno verde",
+        "example": "Green hydrogen is produced by electrolysis powered by renewable electricity.",
+        "note": "Grey hydrogen: a partir de gas natural sin captura de CO₂; blue: con captura."
+      },
+      {
+        "id": "voc-ind-energy-009",
+        "front": "electrolyser",
+        "back": "electrolizador",
+        "example": "The refinery plans to install a 100 MW electrolyser by 2028.",
+        "note": "Ortografía británica: electrolyser (EE. UU.: electrolyzer)."
+      },
+      {
+        "id": "voc-ind-energy-010",
+        "front": "transmission vs distribution",
+        "back": "transporte (alta tensión) vs distribución (media/baja)",
+        "example": "Transmission lines carry power over long distances at very high voltage.",
+        "note": "En España: red de transporte (REE) frente a red de distribución."
+      },
+      {
+        "id": "voc-ind-energy-011",
+        "front": "substation",
+        "back": "subestación",
+        "example": "A fault at the substation left 20,000 homes without power.",
+        "note": "Transformer = transformador; switchgear = aparamenta."
+      },
+      {
+        "id": "voc-ind-energy-012",
+        "front": "power outage / blackout",
+        "back": "apagón, corte de suministro",
+        "example": "The storm caused widespread power outages across the north.",
+        "note": "\"Blackout\" suele ser masivo; \"brownout\" = caída de tensión."
+      },
+      {
+        "id": "voc-ind-energy-013",
+        "front": "to curtail (output)",
+        "back": "limitar/recortar la producción (vertido de renovables)",
+        "example": "Wind farms were curtailed because the grid could not absorb the surplus.",
+        "note": "Sustantivo: curtailment."
+      },
+      {
+        "id": "voc-ind-energy-014",
+        "front": "frequency regulation",
+        "back": "regulación de frecuencia",
+        "example": "Batteries can respond within milliseconds to provide frequency regulation.",
+        "note": "En Europa la frecuencia nominal es 50 Hz."
+      },
+      {
+        "id": "voc-ind-energy-015",
+        "front": "interconnector",
+        "back": "interconexión (eléctrica internacional)",
+        "example": "A new interconnector will double exchange capacity with France.",
+        "note": "Clave para la integración de mercados."
+      },
+      {
+        "id": "voc-ind-energy-016",
+        "front": "combined-cycle gas turbine (CCGT)",
+        "back": "ciclo combinado de gas",
+        "example": "CCGT plants are often used to balance the system when wind drops.",
+        "note": "Pronunciado como siglas: C-C-G-T."
+      },
+      {
+        "id": "voc-ind-energy-017",
+        "front": "combined heat and power (CHP)",
+        "back": "cogeneración",
+        "example": "The factory's CHP unit supplies both electricity and process steam.",
+        "note": "También \"cogeneration\"."
+      },
+      {
+        "id": "voc-ind-energy-018",
+        "front": "to decommission",
+        "back": "desmantelar, dar de baja (una central)",
+        "example": "The coal-fired station was decommissioned in 2020.",
+        "note": "Sustantivo: decommissioning. Lo contrario: commission (poner en servicio)."
+      },
+      {
+        "id": "voc-ind-energy-019",
+        "front": "to commission",
+        "back": "poner en servicio, poner en marcha",
+        "example": "The plant is due to be commissioned next spring after final testing.",
+        "note": "Commissioning = puesta en marcha. También significa \"encargar\"."
+      },
+      {
+        "id": "voc-ind-energy-020",
+        "front": "power purchase agreement (PPA)",
+        "back": "contrato de compraventa de energía a largo plazo",
+        "example": "The company signed a ten-year PPA with a solar developer.",
+        "note": "Muy común en financiación de renovables."
+      },
+      {
+        "id": "voc-ind-energy-021",
+        "front": "levelised cost of energy (LCOE)",
+        "back": "coste nivelado de la energía",
+        "example": "The LCOE of onshore wind has fallen dramatically.",
+        "note": "Ortografía británica: levelised."
+      },
+      {
+        "id": "voc-ind-energy-022",
+        "front": "photovoltaic (PV) panel",
+        "back": "panel fotovoltaico",
+        "example": "PV panels were mounted on the roof of the warehouse.",
+        "note": "Inverter = inversor; tracker = seguidor solar."
+      },
+      {
+        "id": "voc-ind-energy-023",
+        "front": "wind turbine",
+        "back": "aerogenerador",
+        "example": "Each wind turbine has a rated output of 6 MW.",
+        "note": "Nacelle = góndola; blade = pala; tower = torre."
+      },
+      {
+        "id": "voc-ind-energy-024",
+        "front": "heat pump",
+        "back": "bomba de calor",
+        "example": "Heat pumps are central to decarbonising domestic heating.",
+        "note": "COP (coefficient of performance) = rendimiento."
+      },
+      {
+        "id": "voc-ind-energy-025",
+        "front": "energy efficiency",
+        "back": "eficiencia energética",
+        "example": "Upgrading the motors delivered major energy efficiency gains.",
+        "note": "Colocación: improve / boost energy efficiency."
+      },
+      {
+        "id": "voc-ind-energy-026",
+        "front": "carbon capture and storage (CCS)",
+        "back": "captura y almacenamiento de carbono",
+        "example": "CCS could help reduce emissions from cement production.",
+        "note": "También CCUS (and utilisation)."
+      },
+      {
+        "id": "voc-ind-energy-027",
+        "front": "smart meter",
+        "back": "contador inteligente",
+        "example": "Smart meters send readings to the supplier automatically.",
+        "note": "\"Meter reading\" = lectura del contador."
+      },
+      {
+        "id": "voc-ind-energy-028",
+        "front": "to back up",
+        "back": "respaldar (con generación de reserva)",
+        "example": "Diesel generators back up the hospital's supply in an emergency.",
+        "note": "Sustantivo: backup generator (grupo electrógeno de emergencia)."
+      },
+      {
+        "id": "voc-ind-energy-029",
+        "front": "energy mix",
+        "back": "mix energético",
+        "example": "Renewables now make up over half of Spain's electricity mix.",
+        "note": "También \"generation mix\"."
+      },
+      {
+        "id": "voc-ind-energy-030",
+        "front": "to phase out",
+        "back": "eliminar progresivamente",
+        "example": "The government plans to phase out coal by 2030.",
+        "note": "Sustantivo: phase-out."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-process",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "process engineering",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Process engineering & manufacturing",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-process-001",
+        "front": "throughput",
+        "back": "capacidad de producción, caudal procesado",
+        "example": "The new conveyor increased throughput by 15%.",
+        "note": "Cantidad procesada por unidad de tiempo."
+      },
+      {
+        "id": "voc-ind-process-002",
+        "front": "bottleneck",
+        "back": "cuello de botella",
+        "example": "The packaging line has become the main bottleneck in the plant.",
+        "note": "Verbo: debottleneck (eliminar cuellos de botella)."
+      },
+      {
+        "id": "voc-ind-process-003",
+        "front": "downtime",
+        "back": "tiempo de inactividad, parada",
+        "example": "Unplanned downtime cost the company thousands of euros per hour.",
+        "note": "Lo contrario: uptime. \"Planned downtime\" = parada programada."
+      },
+      {
+        "id": "voc-ind-process-004",
+        "front": "shutdown / turnaround",
+        "back": "parada (general) de planta",
+        "example": "The refinery's annual turnaround lasted six weeks.",
+        "note": "\"Shutdown\" también para parada de emergencia."
+      },
+      {
+        "id": "voc-ind-process-005",
+        "front": "batch vs continuous process",
+        "back": "proceso por lotes vs continuo",
+        "example": "Pharmaceuticals are usually made in batch processes.",
+        "note": "Batch = lote; batch number = número de lote."
+      },
+      {
+        "id": "voc-ind-process-006",
+        "front": "feedstock",
+        "back": "materia prima (de alimentación al proceso)",
+        "example": "Natural gas is the main feedstock for ammonia production.",
+        "note": "Sinónimo general: raw material."
+      },
+      {
+        "id": "voc-ind-process-007",
+        "front": "yield",
+        "back": "rendimiento (de proceso)",
+        "example": "Optimising the reactor temperature improved the yield.",
+        "note": "First-pass yield = rendimiento a la primera."
+      },
+      {
+        "id": "voc-ind-process-008",
+        "front": "set point",
+        "back": "punto de consigna",
+        "example": "The operator raised the temperature set point to 180 °C.",
+        "note": "Concepto de control de procesos."
+      },
+      {
+        "id": "voc-ind-process-009",
+        "front": "process flow diagram (PFD)",
+        "back": "diagrama de flujo de proceso",
+        "example": "The PFD shows the main equipment and streams.",
+        "note": "P&ID = diagrama de tuberías e instrumentación."
+      },
+      {
+        "id": "voc-ind-process-010",
+        "front": "piping and instrumentation diagram (P&ID)",
+        "back": "diagrama de tuberías e instrumentación",
+        "example": "Every valve and sensor must appear on the P&ID.",
+        "note": "Pronunciado \"P and I D\"."
+      },
+      {
+        "id": "voc-ind-process-011",
+        "front": "heat exchanger",
+        "back": "intercambiador de calor",
+        "example": "Fouling in the heat exchanger reduced its efficiency.",
+        "note": "Fouling = ensuciamiento/incrustaciones."
+      },
+      {
+        "id": "voc-ind-process-012",
+        "front": "pressure vessel",
+        "back": "recipiente a presión",
+        "example": "Pressure vessels must undergo periodic inspection.",
+        "note": "Regulados por la Directiva de Equipos a Presión (PED)."
+      },
+      {
+        "id": "voc-ind-process-013",
+        "front": "relief valve",
+        "back": "válvula de alivio / seguridad",
+        "example": "The relief valve opened when the pressure exceeded the limit.",
+        "note": "También pressure relief valve (PRV), safety valve."
+      },
+      {
+        "id": "voc-ind-process-014",
+        "front": "to scale up",
+        "back": "escalar (de laboratorio/piloto a industrial)",
+        "example": "The challenge is to scale up the process without losing quality.",
+        "note": "Sustantivo: scale-up."
+      },
+      {
+        "id": "voc-ind-process-015",
+        "front": "pilot plant",
+        "back": "planta piloto",
+        "example": "The technology was first tested in a small pilot plant.",
+        "note": "Fase entre laboratorio y planta industrial."
+      },
+      {
+        "id": "voc-ind-process-016",
+        "front": "lean manufacturing",
+        "back": "producción ajustada (lean)",
+        "example": "Lean manufacturing aims to eliminate waste at every stage.",
+        "note": "Herramientas: 5S, kanban, value stream mapping."
+      },
+      {
+        "id": "voc-ind-process-017",
+        "front": "just-in-time (JIT)",
+        "back": "justo a tiempo",
+        "example": "JIT reduces inventory but makes the plant vulnerable to supply disruptions.",
+        "note": "Adjetivo: just-in-time delivery."
+      },
+      {
+        "id": "voc-ind-process-018",
+        "front": "work in progress (WIP)",
+        "back": "producto en curso, trabajo en proceso",
+        "example": "Too much WIP on the shop floor hides inefficiencies.",
+        "note": "En EE. UU. también \"work in process\"."
+      },
+      {
+        "id": "voc-ind-process-019",
+        "front": "shop floor",
+        "back": "planta de producción, taller",
+        "example": "Managers should spend more time on the shop floor.",
+        "note": "Se refiere tanto al lugar como a los operarios."
+      },
+      {
+        "id": "voc-ind-process-020",
+        "front": "assembly line",
+        "back": "cadena de montaje",
+        "example": "Robots now perform most welding on the assembly line.",
+        "note": "Production line = línea de producción."
+      },
+      {
+        "id": "voc-ind-process-021",
+        "front": "preventive maintenance",
+        "back": "mantenimiento preventivo",
+        "example": "A robust preventive maintenance plan reduces breakdowns.",
+        "note": "También predictive (predictivo) y corrective (correctivo) maintenance."
+      },
+      {
+        "id": "voc-ind-process-022",
+        "front": "wear and tear",
+        "back": "desgaste (por uso)",
+        "example": "The bearings showed signs of normal wear and tear.",
+        "note": "Expresión fija; no se dice \"tear and wear\"."
+      },
+      {
+        "id": "voc-ind-process-023",
+        "front": "tolerance",
+        "back": "tolerancia (dimensional)",
+        "example": "The parts must be machined to a tolerance of ±0.05 mm.",
+        "note": "\"Within tolerance\" = dentro de tolerancia."
+      },
+      {
+        "id": "voc-ind-process-024",
+        "front": "to machine",
+        "back": "mecanizar",
+        "example": "The shaft is machined from a solid steel bar.",
+        "note": "Machining = mecanizado; CNC machine = máquina de control numérico."
+      },
+      {
+        "id": "voc-ind-process-025",
+        "front": "raw material",
+        "back": "materia prima",
+        "example": "Rising raw material costs squeezed profit margins.",
+        "note": "Suele usarse en plural: raw materials."
+      },
+      {
+        "id": "voc-ind-process-026",
+        "front": "by-product",
+        "back": "subproducto",
+        "example": "Gypsum is a by-product of flue gas desulphurisation.",
+        "note": "Diferente de \"waste\": tiene valor de uso."
+      },
+      {
+        "id": "voc-ind-process-027",
+        "front": "overall equipment effectiveness (OEE)",
+        "back": "eficiencia global del equipo",
+        "example": "Our OEE rose from 62% to 78% after the improvements.",
+        "note": "Combina disponibilidad, rendimiento y calidad."
+      },
+      {
+        "id": "voc-ind-process-028",
+        "front": "to ramp up",
+        "back": "aumentar progresivamente (la producción)",
+        "example": "The plant will ramp up production over the next three months.",
+        "note": "Sustantivo: ramp-up."
+      },
+      {
+        "id": "voc-ind-process-029",
+        "front": "commissioning",
+        "back": "puesta en marcha",
+        "example": "Commissioning was delayed by a faulty control system.",
+        "note": "Fases: pre-commissioning, commissioning, start-up."
+      },
+      {
+        "id": "voc-ind-process-030",
+        "front": "standard operating procedure (SOP)",
+        "back": "procedimiento normalizado de trabajo",
+        "example": "Operators must follow the SOP when changing filters.",
+        "note": "Plural: SOPs."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-quality",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "quality management",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Quality management",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-quality-001",
+        "front": "quality management system (QMS)",
+        "back": "sistema de gestión de la calidad",
+        "example": "Our QMS is certified to ISO 9001.",
+        "note": "ISO 9001 es la norma de requisitos; \"certified to\", no \"certified in\"."
+      },
+      {
+        "id": "voc-ind-quality-002",
+        "front": "non-conformity",
+        "back": "no conformidad",
+        "example": "The auditor raised two major non-conformities.",
+        "note": "\"Raise / close out a non-conformity\". Sinónimo: nonconformance."
+      },
+      {
+        "id": "voc-ind-quality-003",
+        "front": "root cause analysis (RCA)",
+        "back": "análisis de causa raíz",
+        "example": "A root cause analysis revealed that the operator had not been trained.",
+        "note": "Herramientas: 5 Whys, fishbone (Ishikawa) diagram."
+      },
+      {
+        "id": "voc-ind-quality-004",
+        "front": "corrective action",
+        "back": "acción correctiva",
+        "example": "Corrective actions must address the root cause, not just the symptom.",
+        "note": "CAPA = Corrective and Preventive Action."
+      },
+      {
+        "id": "voc-ind-quality-005",
+        "front": "preventive action",
+        "back": "acción preventiva",
+        "example": "As a preventive action, all similar machines were inspected.",
+        "note": "En ISO 9001:2015 se sustituye por el enfoque basado en riesgos."
+      },
+      {
+        "id": "voc-ind-quality-006",
+        "front": "internal audit",
+        "back": "auditoría interna",
+        "example": "Internal audits are carried out twice a year.",
+        "note": "\"Carry out / conduct an audit\". Auditee = auditado."
+      },
+      {
+        "id": "voc-ind-quality-007",
+        "front": "finding",
+        "back": "hallazgo (de auditoría)",
+        "example": "The audit produced three findings and one observation.",
+        "note": "Puede ser no conformidad, observación u oportunidad de mejora."
+      },
+      {
+        "id": "voc-ind-quality-008",
+        "front": "Six Sigma",
+        "back": "Six Sigma (metodología de reducción de variabilidad)",
+        "example": "The Six Sigma project cut defects by 40%.",
+        "note": "Roles: Green Belt, Black Belt. Fases DMAIC."
+      },
+      {
+        "id": "voc-ind-quality-009",
+        "front": "DMAIC",
+        "back": "Definir, Medir, Analizar, Mejorar, Controlar",
+        "example": "We are currently in the Analyse phase of the DMAIC cycle.",
+        "note": "Define, Measure, Analyse, Improve, Control."
+      },
+      {
+        "id": "voc-ind-quality-010",
+        "front": "PDCA cycle",
+        "back": "ciclo PDCA (Planificar-Hacer-Verificar-Actuar)",
+        "example": "ISO standards are built around the PDCA cycle.",
+        "note": "Plan-Do-Check-Act; también ciclo de Deming."
+      },
+      {
+        "id": "voc-ind-quality-011",
+        "front": "continuous improvement",
+        "back": "mejora continua",
+        "example": "Continuous improvement is part of the company culture.",
+        "note": "Kaizen es el término japonés equivalente."
+      },
+      {
+        "id": "voc-ind-quality-012",
+        "front": "defect rate",
+        "back": "tasa de defectos",
+        "example": "The defect rate dropped below 0.1%.",
+        "note": "Expresado a menudo en ppm (parts per million)."
+      },
+      {
+        "id": "voc-ind-quality-013",
+        "front": "traceability",
+        "back": "trazabilidad",
+        "example": "Batch numbers ensure full traceability of every component.",
+        "note": "Adjetivo: traceable."
+      },
+      {
+        "id": "voc-ind-quality-014",
+        "front": "calibration",
+        "back": "calibración",
+        "example": "All measuring equipment must have an up-to-date calibration certificate.",
+        "note": "Verbo: calibrate. \"Out of calibration\" = descalibrado."
+      },
+      {
+        "id": "voc-ind-quality-015",
+        "front": "specification",
+        "back": "especificación",
+        "example": "The batch did not meet the customer's specification.",
+        "note": "\"Out of spec\" = fuera de especificación (informal)."
+      },
+      {
+        "id": "voc-ind-quality-016",
+        "front": "quality assurance vs quality control",
+        "back": "aseguramiento de la calidad vs control de calidad",
+        "example": "Quality assurance focuses on processes; quality control checks the product.",
+        "note": "QA es preventivo; QC es detectivo."
+      },
+      {
+        "id": "voc-ind-quality-017",
+        "front": "to reject / rejects",
+        "back": "rechazar / piezas rechazadas",
+        "example": "The inspector rejected the whole lot because of surface cracks.",
+        "note": "\"Scrap\" = chatarra/desecho; \"rework\" = reprocesar."
+      },
+      {
+        "id": "voc-ind-quality-018",
+        "front": "rework",
+        "back": "reproceso, retrabajo",
+        "example": "Rework accounts for a significant share of labour costs.",
+        "note": "Sustantivo incontable y verbo."
+      },
+      {
+        "id": "voc-ind-quality-019",
+        "front": "acceptance criteria",
+        "back": "criterios de aceptación",
+        "example": "The acceptance criteria are defined in the purchase order.",
+        "note": "Singular: criterion."
+      },
+      {
+        "id": "voc-ind-quality-020",
+        "front": "statistical process control (SPC)",
+        "back": "control estadístico de procesos",
+        "example": "SPC charts showed the process drifting out of control.",
+        "note": "Control chart = gráfico de control."
+      },
+      {
+        "id": "voc-ind-quality-021",
+        "front": "process capability (Cpk)",
+        "back": "capacidad de proceso (índice Cpk)",
+        "example": "A Cpk of 1.33 is usually considered acceptable.",
+        "note": "Mide si el proceso cumple tolerancias de forma consistente."
+      },
+      {
+        "id": "voc-ind-quality-022",
+        "front": "customer complaint",
+        "back": "reclamación de cliente",
+        "example": "Every customer complaint is logged and investigated.",
+        "note": "\"Lodge / file a complaint\"."
+      },
+      {
+        "id": "voc-ind-quality-023",
+        "front": "supplier audit",
+        "back": "auditoría a proveedores",
+        "example": "We carry out supplier audits before approving new vendors.",
+        "note": "Approved vendor list = lista de proveedores homologados."
+      },
+      {
+        "id": "voc-ind-quality-024",
+        "front": "documented information",
+        "back": "información documentada",
+        "example": "ISO 9001:2015 uses the term \"documented information\" for records and procedures.",
+        "note": "Sustituye a \"documents and records\"."
+      },
+      {
+        "id": "voc-ind-quality-025",
+        "front": "management review",
+        "back": "revisión por la dirección",
+        "example": "The results were presented at the annual management review.",
+        "note": "Requisito clave de ISO 9001."
+      },
+      {
+        "id": "voc-ind-quality-026",
+        "front": "key performance indicator (KPI)",
+        "back": "indicador clave de rendimiento",
+        "example": "On-time delivery is one of our main KPIs.",
+        "note": "Plural: KPIs."
+      },
+      {
+        "id": "voc-ind-quality-027",
+        "front": "fishbone diagram",
+        "back": "diagrama de espina de pescado (Ishikawa)",
+        "example": "The team used a fishbone diagram to brainstorm possible causes.",
+        "note": "Categorías típicas: 6M (man, machine, method, material...)."
+      },
+      {
+        "id": "voc-ind-quality-028",
+        "front": "5 Whys",
+        "back": "técnica de los 5 porqués",
+        "example": "Asking the 5 Whys led us to a gap in the training programme.",
+        "note": "Herramienta sencilla de causa raíz."
+      },
+      {
+        "id": "voc-ind-quality-029",
+        "front": "failure mode and effects analysis (FMEA)",
+        "back": "análisis modal de fallos y efectos (AMFE)",
+        "example": "The FMEA identified the seal as a high-risk component.",
+        "note": "RPN = Risk Priority Number."
+      },
+      {
+        "id": "voc-ind-quality-030",
+        "front": "zero defects",
+        "back": "cero defectos",
+        "example": "Zero defects is an aspiration rather than a realistic short-term target.",
+        "note": "Filosofía asociada a Philip Crosby."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-safety",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "occupational health and safety",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Health & safety at work",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-safety-001",
+        "front": "lockout/tagout (LOTO)",
+        "back": "bloqueo y etiquetado (consignación)",
+        "example": "Lockout/tagout must be applied before any maintenance on the press.",
+        "note": "Garantiza que el equipo no pueda energizarse accidentalmente."
+      },
+      {
+        "id": "voc-ind-safety-002",
+        "front": "near miss",
+        "back": "cuasi accidente, incidente sin daños",
+        "example": "All near misses should be reported, however minor they seem.",
+        "note": "También \"close call\". No es un accidente, pero pudo serlo."
+      },
+      {
+        "id": "voc-ind-safety-003",
+        "front": "personal protective equipment (PPE)",
+        "back": "equipos de protección individual (EPI)",
+        "example": "Hard hats, gloves and safety boots are mandatory PPE on site.",
+        "note": "Incontable: \"PPE is\", no \"PPEs are\"."
+      },
+      {
+        "id": "voc-ind-safety-004",
+        "front": "risk assessment",
+        "back": "evaluación de riesgos",
+        "example": "A risk assessment must be completed before work begins.",
+        "note": "\"Carry out / conduct a risk assessment\"."
+      },
+      {
+        "id": "voc-ind-safety-005",
+        "front": "hazard vs risk",
+        "back": "peligro vs riesgo",
+        "example": "A hazard is something that can cause harm; risk is the likelihood and severity of that harm.",
+        "note": "Error típico: traducir \"peligro\" siempre como \"danger\"."
+      },
+      {
+        "id": "voc-ind-safety-006",
+        "front": "ATEX",
+        "back": "ATEX (atmósferas explosivas)",
+        "example": "Only ATEX-certified equipment may be used in Zone 1.",
+        "note": "Del francés \"ATmosphères EXplosibles\". Zonas 0/1/2 (gases), 20/21/22 (polvo)."
+      },
+      {
+        "id": "voc-ind-safety-007",
+        "front": "permit to work",
+        "back": "permiso de trabajo",
+        "example": "Hot work requires a permit to work signed by the area supervisor.",
+        "note": "Tipos: hot work, confined space, work at height."
+      },
+      {
+        "id": "voc-ind-safety-008",
+        "front": "confined space",
+        "back": "espacio confinado",
+        "example": "Entry into a confined space requires gas testing and a standby person.",
+        "note": "Ej.: tanques, pozos, alcantarillas."
+      },
+      {
+        "id": "voc-ind-safety-009",
+        "front": "working at height",
+        "back": "trabajos en altura",
+        "example": "Harnesses must be worn when working at height.",
+        "note": "Fall arrest system = sistema anticaídas."
+      },
+      {
+        "id": "voc-ind-safety-010",
+        "front": "hot work",
+        "back": "trabajos en caliente",
+        "example": "Hot work includes welding, cutting and grinding.",
+        "note": "Requiere vigilancia de incendios (fire watch)."
+      },
+      {
+        "id": "voc-ind-safety-011",
+        "front": "lost-time injury (LTI)",
+        "back": "accidente con baja",
+        "example": "The site has gone 500 days without a lost-time injury.",
+        "note": "LTIFR = índice de frecuencia de accidentes con baja."
+      },
+      {
+        "id": "voc-ind-safety-012",
+        "front": "occupational disease / illness",
+        "back": "enfermedad profesional",
+        "example": "Silicosis remains a serious occupational disease in mining.",
+        "note": "Frente a \"accident at work\"."
+      },
+      {
+        "id": "voc-ind-safety-013",
+        "front": "safety data sheet (SDS)",
+        "back": "ficha de datos de seguridad",
+        "example": "Check the SDS before handling any unfamiliar chemical.",
+        "note": "Antes MSDS (material safety data sheet)."
+      },
+      {
+        "id": "voc-ind-safety-014",
+        "front": "emergency drill",
+        "back": "simulacro de emergencia",
+        "example": "An evacuation drill is held every six months.",
+        "note": "\"Fire drill\" = simulacro de incendio."
+      },
+      {
+        "id": "voc-ind-safety-015",
+        "front": "assembly point",
+        "back": "punto de reunión",
+        "example": "All staff must go straight to the assembly point when the alarm sounds.",
+        "note": "También \"muster point\"."
+      },
+      {
+        "id": "voc-ind-safety-016",
+        "front": "first aider",
+        "back": "socorrista / persona formada en primeros auxilios",
+        "example": "There must be at least one trained first aider per shift.",
+        "note": "First aid kit = botiquín."
+      },
+      {
+        "id": "voc-ind-safety-017",
+        "front": "guarding (machine guard)",
+        "back": "resguardo (de máquina)",
+        "example": "The accident happened because the machine guard had been removed.",
+        "note": "Interlock = enclavamiento."
+      },
+      {
+        "id": "voc-ind-safety-018",
+        "front": "ISO 45001",
+        "back": "norma de sistemas de gestión de SST",
+        "example": "The plant achieved ISO 45001 certification last year.",
+        "note": "Sustituyó a OHSAS 18001."
+      },
+      {
+        "id": "voc-ind-safety-019",
+        "front": "incident investigation",
+        "back": "investigación de incidentes",
+        "example": "The incident investigation focused on human and organisational factors.",
+        "note": "Busca causas, no culpables (no-blame culture)."
+      },
+      {
+        "id": "voc-ind-safety-020",
+        "front": "safety induction",
+        "back": "formación inicial de seguridad (acogida)",
+        "example": "Visitors must complete a safety induction before entering the site.",
+        "note": "Induction = acogida/formación de incorporación."
+      },
+      {
+        "id": "voc-ind-safety-021",
+        "front": "toolbox talk",
+        "back": "charla de seguridad breve (antes del turno)",
+        "example": "The supervisor held a toolbox talk on manual handling.",
+        "note": "Breve, práctica, a pie de obra."
+      },
+      {
+        "id": "voc-ind-safety-022",
+        "front": "manual handling",
+        "back": "manipulación manual de cargas",
+        "example": "Poor manual handling is a major cause of back injuries.",
+        "note": "Musculoskeletal disorders (MSDs) = trastornos musculoesqueléticos."
+      },
+      {
+        "id": "voc-ind-safety-023",
+        "front": "exposure limit",
+        "back": "valor límite de exposición",
+        "example": "Dust levels exceeded the occupational exposure limit.",
+        "note": "En España: VLA (valores límite ambientales)."
+      },
+      {
+        "id": "voc-ind-safety-024",
+        "front": "to cordon off",
+        "back": "acordonar",
+        "example": "The area was cordoned off while the spill was cleaned up.",
+        "note": "También policial. Sustantivo: cordon."
+      },
+      {
+        "id": "voc-ind-safety-025",
+        "front": "slips, trips and falls",
+        "back": "resbalones, tropiezos y caídas",
+        "example": "Slips, trips and falls account for many workplace injuries.",
+        "note": "Expresión fija en prevención."
+      },
+      {
+        "id": "voc-ind-safety-026",
+        "front": "safety culture",
+        "back": "cultura de seguridad",
+        "example": "A strong safety culture encourages workers to stop unsafe jobs.",
+        "note": "\"Stop-work authority\" = autoridad para detener trabajos."
+      },
+      {
+        "id": "voc-ind-safety-027",
+        "front": "hierarchy of controls",
+        "back": "jerarquía de medidas de control",
+        "example": "According to the hierarchy of controls, PPE is the last line of defence.",
+        "note": "Eliminación, sustitución, ingeniería, administrativas, EPI."
+      },
+      {
+        "id": "voc-ind-safety-028",
+        "front": "fatality",
+        "back": "víctima mortal, accidente mortal",
+        "example": "The company recorded no fatalities for the third year running.",
+        "note": "Formal; \"death\" es más general."
+      },
+      {
+        "id": "voc-ind-safety-029",
+        "front": "gas detector",
+        "back": "detector de gases",
+        "example": "Each worker carries a personal gas detector in the tunnel.",
+        "note": "\"Bump test\" = prueba funcional del detector."
+      },
+      {
+        "id": "voc-ind-safety-030",
+        "front": "to isolate (energy sources)",
+        "back": "aislar, desconectar (fuentes de energía)",
+        "example": "All energy sources must be isolated and verified before work starts.",
+        "note": "Isolation point = punto de aislamiento."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-project",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "project management",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Project management",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-project-001",
+        "front": "milestone",
+        "back": "hito",
+        "example": "Completion of the foundations is the first major milestone.",
+        "note": "Colocación: reach / hit / miss a milestone."
+      },
+      {
+        "id": "voc-ind-project-002",
+        "front": "scope creep",
+        "back": "ampliación descontrolada del alcance",
+        "example": "Scope creep pushed the project months behind schedule.",
+        "note": "Sucede cuando se añaden requisitos sin control de cambios."
+      },
+      {
+        "id": "voc-ind-project-003",
+        "front": "Gantt chart",
+        "back": "diagrama de Gantt",
+        "example": "The Gantt chart shows that testing overlaps with installation.",
+        "note": "Muestra tareas y duraciones en el tiempo."
+      },
+      {
+        "id": "voc-ind-project-004",
+        "front": "stakeholder",
+        "back": "parte interesada",
+        "example": "Local residents are key stakeholders in the wind farm project.",
+        "note": "Stakeholder engagement = gestión/participación de interesados."
+      },
+      {
+        "id": "voc-ind-project-005",
+        "front": "contingency",
+        "back": "contingencia, reserva para imprevistos",
+        "example": "We have included a 10% contingency in the budget.",
+        "note": "Contingency plan = plan de contingencia."
+      },
+      {
+        "id": "voc-ind-project-006",
+        "front": "critical path",
+        "back": "ruta crítica",
+        "example": "Any delay on the critical path will delay the whole project.",
+        "note": "Critical path method (CPM)."
+      },
+      {
+        "id": "voc-ind-project-007",
+        "front": "deliverable",
+        "back": "entregable",
+        "example": "The main deliverable for this phase is a detailed design report.",
+        "note": "Sustantivo contable."
+      },
+      {
+        "id": "voc-ind-project-008",
+        "front": "work breakdown structure (WBS)",
+        "back": "estructura de desglose del trabajo (EDT)",
+        "example": "The WBS divides the project into manageable work packages.",
+        "note": "Work package = paquete de trabajo."
+      },
+      {
+        "id": "voc-ind-project-009",
+        "front": "to be on track",
+        "back": "ir según lo previsto",
+        "example": "Despite the bad weather, the project is still on track.",
+        "note": "Lo contrario: off track, behind schedule."
+      },
+      {
+        "id": "voc-ind-project-010",
+        "front": "behind / ahead of schedule",
+        "back": "retrasado / adelantado",
+        "example": "The tunnel is three weeks behind schedule.",
+        "note": "También \"over / under budget\"."
+      },
+      {
+        "id": "voc-ind-project-011",
+        "front": "to overrun",
+        "back": "exceder (plazo o presupuesto)",
+        "example": "The project overran its budget by 20%.",
+        "note": "Sustantivo: cost overrun, time overrun."
+      },
+      {
+        "id": "voc-ind-project-012",
+        "front": "baseline",
+        "back": "línea base",
+        "example": "Progress is measured against the approved baseline.",
+        "note": "Schedule baseline, cost baseline."
+      },
+      {
+        "id": "voc-ind-project-013",
+        "front": "kick-off meeting",
+        "back": "reunión de lanzamiento",
+        "example": "Roles and responsibilities were agreed at the kick-off meeting.",
+        "note": "Verbo: kick off a project."
+      },
+      {
+        "id": "voc-ind-project-014",
+        "front": "lead time",
+        "back": "plazo de entrega / aprovisionamiento",
+        "example": "Transformers have a lead time of over a year.",
+        "note": "Long-lead items = equipos de largo plazo de entrega."
+      },
+      {
+        "id": "voc-ind-project-015",
+        "front": "change order / change request",
+        "back": "orden de cambio / solicitud de cambio",
+        "example": "Every change request must be approved by the steering committee.",
+        "note": "Change control = control de cambios."
+      },
+      {
+        "id": "voc-ind-project-016",
+        "front": "risk register",
+        "back": "registro de riesgos",
+        "example": "The risk register is updated at every progress meeting.",
+        "note": "Incluye probabilidad, impacto, responsable y mitigación."
+      },
+      {
+        "id": "voc-ind-project-017",
+        "front": "steering committee",
+        "back": "comité de dirección (del proyecto)",
+        "example": "The steering committee approved the revised budget.",
+        "note": "Toma decisiones estratégicas."
+      },
+      {
+        "id": "voc-ind-project-018",
+        "front": "resource allocation",
+        "back": "asignación de recursos",
+        "example": "Poor resource allocation left the design team overstretched.",
+        "note": "Overstretched = sobrecargado."
+      },
+      {
+        "id": "voc-ind-project-019",
+        "front": "handover",
+        "back": "entrega, traspaso",
+        "example": "Handover to the client is planned for June.",
+        "note": "Verbo: hand over. También relevo de turno."
+      },
+      {
+        "id": "voc-ind-project-020",
+        "front": "lessons learned",
+        "back": "lecciones aprendidas",
+        "example": "A lessons-learned session was held at project close.",
+        "note": "Con guion como adjetivo: lessons-learned report."
+      },
+      {
+        "id": "voc-ind-project-021",
+        "front": "tender / bid",
+        "back": "licitación / oferta",
+        "example": "Five contractors submitted bids for the contract.",
+        "note": "\"Put out to tender\" = sacar a licitación."
+      },
+      {
+        "id": "voc-ind-project-022",
+        "front": "to award a contract",
+        "back": "adjudicar un contrato",
+        "example": "The contract was awarded to a joint venture.",
+        "note": "Joint venture = UTE / empresa conjunta."
+      },
+      {
+        "id": "voc-ind-project-023",
+        "front": "feasibility study",
+        "back": "estudio de viabilidad",
+        "example": "A feasibility study is needed before any investment decision.",
+        "note": "Pre-feasibility = estudio previo."
+      },
+      {
+        "id": "voc-ind-project-024",
+        "front": "to slip",
+        "back": "retrasarse (fechas)",
+        "example": "The completion date has slipped to next spring.",
+        "note": "Sustantivo: schedule slippage."
+      },
+      {
+        "id": "voc-ind-project-025",
+        "front": "float / slack",
+        "back": "holgura",
+        "example": "This task has five days of float.",
+        "note": "Tareas en ruta crítica tienen holgura cero."
+      },
+      {
+        "id": "voc-ind-project-026",
+        "front": "dependency",
+        "back": "dependencia (entre tareas)",
+        "example": "Testing has a dependency on the delivery of the control software.",
+        "note": "Finish-to-start = fin a comienzo."
+      },
+      {
+        "id": "voc-ind-project-027",
+        "front": "to escalate (an issue)",
+        "back": "escalar (un problema a un nivel superior)",
+        "example": "If the supplier misses the date again, we will escalate the issue.",
+        "note": "Escalation path = vía de escalado."
+      },
+      {
+        "id": "voc-ind-project-028",
+        "front": "earned value",
+        "back": "valor ganado",
+        "example": "Earned value analysis shows we are over budget but ahead of schedule.",
+        "note": "EVM: CPI, SPI."
+      },
+      {
+        "id": "voc-ind-project-029",
+        "front": "sign-off",
+        "back": "aprobación formal, visto bueno",
+        "example": "We need the client's sign-off before starting construction.",
+        "note": "Verbo: sign off on something."
+      },
+      {
+        "id": "voc-ind-project-030",
+        "front": "project charter",
+        "back": "acta de constitución del proyecto",
+        "example": "The project charter defines the objectives and the sponsor.",
+        "note": "Término PMI/PMBOK."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-regulation",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "regulation and standards",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Regulation & standards",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-regulation-001",
+        "front": "CE marking",
+        "back": "marcado CE",
+        "example": "The machine cannot be sold in the EU without CE marking.",
+        "note": "Indica conformidad con la legislación europea aplicable; no es marca de calidad."
+      },
+      {
+        "id": "voc-ind-regulation-002",
+        "front": "compliance",
+        "back": "cumplimiento (normativo)",
+        "example": "The company has invested heavily in regulatory compliance.",
+        "note": "\"In compliance with\" = conforme a. Compliance officer = responsable de cumplimiento."
+      },
+      {
+        "id": "voc-ind-regulation-003",
+        "front": "directive vs regulation (EU)",
+        "back": "directiva vs reglamento (UE)",
+        "example": "A directive must be transposed into national law, whereas a regulation applies directly.",
+        "note": "Transposition = transposición."
+      },
+      {
+        "id": "voc-ind-regulation-004",
+        "front": "to transpose (a directive)",
+        "back": "transponer (una directiva)",
+        "example": "Member states have two years to transpose the directive.",
+        "note": "Sustantivo: transposition."
+      },
+      {
+        "id": "voc-ind-regulation-005",
+        "front": "permit",
+        "back": "permiso, licencia, autorización",
+        "example": "The plant operates under an integrated environmental permit.",
+        "note": "Diferente de \"licence\" (más general). Grant / revoke a permit."
+      },
+      {
+        "id": "voc-ind-regulation-006",
+        "front": "to comply with",
+        "back": "cumplir con",
+        "example": "All equipment must comply with the Machinery Directive.",
+        "note": "Siempre con \"with\"."
+      },
+      {
+        "id": "voc-ind-regulation-007",
+        "front": "harmonised standard",
+        "back": "norma armonizada",
+        "example": "Applying a harmonised standard gives a presumption of conformity.",
+        "note": "Ortografía británica: harmonised."
+      },
+      {
+        "id": "voc-ind-regulation-008",
+        "front": "declaration of conformity",
+        "back": "declaración de conformidad",
+        "example": "The manufacturer must draw up and sign the EU declaration of conformity.",
+        "note": "Documento obligatorio para el marcado CE."
+      },
+      {
+        "id": "voc-ind-regulation-009",
+        "front": "notified body",
+        "back": "organismo notificado",
+        "example": "For high-risk products, a notified body must assess conformity.",
+        "note": "Organismo designado por un Estado miembro."
+      },
+      {
+        "id": "voc-ind-regulation-010",
+        "front": "technical file",
+        "back": "expediente técnico",
+        "example": "The technical file must be kept for ten years after the product is placed on the market.",
+        "note": "También \"technical documentation\"."
+      },
+      {
+        "id": "voc-ind-regulation-011",
+        "front": "to place on the market",
+        "back": "comercializar, introducir en el mercado",
+        "example": "The product was placed on the market before testing was complete.",
+        "note": "Expresión legal de la UE."
+      },
+      {
+        "id": "voc-ind-regulation-012",
+        "front": "enforcement",
+        "back": "aplicación (coercitiva), control del cumplimiento",
+        "example": "Weak enforcement undermines even the best regulations.",
+        "note": "Enforcement authority = autoridad de control."
+      },
+      {
+        "id": "voc-ind-regulation-013",
+        "front": "breach",
+        "back": "incumplimiento, infracción",
+        "example": "The firm was fined for a breach of environmental law.",
+        "note": "\"Be in breach of\" = incumplir."
+      },
+      {
+        "id": "voc-ind-regulation-014",
+        "front": "penalty / fine",
+        "back": "sanción / multa",
+        "example": "Penalties for non-compliance can reach 4% of annual turnover.",
+        "note": "\"Impose / levy a fine\"."
+      },
+      {
+        "id": "voc-ind-regulation-015",
+        "front": "loophole",
+        "back": "laguna legal, resquicio",
+        "example": "The new law closes a loophole that allowed firms to avoid the tax.",
+        "note": "Colocación: close / exploit a loophole."
+      },
+      {
+        "id": "voc-ind-regulation-016",
+        "front": "red tape",
+        "back": "burocracia, papeleo",
+        "example": "Small businesses complain about excessive red tape.",
+        "note": "Informal/periodístico."
+      },
+      {
+        "id": "voc-ind-regulation-017",
+        "front": "statutory",
+        "back": "legal, reglamentario (establecido por ley)",
+        "example": "Employers have a statutory duty to report serious accidents.",
+        "note": "Statutory requirement = requisito legal."
+      },
+      {
+        "id": "voc-ind-regulation-018",
+        "front": "mandatory vs voluntary",
+        "back": "obligatorio vs voluntario",
+        "example": "ISO certification is voluntary, whereas CE marking is mandatory.",
+        "note": "Sinónimo de mandatory: compulsory."
+      },
+      {
+        "id": "voc-ind-regulation-019",
+        "front": "competent authority",
+        "back": "autoridad competente",
+        "example": "The incident must be reported to the competent authority within 24 hours.",
+        "note": "Término legal estándar."
+      },
+      {
+        "id": "voc-ind-regulation-020",
+        "front": "inspection",
+        "back": "inspección",
+        "example": "Labour inspectors carried out an unannounced inspection.",
+        "note": "\"Carry out / undergo an inspection\"."
+      },
+      {
+        "id": "voc-ind-regulation-021",
+        "front": "accreditation",
+        "back": "acreditación",
+        "example": "The laboratory holds accreditation to ISO/IEC 17025.",
+        "note": "En España: ENAC. Certification ≠ accreditation."
+      },
+      {
+        "id": "voc-ind-regulation-022",
+        "front": "grace period / transition period",
+        "back": "periodo transitorio",
+        "example": "Manufacturers have a two-year transition period to adapt.",
+        "note": "Grace period también = periodo de carencia."
+      },
+      {
+        "id": "voc-ind-regulation-023",
+        "front": "to repeal",
+        "back": "derogar",
+        "example": "The old regulation was repealed and replaced in 2023.",
+        "note": "Sustantivo: repeal. Amend = modificar."
+      },
+      {
+        "id": "voc-ind-regulation-024",
+        "front": "to amend",
+        "back": "modificar, enmendar",
+        "example": "The directive was amended to include electric bicycles.",
+        "note": "Sustantivo: amendment."
+      },
+      {
+        "id": "voc-ind-regulation-025",
+        "front": "due diligence",
+        "back": "diligencia debida",
+        "example": "Companies must carry out due diligence on their supply chains.",
+        "note": "Expresión fija."
+      },
+      {
+        "id": "voc-ind-regulation-026",
+        "front": "liability",
+        "back": "responsabilidad (legal)",
+        "example": "The manufacturer accepted liability for the defect.",
+        "note": "Product liability = responsabilidad por productos defectuosos."
+      },
+      {
+        "id": "voc-ind-regulation-027",
+        "front": "essential requirements",
+        "back": "requisitos esenciales",
+        "example": "The product must meet the essential health and safety requirements.",
+        "note": "Término de las directivas de nuevo enfoque."
+      },
+      {
+        "id": "voc-ind-regulation-028",
+        "front": "to self-certify",
+        "back": "autocertificar",
+        "example": "Low-risk products can often be self-certified by the manufacturer.",
+        "note": "Sin intervención de organismo notificado."
+      },
+      {
+        "id": "voc-ind-regulation-029",
+        "front": "market surveillance",
+        "back": "vigilancia del mercado",
+        "example": "Market surveillance authorities withdrew the unsafe toys.",
+        "note": "Withdraw / recall = retirar del mercado / llamar a revisión."
+      },
+      {
+        "id": "voc-ind-regulation-030",
+        "front": "product recall",
+        "back": "retirada de producto / llamada a revisión",
+        "example": "The carmaker announced a recall of 50,000 vehicles.",
+        "note": "Verbo: recall a product."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-environment",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "environment",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Environment",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-environment-001",
+        "front": "emissions",
+        "back": "emisiones",
+        "example": "The plant cut its CO₂ emissions by a third.",
+        "note": "Colocaciones: curb / reduce / offset emissions."
+      },
+      {
+        "id": "voc-ind-environment-002",
+        "front": "greenhouse gas (GHG)",
+        "back": "gas de efecto invernadero",
+        "example": "Methane is a far more potent greenhouse gas than CO₂.",
+        "note": "GHG inventory = inventario de GEI."
+      },
+      {
+        "id": "voc-ind-environment-003",
+        "front": "carbon footprint",
+        "back": "huella de carbono",
+        "example": "The company aims to halve its carbon footprint by 2030.",
+        "note": "Colocación: reduce / shrink one's carbon footprint."
+      },
+      {
+        "id": "voc-ind-environment-004",
+        "front": "waste management",
+        "back": "gestión de residuos",
+        "example": "Waste management costs have risen sharply.",
+        "note": "Waste es incontable: \"waste is\"."
+      },
+      {
+        "id": "voc-ind-environment-005",
+        "front": "hazardous waste",
+        "back": "residuos peligrosos",
+        "example": "Hazardous waste must be handled by an authorised contractor.",
+        "note": "Non-hazardous / inert waste."
+      },
+      {
+        "id": "voc-ind-environment-006",
+        "front": "life-cycle assessment (LCA)",
+        "back": "análisis de ciclo de vida (ACV)",
+        "example": "An LCA compares impacts from raw material extraction to disposal.",
+        "note": "\"Cradle to grave\" = de la cuna a la tumba."
+      },
+      {
+        "id": "voc-ind-environment-007",
+        "front": "environmental impact assessment (EIA)",
+        "back": "evaluación de impacto ambiental (EIA)",
+        "example": "The project cannot go ahead without a favourable EIA.",
+        "note": "Environmental impact statement = estudio de impacto ambiental."
+      },
+      {
+        "id": "voc-ind-environment-008",
+        "front": "circular economy",
+        "back": "economía circular",
+        "example": "In a circular economy, products are designed to be reused or recycled.",
+        "note": "Frente a \"linear economy\"."
+      },
+      {
+        "id": "voc-ind-environment-009",
+        "front": "landfill",
+        "back": "vertedero",
+        "example": "The goal is to send zero waste to landfill.",
+        "note": "Verbo: landfill waste. Landfill tax = impuesto al vertido."
+      },
+      {
+        "id": "voc-ind-environment-010",
+        "front": "effluent",
+        "back": "efluente, vertido líquido",
+        "example": "The factory's effluent is treated before discharge into the river.",
+        "note": "Discharge = vertido."
+      },
+      {
+        "id": "voc-ind-environment-011",
+        "front": "wastewater treatment plant",
+        "back": "depuradora (EDAR)",
+        "example": "The new wastewater treatment plant serves 200,000 people.",
+        "note": "Sewage = aguas residuales urbanas."
+      },
+      {
+        "id": "voc-ind-environment-012",
+        "front": "to contaminate",
+        "back": "contaminar (suelo, agua)",
+        "example": "Leaking tanks had contaminated the groundwater.",
+        "note": "\"Pollute\" es más general; \"contaminate\" sugiere sustancia concreta."
+      },
+      {
+        "id": "voc-ind-environment-013",
+        "front": "groundwater",
+        "back": "aguas subterráneas",
+        "example": "Nitrates from fertilisers are seeping into groundwater.",
+        "note": "Aquifer = acuífero."
+      },
+      {
+        "id": "voc-ind-environment-014",
+        "front": "particulate matter (PM)",
+        "back": "partículas en suspensión",
+        "example": "PM2.5 levels exceeded the daily limit.",
+        "note": "Air quality = calidad del aire."
+      },
+      {
+        "id": "voc-ind-environment-015",
+        "front": "emissions trading system (ETS)",
+        "back": "régimen de comercio de derechos de emisión",
+        "example": "Heavy industry is covered by the EU ETS.",
+        "note": "Allowance = derecho de emisión."
+      },
+      {
+        "id": "voc-ind-environment-016",
+        "front": "to offset",
+        "back": "compensar (emisiones)",
+        "example": "The airline offers passengers the option to offset their flights.",
+        "note": "Carbon offset = compensación de carbono."
+      },
+      {
+        "id": "voc-ind-environment-017",
+        "front": "net zero",
+        "back": "cero neto (emisiones netas nulas)",
+        "example": "The group has pledged to reach net zero by 2050.",
+        "note": "Pledge = comprometerse públicamente."
+      },
+      {
+        "id": "voc-ind-environment-018",
+        "front": "biodiversity",
+        "back": "biodiversidad",
+        "example": "The motorway would cut through an area of high biodiversity.",
+        "note": "Habitat loss = pérdida de hábitat."
+      },
+      {
+        "id": "voc-ind-environment-019",
+        "front": "spill",
+        "back": "derrame, vertido accidental",
+        "example": "An oil spill polluted several kilometres of coastline.",
+        "note": "Spill kit = kit antiderrames."
+      },
+      {
+        "id": "voc-ind-environment-020",
+        "front": "remediation",
+        "back": "remediación, descontaminación",
+        "example": "Soil remediation will take several years.",
+        "note": "Verbo: remediate."
+      },
+      {
+        "id": "voc-ind-environment-021",
+        "front": "ISO 14001",
+        "back": "norma de sistemas de gestión ambiental",
+        "example": "ISO 14001 helps organisations manage their environmental obligations.",
+        "note": "EMAS = sistema europeo equivalente."
+      },
+      {
+        "id": "voc-ind-environment-022",
+        "front": "best available techniques (BAT)",
+        "back": "mejores técnicas disponibles (MTD)",
+        "example": "Permits are based on best available techniques.",
+        "note": "BREF = documentos de referencia."
+      },
+      {
+        "id": "voc-ind-environment-023",
+        "front": "to recycle / to upcycle",
+        "back": "reciclar / suprarreciclar",
+        "example": "Scrap metal is recycled; old pallets can be upcycled into furniture.",
+        "note": "Upcycling crea un producto de mayor valor."
+      },
+      {
+        "id": "voc-ind-environment-024",
+        "front": "extended producer responsibility (EPR)",
+        "back": "responsabilidad ampliada del productor",
+        "example": "Under EPR, manufacturers pay for the collection of packaging waste.",
+        "note": "Principio \"quien contamina paga\" (polluter pays)."
+      },
+      {
+        "id": "voc-ind-environment-025",
+        "front": "polluter pays principle",
+        "back": "principio de quien contamina paga",
+        "example": "The polluter pays principle underpins EU environmental law.",
+        "note": "Sin artículo ni apóstrofo habitualmente."
+      },
+      {
+        "id": "voc-ind-environment-026",
+        "front": "environmental footprint",
+        "back": "huella ambiental",
+        "example": "Data centres have a growing environmental footprint.",
+        "note": "Más amplio que la huella de carbono."
+      },
+      {
+        "id": "voc-ind-environment-027",
+        "front": "noise abatement",
+        "back": "reducción / atenuación del ruido",
+        "example": "Noise abatement measures include acoustic barriers.",
+        "note": "Abatement = reducción, disminución."
+      },
+      {
+        "id": "voc-ind-environment-028",
+        "front": "to dispose of",
+        "back": "eliminar, deshacerse de",
+        "example": "Used batteries must be disposed of safely.",
+        "note": "Siempre con \"of\". Sustantivo: disposal."
+      },
+      {
+        "id": "voc-ind-environment-029",
+        "front": "decarbonisation",
+        "back": "descarbonización",
+        "example": "Decarbonisation of heavy industry is a major challenge.",
+        "note": "Ortografía británica con -s-."
+      },
+      {
+        "id": "voc-ind-environment-030",
+        "front": "run-off",
+        "back": "escorrentía",
+        "example": "Agricultural run-off carries fertilisers into rivers.",
+        "note": "También \"runoff\"."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-ind-mining",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "mining and geology",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Mining & geology",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-ind-mining-001",
+        "front": "ore",
+        "back": "mena, mineral (explotable)",
+        "example": "The ore is crushed and processed on site.",
+        "note": "Ore grade = ley del mineral."
+      },
+      {
+        "id": "voc-ind-mining-002",
+        "front": "overburden",
+        "back": "estéril de recubrimiento, montera",
+        "example": "Huge volumes of overburden must be removed before reaching the coal seam.",
+        "note": "Stripping ratio = ratio de desmonte."
+      },
+      {
+        "id": "voc-ind-mining-003",
+        "front": "blasting",
+        "back": "voladura",
+        "example": "Blasting takes place at 2 p.m. daily and the area is cleared beforehand.",
+        "note": "Blast design, blast hole (barreno)."
+      },
+      {
+        "id": "voc-ind-mining-004",
+        "front": "tailings dam",
+        "back": "presa de relaves / balsa de estériles",
+        "example": "The collapse of a tailings dam can have catastrophic consequences.",
+        "note": "Tailings = residuos finos del procesamiento."
+      },
+      {
+        "id": "voc-ind-mining-005",
+        "front": "acid mine drainage (AMD)",
+        "back": "drenaje ácido de mina",
+        "example": "Acid mine drainage has turned the river orange.",
+        "note": "Causado por oxidación de sulfuros (pirita)."
+      },
+      {
+        "id": "voc-ind-mining-006",
+        "front": "reclamation / rehabilitation",
+        "back": "rehabilitación (restauración de terrenos mineros)",
+        "example": "Reclamation of the site includes replanting native species.",
+        "note": "Closure plan = plan de cierre."
+      },
+      {
+        "id": "voc-ind-mining-007",
+        "front": "open-pit mine",
+        "back": "mina a cielo abierto",
+        "example": "The open-pit mine is over 500 metres deep.",
+        "note": "También opencast (británico) / open-cut."
+      },
+      {
+        "id": "voc-ind-mining-008",
+        "front": "underground mine",
+        "back": "mina subterránea",
+        "example": "In underground mines, ventilation is a critical safety issue.",
+        "note": "Shaft = pozo; adit = socavón; drift = galería."
+      },
+      {
+        "id": "voc-ind-mining-009",
+        "front": "seam",
+        "back": "capa, veta (de carbón)",
+        "example": "The coal seam is only one metre thick.",
+        "note": "Vein = filón (metales)."
+      },
+      {
+        "id": "voc-ind-mining-010",
+        "front": "deposit",
+        "back": "yacimiento",
+        "example": "Geologists discovered a significant lithium deposit.",
+        "note": "Ore body = cuerpo mineralizado."
+      },
+      {
+        "id": "voc-ind-mining-011",
+        "front": "reserves vs resources",
+        "back": "reservas vs recursos",
+        "example": "Only part of the resources can be classified as reserves.",
+        "note": "Reservas = económicamente explotables y probadas."
+      },
+      {
+        "id": "voc-ind-mining-012",
+        "front": "exploration drilling",
+        "back": "sondeos de exploración",
+        "example": "Exploration drilling confirmed the extent of the deposit.",
+        "note": "Core sample = testigo."
+      },
+      {
+        "id": "voc-ind-mining-013",
+        "front": "core sample",
+        "back": "testigo (de sondeo)",
+        "example": "Core samples were sent to the lab for assay.",
+        "note": "Assay = ensayo/análisis de ley."
+      },
+      {
+        "id": "voc-ind-mining-014",
+        "front": "crusher",
+        "back": "trituradora, machacadora",
+        "example": "The primary crusher reduces rock to fragments below 150 mm.",
+        "note": "Grinding mill = molino."
+      },
+      {
+        "id": "voc-ind-mining-015",
+        "front": "beneficiation / mineral processing",
+        "back": "concentración / tratamiento de minerales",
+        "example": "Flotation is a common beneficiation method for copper ores.",
+        "note": "Concentrate = concentrado."
+      },
+      {
+        "id": "voc-ind-mining-016",
+        "front": "flotation",
+        "back": "flotación",
+        "example": "Froth flotation separates valuable minerals from waste rock.",
+        "note": "Reagents = reactivos."
+      },
+      {
+        "id": "voc-ind-mining-017",
+        "front": "waste rock",
+        "back": "roca estéril",
+        "example": "Waste rock dumps must be stable and properly drained.",
+        "note": "Dump = escombrera."
+      },
+      {
+        "id": "voc-ind-mining-018",
+        "front": "slope stability",
+        "back": "estabilidad de taludes",
+        "example": "Radar monitoring helps assess slope stability in the pit.",
+        "note": "Bench = banco; berm = berma."
+      },
+      {
+        "id": "voc-ind-mining-019",
+        "front": "bench",
+        "back": "banco (de explotación)",
+        "example": "The pit is mined in 15-metre benches.",
+        "note": "Bench height = altura de banco."
+      },
+      {
+        "id": "voc-ind-mining-020",
+        "front": "haul road / haul truck",
+        "back": "pista de transporte / dúmper minero",
+        "example": "Haul trucks carry up to 300 tonnes per load.",
+        "note": "Haulage = acarreo."
+      },
+      {
+        "id": "voc-ind-mining-021",
+        "front": "explosive charge",
+        "back": "carga explosiva",
+        "example": "Each hole was loaded with an explosive charge of emulsion.",
+        "note": "Detonator = detonador; misfire = barreno fallido."
+      },
+      {
+        "id": "voc-ind-mining-022",
+        "front": "misfire",
+        "back": "barreno fallido",
+        "example": "After a misfire, nobody may enter the area until it is declared safe.",
+        "note": "Procedimiento crítico de seguridad."
+      },
+      {
+        "id": "voc-ind-mining-023",
+        "front": "ground vibration",
+        "back": "vibración del terreno",
+        "example": "Ground vibration from blasting is monitored at nearby homes.",
+        "note": "Air overpressure = onda aérea."
+      },
+      {
+        "id": "voc-ind-mining-024",
+        "front": "fault",
+        "back": "falla (geológica)",
+        "example": "The tunnel crosses an active fault.",
+        "note": "Fold = pliegue; fracture = fractura."
+      },
+      {
+        "id": "voc-ind-mining-025",
+        "front": "bedrock",
+        "back": "roca madre, sustrato rocoso",
+        "example": "The foundations were anchored into the bedrock.",
+        "note": "También figurado: base fundamental."
+      },
+      {
+        "id": "voc-ind-mining-026",
+        "front": "groundwater inflow / dewatering",
+        "back": "afluencia de agua subterránea / desagüe",
+        "example": "Dewatering pumps run continuously to keep the pit dry.",
+        "note": "Verbo: dewater."
+      },
+      {
+        "id": "voc-ind-mining-027",
+        "front": "roof support / rock bolting",
+        "back": "sostenimiento / bulonado",
+        "example": "Rock bolting prevents roof falls in the galleries.",
+        "note": "Roof fall = desprendimiento del techo."
+      },
+      {
+        "id": "voc-ind-mining-028",
+        "front": "mine closure",
+        "back": "cierre de mina",
+        "example": "A mine closure plan must be approved before operations start.",
+        "note": "Financial guarantee = aval de restauración."
+      },
+      {
+        "id": "voc-ind-mining-029",
+        "front": "sustainable mining",
+        "back": "minería sostenible",
+        "example": "Sustainable mining minimises the footprint and benefits local communities.",
+        "note": "Social licence to operate = licencia social."
+      },
+      {
+        "id": "voc-ind-mining-030",
+        "front": "strike (dip and strike)",
+        "back": "dirección (y buzamiento) de un estrato",
+        "example": "Geologists recorded the strike and dip of each bed.",
+        "note": "Dip = buzamiento. \"Strike\" también = huelga / hallazgo."
+      }
+    ]
+  }
+]

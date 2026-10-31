@@ -1,0 +1,1824 @@
+[
+  {
+    "meta": {
+      "id": "voc-pol-investigation",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "criminal investigation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Criminal investigation & procedure",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-investigation-001",
+        "front": "chain of custody",
+        "back": "cadena de custodia",
+        "example": "Any break in the chain of custody could make the evidence inadmissible.",
+        "note": "Documenta quién ha tenido la prueba y cuándo."
+      },
+      {
+        "id": "voc-pol-investigation-002",
+        "front": "warrant",
+        "back": "orden judicial (de registro, detención)",
+        "example": "Officers obtained a search warrant for the premises.",
+        "note": "Arrest warrant = orden de detención. \"Execute a warrant\" = ejecutarla."
+      },
+      {
+        "id": "voc-pol-investigation-003",
+        "front": "suspect",
+        "back": "sospechoso",
+        "example": "The suspect was arrested at his home early this morning.",
+        "note": "Verbo /səˈspekt/, sustantivo /ˈsʌspekt/."
+      },
+      {
+        "id": "voc-pol-investigation-004",
+        "front": "to remand in custody",
+        "back": "decretar prisión preventiva",
+        "example": "The magistrate remanded him in custody pending trial.",
+        "note": "Lo contrario: release on bail (libertad bajo fianza)."
+      },
+      {
+        "id": "voc-pol-investigation-005",
+        "front": "forensic",
+        "back": "forense, de policía científica",
+        "example": "Forensic analysis linked the suspect to the scene.",
+        "note": "Forensics = policía científica / ciencia forense."
+      },
+      {
+        "id": "voc-pol-investigation-006",
+        "front": "crime scene",
+        "back": "escena del crimen, lugar de los hechos",
+        "example": "The crime scene was sealed off for 48 hours.",
+        "note": "Crime scene investigator (CSI)."
+      },
+      {
+        "id": "voc-pol-investigation-007",
+        "front": "to arrest / to detain",
+        "back": "detener",
+        "example": "Two men were arrested on suspicion of burglary.",
+        "note": "\"On suspicion of\" + delito. Detain puede ser retención sin arresto formal."
+      },
+      {
+        "id": "voc-pol-investigation-008",
+        "front": "to charge (with)",
+        "back": "acusar formalmente, imputar (un delito)",
+        "example": "She was charged with fraud and money laundering.",
+        "note": "Charge sheet = pliego de cargos."
+      },
+      {
+        "id": "voc-pol-investigation-009",
+        "front": "to caution",
+        "back": "informar de derechos; amonestar",
+        "example": "The officer cautioned the suspect before questioning him.",
+        "note": "En RU \"caution\" = lectura de derechos o apercibimiento formal."
+      },
+      {
+        "id": "voc-pol-investigation-010",
+        "front": "interview under caution",
+        "back": "declaración/interrogatorio con lectura de derechos",
+        "example": "The suspect was interviewed under caution in the presence of his solicitor.",
+        "note": "Solicitor = abogado (RU)."
+      },
+      {
+        "id": "voc-pol-investigation-011",
+        "front": "witness statement",
+        "back": "declaración de testigo",
+        "example": "Officers took witness statements from passers-by.",
+        "note": "\"Take / give a statement\"."
+      },
+      {
+        "id": "voc-pol-investigation-012",
+        "front": "eyewitness",
+        "back": "testigo presencial",
+        "example": "An eyewitness described the getaway car.",
+        "note": "Getaway car = coche de huida."
+      },
+      {
+        "id": "voc-pol-investigation-013",
+        "front": "alibi",
+        "back": "coartada",
+        "example": "His alibi was confirmed by CCTV footage.",
+        "note": "Colocación: a cast-iron alibi (coartada sólida)."
+      },
+      {
+        "id": "voc-pol-investigation-014",
+        "front": "fingerprints",
+        "back": "huellas dactilares",
+        "example": "Fingerprints were lifted from the window frame.",
+        "note": "\"Lift / take fingerprints\". Latent prints = huellas latentes."
+      },
+      {
+        "id": "voc-pol-investigation-015",
+        "front": "DNA profile",
+        "back": "perfil de ADN",
+        "example": "The DNA profile matched one held on the national database.",
+        "note": "\"A match\" = coincidencia."
+      },
+      {
+        "id": "voc-pol-investigation-016",
+        "front": "lead",
+        "back": "pista, línea de investigación",
+        "example": "Detectives are following up several leads.",
+        "note": "Clue = indicio concreto."
+      },
+      {
+        "id": "voc-pol-investigation-017",
+        "front": "to gather evidence",
+        "back": "recopilar pruebas",
+        "example": "Investigators spent weeks gathering evidence.",
+        "note": "Evidence es incontable: \"a piece of evidence\"."
+      },
+      {
+        "id": "voc-pol-investigation-018",
+        "front": "circumstantial evidence",
+        "back": "pruebas indiciarias / circunstanciales",
+        "example": "The case rested largely on circumstantial evidence.",
+        "note": "Frente a \"direct evidence\"."
+      },
+      {
+        "id": "voc-pol-investigation-019",
+        "front": "admissible",
+        "back": "admisible (prueba)",
+        "example": "The judge ruled that the recording was not admissible.",
+        "note": "Lo contrario: inadmissible."
+      },
+      {
+        "id": "voc-pol-investigation-020",
+        "front": "search and seizure",
+        "back": "registro e incautación",
+        "example": "The search and seizure operation recovered stolen goods.",
+        "note": "Seize = incautar."
+      },
+      {
+        "id": "voc-pol-investigation-021",
+        "front": "to seize",
+        "back": "incautar, decomisar",
+        "example": "Police seized two kilos of cocaine and a firearm.",
+        "note": "Sustantivo: seizure."
+      },
+      {
+        "id": "voc-pol-investigation-022",
+        "front": "undercover officer",
+        "back": "agente encubierto",
+        "example": "An undercover officer infiltrated the gang.",
+        "note": "Undercover operation."
+      },
+      {
+        "id": "voc-pol-investigation-023",
+        "front": "informant",
+        "back": "confidente, informador",
+        "example": "The tip-off came from a reliable informant.",
+        "note": "Informal: grass, snitch (peyorativo)."
+      },
+      {
+        "id": "voc-pol-investigation-024",
+        "front": "tip-off",
+        "back": "soplo, chivatazo",
+        "example": "Acting on a tip-off, officers raided the warehouse.",
+        "note": "\"Acting on a tip-off\" es muy periodístico."
+      },
+      {
+        "id": "voc-pol-investigation-025",
+        "front": "raid",
+        "back": "redada",
+        "example": "Dawn raids were carried out at six addresses.",
+        "note": "Dawn raid = redada al amanecer."
+      },
+      {
+        "id": "voc-pol-investigation-026",
+        "front": "identity parade / line-up",
+        "back": "rueda de reconocimiento",
+        "example": "The victim picked out the suspect at an identity parade.",
+        "note": "Line-up (EE. UU.)."
+      },
+      {
+        "id": "voc-pol-investigation-027",
+        "front": "to press charges",
+        "back": "presentar cargos / denuncia",
+        "example": "The victim decided not to press charges.",
+        "note": "En RU decide la fiscalía (CPS); la víctima puede no colaborar."
+      },
+      {
+        "id": "voc-pol-investigation-028",
+        "front": "public prosecutor",
+        "back": "fiscal",
+        "example": "The public prosecutor asked for a sentence of eight years.",
+        "note": "RU: Crown Prosecution Service."
+      },
+      {
+        "id": "voc-pol-investigation-029",
+        "front": "custody officer",
+        "back": "agente responsable de calabozos",
+        "example": "The custody officer must ensure detainees are treated properly.",
+        "note": "Custody suite = zona de calabozos."
+      },
+      {
+        "id": "voc-pol-investigation-030",
+        "front": "modus operandi",
+        "back": "modus operandi, método de actuación",
+        "example": "The burglaries shared the same modus operandi.",
+        "note": "Abreviatura: MO."
+      },
+      {
+        "id": "voc-pol-investigation-031",
+        "front": "to be released on bail",
+        "back": "quedar en libertad bajo fianza",
+        "example": "He was released on bail and must report to the station weekly.",
+        "note": "Police bail (RU) = libertad con condiciones."
+      },
+      {
+        "id": "voc-pol-investigation-032",
+        "front": "cold case",
+        "back": "caso sin resolver (archivado)",
+        "example": "New DNA techniques helped solve the cold case.",
+        "note": "Cold case unit."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-traffic",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "traffic",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Traffic & road safety",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-traffic-001",
+        "front": "breathalyser test",
+        "back": "prueba de alcoholemia",
+        "example": "The driver failed a roadside breathalyser test.",
+        "note": "RU: breathalyser; EE. UU.: breathalyzer. \"Breath test\"."
+      },
+      {
+        "id": "voc-pol-traffic-002",
+        "front": "hit-and-run",
+        "back": "atropello con fuga / accidente con huida",
+        "example": "Police are appealing for witnesses to a hit-and-run.",
+        "note": "Se usa como sustantivo y adjetivo: hit-and-run driver."
+      },
+      {
+        "id": "voc-pol-traffic-003",
+        "front": "speed camera",
+        "back": "radar / cámara de velocidad",
+        "example": "The new speed camera caught over 300 drivers in a week.",
+        "note": "Average speed camera = radar de tramo."
+      },
+      {
+        "id": "voc-pol-traffic-004",
+        "front": "drink-driving",
+        "back": "conducción bajo los efectos del alcohol",
+        "example": "Drink-driving remains a leading cause of road deaths.",
+        "note": "EE. UU.: drunk driving / DUI."
+      },
+      {
+        "id": "voc-pol-traffic-005",
+        "front": "drug-driving",
+        "back": "conducción bajo los efectos de drogas",
+        "example": "Roadside saliva tests are used to detect drug-driving.",
+        "note": "Drug wipe = test de saliva."
+      },
+      {
+        "id": "voc-pol-traffic-006",
+        "front": "to pull over",
+        "back": "hacer parar a un vehículo / detenerse en el arcén",
+        "example": "Officers pulled over a van with a broken tail light.",
+        "note": "Transitivo e intransitivo."
+      },
+      {
+        "id": "voc-pol-traffic-007",
+        "front": "roadblock / checkpoint",
+        "back": "control de carretera",
+        "example": "A roadblock was set up on the main road out of town.",
+        "note": "Sobriety checkpoint = control de alcoholemia."
+      },
+      {
+        "id": "voc-pol-traffic-008",
+        "front": "speeding",
+        "back": "exceso de velocidad",
+        "example": "He was fined for speeding on the motorway.",
+        "note": "\"Speeding ticket / fine\"."
+      },
+      {
+        "id": "voc-pol-traffic-009",
+        "front": "penalty points",
+        "back": "puntos del carné",
+        "example": "Using a mobile phone while driving carries six penalty points.",
+        "note": "RU: points on your licence."
+      },
+      {
+        "id": "voc-pol-traffic-010",
+        "front": "to be disqualified from driving",
+        "back": "ser privado del permiso de conducir",
+        "example": "She was disqualified from driving for 18 months.",
+        "note": "Informal: be banned from driving."
+      },
+      {
+        "id": "voc-pol-traffic-011",
+        "front": "road traffic collision (RTC)",
+        "back": "accidente de tráfico",
+        "example": "Emergency services attended an RTC on the A1.",
+        "note": "Término policial preferido a \"accident\"."
+      },
+      {
+        "id": "voc-pol-traffic-012",
+        "front": "fatal collision",
+        "back": "accidente mortal",
+        "example": "The road was closed following a fatal collision.",
+        "note": "Fatality = víctima mortal."
+      },
+      {
+        "id": "voc-pol-traffic-013",
+        "front": "pile-up",
+        "back": "colisión múltiple / en cadena",
+        "example": "Fog caused a 20-vehicle pile-up.",
+        "note": "Multi-vehicle collision."
+      },
+      {
+        "id": "voc-pol-traffic-014",
+        "front": "tailgating",
+        "back": "no respetar la distancia de seguridad",
+        "example": "Tailgating is a common cause of rear-end collisions.",
+        "note": "Rear-end collision = alcance."
+      },
+      {
+        "id": "voc-pol-traffic-015",
+        "front": "vehicle registration (number plate)",
+        "back": "matrícula",
+        "example": "A witness noted down the number plate.",
+        "note": "EE. UU.: licence plate. ANPR = lector automático de matrículas."
+      },
+      {
+        "id": "voc-pol-traffic-016",
+        "front": "ANPR",
+        "back": "reconocimiento automático de matrículas",
+        "example": "ANPR cameras flagged the stolen car on the motorway.",
+        "note": "Automatic Number Plate Recognition."
+      },
+      {
+        "id": "voc-pol-traffic-017",
+        "front": "MOT / roadworthiness test",
+        "back": "ITV",
+        "example": "The car had no valid MOT certificate.",
+        "note": "Roadworthy = apto para circular."
+      },
+      {
+        "id": "voc-pol-traffic-018",
+        "front": "insurance",
+        "back": "seguro",
+        "example": "Driving without insurance is a criminal offence.",
+        "note": "Uninsured vehicle."
+      },
+      {
+        "id": "voc-pol-traffic-019",
+        "front": "to give way",
+        "back": "ceder el paso",
+        "example": "The lorry failed to give way at the junction.",
+        "note": "EE. UU.: yield."
+      },
+      {
+        "id": "voc-pol-traffic-020",
+        "front": "junction / roundabout",
+        "back": "cruce / rotonda",
+        "example": "The collision happened at a busy roundabout.",
+        "note": "Slip road = carril de incorporación."
+      },
+      {
+        "id": "voc-pol-traffic-021",
+        "front": "hard shoulder",
+        "back": "arcén (de autopista)",
+        "example": "The broken-down vehicle was on the hard shoulder.",
+        "note": "EE. UU.: shoulder."
+      },
+      {
+        "id": "voc-pol-traffic-022",
+        "front": "skid marks",
+        "back": "marcas de frenada",
+        "example": "Skid marks suggest the car was travelling at high speed.",
+        "note": "Útil en reconstrucción de accidentes."
+      },
+      {
+        "id": "voc-pol-traffic-023",
+        "front": "to overtake",
+        "back": "adelantar",
+        "example": "He overtook on a blind bend.",
+        "note": "Blind bend = curva sin visibilidad."
+      },
+      {
+        "id": "voc-pol-traffic-024",
+        "front": "reckless / dangerous driving",
+        "back": "conducción temeraria",
+        "example": "He was charged with causing death by dangerous driving.",
+        "note": "Careless driving = conducción negligente."
+      },
+      {
+        "id": "voc-pol-traffic-025",
+        "front": "traffic diversion",
+        "back": "desvío",
+        "example": "Diversions are in place while the road is closed.",
+        "note": "Verbo: divert traffic."
+      },
+      {
+        "id": "voc-pol-traffic-026",
+        "front": "tachograph",
+        "back": "tacógrafo",
+        "example": "Inspectors checked the lorry's tachograph for rest periods.",
+        "note": "Digital tachograph."
+      },
+      {
+        "id": "voc-pol-traffic-027",
+        "front": "HGV (heavy goods vehicle)",
+        "back": "vehículo pesado",
+        "example": "HGV drivers must take regular breaks.",
+        "note": "EE. UU.: truck; RU coloquial: lorry."
+      },
+      {
+        "id": "voc-pol-traffic-028",
+        "front": "road safety campaign",
+        "back": "campaña de seguridad vial",
+        "example": "The road safety campaign targets young drivers.",
+        "note": "Awareness campaign = campaña de concienciación."
+      },
+      {
+        "id": "voc-pol-traffic-029",
+        "front": "fixed penalty notice",
+        "back": "multa / boletín de denuncia",
+        "example": "The officer issued a fixed penalty notice.",
+        "note": "FPN; \"ticket\" en lenguaje común."
+      },
+      {
+        "id": "voc-pol-traffic-030",
+        "front": "to flee the scene",
+        "back": "huir del lugar",
+        "example": "The driver fled the scene on foot.",
+        "note": "Fail to stop = no detenerse."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-border",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "border control",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Border control, migration & customs",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-border-001",
+        "front": "border crossing point",
+        "back": "paso fronterizo",
+        "example": "Queues at the border crossing point stretched for kilometres.",
+        "note": "Port of entry."
+      },
+      {
+        "id": "voc-pol-border-002",
+        "front": "asylum seeker",
+        "back": "solicitante de asilo",
+        "example": "Asylum seekers must lodge their claim in the first safe country.",
+        "note": "\"Claim / seek asylum\"."
+      },
+      {
+        "id": "voc-pol-border-003",
+        "front": "refugee",
+        "back": "refugiado",
+        "example": "Refugee status was granted after a lengthy interview.",
+        "note": "Diferente de \"migrant\"."
+      },
+      {
+        "id": "voc-pol-border-004",
+        "front": "irregular migration",
+        "back": "migración irregular",
+        "example": "Irregular migration across the Mediterranean rose sharply.",
+        "note": "Preferido a \"illegal immigration\" en textos oficiales."
+      },
+      {
+        "id": "voc-pol-border-005",
+        "front": "people smuggling",
+        "back": "tráfico ilícito de migrantes",
+        "example": "People smuggling networks charge thousands per crossing.",
+        "note": "Smuggler = traficante."
+      },
+      {
+        "id": "voc-pol-border-006",
+        "front": "human trafficking",
+        "back": "trata de seres humanos",
+        "example": "Victims of human trafficking are often forced into labour.",
+        "note": "Smuggling ≠ trafficking (explotación)."
+      },
+      {
+        "id": "voc-pol-border-007",
+        "front": "to deport / deportation",
+        "back": "deportar / deportación",
+        "example": "He was deported after his visa expired.",
+        "note": "También removal, return."
+      },
+      {
+        "id": "voc-pol-border-008",
+        "front": "forged document",
+        "back": "documento falsificado",
+        "example": "Border guards detected a forged passport.",
+        "note": "Counterfeit = falsificado; fraudulently obtained genuine = documento auténtico obtenido fraudulentamente."
+      },
+      {
+        "id": "voc-pol-border-009",
+        "front": "impostor (look-alike)",
+        "back": "impostor (usa documento ajeno)",
+        "example": "The man was an impostor travelling on his cousin's passport.",
+        "note": "Fraude documental común."
+      },
+      {
+        "id": "voc-pol-border-010",
+        "front": "customs declaration",
+        "back": "declaración de aduanas",
+        "example": "Goods worth over the limit must appear on the customs declaration.",
+        "note": "Nothing to declare = nada que declarar."
+      },
+      {
+        "id": "voc-pol-border-011",
+        "front": "contraband",
+        "back": "contrabando",
+        "example": "Officers found contraband cigarettes in the lorry.",
+        "note": "Smuggled goods."
+      },
+      {
+        "id": "voc-pol-border-012",
+        "front": "duty / excise duty",
+        "back": "arancel / impuestos especiales",
+        "example": "Excise duty is payable on alcohol and tobacco.",
+        "note": "Duty-free."
+      },
+      {
+        "id": "voc-pol-border-013",
+        "front": "to clear customs",
+        "back": "pasar la aduana / despachar",
+        "example": "The shipment took three days to clear customs.",
+        "note": "Customs clearance."
+      },
+      {
+        "id": "voc-pol-border-014",
+        "front": "container scanner",
+        "back": "escáner de contenedores",
+        "example": "X-ray scanners revealed people hidden inside the container.",
+        "note": "Concealment = ocultación."
+      },
+      {
+        "id": "voc-pol-border-015",
+        "front": "concealment",
+        "back": "ocultación (escondite)",
+        "example": "Drugs were found in a sophisticated concealment in the fuel tank.",
+        "note": "Término técnico aduanero."
+      },
+      {
+        "id": "voc-pol-border-016",
+        "front": "Schengen Area",
+        "back": "espacio Schengen",
+        "example": "Internal border checks are not normally carried out within the Schengen Area.",
+        "note": "External borders = fronteras exteriores."
+      },
+      {
+        "id": "voc-pol-border-017",
+        "front": "entry ban",
+        "back": "prohibición de entrada",
+        "example": "He was issued a five-year entry ban.",
+        "note": "Re-entry ban."
+      },
+      {
+        "id": "voc-pol-border-018",
+        "front": "overstayer",
+        "back": "persona que excede su estancia autorizada",
+        "example": "Most irregular migrants are overstayers rather than clandestine entrants.",
+        "note": "Overstay a visa."
+      },
+      {
+        "id": "voc-pol-border-019",
+        "front": "reception centre",
+        "back": "centro de acogida",
+        "example": "New arrivals are taken to a reception centre for registration.",
+        "note": "Detention centre = centro de internamiento."
+      },
+      {
+        "id": "voc-pol-border-020",
+        "front": "unaccompanied minor",
+        "back": "menor no acompañado",
+        "example": "Unaccompanied minors are placed under the care of social services.",
+        "note": "Age assessment = determinación de edad."
+      },
+      {
+        "id": "voc-pol-border-021",
+        "front": "Frontex",
+        "back": "Agencia Europea de la Guardia de Fronteras y Costas",
+        "example": "Frontex supports national authorities at the EU's external borders.",
+        "note": "European Border and Coast Guard Agency."
+      },
+      {
+        "id": "voc-pol-border-022",
+        "front": "risk profiling",
+        "back": "análisis de perfiles de riesgo",
+        "example": "Risk profiling helps officers select vehicles for secondary inspection.",
+        "note": "Debe evitar la discriminación."
+      },
+      {
+        "id": "voc-pol-border-023",
+        "front": "secondary inspection",
+        "back": "segunda línea de control",
+        "example": "The passenger was referred to secondary inspection.",
+        "note": "First-line check = control de primera línea."
+      },
+      {
+        "id": "voc-pol-border-024",
+        "front": "biometric data",
+        "back": "datos biométricos",
+        "example": "Biometric data are stored in the passport chip.",
+        "note": "\"Data\" suele ir en plural en registro formal."
+      },
+      {
+        "id": "voc-pol-border-025",
+        "front": "visa overstay",
+        "back": "estancia irregular tras caducar el visado",
+        "example": "Visa overstay is a growing concern for immigration authorities.",
+        "note": "Overstay como verbo."
+      },
+      {
+        "id": "voc-pol-border-026",
+        "front": "to intercept",
+        "back": "interceptar",
+        "example": "The coastguard intercepted a boat carrying 40 people.",
+        "note": "Interception."
+      },
+      {
+        "id": "voc-pol-border-027",
+        "front": "readmission agreement",
+        "back": "acuerdo de readmisión",
+        "example": "The EU signed a readmission agreement with the country.",
+        "note": "Return policy."
+      },
+      {
+        "id": "voc-pol-border-028",
+        "front": "to smuggle",
+        "back": "pasar de contrabando",
+        "example": "They tried to smuggle weapons across the border.",
+        "note": "Smuggling ring = red de contrabando."
+      },
+      {
+        "id": "voc-pol-border-029",
+        "front": "sniffer dog",
+        "back": "perro detector",
+        "example": "A sniffer dog detected cash hidden in the luggage.",
+        "note": "Detection dog."
+      },
+      {
+        "id": "voc-pol-border-030",
+        "front": "travel document",
+        "back": "documento de viaje",
+        "example": "He was unable to produce a valid travel document.",
+        "note": "\"Produce a document\" = presentar."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-cyber",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "cybercrime",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Cybercrime",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-cyber-001",
+        "front": "phishing",
+        "back": "phishing, suplantación para obtener datos",
+        "example": "The phishing email imitated a bank's login page.",
+        "note": "Spear phishing = dirigido; smishing (SMS), vishing (voz)."
+      },
+      {
+        "id": "voc-pol-cyber-002",
+        "front": "ransomware",
+        "back": "ransomware, secuestro de datos",
+        "example": "A ransomware attack shut down the hospital's systems.",
+        "note": "Ransom = rescate."
+      },
+      {
+        "id": "voc-pol-cyber-003",
+        "front": "malware",
+        "back": "software malicioso",
+        "example": "The laptop was infected with malware.",
+        "note": "Incontable."
+      },
+      {
+        "id": "voc-pol-cyber-004",
+        "front": "data breach",
+        "back": "brecha / violación de seguridad de datos",
+        "example": "The data breach exposed millions of customer records.",
+        "note": "GDPR obliga a notificar en 72 h."
+      },
+      {
+        "id": "voc-pol-cyber-005",
+        "front": "identity theft",
+        "back": "robo / suplantación de identidad",
+        "example": "Identity theft can ruin a victim's credit rating.",
+        "note": "Identity fraud."
+      },
+      {
+        "id": "voc-pol-cyber-006",
+        "front": "dark web",
+        "back": "internet oscura (dark web)",
+        "example": "Stolen credentials are sold on the dark web.",
+        "note": "Deep web es más amplio."
+      },
+      {
+        "id": "voc-pol-cyber-007",
+        "front": "hacker / to hack into",
+        "back": "pirata informático / acceder ilegalmente",
+        "example": "Hackers hacked into the council's network.",
+        "note": "Ethical hacker = hacker ético."
+      },
+      {
+        "id": "voc-pol-cyber-008",
+        "front": "botnet",
+        "back": "red de bots (equipos infectados)",
+        "example": "The botnet was used to launch DDoS attacks.",
+        "note": "Zombie computers."
+      },
+      {
+        "id": "voc-pol-cyber-009",
+        "front": "distributed denial of service (DDoS)",
+        "back": "ataque de denegación de servicio distribuido",
+        "example": "A DDoS attack took the ministry's website offline.",
+        "note": "Pronunciado \"D-D-o-S\"."
+      },
+      {
+        "id": "voc-pol-cyber-010",
+        "front": "cryptocurrency",
+        "back": "criptomoneda",
+        "example": "The ransom was demanded in cryptocurrency.",
+        "note": "Wallet = monedero."
+      },
+      {
+        "id": "voc-pol-cyber-011",
+        "front": "digital forensics",
+        "back": "informática forense",
+        "example": "Digital forensics recovered deleted messages from the phone.",
+        "note": "Forensic image = copia forense."
+      },
+      {
+        "id": "voc-pol-cyber-012",
+        "front": "to encrypt / encryption",
+        "back": "cifrar / cifrado",
+        "example": "End-to-end encryption makes interception harder.",
+        "note": "Decrypt = descifrar."
+      },
+      {
+        "id": "voc-pol-cyber-013",
+        "front": "IP address",
+        "back": "dirección IP",
+        "example": "Investigators traced the IP address to a server abroad.",
+        "note": "\"Trace\" = rastrear."
+      },
+      {
+        "id": "voc-pol-cyber-014",
+        "front": "to trace",
+        "back": "rastrear",
+        "example": "The payments were traced to an account in another country.",
+        "note": "Traceable."
+      },
+      {
+        "id": "voc-pol-cyber-015",
+        "front": "online grooming",
+        "back": "ciberacoso sexual a menores (grooming)",
+        "example": "The man was convicted of online grooming.",
+        "note": "Child sexual abuse material (CSAM)."
+      },
+      {
+        "id": "voc-pol-cyber-016",
+        "front": "cyberbullying",
+        "back": "ciberacoso",
+        "example": "Schools are developing policies on cyberbullying.",
+        "note": "Harassment = acoso."
+      },
+      {
+        "id": "voc-pol-cyber-017",
+        "front": "sextortion",
+        "back": "sextorsión",
+        "example": "Victims of sextortion are often too ashamed to report it.",
+        "note": "Combina sexo y extorsión."
+      },
+      {
+        "id": "voc-pol-cyber-018",
+        "front": "online fraud",
+        "back": "estafa en línea",
+        "example": "Online fraud now outnumbers traditional theft.",
+        "note": "Scam = timo, estafa."
+      },
+      {
+        "id": "voc-pol-cyber-019",
+        "front": "scam",
+        "back": "timo, estafa",
+        "example": "The investment scam targeted retired people.",
+        "note": "Scammer = estafador."
+      },
+      {
+        "id": "voc-pol-cyber-020",
+        "front": "CEO fraud / business email compromise",
+        "back": "fraude del CEO",
+        "example": "The finance team transferred funds after a convincing CEO fraud email.",
+        "note": "BEC."
+      },
+      {
+        "id": "voc-pol-cyber-021",
+        "front": "vulnerability",
+        "back": "vulnerabilidad",
+        "example": "Attackers exploited a vulnerability in the software.",
+        "note": "\"Exploit a vulnerability\". Patch = parche."
+      },
+      {
+        "id": "voc-pol-cyber-022",
+        "front": "patch",
+        "back": "parche (de seguridad)",
+        "example": "The attack succeeded because the patch had not been installed.",
+        "note": "Verbo: patch a system."
+      },
+      {
+        "id": "voc-pol-cyber-023",
+        "front": "two-factor authentication",
+        "back": "autenticación de doble factor",
+        "example": "Two-factor authentication would have prevented the account takeover.",
+        "note": "2FA / MFA."
+      },
+      {
+        "id": "voc-pol-cyber-024",
+        "front": "credentials",
+        "back": "credenciales (usuario y contraseña)",
+        "example": "The attackers used stolen credentials.",
+        "note": "Credential stuffing."
+      },
+      {
+        "id": "voc-pol-cyber-025",
+        "front": "money mule",
+        "back": "mula de dinero (blanqueo)",
+        "example": "Students are recruited as money mules through social media.",
+        "note": "Recibe y transfiere fondos ilícitos."
+      },
+      {
+        "id": "voc-pol-cyber-026",
+        "front": "to take down (a website/server)",
+        "back": "desmantelar, dar de baja (web/servidor)",
+        "example": "Police took down the marketplace in a joint operation.",
+        "note": "Takedown = desmantelamiento."
+      },
+      {
+        "id": "voc-pol-cyber-027",
+        "front": "spoofing",
+        "back": "suplantación (de número, email, IP)",
+        "example": "Caller ID spoofing made the call look like it came from the bank.",
+        "note": "Spoofed email."
+      },
+      {
+        "id": "voc-pol-cyber-028",
+        "front": "incident response",
+        "back": "respuesta a incidentes",
+        "example": "The incident response team isolated the infected servers.",
+        "note": "CSIRT / CERT."
+      },
+      {
+        "id": "voc-pol-cyber-029",
+        "front": "cyber attack",
+        "back": "ciberataque",
+        "example": "The cyber attack disrupted air traffic control.",
+        "note": "También cyberattack."
+      },
+      {
+        "id": "voc-pol-cyber-030",
+        "front": "social engineering",
+        "back": "ingeniería social",
+        "example": "Social engineering relies on manipulating people rather than systems.",
+        "note": "Pretexting, baiting."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-publicorder",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "public order and terrorism",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Public order, terrorism & intelligence",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-publicorder-001",
+        "front": "riot",
+        "back": "disturbio, motín",
+        "example": "Riot police were deployed after the match.",
+        "note": "Riot gear = material antidisturbios."
+      },
+      {
+        "id": "voc-pol-publicorder-002",
+        "front": "crowd control",
+        "back": "control de masas",
+        "example": "Crowd control measures included barriers and mounted officers.",
+        "note": "Kettling = encapsulamiento."
+      },
+      {
+        "id": "voc-pol-publicorder-003",
+        "front": "to disperse",
+        "back": "dispersar",
+        "example": "Officers used water cannon to disperse the crowd.",
+        "note": "Dispersal order."
+      },
+      {
+        "id": "voc-pol-publicorder-004",
+        "front": "breach of the peace",
+        "back": "alteración del orden público",
+        "example": "He was arrested for a breach of the peace.",
+        "note": "Disorderly conduct (EE. UU.)."
+      },
+      {
+        "id": "voc-pol-publicorder-005",
+        "front": "radicalisation",
+        "back": "radicalización",
+        "example": "Online radicalisation is a growing concern.",
+        "note": "Ortografía británica con -s-."
+      },
+      {
+        "id": "voc-pol-publicorder-006",
+        "front": "violent extremism",
+        "back": "extremismo violento",
+        "example": "The programme aims to counter violent extremism.",
+        "note": "CVE = countering violent extremism."
+      },
+      {
+        "id": "voc-pol-publicorder-007",
+        "front": "lone wolf / lone actor",
+        "back": "lobo solitario",
+        "example": "Lone-actor attacks are difficult to detect in advance.",
+        "note": "\"Lone actor\" es el término preferido oficialmente."
+      },
+      {
+        "id": "voc-pol-publicorder-008",
+        "front": "terrorist cell",
+        "back": "célula terrorista",
+        "example": "Police dismantled a terrorist cell planning attacks.",
+        "note": "\"Dismantle / break up a cell\"."
+      },
+      {
+        "id": "voc-pol-publicorder-009",
+        "front": "threat level",
+        "back": "nivel de amenaza",
+        "example": "The national threat level was raised to severe.",
+        "note": "Raise / lower the threat level."
+      },
+      {
+        "id": "voc-pol-publicorder-010",
+        "front": "intelligence",
+        "back": "inteligencia (información)",
+        "example": "The arrests were made on the basis of intelligence received.",
+        "note": "Incontable. Intelligence-led policing."
+      },
+      {
+        "id": "voc-pol-publicorder-011",
+        "front": "surveillance",
+        "back": "vigilancia",
+        "example": "The suspects were under surveillance for months.",
+        "note": "Covert surveillance = vigilancia encubierta."
+      },
+      {
+        "id": "voc-pol-publicorder-012",
+        "front": "to foil a plot",
+        "back": "frustrar un complot",
+        "example": "Security services foiled a plot to bomb a stadium.",
+        "note": "Thwart = frustrar."
+      },
+      {
+        "id": "voc-pol-publicorder-013",
+        "front": "improvised explosive device (IED)",
+        "back": "artefacto explosivo improvisado",
+        "example": "An IED was found near the railway line.",
+        "note": "Bomb disposal = desactivación de explosivos (TEDAX)."
+      },
+      {
+        "id": "voc-pol-publicorder-014",
+        "front": "bomb disposal unit",
+        "back": "unidad de desactivación de explosivos (TEDAX)",
+        "example": "The bomb disposal unit carried out a controlled explosion.",
+        "note": "EOD = explosive ordnance disposal."
+      },
+      {
+        "id": "voc-pol-publicorder-015",
+        "front": "to evacuate",
+        "back": "evacuar, desalojar",
+        "example": "The station was evacuated after a suspicious package was found.",
+        "note": "Evacuation."
+      },
+      {
+        "id": "voc-pol-publicorder-016",
+        "front": "suspicious package",
+        "back": "paquete sospechoso",
+        "example": "A suspicious package caused major disruption at the airport.",
+        "note": "Unattended bag = bulto abandonado."
+      },
+      {
+        "id": "voc-pol-publicorder-017",
+        "front": "counter-terrorism",
+        "back": "antiterrorismo, lucha antiterrorista",
+        "example": "Counter-terrorism officers made three arrests.",
+        "note": "CT."
+      },
+      {
+        "id": "voc-pol-publicorder-018",
+        "front": "to infiltrate",
+        "back": "infiltrarse",
+        "example": "Agents infiltrated the network over two years.",
+        "note": "Infiltration."
+      },
+      {
+        "id": "voc-pol-publicorder-019",
+        "front": "source (HUMINT)",
+        "back": "fuente (inteligencia humana)",
+        "example": "The information came from a well-placed human source.",
+        "note": "SIGINT, OSINT, HUMINT."
+      },
+      {
+        "id": "voc-pol-publicorder-020",
+        "front": "open-source intelligence (OSINT)",
+        "back": "inteligencia de fuentes abiertas",
+        "example": "OSINT analysts monitor social media for threats.",
+        "note": "Fuentes públicas."
+      },
+      {
+        "id": "voc-pol-publicorder-021",
+        "front": "to assess a threat",
+        "back": "evaluar una amenaza",
+        "example": "Analysts assessed the threat as credible.",
+        "note": "Threat assessment."
+      },
+      {
+        "id": "voc-pol-publicorder-022",
+        "front": "protest / demonstration",
+        "back": "protesta / manifestación",
+        "example": "The demonstration passed off peacefully.",
+        "note": "\"Pass off peacefully\" = transcurrir sin incidentes."
+      },
+      {
+        "id": "voc-pol-publicorder-023",
+        "front": "kettling",
+        "back": "encapsulamiento (de manifestantes)",
+        "example": "The use of kettling remains controversial.",
+        "note": "Contener a la multitud en un área cerrada."
+      },
+      {
+        "id": "voc-pol-publicorder-024",
+        "front": "less-lethal weapons",
+        "back": "armas menos letales",
+        "example": "Officers carry less-lethal weapons such as Tasers.",
+        "note": "Preferido a \"non-lethal\"."
+      },
+      {
+        "id": "voc-pol-publicorder-025",
+        "front": "proportionate use of force",
+        "back": "uso proporcionado de la fuerza",
+        "example": "Officers must use only proportionate force.",
+        "note": "Necessity, proportionality, legality."
+      },
+      {
+        "id": "voc-pol-publicorder-026",
+        "front": "to de-escalate",
+        "back": "desescalar, rebajar la tensión",
+        "example": "Negotiators managed to de-escalate the situation.",
+        "note": "De-escalation techniques."
+      },
+      {
+        "id": "voc-pol-publicorder-027",
+        "front": "hostage negotiation",
+        "back": "negociación con rehenes",
+        "example": "Hostage negotiation teams are trained in active listening.",
+        "note": "Hostage-taker."
+      },
+      {
+        "id": "voc-pol-publicorder-028",
+        "front": "critical infrastructure",
+        "back": "infraestructuras críticas",
+        "example": "Protection of critical infrastructure is a priority.",
+        "note": "Energía, agua, transporte..."
+      },
+      {
+        "id": "voc-pol-publicorder-029",
+        "front": "need-to-know basis",
+        "back": "principio de necesidad de conocer",
+        "example": "Information is shared strictly on a need-to-know basis.",
+        "note": "Classified information = información clasificada."
+      },
+      {
+        "id": "voc-pol-publicorder-030",
+        "front": "to stop and search",
+        "back": "identificar y cachear",
+        "example": "Officers have powers to stop and search under certain conditions.",
+        "note": "Stop and search (RU); frisk (EE. UU.)."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-maritime",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "maritime and environmental policing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Maritime, environmental & rural policing",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-maritime-001",
+        "front": "coastguard",
+        "back": "guardacostas, salvamento marítimo",
+        "example": "The coastguard launched a search and rescue operation.",
+        "note": "Search and rescue (SAR)."
+      },
+      {
+        "id": "voc-pol-maritime-002",
+        "front": "patrol boat",
+        "back": "patrullera",
+        "example": "A patrol boat intercepted the speedboat off the coast.",
+        "note": "Cutter = guardacostas (buque)."
+      },
+      {
+        "id": "voc-pol-maritime-003",
+        "front": "territorial waters",
+        "back": "aguas territoriales",
+        "example": "The vessel was boarded inside territorial waters.",
+        "note": "12 millas náuticas."
+      },
+      {
+        "id": "voc-pol-maritime-004",
+        "front": "to board (a vessel)",
+        "back": "abordar (un buque)",
+        "example": "Officers boarded the vessel to inspect its cargo.",
+        "note": "Boarding team."
+      },
+      {
+        "id": "voc-pol-maritime-005",
+        "front": "vessel",
+        "back": "buque, embarcación",
+        "example": "The vessel was flying a foreign flag.",
+        "note": "Flag state = Estado del pabellón."
+      },
+      {
+        "id": "voc-pol-maritime-006",
+        "front": "maritime surveillance",
+        "back": "vigilancia marítima",
+        "example": "Radar networks support maritime surveillance.",
+        "note": "En España: SIVE."
+      },
+      {
+        "id": "voc-pol-maritime-007",
+        "front": "drug trafficking",
+        "back": "narcotráfico",
+        "example": "The Strait is a key route for drug trafficking.",
+        "note": "Drug trafficker / smuggler."
+      },
+      {
+        "id": "voc-pol-maritime-008",
+        "front": "go-fast boat",
+        "back": "narcolancha",
+        "example": "A go-fast boat carrying hashish was intercepted at night.",
+        "note": "Semirrígida de alta velocidad."
+      },
+      {
+        "id": "voc-pol-maritime-009",
+        "front": "bale",
+        "back": "fardo",
+        "example": "The crew threw bales of cannabis resin overboard.",
+        "note": "Overboard = por la borda."
+      },
+      {
+        "id": "voc-pol-maritime-010",
+        "front": "illegal fishing",
+        "back": "pesca ilegal",
+        "example": "Inspectors seized nets used for illegal fishing.",
+        "note": "IUU fishing = pesca ilegal, no declarada y no reglamentada."
+      },
+      {
+        "id": "voc-pol-maritime-011",
+        "front": "environmental crime",
+        "back": "delito medioambiental",
+        "example": "Environmental crime is often linked to organised crime.",
+        "note": "Wildlife crime = delitos contra la fauna."
+      },
+      {
+        "id": "voc-pol-maritime-012",
+        "front": "wildlife trafficking",
+        "back": "tráfico de especies",
+        "example": "Wildlife trafficking includes ivory and exotic birds.",
+        "note": "CITES."
+      },
+      {
+        "id": "voc-pol-maritime-013",
+        "front": "protected species",
+        "back": "especie protegida",
+        "example": "Killing a protected species is a criminal offence.",
+        "note": "Endangered species = en peligro."
+      },
+      {
+        "id": "voc-pol-maritime-014",
+        "front": "poaching",
+        "back": "caza furtiva",
+        "example": "Rangers caught two men poaching deer at night.",
+        "note": "Poacher = furtivo."
+      },
+      {
+        "id": "voc-pol-maritime-015",
+        "front": "illegal dumping",
+        "back": "vertido ilegal",
+        "example": "Illegal dumping of building waste is common on rural roads.",
+        "note": "Fly-tipping (RU coloquial)."
+      },
+      {
+        "id": "voc-pol-maritime-016",
+        "front": "fly-tipping",
+        "back": "vertido incontrolado de basura",
+        "example": "Fly-tipping costs councils millions every year.",
+        "note": "Término británico."
+      },
+      {
+        "id": "voc-pol-maritime-017",
+        "front": "forest fire / wildfire",
+        "back": "incendio forestal",
+        "example": "Investigators suspect the wildfire was started deliberately.",
+        "note": "Arson = incendio provocado."
+      },
+      {
+        "id": "voc-pol-maritime-018",
+        "front": "arson",
+        "back": "incendio provocado",
+        "example": "A man has been arrested on suspicion of arson.",
+        "note": "Arsonist = pirómano/incendiario."
+      },
+      {
+        "id": "voc-pol-maritime-019",
+        "front": "livestock theft",
+        "back": "robo de ganado",
+        "example": "Livestock theft has increased in remote areas.",
+        "note": "Rustling (informal)."
+      },
+      {
+        "id": "voc-pol-maritime-020",
+        "front": "rural crime",
+        "back": "delincuencia rural",
+        "example": "A dedicated unit tackles rural crime.",
+        "note": "Farm machinery theft."
+      },
+      {
+        "id": "voc-pol-maritime-021",
+        "front": "animal welfare",
+        "back": "bienestar animal",
+        "example": "The farm was investigated for breaches of animal welfare law.",
+        "note": "Animal cruelty = maltrato animal."
+      },
+      {
+        "id": "voc-pol-maritime-022",
+        "front": "pollution incident",
+        "back": "incidente de contaminación",
+        "example": "The pollution incident killed thousands of fish.",
+        "note": "Fish kill."
+      },
+      {
+        "id": "voc-pol-maritime-023",
+        "front": "oil slick",
+        "back": "mancha de petróleo",
+        "example": "An oil slick was spotted ten miles offshore.",
+        "note": "Offshore = mar adentro."
+      },
+      {
+        "id": "voc-pol-maritime-024",
+        "front": "to run aground",
+        "back": "encallar",
+        "example": "The cargo ship ran aground in heavy seas.",
+        "note": "Shipwreck = naufragio."
+      },
+      {
+        "id": "voc-pol-maritime-025",
+        "front": "distress call / Mayday",
+        "back": "llamada de socorro",
+        "example": "The skipper sent a Mayday before the boat sank.",
+        "note": "Pan-pan = urgencia sin peligro inminente."
+      },
+      {
+        "id": "voc-pol-maritime-026",
+        "front": "nautical mile",
+        "back": "milla náutica",
+        "example": "The boat was spotted 20 nautical miles south of the island.",
+        "note": "1.852 m."
+      },
+      {
+        "id": "voc-pol-maritime-027",
+        "front": "harbour / port authority",
+        "back": "puerto / autoridad portuaria",
+        "example": "The port authority closed the harbour due to the storm.",
+        "note": "Ortografía británica: harbour."
+      },
+      {
+        "id": "voc-pol-maritime-028",
+        "front": "hunting licence",
+        "back": "licencia de caza",
+        "example": "He could not produce a valid hunting licence.",
+        "note": "Licence (sust., RU) vs license (verbo)."
+      },
+      {
+        "id": "voc-pol-maritime-029",
+        "front": "water abstraction",
+        "back": "captación (extracción) de agua",
+        "example": "Illegal water abstraction is draining the wetlands.",
+        "note": "Well = pozo."
+      },
+      {
+        "id": "voc-pol-maritime-030",
+        "front": "marine reserve",
+        "back": "reserva marina",
+        "example": "Fishing is banned inside the marine reserve.",
+        "note": "Protected area."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-international",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "international cooperation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "International cooperation & missions",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-international-001",
+        "front": "Europol",
+        "back": "Europol (Agencia de la UE para la Cooperación Policial)",
+        "example": "Europol coordinated the operation across eight countries.",
+        "note": "Sede en La Haya."
+      },
+      {
+        "id": "voc-pol-international-002",
+        "front": "Interpol",
+        "back": "Interpol (Organización Internacional de Policía Criminal)",
+        "example": "Interpol issued a Red Notice for the fugitive.",
+        "note": "Sede en Lyon."
+      },
+      {
+        "id": "voc-pol-international-003",
+        "front": "Red Notice",
+        "back": "notificación roja (búsqueda para detención)",
+        "example": "A Red Notice is a request to locate and provisionally arrest a person.",
+        "note": "No es una orden internacional de detención."
+      },
+      {
+        "id": "voc-pol-international-004",
+        "front": "liaison officer",
+        "back": "oficial de enlace",
+        "example": "Our liaison officer in Rabat facilitated the exchange of information.",
+        "note": "Liaise with = coordinarse con."
+      },
+      {
+        "id": "voc-pol-international-005",
+        "front": "peacekeeping",
+        "back": "mantenimiento de la paz",
+        "example": "The officers served on a UN peacekeeping mission.",
+        "note": "Peacekeepers = cascos azules."
+      },
+      {
+        "id": "voc-pol-international-006",
+        "front": "rules of engagement (ROE)",
+        "back": "reglas de enfrentamiento",
+        "example": "Rules of engagement define when force may be used.",
+        "note": "Plural siempre."
+      },
+      {
+        "id": "voc-pol-international-007",
+        "front": "European Arrest Warrant (EAW)",
+        "back": "orden europea de detención y entrega",
+        "example": "He was surrendered to Spain under a European Arrest Warrant.",
+        "note": "Surrender = entrega."
+      },
+      {
+        "id": "voc-pol-international-008",
+        "front": "extradition",
+        "back": "extradición",
+        "example": "The court approved his extradition to the United States.",
+        "note": "Verbo: extradite."
+      },
+      {
+        "id": "voc-pol-international-009",
+        "front": "joint investigation team (JIT)",
+        "back": "equipo conjunto de investigación",
+        "example": "A JIT was set up between Spanish and French police.",
+        "note": "Apoyado por Eurojust."
+      },
+      {
+        "id": "voc-pol-international-010",
+        "front": "mutual legal assistance",
+        "back": "asistencia judicial mutua",
+        "example": "A request for mutual legal assistance was sent to the authorities.",
+        "note": "MLA request."
+      },
+      {
+        "id": "voc-pol-international-011",
+        "front": "mandate",
+        "back": "mandato",
+        "example": "The mission's mandate was extended for another year.",
+        "note": "UN Security Council mandate."
+      },
+      {
+        "id": "voc-pol-international-012",
+        "front": "deployment",
+        "back": "despliegue",
+        "example": "Her deployment to the mission lasted nine months.",
+        "note": "Verbo: deploy."
+      },
+      {
+        "id": "voc-pol-international-013",
+        "front": "to second (an officer)",
+        "back": "adscribir, enviar en comisión de servicio",
+        "example": "He was seconded to Frontex for two years.",
+        "note": "Pronunciación /sɪˈkɒnd/. Secondment."
+      },
+      {
+        "id": "voc-pol-international-014",
+        "front": "capacity building",
+        "back": "refuerzo de capacidades",
+        "example": "The mission focuses on capacity building for the local police.",
+        "note": "Training and mentoring."
+      },
+      {
+        "id": "voc-pol-international-015",
+        "front": "to mentor",
+        "back": "asesorar, tutelar",
+        "example": "Our team mentored local officers in investigation techniques.",
+        "note": "Mentoring, monitoring and advising (MMA)."
+      },
+      {
+        "id": "voc-pol-international-016",
+        "front": "host nation",
+        "back": "país anfitrión",
+        "example": "The host nation is responsible for security outside the camp.",
+        "note": "Host country."
+      },
+      {
+        "id": "voc-pol-international-017",
+        "front": "ceasefire",
+        "back": "alto el fuego",
+        "example": "The ceasefire was violated within hours.",
+        "note": "\"Broker / observe / violate a ceasefire\"."
+      },
+      {
+        "id": "voc-pol-international-018",
+        "front": "civilian protection",
+        "back": "protección de civiles",
+        "example": "Civilian protection is at the core of the mandate.",
+        "note": "Protection of civilians (PoC)."
+      },
+      {
+        "id": "voc-pol-international-019",
+        "front": "CSDP mission",
+        "back": "misión PCSD (Política Común de Seguridad y Defensa)",
+        "example": "The EU launched a CSDP mission to train border police.",
+        "note": "Civilian vs military missions."
+      },
+      {
+        "id": "voc-pol-international-020",
+        "front": "interoperability",
+        "back": "interoperabilidad",
+        "example": "Joint exercises improve interoperability between forces.",
+        "note": "Clave en OTAN y UE."
+      },
+      {
+        "id": "voc-pol-international-021",
+        "front": "standard operating procedures",
+        "back": "procedimientos operativos estándar",
+        "example": "Units from different countries agreed common SOPs.",
+        "note": "SOPs."
+      },
+      {
+        "id": "voc-pol-international-022",
+        "front": "debriefing",
+        "back": "informe posterior, sesión de evaluación",
+        "example": "All officers attended a debriefing after the operation.",
+        "note": "Briefing = sesión informativa previa."
+      },
+      {
+        "id": "voc-pol-international-023",
+        "front": "briefing",
+        "back": "sesión informativa (previa)",
+        "example": "The commander gave a short briefing before the patrol.",
+        "note": "\"Give / attend a briefing\"."
+      },
+      {
+        "id": "voc-pol-international-024",
+        "front": "memorandum of understanding (MoU)",
+        "back": "memorando de entendimiento",
+        "example": "The two agencies signed an MoU on information sharing.",
+        "note": "No es vinculante en sentido estricto."
+      },
+      {
+        "id": "voc-pol-international-025",
+        "front": "information sharing",
+        "back": "intercambio de información",
+        "example": "Information sharing between agencies remains patchy.",
+        "note": "Patchy = irregular."
+      },
+      {
+        "id": "voc-pol-international-026",
+        "front": "fugitive",
+        "back": "prófugo, fugitivo",
+        "example": "The fugitive was tracked down in Thailand.",
+        "note": "Track down = localizar."
+      },
+      {
+        "id": "voc-pol-international-027",
+        "front": "organised crime group (OCG)",
+        "back": "grupo de delincuencia organizada",
+        "example": "The OCG was involved in drugs, arms and money laundering.",
+        "note": "Ortografía británica: organised."
+      },
+      {
+        "id": "voc-pol-international-028",
+        "front": "money laundering",
+        "back": "blanqueo de capitales",
+        "example": "Money laundering investigations follow the money across borders.",
+        "note": "Launder money."
+      },
+      {
+        "id": "voc-pol-international-029",
+        "front": "force protection",
+        "back": "protección de la fuerza",
+        "example": "Force protection measures were stepped up after the attack.",
+        "note": "Step up = intensificar."
+      },
+      {
+        "id": "voc-pol-international-030",
+        "front": "code of conduct",
+        "back": "código de conducta",
+        "example": "All mission members must sign the code of conduct.",
+        "note": "Incluye política de tolerancia cero."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-pol-ranks",
+      "skill": "vocabulary",
+      "level": "SLP3",
+      "topic": "ranks and radio procedure",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Police ranks, organisation & radio procedure",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-pol-ranks-001",
+        "front": "constable",
+        "back": "agente (rango básico, RU)",
+        "example": "The constable was first on the scene.",
+        "note": "PC = Police Constable."
+      },
+      {
+        "id": "voc-pol-ranks-002",
+        "front": "sergeant",
+        "back": "sargento",
+        "example": "The sergeant briefed the team before the raid.",
+        "note": "Pronunciación /ˈsɑːdʒənt/."
+      },
+      {
+        "id": "voc-pol-ranks-003",
+        "front": "inspector",
+        "back": "inspector",
+        "example": "The duty inspector authorised the search.",
+        "note": "Rango por encima de sergeant."
+      },
+      {
+        "id": "voc-pol-ranks-004",
+        "front": "superintendent",
+        "back": "superintendente (comisario)",
+        "example": "A superintendent leads the investigation.",
+        "note": "Chief Superintendent."
+      },
+      {
+        "id": "voc-pol-ranks-005",
+        "front": "chief constable",
+        "back": "jefe de policía (de un cuerpo regional, RU)",
+        "example": "The chief constable apologised publicly.",
+        "note": "Commissioner en Londres."
+      },
+      {
+        "id": "voc-pol-ranks-006",
+        "front": "non-commissioned officer (NCO)",
+        "back": "suboficial",
+        "example": "NCOs are the backbone of any military force.",
+        "note": "Commissioned officer = oficial."
+      },
+      {
+        "id": "voc-pol-ranks-007",
+        "front": "chain of command",
+        "back": "cadena de mando",
+        "example": "Requests must go through the chain of command.",
+        "note": "Line manager = superior directo."
+      },
+      {
+        "id": "voc-pol-ranks-008",
+        "front": "on duty / off duty",
+        "back": "de servicio / fuera de servicio",
+        "example": "An off-duty officer detained the thief.",
+        "note": "Duty roster = cuadrante."
+      },
+      {
+        "id": "voc-pol-ranks-009",
+        "front": "shift",
+        "back": "turno",
+        "example": "She works the night shift this week.",
+        "note": "Shift handover = relevo."
+      },
+      {
+        "id": "voc-pol-ranks-010",
+        "front": "headquarters (HQ)",
+        "back": "cuartel general, dirección general",
+        "example": "The request was forwarded to headquarters.",
+        "note": "Puede ir con verbo singular o plural."
+      },
+      {
+        "id": "voc-pol-ranks-011",
+        "front": "NATO phonetic alphabet",
+        "back": "alfabeto fonético OTAN",
+        "example": "The registration was spelt out using the NATO phonetic alphabet: Alpha, Bravo, Charlie...",
+        "note": "Ojo: Alfa/Alpha, Juliett, X-ray, Whiskey."
+      },
+      {
+        "id": "voc-pol-ranks-012",
+        "front": "roger",
+        "back": "recibido (mensaje entendido)",
+        "example": "\"Patrol two, proceed to the station.\" – \"Roger.\"",
+        "note": "Solo confirma recepción, no que se vaya a cumplir."
+      },
+      {
+        "id": "voc-pol-ranks-013",
+        "front": "wilco",
+        "back": "recibido y se cumplirá (will comply)",
+        "example": "\"Hold your position until relieved.\" – \"Wilco.\"",
+        "note": "No se dice \"roger wilco\": wilco ya incluye roger."
+      },
+      {
+        "id": "voc-pol-ranks-014",
+        "front": "ETA (estimated time of arrival)",
+        "back": "hora estimada de llegada",
+        "example": "Control, our ETA is one-five minutes.",
+        "note": "ETD = hora estimada de salida."
+      },
+      {
+        "id": "voc-pol-ranks-015",
+        "front": "over",
+        "back": "cambio (fin de mi transmisión, espero respuesta)",
+        "example": "Control, this is Bravo Two, request backup, over.",
+        "note": "\"Over and out\" es incorrecto en procedimiento estricto."
+      },
+      {
+        "id": "voc-pol-ranks-016",
+        "front": "out",
+        "back": "corto / fin de la comunicación",
+        "example": "Bravo Two, message received, out.",
+        "note": "No se espera respuesta."
+      },
+      {
+        "id": "voc-pol-ranks-017",
+        "front": "say again",
+        "back": "repita",
+        "example": "Say again your last message, over.",
+        "note": "No se usa \"repeat\" (en artillería significa repetir fuego)."
+      },
+      {
+        "id": "voc-pol-ranks-018",
+        "front": "affirmative / negative",
+        "back": "afirmativo / negativo",
+        "example": "\"Is the suspect still inside?\" – \"Affirmative.\"",
+        "note": "Evita \"yes/no\", menos audibles."
+      },
+      {
+        "id": "voc-pol-ranks-019",
+        "front": "standby",
+        "back": "espere",
+        "example": "Standby, checking the vehicle on the database.",
+        "note": "También \"wait one\"."
+      },
+      {
+        "id": "voc-pol-ranks-020",
+        "front": "radio check",
+        "back": "prueba de radio",
+        "example": "Control, radio check, over. – Loud and clear, over.",
+        "note": "Readability: loud and clear, weak, unreadable."
+      },
+      {
+        "id": "voc-pol-ranks-021",
+        "front": "loud and clear",
+        "back": "alto y claro (le recibo perfectamente)",
+        "example": "Reading you loud and clear.",
+        "note": "\"Read you five by five\" (informal)."
+      },
+      {
+        "id": "voc-pol-ranks-022",
+        "front": "call sign",
+        "back": "indicativo",
+        "example": "Our call sign for this operation is Tango One.",
+        "note": "Indicativo de llamada."
+      },
+      {
+        "id": "voc-pol-ranks-023",
+        "front": "backup",
+        "back": "refuerzos, apoyo",
+        "example": "Officer requests urgent backup at the north gate.",
+        "note": "Request / call for backup."
+      },
+      {
+        "id": "voc-pol-ranks-024",
+        "front": "to be en route",
+        "back": "estar en camino",
+        "example": "Two units are en route to your location.",
+        "note": "Pronunciación /ɒn ˈruːt/."
+      },
+      {
+        "id": "voc-pol-ranks-025",
+        "front": "correction",
+        "back": "corrección (rectifico)",
+        "example": "The vehicle is blue, correction, black.",
+        "note": "Prowords: palabras de procedimiento."
+      },
+      {
+        "id": "voc-pol-ranks-026",
+        "front": "I spell",
+        "back": "deletreo",
+        "example": "Surname, I spell: Sierra, Mike, India, Tango, Hotel.",
+        "note": "Para nombres difíciles."
+      },
+      {
+        "id": "voc-pol-ranks-027",
+        "front": "figures",
+        "back": "cifras (introduce números)",
+        "example": "Grid reference, figures four-five-two-one.",
+        "note": "Números dígito a dígito; \"niner\" para 9."
+      },
+      {
+        "id": "voc-pol-ranks-028",
+        "front": "sitrep (situation report)",
+        "back": "informe de situación",
+        "example": "Send a sitrep every thirty minutes.",
+        "note": "SITREP."
+      },
+      {
+        "id": "voc-pol-ranks-029",
+        "front": "to stand down",
+        "back": "retirarse, desactivar (una unidad)",
+        "example": "All units can stand down; the suspect is in custody.",
+        "note": "Stand by ≠ stand down."
+      },
+      {
+        "id": "voc-pol-ranks-030",
+        "front": "to relieve",
+        "back": "relevar",
+        "example": "Your patrol will be relieved at 0600.",
+        "note": "Relief = relevo."
+      }
+    ]
+  }
+]
