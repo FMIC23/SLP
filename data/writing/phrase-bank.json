@@ -1,0 +1,312 @@
+[
+  {
+    "id": "pb-introducing",
+    "title": "Introducir un tema",
+    "use": "Primer párrafo de essays, informes y propuestas: presenta el tema y su relevancia sin copiar el enunciado.",
+    "phrases": [
+      "It is widely acknowledged that...",
+      "In recent years, there has been growing concern about...",
+      "Few issues have generated as much debate as...",
+      "... has become one of the most pressing challenges of our time.",
+      "It is often argued that...",
+      "There is no denying that...",
+      "The question of whether... has long divided opinion.",
+      "This essay will examine two possible approaches to...",
+      "The aim of this report is to...",
+      "The purpose of this proposal is to outline..."
+    ]
+  },
+  {
+    "id": "pb-opinion",
+    "title": "Dar una opinión (formal)",
+    "use": "Para expresar tu postura en essays, cartas y memos con un registro formal, evitando el repetitivo \"I think\".",
+    "phrases": [
+      "In my view, ...",
+      "I would argue that...",
+      "I am firmly convinced that...",
+      "From my perspective, ...",
+      "It seems to me that...",
+      "I take the view that...",
+      "There can be little doubt that...",
+      "I am inclined to believe that...",
+      "My position is that...",
+      "To my mind, the strongest argument is...",
+      "I strongly support the proposal to..."
+    ]
+  },
+  {
+    "id": "pb-hedging",
+    "title": "Matizar (hedging)",
+    "use": "Para suavizar afirmaciones y sonar prudente y académico; muy valorado en C1 y en informes técnicos donde no hay certeza total.",
+    "phrases": [
+      "It would appear that...",
+      "This may well be due to...",
+      "There is some evidence to suggest that...",
+      "To a certain extent, ...",
+      "It is likely/unlikely that...",
+      "In all likelihood, ...",
+      "This could, arguably, be seen as...",
+      "tends to / is inclined to",
+      "The most likely cause appears to be...",
+      "pending confirmation by laboratory analysis",
+      "It is not entirely clear whether...",
+      "Broadly speaking, ..."
+    ]
+  },
+  {
+    "id": "pb-adding",
+    "title": "Añadir ideas",
+    "use": "Para encadenar argumentos del mismo signo. Varía los conectores en lugar de repetir \"and\" o \"also\".",
+    "phrases": [
+      "What is more, ...",
+      "Moreover, ...",
+      "Furthermore, ...",
+      "In addition to this, ...",
+      "Not only does..., but it also...",
+      "Equally important is the fact that...",
+      "On top of that, ... (semiformal)",
+      "Besides, ...",
+      "A further advantage is that...",
+      "Another point worth considering is..."
+    ]
+  },
+  {
+    "id": "pb-contrasting",
+    "title": "Contrastar y conceder",
+    "use": "Para presentar contraargumentos y refutarlos; imprescindible para un essay equilibrado y para memos SLP.",
+    "phrases": [
+      "However, ...",
+      "Nevertheless, / Nonetheless, ...",
+      "On the other hand, ...",
+      "By contrast, ...",
+      "Admittedly, ... but...",
+      "While it is true that..., ...",
+      "Granted, ... However, ...",
+      "Despite / In spite of the fact that...",
+      "Although... , ...",
+      "It could be argued that... However, ...",
+      "That said, ...",
+      "Even so, ..."
+    ]
+  },
+  {
+    "id": "pb-cause-effect",
+    "title": "Causa y consecuencia",
+    "use": "Para explicar por qué ocurre algo y qué resultados tiene; muy útil en informes técnicos y de incidentes.",
+    "phrases": [
+      "As a result, ...",
+      "Consequently, ...",
+      "This has led to...",
+      "This gave rise to...",
+      "... resulted in / resulted from...",
+      "owing to / due to / on account of",
+      "The main reason for this is that...",
+      "This can be attributed to...",
+      "This, in turn, ...",
+      "triggered / brought about",
+      "Hence, ...",
+      "which means that..."
+    ]
+  },
+  {
+    "id": "pb-exemplifying",
+    "title": "Poner ejemplos",
+    "use": "Para apoyar argumentos con ejemplos concretos, algo que eleva la puntuación en \"content\" y \"communicative achievement\".",
+    "phrases": [
+      "For instance, ...",
+      "For example, ...",
+      "such as...",
+      "A case in point is...",
+      "This is clearly illustrated by...",
+      "To illustrate this, ...",
+      "namely, ...",
+      "in particular / particularly",
+      "Take, for example, ...",
+      "Experience with... has shown that..."
+    ]
+  },
+  {
+    "id": "pb-concluding",
+    "title": "Concluir",
+    "use": "Último párrafo: resume y responde explícitamente a la pregunta del enunciado. No introduzcas ideas nuevas.",
+    "phrases": [
+      "On balance, ...",
+      "All things considered, ...",
+      "To sum up, ...",
+      "In conclusion, ...",
+      "Taking everything into account, ...",
+      "Weighing up both sides, I believe that...",
+      "Ultimately, ...",
+      "For the reasons outlined above, ...",
+      "It is therefore my view that...",
+      "In the final analysis, ..."
+    ]
+  },
+  {
+    "id": "pb-recommending",
+    "title": "Recomendar (informes y propuestas)",
+    "use": "Sección de recomendaciones de reports, proposals, technical reports y memos. Fíjate en el subjuntivo (\"be\", sin -s).",
+    "phrases": [
+      "It is recommended that... be...",
+      "I would recommend that...",
+      "Consideration should be given to...",
+      "It would be advisable to...",
+      "It is suggested that...",
+      "The following measures are recommended:",
+      "In the light of these findings, ...",
+      "Priority should be given to...",
+      "Should management approve this scheme, ...",
+      "It would be worth considering...",
+      "The most cost-effective solution would be to...",
+      "In view of the above, ..."
+    ]
+  },
+  {
+    "id": "pb-data-trends",
+    "title": "Describir datos y tendencias",
+    "use": "Para informes técnicos, resúmenes ejecutivos y presentaciones: describir cifras, gráficos y evolución.",
+    "phrases": [
+      "... rose sharply / increased steadily from... to...",
+      "... fell dramatically / dropped slightly",
+      "... remained stable / levelled off at...",
+      "... peaked at... in...",
+      "There was a significant increase in...",
+      "roughly / approximately / just over / well below",
+      "a third / the vast majority / a small minority of...",
+      "compared with the same period last year",
+      "accounted for... per cent of...",
+      "an estimated 31 MWh of energy not supplied",
+      "fluctuated between... and...",
+      "by a factor of two / twofold"
+    ]
+  },
+  {
+    "id": "pb-email-open-close",
+    "title": "Aperturas y cierres de emails formales",
+    "use": "Inicio y final de emails y cartas formales. \"Yours faithfully\" si no conoces el nombre; \"Yours sincerely\" si lo conoces.",
+    "phrases": [
+      "Dear Sir or Madam, / Dear Inspector Larsen,",
+      "I am writing to enquire about...",
+      "I am writing in response to...",
+      "I am writing with regard to...",
+      "Further to our telephone conversation of...",
+      "Thank you for your email of 3 October.",
+      "Please find attached...",
+      "I look forward to hearing from you.",
+      "Please do not hesitate to contact me should you require further information.",
+      "Thank you in advance for your cooperation.",
+      "Yours faithfully, / Yours sincerely, / Kind regards,"
+    ]
+  },
+  {
+    "id": "pb-requests",
+    "title": "Hacer peticiones con cortesía",
+    "use": "Para solicitar información o acciones en emails formales, cooperación internacional o con proveedores.",
+    "phrases": [
+      "I would be grateful if you could...",
+      "I would appreciate it if you could...",
+      "Would it be possible to...?",
+      "Could you kindly...?",
+      "I wonder whether you might be able to...",
+      "We would request that...",
+      "I should be most grateful for...",
+      "It would be very helpful if you could provide...",
+      "May I ask you to confirm...?",
+      "If it is not too much trouble, ..."
+    ]
+  },
+  {
+    "id": "pb-complaints",
+    "title": "Quejas y reclamaciones",
+    "use": "Emails a proveedores (no conformidades) o cartas de queja: firmeza profesional sin agresividad.",
+    "phrases": [
+      "I am writing to express my dissatisfaction with...",
+      "I regret to inform you that...",
+      "Our inspection identified the following non-conformities:",
+      "This falls well short of the standard specified in...",
+      "As a consequence, we are unable to...",
+      "This situation has caused considerable inconvenience / delay.",
+      "We must therefore ask you to...",
+      "We expect to receive... by...",
+      "Failing this, we will have no alternative but to...",
+      "We trust that this matter will be resolved promptly."
+    ]
+  },
+  {
+    "id": "pb-reviews",
+    "title": "Reseñas: elogiar y criticar",
+    "use": "Para reviews (Part 2): valoraciones matizadas con adjetivos y estructuras enfáticas.",
+    "phrases": [
+      "Where the series really excels is...",
+      "What impressed me most was...",
+      "It is visually stunning / gripping / thought-provoking.",
+      "The plot is fast-paced and keeps you on the edge of your seat.",
+      "If I had one criticism, it would be that...",
+      "It falls short of expectations in terms of...",
+      "somewhat predictable / overly technical / rather superficial",
+      "It glosses over...",
+      "I would wholeheartedly recommend it to...",
+      "It is well worth watching, if only for...",
+      "Fans of... will not be disappointed."
+    ]
+  },
+  {
+    "id": "pb-report-structure",
+    "title": "Encabezados y estructura de informes",
+    "use": "Esqueletos de encabezados para reports, proposals, technical reports, executive summaries y memos.",
+    "phrases": [
+      "Introduction / Purpose / Aim",
+      "Background",
+      "Findings / Main features / Current situation",
+      "Sequence of events",
+      "Impact",
+      "Root cause analysis",
+      "Corrective and preventive actions",
+      "Discussion",
+      "Main risks",
+      "Recommendations",
+      "Conclusion",
+      "TO / FROM / DATE / SUBJECT",
+      "The findings are based on..."
+    ]
+  },
+  {
+    "id": "pb-technical",
+    "title": "Redacción técnica: pasiva y nominalización",
+    "use": "Para informes técnicos y de ingeniería: estilo impersonal, objetivo y denso en información.",
+    "phrases": [
+      "The conveyor was isolated and the area was cordoned off.",
+      "It was established / found / observed that...",
+      "Measurements were taken at...",
+      "The failure of the termination resulted in...",
+      "The implementation of the procedure is scheduled for...",
+      "Isolation must be applied before any intervention.",
+      "The system is designed to...",
+      "is subject to / in accordance with / in compliance with",
+      "Failure to apply lockout led to...",
+      "The installation of... would reduce...",
+      "Responsibility: ... Deadline: ...",
+      "The equipment is rated at..."
+    ]
+  },
+  {
+    "id": "pb-police-report",
+    "title": "Lenguaje de informe policial",
+    "use": "Atestados, informes de incidentes y briefings: cronología precisa, lenguaje neutro y objetivo, sin juicios.",
+    "phrases": [
+      "At approximately 14:30 hours on 12 June, ...",
+      "The subject was observed leaving the premises...",
+      "Officers attended the scene at...",
+      "The vehicle was stopped and searched.",
+      "The individual was detained / arrested on suspicion of...",
+      "The suspect was described as a male, approximately 30 years of age...",
+      "Evidence was recovered, bagged, labelled and logged.",
+      "The chain of custody was maintained throughout.",
+      "A statement was taken from the witness.",
+      "No injuries were reported.",
+      "The area was secured and a cordon established.",
+      "The matter has been referred to...",
+      "Enquiries are ongoing."
+    ]
+  }
+]
