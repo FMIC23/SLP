@@ -46,7 +46,7 @@ function listView(main: HTMLElement) {
         h('li', null, 'Tienes ', h('strong', null, '2 horas'), ' para ambas partes desde el final de la segunda lectura, a mano y ', h('strong', null, 'sin diccionario'), '.'),
         h('li', null, h('strong', null, 'Oral: '), 'lees tu resumen y tu traducción ante el tribunal y conversas en inglés hasta 10 minutos.'),
       ),
-      h('p', { class: 'small muted' }, 'Calificación por niveles MCER: C2 = 10, C1 = 7, B2 = 5; por debajo de B2, no apto. Desde 2021-22 (IIE) y 2023 (Minas) puede sustituirse por un certificado oficial B2 o superior. Detalle en docs/EXAMEN-INGLES-CUERPOS.md.'),
+      h('p', { class: 'small muted' }, 'Textos originales de práctica: las cifras, plazos y algunos planes citados en los textos en castellano son ficticios. Calificación por niveles MCER: C2 = 10, C1 = 7, B2 = 5; por debajo de B2, no apto. Desde 2021-22 (IIE) y 2023 (Minas) puede sustituirse por un certificado oficial B2 o superior. Detalle en docs/EXAMEN-INGLES-CUERPOS.md.'),
     ),
   );
   for (const c of ['IIE', 'Minas'] as const) {
