@@ -1,7 +1,7 @@
 # Instalar la app completa en tu PC con Claude Code (VS Code)
 
 ## Antes (5 minutos, una sola vez)
-1. Descarga de tu Drive `OpoIndustriales/English/SLP-data-private.zip` y déjalo en tu carpeta **Descargas**. No lo descomprimas.
+1. Descarga de tu Drive (`OpoIndustriales/English`) los **8 archivos** `SLP-sample-paper.b64.part0.0.txt` … `SLP-sample-paper.b64.part1.3.txt` (selecciónalos todos y pulsa Descargar; si Drive te da un .zip, descomprímelo en Descargas) y déjalos en tu carpeta **Descargas**. Contienen tu Sample Paper ya estructurado; tus apuntes de speaking se regeneran solos desde `speaking top.docx`.
 2. Crea una carpeta vacía, por ejemplo `Documentos/SLP`, y ábrela en VS Code con *Archivo → Abrir carpeta*.
 3. Abre el panel de Claude Code y pega el prompt de abajo.
 
@@ -12,8 +12,8 @@ Instala en ESTA carpeta (vacía) mi app de inglés C1/SLP 3 en modo local comple
 
 1. Comprueba que tengo Node.js >= 20 y Git (node -v, git --version). Si falta alguno, instálalo (Windows: winget install OpenJS.NodeJS.LTS / Git.Git; macOS: brew o el instalador oficial) y dime si tengo que reiniciar VS Code.
 2. Clona https://github.com/FMIC23/SLP.git en la carpeta actual (git clone https://github.com/FMIC23/SLP.git .).
-3. Busca SLP-data-private.zip en mi carpeta de Descargas (Windows: %USERPROFILE%\Downloads; macOS/Linux: ~/Downloads) y descomprímelo dentro de data/ para que quede data/private/... (debe contener reading/, useofenglish/, listening/, writing/ y vocabulary/). No subas nunca nada de data/private ni de material/ a git (ya están en .gitignore; compruébalo con git status).
-4. Busca mi carpeta de Google Drive para escritorio "OpoIndustriales/English" (Windows: suele estar en G:\Mi unidad\OpoIndustriales\English o en la letra que use Drive; macOS: ~/Library/CloudStorage/GoogleDrive-*/Mi unidad/OpoIndustriales/English). Si existe, copia su contenido dentro de material/, manteniendo subcarpetas y excluyendo vídeos .mkv/.mp4 y archivos .rar/.zip. Si no tengo Drive para escritorio, sáltate este paso y dímelo al final.
+3. En mi carpeta de Descargas (Windows: %USERPROFILE%\Downloads; macOS/Linux: ~/Downloads) están los 8 archivos SLP-sample-paper.b64.part0.0.txt … part1.3.txt (quizá dentro de una subcarpeta o un .zip de Drive: búscalos). Une su contenido ordenado por nombre (part0.0, part0.1, part0.2, part0.3, part1.0 … part1.3), sin saltos de línea ni espacios, decodifica el base64 a un archivo sample-paper.zip, comprueba que su SHA-256 es 22ea002ea1678cb801a41801e5c945aec56723798a08b32e28d801fbcf0a8303 y descomprímelo dentro de data/ para que quede data/private/ con reading/, useofenglish/, listening/ y writing/. Hazlo con Node (Buffer.from(..., 'base64') y crypto) para que funcione igual en Windows. No subas nunca nada de data/private ni de material/ a git (ya están en .gitignore; compruébalo con git status).
+4. Busca mi carpeta de Google Drive para escritorio "OpoIndustriales/English" (Windows: suele estar en G:\Mi unidad\OpoIndustriales\English o en la letra que use Drive; macOS: ~/Library/CloudStorage/GoogleDrive-*/Mi unidad/OpoIndustriales/English). Si existe, copia su contenido dentro de material/, manteniendo subcarpetas y excluyendo vídeos .mkv/.mp4 y archivos .rar/.zip. Si no tengo Drive para escritorio, sáltate este paso y dímelo al final (sin material no se generan mis 1 552 tarjetas de speaking: bastará con copiar después «speaking top.docx» a material/ y volver a ejecutar npm run local).
 5. Ejecuta npm install, npm test y npm run local. Comprueba que se abre http://localhost:4173, que arriba aparecen los perfiles Fran y Mayka y que en Reading/Use of English/Listening hay ejercicios marcados como "privado" (Sample Paper 1).
 6. Crea en mi escritorio un acceso directo llamado "Inglés C1-SLP" que ejecute iniciar-windows.bat (Windows) o iniciar-mac-linux.command (macOS) de esta carpeta.
 7. Resúmeme en 5 líneas qué has hecho y cómo abrir la app a partir de ahora.

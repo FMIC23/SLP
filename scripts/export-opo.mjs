@@ -5,11 +5,12 @@
  * Compila con VITE_EDITION=opo (perfil «Alumno/a», textos sin ámbito policial).
  * Aparta temporalmente data/private y public/private para que el build no los incluya.
  */
+import { fileURLToPath } from 'node:url';
 import { cpSync, existsSync, readFileSync, renameSync, rmSync, writeFileSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
 import { join, resolve } from 'node:path';
 
-const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const target = resolve(process.argv[2] ?? '../opoindustriales');
 const dest = join(target, 'public', 'ingles');
 if (!existsSync(join(target, 'package.json'))) {

@@ -13,13 +13,14 @@
  *  3. Audios (.mp3/.m4a/.ogg/.wav): los copia a public/private/audio/ y crea
  *     data/private/audio-index.json para reproducirlos en la sección Listening (solo en local).
  *
- * Los .docx se leen con `unzip` (disponible en Linux/macOS). En Windows, exporta el .docx a .txt.
+ * Los .docx se leen directamente (sin herramientas externas), también en Windows.
  */
+import { fileURLToPath } from 'node:url';
 import { readdirSync, statSync, readFileSync, writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 import { join, relative, extname, basename } from 'node:path';
-import { execFileSync } from 'node:child_process';
+import { inflateRawSync } from 'node:zlib';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const MATERIAL = join(ROOT, 'material');
 const PRIVATE = join(ROOT, 'data', 'private');
 const PUBLIC_AUDIO = join(ROOT, 'public', 'private', 'audio');
@@ -102,9 +103,35 @@ export function parseSpeakingNotes(text, sourceName) {
     });
 }
 
+/** Lee una entrada de un ZIP (un .docx lo es) sin herramientas externas: funciona igual en Windows, macOS y Linux. */
+export function readZipEntry(buf, name) {
+  // Directorio central: buscar el registro de fin (EOCD) desde el final
+  let eocd = -1;
+  for (let i = buf.length - 22; i >= Math.max(0, buf.length - 65557); i--) if (buf.readUInt32LE(i) === 0x06054b50) { eocd = i; break; }
+  if (eocd < 0) throw new Error('ZIP no válido');
+  let ptr = buf.readUInt32LE(eocd + 16);
+  const count = buf.readUInt16LE(eocd + 10);
+  for (let n = 0; n < count; n++) {
+    const method = buf.readUInt16LE(ptr + 10);
+    const csize = buf.readUInt32LE(ptr + 20);
+    const nameLen = buf.readUInt16LE(ptr + 28);
+    const extraLen = buf.readUInt16LE(ptr + 30);
+    const commentLen = buf.readUInt16LE(ptr + 32);
+    const local = buf.readUInt32LE(ptr + 42);
+    const entry = buf.toString('utf8', ptr + 46, ptr + 46 + nameLen);
+    if (entry === name) {
+      const start = local + 30 + buf.readUInt16LE(local + 26) + buf.readUInt16LE(local + 28);
+      const data = buf.subarray(start, start + csize);
+      return method === 0 ? data : inflateRawSync(data);
+    }
+    ptr += 46 + nameLen + extraLen + commentLen;
+  }
+  throw new Error(`No existe ${name} en el ZIP`);
+}
+
 function readText(path) {
   if (extname(path).toLowerCase() === '.docx') {
-    const xml = execFileSync('unzip', ['-p', path, 'word/document.xml'], { maxBuffer: 50 * 1024 * 1024 }).toString('utf8');
+    const xml = readZipEntry(readFileSync(path), 'word/document.xml').toString('utf8');
     return xml.replace(/<\/w:p>/g, '\n').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&apos;/g, "'").replace(/&quot;/g, '"');
   }
   return readFileSync(path, 'utf8');
