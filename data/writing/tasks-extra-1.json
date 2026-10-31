@@ -1,0 +1,318 @@
+[
+  {
+    "meta": {
+      "id": "wr-x1-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Cultural heritage",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Protecting historic buildings and traditions",
+    "genre": "essay",
+    "prompt": "Your class has listened to a radio debate about how societies can best protect their cultural heritage for future generations. You have made the notes below. Write an essay discussing TWO of the methods in your notes. You should explain which method you think is more effective, giving reasons in support of your answer. You may, if you wish, make use of the opinions expressed in the debate, but you should use your own words as far as possible.",
+    "notes": [
+      "Methods: public funding for restoration",
+      "Methods: using tourism revenue",
+      "Methods: involving local communities",
+      "Opinion expressed in the debate: \"If the state does not pay, nobody will.\"",
+      "Opinion expressed in the debate: \"Visitors bring money, but they can also destroy what they come to see.\"",
+      "Opinion expressed in the debate: \"Traditions only survive if local people feel they own them.\""
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Introducción breve que parafrasee el tema; después un párrafo por cada uno de los DOS puntos elegidos y una conclusión que diga cuál es más eficaz/importante y por qué.",
+      "Puedes apoyarte en las opiniones de las notas, pero reformúlalas con tus propias palabras.",
+      "Registro neutro-formal: sin contracciones ni coloquialismos; varía los conectores (Admittedly, That said, Consequently).",
+      "Incluye al menos una estructura de rango C1: inversión (Not only... but), cleft sentence (What matters most is...) o condicional mixto."
+    ],
+    "model": "Across Europe, historic town centres, rural chapels and local festivals are under growing pressure from neglect, depopulation and mass tourism. Deciding how best to safeguard this heritage is no simple matter, but two approaches stand out: direct public funding and the active involvement of local communities.\n\nPublic funding has obvious advantages. Restoring a medieval bridge or a crumbling monastery requires specialist craftsmen and considerable sums of money, which private owners are rarely able to provide. Without state support, many monuments would simply be left to decay. Nevertheless, budgets are finite and tend to be concentrated on famous landmarks, while modest buildings and intangible traditions, such as crafts or dialects, receive little attention.\n\nInvolving local communities, by contrast, tackles the problem at its roots. When residents run a village museum, train young people in traditional skills or organise their own festival, heritage becomes part of everyday life rather than a relic behind glass. Admittedly, volunteers lack technical expertise and cannot finance major structural repairs. However, their commitment ensures that buildings are used and traditions passed on, which is ultimately the best protection against abandonment.\n\nOn balance, I would argue that community involvement is the more effective of the two methods. Public money remains essential for large-scale restoration, yet a restored building that nobody cares about will soon decline again. What really keeps heritage alive is a sense of ownership among the people who live with it, and no grant, however generous, can buy that."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-02",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Reducing reoffending",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Helping offenders turn their lives around",
+    "genre": "essay",
+    "prompt": "Your class has attended a seminar on how to reduce reoffending among people who have served a sentence. You have made the notes below. Write an essay discussing TWO of the approaches in your notes. You should explain which approach you think would be more effective, giving reasons in support of your answer. You may, if you wish, make use of the opinions expressed in the seminar, but you should use your own words as far as possible.",
+    "notes": [
+      "Approaches: education and training in prison",
+      "Approaches: community sentences instead of short prison terms",
+      "Approaches: help finding jobs after release",
+      "Opinion expressed in the seminar: \"A qualification is the best passport out of crime.\"",
+      "Opinion expressed in the seminar: \"Short sentences teach people how to become better criminals.\"",
+      "Opinion expressed in the seminar: \"Without a job, ex-prisoners have nowhere to go but back.\""
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Introducción breve que parafrasee el tema; después un párrafo por cada uno de los DOS puntos elegidos y una conclusión que diga cuál es más eficaz/importante y por qué.",
+      "Puedes apoyarte en las opiniones de las notas, pero reformúlalas con tus propias palabras.",
+      "Registro neutro-formal: sin contracciones ni coloquialismos; varía los conectores (Admittedly, That said, Consequently).",
+      "Incluye al menos una estructura de rango C1: inversión (Not only... but), cleft sentence (What matters most is...) o condicional mixto."
+    ],
+    "model": "A significant proportion of people released from prison go on to commit further offences, at enormous cost to victims and society. If this cycle is to be broken, the justice system must look beyond punishment. Two approaches deserve particular consideration: education behind bars and support in finding employment after release.\n\nEducation and vocational training offer prisoners something they often lack entirely: a sense that a different future is possible. Many inmates left school early, and learning to read fluently or gaining a qualification in welding or catering can transform their self-esteem. That said, classes in prison are frequently interrupted by transfers or staff shortages, and a certificate alone does not guarantee that an employer will look past a criminal record.\n\nHelping former offenders into work addresses precisely that obstacle. A stable job provides an income, a daily routine and new social contacts, all of which reduce the temptation to return to old habits. Schemes in which companies commit to interviewing ex-prisoners have shown encouraging results. The difficulty lies in persuading enough employers to take part, particularly when unemployment is already high.\n\nWeighing up both options, I believe employment support is likely to have the greater impact. Training in prison is undoubtedly valuable, but its benefits are largely wasted if newly released offenders cannot put their skills to use. Not only does a job give people a reason to stay out of trouble, but it also reconnects them with the wider community. Ideally, of course, the two measures should work hand in hand."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-03",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Workplace waste reduction",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Report on a factory waste-reduction campaign",
+    "genre": "report",
+    "prompt": "You work at a manufacturing plant that ran a six-month campaign to reduce waste. Your manager has asked you to write a report for the management team. Your report should describe the main measures that were introduced, evaluate how successful they were, and recommend what should be done next.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Usa un título y encabezados claros (Introduction, Measures introduced, Results, Recommendations).",
+      "Registro formal e impersonal: pasivas (It was found that...), sin opiniones personales hasta las recomendaciones.",
+      "Aporta datos concretos y verosímiles (porcentajes, toneladas) para dar credibilidad.",
+      "Recomendaciones con lenguaje de sugerencia: It is recommended that... / ...should be considered."
+    ],
+    "model": "Report on the Waste-Reduction Campaign\n\nIntroduction\nThe aim of this report is to review the waste-reduction campaign carried out at the plant between January and June, to assess its effectiveness and to suggest how progress could be sustained.\n\nMeasures introduced\nThree main initiatives were launched. Firstly, colour-coded bins for metal, plastic, cardboard and general waste were installed on every production line. Secondly, a \"zero scrap\" challenge invited each shift to propose ways of reducing off-cuts. Finally, packaging suppliers were asked to switch to returnable crates.\n\nResults\nOn the whole, the campaign achieved encouraging results. The volume of waste sent to landfill fell by 28%, and income from selling segregated scrap metal increased noticeably. The shift challenge generated over forty suggestions, several of which, such as adjusting cutting patterns on the press, have already been adopted. However, the switch to returnable crates proved less successful, as only two of our six main suppliers agreed to participate. In addition, it was observed that bins in the maintenance workshop were frequently contaminated, which suggests that some staff remain unaware of the sorting rules.\n\nRecommendations\nIn view of these findings, it is recommended that:\n- short refresher sessions on waste segregation be held, particularly for maintenance staff;\n- the shift challenge become a permanent feature, with a small prize for the best idea each quarter;\n- returnable packaging be included as a requirement in future supply contracts.\n\nIf these steps are taken, the plant should be able to reduce its landfill waste by a further 15% within a year."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-04",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Language exchange programme",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Proposal for a language exchange scheme at the town library",
+    "genre": "proposal",
+    "prompt": "Your town library has a small budget to set up a new activity for adults and has invited suggestions from the public. Write a proposal for a language exchange scheme, explaining how it would work, who would benefit from it and how the library could make sure it is a success.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Una propuesta mira al futuro: usa would/could y lenguaje persuasivo, no solo descriptivo.",
+      "Encabezados claros: Aim, How the scheme would work, Benefits, Ensuring success.",
+      "Dirígete al lector (la biblioteca) con un registro formal pero cercano.",
+      "Termina con una frase que anime a aprobar la propuesta."
+    ],
+    "model": "Proposal: \"Talk Swap\" Language Exchange\n\nAim\nThis proposal outlines a low-cost language exchange scheme that would make use of the library's meeting rooms and bring together residents who wish to practise a foreign language.\n\nHow the scheme would work\nParticipants would be paired according to the languages they speak and wish to learn. For example, a Spanish speaker learning English could be matched with a British resident studying Spanish. Each pair would meet once a week for an hour, spending half the time in each language. In addition, a monthly group evening could feature games, films or short talks about participants' home countries.\n\nWho would benefit\nThe scheme would appeal to a wide range of people. Students preparing for exams would gain valuable speaking practice, which is often the skill most neglected in classes. Newcomers to the town, many of whom feel isolated, would have the chance to make friends and learn about local customs. Older residents, too, could keep their minds active while sharing their knowledge of the area.\n\nEnsuring success\nTo get the scheme off the ground, the library would need to publicise it through social media, local schools and community centres. A simple online registration form would help staff match partners efficiently. It would also be advisable to provide each pair with a short guide containing conversation topics and basic ground rules. Finally, collecting feedback after three months would allow any problems to be identified early.\n\nGiven its modest cost and potential to strengthen community ties, I strongly believe this scheme deserves the library's support."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-05",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Rural police presence",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Letter to a newspaper about closing rural police stations",
+    "genre": "letter",
+    "prompt": "A regional newspaper has published an article announcing that several small police stations in rural areas will close and be replaced by mobile patrols. Write a letter to the editor responding to the article, explaining how the closures could affect people in rural areas and suggesting how the authorities could maintain public confidence.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Saludo formal (Dear Sir or Madam / Dear Editor) y menciona el artículo al principio (I am writing in response to...).",
+      "Tono crítico pero razonado: reconoce los argumentos del otro lado antes de rebatirlos.",
+      "Un párrafo por idea (impacto, contrapropuesta) y cierre formal (Yours faithfully).",
+      "Usa vocabulario policial y de servicios públicos con precisión (response times, visibility, community policing)."
+    ],
+    "model": "Dear Editor,\n\nI am writing in response to your article of 14 March, which reported that six rural police stations in the province are to close and be replaced by mobile patrols. While I appreciate that resources are limited, I believe the consequences of this plan have been seriously underestimated.\n\nFor many villages, the local station is far more than a building. It is the place where elderly residents report suspicious callers, where farmers seek advice about livestock theft and where officers come to know the community personally. Mobile patrols, however efficient on paper, cannot replace such contact. Moreover, with stations spread so thinly, response times to remote areas are bound to increase, particularly during the winter months when mountain roads are frequently blocked.\n\nThere is also a risk that residents will interpret the closures as a sign that rural areas no longer matter. Once that perception takes hold, people may become less willing to report crimes or share information, which would undermine the very intelligence on which effective policing depends.\n\nIf the closures do go ahead, I would urge the authorities to take steps to maintain public confidence. Regular drop-in sessions could be held in town halls or health centres, so that residents still have a fixed time and place to meet officers. Publishing response-time figures for each area would also demonstrate that the new system is working.\n\nRural communities deserve the same sense of security as those in our cities, and I hope the decision will be reconsidered.\n\nYours faithfully,\nA concerned resident"
+  },
+  {
+    "meta": {
+      "id": "wr-x1-06",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Industrial heritage museum",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Review of a museum in a former mine",
+    "genre": "review",
+    "prompt": "A travel website has asked readers to send in reviews of museums that explain how things used to be made or produced. Write a review of a museum you have visited in a former industrial site, such as a mine or a factory. Describe what the museum offers, comment on how well it brings the past to life, and say what kind of visitor would enjoy it most.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Título atractivo y un primer párrafo que enganche al lector.",
+      "Combina descripción y valoración; usa adjetivos evaluativos variados (gripping, thought-provoking, somewhat dated).",
+      "Menciona algún punto débil para que la reseña sea creíble.",
+      "Cierra con una recomendación clara y a quién va dirigida."
+    ],
+    "model": "Underground and Unforgettable: The Old Lead Mine Museum\n\nI must admit I expected little more than a few rusty tools in glass cases. Instead, a visit to the former lead mine on the edge of the valley turned out to be one of the most memorable days out I have had in years.\n\nThe experience begins in the old engine house, where a short but gripping film recreates a working day in 1910 through the eyes of a fourteen-year-old miner. From there, visitors put on helmets and follow a former miner down a narrow adit into the original galleries. It is here that the museum really comes into its own. Our guide switched off the lights for a few seconds, and in the absolute darkness we could only imagine what it must have meant to spend twelve hours a day underground.\n\nBack on the surface, the processing hall displays crushers, washing tables and a fully restored winding engine, all explained with clear, well-designed panels. Particularly thought-provoking is a room dedicated to the miners' families, which shows how dust, debt and accidents shaped an entire community.\n\nIf I have one criticism, it is that the café and toilets are somewhat dated, and there is little shelter if it rains while you queue for the tour.\n\nEven so, I would wholeheartedly recommend the museum to anyone interested in history or engineering. Families with older children will find it fascinating, although the underground section is not ideal for those who suffer from claustrophobia."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-07",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Preparing for competitive exams",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Email to a friend thinking about public sector exams",
+    "genre": "email",
+    "prompt": "You have received this email from an English-speaking friend: \"I'm thinking of quitting my job to study full-time for a public sector exam, like you did. Was it worth it? How did you organise your studying, and is there anything you would do differently?\" Write your email in reply.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Registro informal-neutro: contracciones, phrasal verbs y expresiones naturales, pero con rango C1.",
+      "Responde a las TRES preguntas del amigo de forma clara.",
+      "Saludo y despedida informales (Hi Sam, / All the best,).",
+      "Muestra rango con estructuras como If I had known..., I wish I had..., What helped most was..."
+    ],
+    "model": "Hi Sam,\n\nGreat to hear from you, and what big news! Since you asked, I'll tell you honestly how it went for me.\n\nWas it worth it? In the end, absolutely, but I won't pretend it was easy. Giving up my salary was a huge risk, and there were weeks when I seriously doubted whether I'd made the right decision. What kept me going was knowing exactly why I was doing it: I wanted a job with stability and a real sense of purpose, and I've definitely found both.\n\nAs for organising my studying, I treated it like a full-time job. I'd start at eight, break for lunch and finish around six, with weekends mostly off. I divided the syllabus into weekly blocks and kept a simple spreadsheet to track which topics I'd revised and how many times. I also joined a study group that met once a week, which was a lifesaver whenever my motivation dipped. Don't underestimate the physical test, either; I trained four times a week.\n\nIf I could do it again, I'd change two things. First, I'd start doing past-style practice tests much earlier, rather than waiting until I'd \"finished\" the syllabus. Second, I wish I'd looked after myself better. I barely saw my friends for months, and I'm convinced that a bit more balance would have made me more productive, not less.\n\nSo my advice is: go for it, but make sure you've got some savings and a clear plan first. Let me know what you decide!\n\nAll the best,\nAlex"
+  },
+  {
+    "meta": {
+      "id": "wr-x1-08",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Hydrogen leak incident",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Incident report: hydrogen leak at an electrolyser pilot plant",
+    "genre": "technical-report",
+    "prompt": "You are the safety engineer at a pilot plant producing hydrogen by electrolysis. Last week a hydrogen leak was detected in the compressor building, and the plant was shut down for 36 hours. Write a technical report for the plant director describing what happened, the immediate response, the causes identified, and the corrective actions you recommend.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "Estructura con encabezados numerados: 1. Summary, 2. Description of the incident, 3. Immediate response, 4. Root causes, 5. Recommendations.",
+      "Estilo objetivo y preciso: pasiva, fechas y horas, cifras técnicas (ppm, % LEL, bar).",
+      "Distingue causas inmediatas y causas raíz (root cause).",
+      "Recomendaciones concretas, con responsable y plazo si es posible."
+    ],
+    "model": "INCIDENT REPORT - Hydrogen leak, Compressor Building\nRef. HSE-2026-014\n\n1. Summary\nOn 12 October at 14:20, a hydrogen leak was detected in the compressor building of the electrolyser pilot plant. No one was injured and there was no ignition. The plant was shut down for 36 hours while the cause was investigated and repaired.\n\n2. Description of the incident\nDuring routine operation at 30 bar, the fixed gas detector above compressor C-2 registered 15% of the lower explosive limit (LEL), triggering a high-level alarm. Within two minutes the reading had risen to 25% LEL, which automatically activated the emergency shutdown system.\n\n3. Immediate response\nThe emergency shutdown isolated the electrolyser stacks, stopped both compressors and opened the vent valves to the stack. Forced ventilation in the building switched to maximum speed. The control room operator sounded the evacuation alarm, and all six personnel on site gathered at the assembly point. Once readings had fallen below 1% LEL, two technicians equipped with portable detectors entered the building and located the leak at a compression fitting on the discharge line of C-2.\n\n4. Root causes\nThe immediate cause was a loosened compression fitting. The investigation found that the fitting had been disturbed during maintenance three days earlier but had not been leak-tested before restart. The underlying causes were:\n- the absence of a mandatory leak test step in the maintenance procedure for hydrogen lines;\n- vibration from C-2 exceeding the recommended limit, which accelerated the loosening of the fitting.\n\n5. Recommendations\n- Amend the maintenance procedure to require a documented helium leak test after any intervention on hydrogen lines (Maintenance Manager, within two weeks).\n- Install vibration dampers on C-2 and add the compressor to the vibration monitoring programme (Engineering, within one month).\n- Replace compression fittings in high-vibration areas with welded connections where feasible (next planned shutdown).\n- Brief all maintenance staff on the lessons learned from this incident."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-09",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Battery storage investment",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Executive summary: battery storage for a manufacturing site",
+    "genre": "executive-summary",
+    "prompt": "Your company is considering installing a battery energy storage system at its main factory, which already has rooftop solar panels. A consultancy has produced a 40-page study. Write an executive summary for the board of directors presenting the purpose of the study, the main findings, the risks and a clear recommendation.",
+    "minWords": 200,
+    "maxWords": 280,
+    "timeMinutes": 45,
+    "tips": [
+      "Un resumen ejecutivo debe entenderse sin leer el informe completo: propósito, hallazgos clave, riesgos, recomendación.",
+      "Frases claras y densas en información; cifras redondas y comparables (inversión, ahorro, periodo de retorno).",
+      "Puedes usar viñetas para los hallazgos, pero redacta el resto en prosa.",
+      "La recomendación debe ser explícita (We recommend that the board approve...)."
+    ],
+    "model": "EXECUTIVE SUMMARY\nBattery Energy Storage System (BESS) - Main Factory\n\nPurpose\nThis summary presents the findings of a feasibility study into installing a battery storage system at the main factory. The aim was to determine whether storage would reduce energy costs and improve supply resilience, given that a large share of the output from our rooftop solar panels is currently exported to the grid at low prices.\n\nKey findings\n- A 2 MW / 4 MWh lithium iron phosphate system would allow the factory to store surplus solar generation and use it during evening shifts.\n- Combined with peak shaving, this would cut annual electricity costs by approximately €410,000.\n- The total investment is estimated at €2.3 million, giving a simple payback period of around five and a half years.\n- The system could keep critical production lines running for up to two hours during a power outage.\n\nRisks\nThe main risks are faster-than-expected battery degradation, changes to grid tariffs that reduce the value of peak shaving, and fire risk associated with thermal runaway. The study concludes that these can be managed through a performance warranty, conservative financial assumptions and installation in a separate, fire-rated enclosure with automatic suppression.\n\nRecommendation\nWe recommend that the board approve the project and authorise the procurement team to issue a call for tenders in the first quarter of next year, with commissioning planned before the end of the year."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-10",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "CBRN training cooperation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Email requesting places on a CBRN course abroad",
+    "genre": "formal-email",
+    "prompt": "Your unit wants to send two officers on a CBRN (chemical, biological, radiological and nuclear) first-responder course run by a police training academy in another European country. Write a formal email to the course coordinator introducing your unit, explaining why the training is needed, requesting two places and asking for practical information.",
+    "minWords": 180,
+    "maxWords": 250,
+    "timeMinutes": 40,
+    "tips": [
+      "Asunto concreto (Subject:) y saludo formal (Dear Ms/Mr + apellido, o Dear Course Coordinator).",
+      "Párrafos: presentación de la unidad, justificación de la necesidad, petición, preguntas prácticas, cierre.",
+      "Peticiones indirectas y corteses: I would be grateful if..., Could you also let me know...?",
+      "Cierre con disponibilidad para facilitar documentación y firma con cargo y unidad."
+    ],
+    "model": "Subject: Request for two places - CBRN First Responder Course (spring intake)\n\nDear Course Coordinator,\n\nI am writing on behalf of the Rapid Response Unit of the provincial police command, which is responsible for the initial response to serious incidents across an area that includes a major chemical port and several industrial estates.\n\nFollowing a regional risk assessment carried out this year, it was concluded that our unit needs to strengthen its capability to deal with incidents involving hazardous substances. At present, only one of our officers holds an advanced CBRN qualification, and we would like to build up a small team able to manage the first critical minutes of such an incident and to train colleagues in turn.\n\nHaving learned of your First Responder Course through our international cooperation office, I would be grateful if you could consider allocating two places to our officers for the spring intake. Both officers have a good command of English and have completed basic hazmat awareness training.\n\nCould you also let me know:\n- the exact dates and the deadline for registration;\n- the course fee and what it covers, including accommodation;\n- any medical or equipment requirements for participants.\n\nWe would be happy to provide any documentation you may require. Thank you for considering this request, and I look forward to hearing from you.\n\nYours sincerely,\n\nInspector R. Navarro\nTraining Coordinator, Rapid Response Unit"
+  },
+  {
+    "meta": {
+      "id": "wr-x1-11",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Body-worn cameras",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Position paper: body-worn cameras for patrol officers",
+    "genre": "slp-memo",
+    "prompt": "Your command is considering issuing body-worn cameras to all patrol officers. You have been asked to write a position paper for senior management. State your position, present the arguments for and against, and make recommendations on how the cameras should be introduced if the decision is taken to go ahead.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "Formato de memorando: To / From / Date / Subject, y encabezados (Background, Position, Arguments, Recommendations).",
+      "Expón tu postura desde el principio y defiéndela con argumentos equilibrados.",
+      "Lenguaje formal propio de la administración: It is my considered view that..., On balance..., It should be noted that...",
+      "Recomendaciones prácticas y numeradas (fases, formación, protección de datos)."
+    ],
+    "model": "MEMORANDUM\n\nTo: Chief Superintendent, Operations\nFrom: Sergeant, Patrol Division\nDate: 3 November\nSubject: Position paper - introduction of body-worn cameras\n\n1. Background\nSenior management is considering equipping all patrol officers with body-worn cameras. This paper sets out my position and the main arguments, and recommends how the measure could be implemented.\n\n2. Position\nIt is my considered view that body-worn cameras should be introduced, provided that clear rules on their use and on data protection are established beforehand.\n\n3. Arguments in favour\nFirstly, recordings provide objective evidence of incidents, which strengthens prosecutions and reduces the time officers spend writing detailed statements. Secondly, experience in other forces suggests that complaints against officers fall significantly when cameras are worn, as both officers and members of the public tend to behave more calmly when they know they are being recorded. Finally, footage is a valuable training tool for reviewing how difficult situations were handled.\n\n4. Arguments against\nOn the other hand, the cost of the devices, secure storage and administrative staff is considerable. There are also legitimate privacy concerns, particularly when officers enter private homes or deal with victims. Some officers fear that footage will be used to scrutinise minor mistakes rather than to support them.\n\n5. Recommendations\n5.1 Begin with a six-month pilot in two districts, evaluating complaints, evidence quality and costs.\n5.2 Draft a clear protocol stating when recording is mandatory, when it may be stopped and how long footage is retained.\n5.3 Consult the data protection officer and staff associations before the pilot begins.\n5.4 Provide practical training for all officers, including how to inform citizens that they are being recorded.\n\nOn balance, the benefits for transparency and evidence gathering clearly outweigh the drawbacks, as long as the cameras are introduced gradually and with the confidence of the officers who will wear them."
+  },
+  {
+    "meta": {
+      "id": "wr-x1-12",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Flexible working in the public sector",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Position paper: flexible working in a public agency",
+    "genre": "slp-memo",
+    "prompt": "The public agency where you work is reviewing its working arrangements. Management is considering allowing administrative staff to work from home two days a week and to choose flexible start and finish times. Write a position paper for the director stating your position, analysing the advantages and disadvantages, and making recommendations.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "Encabezado de memorando y secciones numeradas.",
+      "Deja clara tu postura al principio y retómala en la conclusión.",
+      "Considera distintos grupos afectados: personal, ciudadanos, dirección.",
+      "Usa lenguaje de cautela y matiz: It could be argued that..., There is a risk that..., subject to..."
+    ],
+    "model": "MEMORANDUM\n\nTo: Director\nFrom: Head of Administrative Services\nDate: 18 November\nSubject: Position paper - flexible working arrangements\n\n1. Purpose\nThis paper considers the proposal to allow administrative staff to work from home two days a week and to choose flexible start and finish times. It sets out my position, analyses the main advantages and disadvantages and makes recommendations.\n\n2. Position\nI support the proposal, subject to safeguards that guarantee the quality of service to the public.\n\n3. Advantages\nFlexible arrangements would make the agency a more attractive employer at a time when it is increasingly difficult to recruit qualified staff. Staff with caring responsibilities, in particular, would be able to balance work and family life more easily, which is likely to reduce absenteeism. In addition, fewer people commuting at peak times would cut travel costs and emissions, and part of the office space could eventually be released.\n\n4. Disadvantages\nThere is a risk that citizens may find it harder to obtain an answer if fewer staff are physically present. Communication within teams may also suffer, and new employees could miss out on the informal learning that takes place in the office. Furthermore, not all posts are suitable for remote work, which may create a sense of unfairness among those who must remain on site.\n\n5. Recommendations\n5.1 Introduce the scheme as a one-year trial, reviewed after six months.\n5.2 Establish core hours, for example from 9:30 to 13:30, during which all staff must be available.\n5.3 Guarantee a minimum number of staff in public-facing units at all times through a shared rota.\n5.4 Provide secure laptops and clear guidance on data protection when working from home.\n5.5 Measure performance through objective indicators, such as response times, rather than hours spent at a desk.\n\nIn conclusion, a carefully managed scheme would benefit both staff and the agency, provided that the needs of the public remain the overriding priority."
+  }
+]

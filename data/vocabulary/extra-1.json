@@ -1,0 +1,4124 @@
+[
+  {
+    "meta": {
+      "id": "voc-x1-elec",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "electrical engineering",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Electrical engineering & substations",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-elec-001",
+        "front": "transformer",
+        "back": "transformador",
+        "example": "The step-up transformer raises the generator output to 220 kV before it leaves the site.",
+        "note": "“Step-up / step-down transformer” = transformador elevador / reductor."
+      },
+      {
+        "id": "voc-x1-elec-002",
+        "front": "switchgear",
+        "back": "aparamenta eléctrica",
+        "example": "All the medium-voltage switchgear was replaced during the plant shutdown.",
+        "note": "Sustantivo incontable: “a switchgear panel”, nunca “a switchgear”."
+      },
+      {
+        "id": "voc-x1-elec-003",
+        "front": "circuit breaker",
+        "back": "interruptor automático (disyuntor)",
+        "example": "The circuit breaker opened within milliseconds, clearing the fault before the cables overheated.",
+        "note": "En baja tensión también se oye “MCB” (miniature circuit breaker)."
+      },
+      {
+        "id": "voc-x1-elec-004",
+        "front": "busbar",
+        "back": "embarrado / barra colectora",
+        "example": "A loose bolted joint on the busbar was detected during the thermographic survey.",
+        "note": "Se escribe junto; “busbar section” = tramo de embarrado."
+      },
+      {
+        "id": "voc-x1-elec-005",
+        "front": "disconnector / isolator",
+        "back": "seccionador",
+        "example": "The disconnector may only be operated once the circuit breaker has been opened.",
+        "note": "El seccionador NO corta carga; por eso la secuencia de maniobra importa."
+      },
+      {
+        "id": "voc-x1-elec-006",
+        "front": "earthing (BrE) / grounding (AmE)",
+        "back": "puesta a tierra",
+        "example": "Temporary earthing must be applied before anyone touches the conductors.",
+        "note": "En inglés británico se dice “earth”; “ground” es americano."
+      },
+      {
+        "id": "voc-x1-elec-007",
+        "front": "short circuit",
+        "back": "cortocircuito",
+        "example": "A rodent caused a short circuit that took the entire feeder out of service.",
+        "note": "Verbo: “to short-circuit”. “Short-circuit current” = intensidad de cortocircuito."
+      },
+      {
+        "id": "voc-x1-elec-008",
+        "front": "overcurrent protection",
+        "back": "protección contra sobreintensidades",
+        "example": "The overcurrent protection settings had not been reviewed since the new motors were installed.",
+        "note": "“Overload” = sobrecarga (más lenta); “overcurrent” es el término genérico."
+      },
+      {
+        "id": "voc-x1-elec-009",
+        "front": "protection relay",
+        "back": "relé de protección",
+        "example": "A faulty protection relay sent a spurious trip signal to the main breaker.",
+        "note": "“Relay coordination / selectivity” = selectividad de protecciones."
+      },
+      {
+        "id": "voc-x1-elec-010",
+        "front": "high / medium / low voltage (HV / MV / LV)",
+        "back": "alta / media / baja tensión (AT / MT / BT)",
+        "example": "Only authorised persons may enter the high-voltage compound.",
+        "note": "En inglés técnico “voltage”, no “tension”, salvo en mecánica (tensión de un cable o correa)."
+      },
+      {
+        "id": "voc-x1-elec-011",
+        "front": "three-phase supply",
+        "back": "suministro trifásico",
+        "example": "The workshop needs a three-phase supply to run the new lathe.",
+        "note": "“Single-phase” = monofásico. “Phase-to-phase voltage” = tensión entre fases."
+      },
+      {
+        "id": "voc-x1-elec-012",
+        "front": "reactive power",
+        "back": "potencia reactiva",
+        "example": "Large induction motors draw considerable reactive power from the network.",
+        "note": "Se mide en kvar; potencia activa (kW) y aparente (kVA)."
+      },
+      {
+        "id": "voc-x1-elec-013",
+        "front": "power factor correction",
+        "back": "corrección del factor de potencia",
+        "example": "Installing a capacitor bank for power factor correction cut the penalty on our electricity bill.",
+        "note": "“Capacitor bank” = batería de condensadores."
+      },
+      {
+        "id": "voc-x1-elec-014",
+        "front": "harmonics",
+        "back": "armónicos",
+        "example": "Variable-speed drives introduce harmonics that can overheat neutral conductors.",
+        "note": "Casi siempre en plural. “Harmonic distortion (THD)” = distorsión armónica."
+      },
+      {
+        "id": "voc-x1-elec-015",
+        "front": "arc flash",
+        "back": "arco eléctrico (destello por arco)",
+        "example": "Technicians must wear arc-flash-rated clothing when racking out breakers.",
+        "note": "“Arc flash boundary” = distancia de protección frente a arco."
+      },
+      {
+        "id": "voc-x1-elec-016",
+        "front": "to trip",
+        "back": "dispararse / saltar (una protección)",
+        "example": "The breaker tripped twice in an hour, so we isolated the circuit for investigation.",
+        "note": "También sustantivo: “a nuisance trip” = disparo intempestivo."
+      },
+      {
+        "id": "voc-x1-elec-017",
+        "front": "to energise / to de-energise",
+        "back": "poner en tensión / dejar sin tensión",
+        "example": "The line will not be re-energised until the crew has confirmed it is clear.",
+        "note": "Ortografía británica con -ise; “de-energised” lleva guion."
+      },
+      {
+        "id": "voc-x1-elec-018",
+        "front": "live (conductor)",
+        "back": "en tensión / con corriente",
+        "example": "Never assume a cable is dead: test it as if it were live.",
+        "note": "Pronunciación /laɪv/. Opuesto: “dead”. “Live working” = trabajos en tensión."
+      },
+      {
+        "id": "voc-x1-elec-019",
+        "front": "insulation resistance test",
+        "back": "prueba de resistencia de aislamiento",
+        "example": "The motor failed the insulation resistance test after the flood.",
+        "note": "Coloquialmente “megger test”, por la marca del instrumento."
+      },
+      {
+        "id": "voc-x1-elec-020",
+        "front": "cable tray",
+        "back": "bandeja portacables",
+        "example": "Power and control cables should run in separate cable trays to avoid interference.",
+        "note": "“Cable gland” = prensaestopas; “conduit” = tubo protector."
+      },
+      {
+        "id": "voc-x1-elec-021",
+        "front": "switchboard / distribution board",
+        "back": "cuadro eléctrico / cuadro de distribución",
+        "example": "Each production line is fed from its own distribution board.",
+        "note": "En el hogar británico: “consumer unit” (cuadro general)."
+      },
+      {
+        "id": "voc-x1-elec-022",
+        "front": "uninterruptible power supply (UPS)",
+        "back": "sistema de alimentación ininterrumpida (SAI)",
+        "example": "The control room servers are backed by a UPS rated for twenty minutes.",
+        "note": "Falso amigo de siglas: SAI en español, UPS en inglés."
+      },
+      {
+        "id": "voc-x1-elec-023",
+        "front": "standby generator",
+        "back": "grupo electrógeno de emergencia",
+        "example": "The standby generator kicked in seconds after the mains supply failed.",
+        "note": "“Mains” = red (suministro de la compañía); “genset” es coloquial."
+      },
+      {
+        "id": "voc-x1-elec-024",
+        "front": "voltage drop",
+        "back": "caída de tensión",
+        "example": "The long cable run caused an unacceptable voltage drop at the pump motor.",
+        "note": "Se calcula al dimensionar cables; no confundir con “voltage dip” (hueco de tensión)."
+      },
+      {
+        "id": "voc-x1-elec-025",
+        "front": "overhead line",
+        "back": "línea aérea",
+        "example": "Storm damage to the overhead line left three villages without power.",
+        "note": "Opuesto: “underground cable”. “Pylon” = torre de alta tensión."
+      },
+      {
+        "id": "voc-x1-elec-026",
+        "front": "single-line diagram (SLD)",
+        "back": "esquema unifilar",
+        "example": "Update the single-line diagram before you hand over the modified installation.",
+        "note": "También “one-line diagram” en inglés americano."
+      },
+      {
+        "id": "voc-x1-elec-027",
+        "front": "current transformer (CT)",
+        "back": "transformador de intensidad (TI)",
+        "example": "The current transformer feeds the metering and protection circuits.",
+        "note": "Ojo: “current” = intensidad/corriente. El de tensión es “voltage transformer (VT)”."
+      },
+      {
+        "id": "voc-x1-elec-028",
+        "front": "residual current device (RCD)",
+        "back": "interruptor diferencial",
+        "example": "The RCD tripped as soon as the damaged extension lead was plugged in.",
+        "note": "En EE. UU. se dice “GFCI”. Protege a las personas, no a los cables."
+      },
+      {
+        "id": "voc-x1-elec-029",
+        "front": "fault level",
+        "back": "potencia / nivel de cortocircuito",
+        "example": "The new connection raised the fault level beyond the rating of the existing switchgear.",
+        "note": "Se expresa en MVA o kA; clave al seleccionar aparamenta."
+      },
+      {
+        "id": "voc-x1-elec-030",
+        "front": "load shedding",
+        "back": "deslastre de cargas",
+        "example": "Automatic load shedding disconnected non-essential consumers to keep the island network stable.",
+        "note": "También se usa para los cortes programados en países con déficit de generación."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-mech",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "mechanical maintenance",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Mechanical engineering & maintenance",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-mech-001",
+        "front": "bearing",
+        "back": "rodamiento / cojinete",
+        "example": "A worn bearing was the source of the high-pitched noise in the fan.",
+        "note": "“Ball bearing” = rodamiento de bolas; “plain bearing” = cojinete de fricción."
+      },
+      {
+        "id": "voc-x1-mech-002",
+        "front": "shaft (rotating)",
+        "back": "eje (de transmisión)",
+        "example": "The pump shaft had snapped just behind the impeller.",
+        "note": "“Axle” es el eje de un vehículo; “shaft” el de una máquina rotativa."
+      },
+      {
+        "id": "voc-x1-mech-003",
+        "front": "gearbox",
+        "back": "caja de engranajes / reductora",
+        "example": "Oil analysis revealed metal particles in the gearbox.",
+        "note": "“Gear ratio” = relación de transmisión."
+      },
+      {
+        "id": "voc-x1-mech-004",
+        "front": "coupling",
+        "back": "acoplamiento",
+        "example": "A flexible coupling absorbs small misalignments between the motor and the pump.",
+        "note": "No confundir con “clutch” (embrague)."
+      },
+      {
+        "id": "voc-x1-mech-005",
+        "front": "misalignment",
+        "back": "desalineación",
+        "example": "Shaft misalignment is one of the commonest causes of premature bearing failure.",
+        "note": "Verbo: “to align”; “laser alignment” = alineación láser."
+      },
+      {
+        "id": "voc-x1-mech-006",
+        "front": "to lubricate / lubrication",
+        "back": "lubricar / lubricación",
+        "example": "Over-lubricating a bearing can be just as harmful as neglecting it.",
+        "note": "“Grease” = grasa; “to grease” = engrasar."
+      },
+      {
+        "id": "voc-x1-mech-007",
+        "front": "vibration analysis",
+        "back": "análisis de vibraciones",
+        "example": "Vibration analysis flagged an imbalance weeks before the fan would have failed.",
+        "note": "Herramienta típica del mantenimiento predictivo."
+      },
+      {
+        "id": "voc-x1-mech-008",
+        "front": "condition monitoring",
+        "back": "monitorización del estado (mantenimiento basado en la condición)",
+        "example": "Condition monitoring allows us to intervene only when the data justify it.",
+        "note": "Abarca vibraciones, termografía, análisis de aceite, ultrasonidos..."
+      },
+      {
+        "id": "voc-x1-mech-009",
+        "front": "predictive maintenance",
+        "back": "mantenimiento predictivo",
+        "example": "Predictive maintenance has cut unplanned stoppages by almost a third.",
+        "note": "Frente a “preventive” (por calendario) y “corrective” (tras el fallo)."
+      },
+      {
+        "id": "voc-x1-mech-010",
+        "front": "corrective / breakdown maintenance",
+        "back": "mantenimiento correctivo",
+        "example": "Too much of the budget still goes on breakdown maintenance.",
+        "note": "“Reactive maintenance” es sinónimo, con matiz negativo."
+      },
+      {
+        "id": "voc-x1-mech-011",
+        "front": "mean time between failures (MTBF)",
+        "back": "tiempo medio entre fallos",
+        "example": "Upgrading the seals doubled the MTBF of the slurry pumps.",
+        "note": "Indicador de fiabilidad; se pronuncia letra a letra."
+      },
+      {
+        "id": "voc-x1-mech-012",
+        "front": "mean time to repair (MTTR)",
+        "back": "tiempo medio de reparación",
+        "example": "Keeping critical spares on site has reduced our MTTR considerably.",
+        "note": "Indicador de mantenibilidad; complementa al MTBF."
+      },
+      {
+        "id": "voc-x1-mech-013",
+        "front": "spare parts / spares",
+        "back": "repuestos / recambios",
+        "example": "We hold critical spares for any item with a long lead time.",
+        "note": "“Spares” a secas es habitual en el taller."
+      },
+      {
+        "id": "voc-x1-mech-014",
+        "front": "seal / gasket",
+        "back": "cierre / junta",
+        "example": "The mechanical seal was leaking, so the pump was taken out of service.",
+        "note": "“Gasket” es junta estática (bridas); “seal” suele ser dinámica (ejes)."
+      },
+      {
+        "id": "voc-x1-mech-015",
+        "front": "metal fatigue",
+        "back": "fatiga del material",
+        "example": "Investigators traced the crack to metal fatigue at a weld toe.",
+        "note": "“Fatigue crack” = grieta por fatiga; “fatigue life” = vida a fatiga."
+      },
+      {
+        "id": "voc-x1-mech-016",
+        "front": "to seize up",
+        "back": "griparse / agarrotarse",
+        "example": "Without oil, the compressor seized up within minutes.",
+        "note": "Phrasal verb intransitivo: “the engine seized (up)”."
+      },
+      {
+        "id": "voc-x1-mech-017",
+        "front": "torque",
+        "back": "par (motor o de apriete)",
+        "example": "Flange bolts must be tightened to the torque specified by the manufacturer.",
+        "note": "“Torque wrench” = llave dinamométrica."
+      },
+      {
+        "id": "voc-x1-mech-018",
+        "front": "cavitation",
+        "back": "cavitación",
+        "example": "Cavitation had pitted the impeller because the suction pressure was too low.",
+        "note": "Suele asociarse a un NPSH disponible insuficiente."
+      },
+      {
+        "id": "voc-x1-mech-019",
+        "front": "thermography / thermal imaging",
+        "back": "termografía",
+        "example": "A thermal imaging survey revealed an overheating coupling.",
+        "note": "“Thermal camera” = cámara termográfica."
+      },
+      {
+        "id": "voc-x1-mech-020",
+        "front": "work order",
+        "back": "orden de trabajo",
+        "example": "No job should start without an approved work order.",
+        "note": "Abreviado “WO”. “To raise a work order” = emitir una OT."
+      },
+      {
+        "id": "voc-x1-mech-021",
+        "front": "computerised maintenance management system (CMMS)",
+        "back": "sistema de gestión del mantenimiento asistido por ordenador (GMAO)",
+        "example": "Every intervention must be logged in the CMMS to build a reliable history.",
+        "note": "Ortografía británica “computerised”."
+      },
+      {
+        "id": "voc-x1-mech-022",
+        "front": "overhaul",
+        "back": "revisión general / reacondicionamiento",
+        "example": "The turbine is due for a major overhaul next spring.",
+        "note": "También verbo: “to overhaul a gearbox”. Sentido figurado: reformar a fondo."
+      },
+      {
+        "id": "voc-x1-mech-023",
+        "front": "to strip down / to dismantle",
+        "back": "desmontar (por completo)",
+        "example": "The fitters stripped down the valve to inspect the seat.",
+        "note": "“To reassemble” = volver a montar."
+      },
+      {
+        "id": "voc-x1-mech-024",
+        "front": "corrosion",
+        "back": "corrosión",
+        "example": "Chloride-induced corrosion had weakened the supports near the cooling tower.",
+        "note": "Verbo “to corrode”; adjetivo “corrosive”. “Rust” = óxido (solo en hierro/acero)."
+      },
+      {
+        "id": "voc-x1-mech-025",
+        "front": "backlash (in gears)",
+        "back": "holgura / juego (entre dientes)",
+        "example": "Excessive backlash in the gear train caused positioning errors.",
+        "note": "En sentido general “backlash” = reacción negativa (p. ej. del público)."
+      },
+      {
+        "id": "voc-x1-mech-026",
+        "front": "fitter",
+        "back": "mecánico ajustador / técnico de mantenimiento mecánico",
+        "example": "Two fitters and an electrician were assigned to the shutdown.",
+        "note": "No es “montador de muebles”; es oficio industrial."
+      },
+      {
+        "id": "voc-x1-mech-027",
+        "front": "compressor",
+        "back": "compresor",
+        "example": "The air compressor runs continuously because of leaks in the network.",
+        "note": "“Compressed air leaks” = fugas de aire comprimido, gran fuente de derroche."
+      },
+      {
+        "id": "voc-x1-mech-028",
+        "front": "hydraulic cylinder",
+        "back": "cilindro hidráulico",
+        "example": "A damaged rod seal let oil escape from the hydraulic cylinder.",
+        "note": "“Hydraulic fluid” = aceite hidráulico; “ram” es sinónimo coloquial."
+      },
+      {
+        "id": "voc-x1-mech-029",
+        "front": "reliability-centred maintenance (RCM)",
+        "back": "mantenimiento centrado en la fiabilidad",
+        "example": "An RCM study helped us decide which assets deserve predictive techniques.",
+        "note": "Ortografía británica “centred”."
+      },
+      {
+        "id": "voc-x1-mech-030",
+        "front": "run-to-failure",
+        "back": "funcionamiento hasta el fallo",
+        "example": "For cheap, non-critical lamps a run-to-failure strategy is perfectly acceptable.",
+        "note": "Estrategia deliberada, no negligencia: se usa como adjetivo compuesto."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-procsafety",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "process safety",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Chemical & process safety (HAZOP, SEVESO)",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-procsafety-001",
+        "front": "HAZOP (hazard and operability study)",
+        "back": "estudio HAZOP (análisis funcional de operatividad)",
+        "example": "The HAZOP team spent two days reviewing the new reactor feed system.",
+        "note": "Se dice “to carry out / hold a HAZOP”. Se pronuncia /ˈhæzɒp/."
+      },
+      {
+        "id": "voc-x1-procsafety-002",
+        "front": "guide word",
+        "back": "palabra guía",
+        "example": "Applying the guide word “reverse” revealed that backflow was possible.",
+        "note": "Ejemplos: no, more, less, reverse, other than, as well as."
+      },
+      {
+        "id": "voc-x1-procsafety-003",
+        "front": "deviation",
+        "back": "desviación",
+        "example": "Each deviation is analysed for its causes, consequences and existing safeguards.",
+        "note": "Deviation = guide word + parámetro (p. ej. “more pressure”)."
+      },
+      {
+        "id": "voc-x1-procsafety-004",
+        "front": "node (in a HAZOP)",
+        "back": "nodo",
+        "example": "We divided the distillation unit into eight nodes.",
+        "note": "Sección del proceso analizada de forma independiente."
+      },
+      {
+        "id": "voc-x1-procsafety-005",
+        "front": "Seveso Directive",
+        "back": "Directiva Seveso",
+        "example": "The site falls under the Seveso Directive because of the quantity of chlorine stored.",
+        "note": "En España se transpone mediante el reglamento de accidentes graves."
+      },
+      {
+        "id": "voc-x1-procsafety-006",
+        "front": "major-accident hazard",
+        "back": "riesgo de accidente grave",
+        "example": "Operators must demonstrate that all major-accident hazards have been identified.",
+        "note": "Expresión clave en la normativa Seveso."
+      },
+      {
+        "id": "voc-x1-procsafety-007",
+        "front": "upper-tier / lower-tier establishment",
+        "back": "establecimiento de nivel superior / inferior",
+        "example": "As an upper-tier establishment, the refinery must submit a full safety report.",
+        "note": "Depende de las cantidades umbral de sustancias peligrosas."
+      },
+      {
+        "id": "voc-x1-procsafety-008",
+        "front": "safety report",
+        "back": "informe de seguridad",
+        "example": "The safety report must be reviewed at least every five years.",
+        "note": "Documento formal exigido a establecimientos de nivel superior."
+      },
+      {
+        "id": "voc-x1-procsafety-009",
+        "front": "internal / external emergency plan",
+        "back": "plan de emergencia interior / exterior",
+        "example": "The external emergency plan is drawn up by the civil protection authorities.",
+        "note": "El interior lo elabora la empresa; el exterior, la administración."
+      },
+      {
+        "id": "voc-x1-procsafety-010",
+        "front": "layer of protection analysis (LOPA)",
+        "back": "análisis de capas de protección (LOPA)",
+        "example": "LOPA showed that an additional independent safeguard was required.",
+        "note": "Método semicuantitativo que suele seguir al HAZOP."
+      },
+      {
+        "id": "voc-x1-procsafety-011",
+        "front": "safety instrumented system (SIS)",
+        "back": "sistema instrumentado de seguridad",
+        "example": "The SIS will close the feed valve if the temperature exceeds the trip setting.",
+        "note": "Independiente del sistema de control básico (BPCS)."
+      },
+      {
+        "id": "voc-x1-procsafety-012",
+        "front": "safety integrity level (SIL)",
+        "back": "nivel de integridad de seguridad",
+        "example": "The high-pressure trip was assigned SIL 2.",
+        "note": "Escala de 1 a 4 según IEC 61508/61511."
+      },
+      {
+        "id": "voc-x1-procsafety-013",
+        "front": "emergency shutdown (ESD)",
+        "back": "parada de emergencia",
+        "example": "Operators initiated an emergency shutdown when the gas alarm sounded.",
+        "note": "También “ESD valve” = válvula de corte de emergencia."
+      },
+      {
+        "id": "voc-x1-procsafety-014",
+        "front": "runaway reaction",
+        "back": "reacción descontrolada (fuera de control)",
+        "example": "Loss of cooling can trigger a runaway reaction in an exothermic batch.",
+        "note": "Adjetivo “runaway” también en “runaway inflation”."
+      },
+      {
+        "id": "voc-x1-procsafety-015",
+        "front": "flash point",
+        "back": "punto de inflamación",
+        "example": "Solvents with a low flash point must be stored away from ignition sources.",
+        "note": "No confundir con “autoignition temperature” (temperatura de autoignición)."
+      },
+      {
+        "id": "voc-x1-procsafety-016",
+        "front": "lower explosive limit (LEL)",
+        "back": "límite inferior de explosividad (LIE)",
+        "example": "The gas detector alarms at 10% of the LEL.",
+        "note": "También “lower flammable limit (LFL)”."
+      },
+      {
+        "id": "voc-x1-procsafety-017",
+        "front": "loss of containment",
+        "back": "pérdida de contención",
+        "example": "Most major accidents begin with a loss of containment.",
+        "note": "Término genérico para fugas, derrames o roturas."
+      },
+      {
+        "id": "voc-x1-procsafety-018",
+        "front": "BLEVE (boiling liquid expanding vapour explosion)",
+        "back": "BLEVE (explosión de vapor en expansión de líquido en ebullición)",
+        "example": "Firefighters kept the LPG tank cool to prevent a BLEVE.",
+        "note": "Se pronuncia /ˈblevi/. Típico de depósitos de GLP expuestos al fuego."
+      },
+      {
+        "id": "voc-x1-procsafety-019",
+        "front": "bund / secondary containment",
+        "back": "cubeto de retención / contención secundaria",
+        "example": "The bund must hold at least 110% of the largest tank’s capacity.",
+        "note": "“Bunded area” = zona con cubeto."
+      },
+      {
+        "id": "voc-x1-procsafety-020",
+        "front": "flare (stack)",
+        "back": "antorcha",
+        "example": "Excess gas was sent to the flare during the start-up.",
+        "note": "“Flaring” = quema en antorcha; en sentido general “to flare up” = recrudecerse."
+      },
+      {
+        "id": "voc-x1-procsafety-021",
+        "front": "inerting / nitrogen blanketing",
+        "back": "inertización / atmósfera inerte de nitrógeno",
+        "example": "Nitrogen blanketing keeps oxygen out of the solvent tank.",
+        "note": "“To purge” = purgar, operación relacionada."
+      },
+      {
+        "id": "voc-x1-procsafety-022",
+        "front": "management of change (MOC)",
+        "back": "gestión del cambio",
+        "example": "Replacing the valve with a different model should have gone through management of change.",
+        "note": "Muchos accidentes se deben a cambios “menores” no evaluados."
+      },
+      {
+        "id": "voc-x1-procsafety-023",
+        "front": "process safety vs occupational safety",
+        "back": "seguridad de procesos vs seguridad laboral",
+        "example": "A low injury rate says little about process safety.",
+        "note": "Lección clásica: buenos índices de accidentes laborales no garantizan ausencia de riesgo de accidente grave."
+      },
+      {
+        "id": "voc-x1-procsafety-024",
+        "front": "bow-tie analysis",
+        "back": "análisis de pajarita (bow-tie)",
+        "example": "The bow-tie analysis set out the barriers on both sides of the top event.",
+        "note": "Izquierda: amenazas y barreras preventivas; derecha: consecuencias y mitigación."
+      },
+      {
+        "id": "voc-x1-procsafety-025",
+        "front": "domino effect",
+        "back": "efecto dominó",
+        "example": "Tank spacing was increased to reduce the risk of a domino effect.",
+        "note": "Concepto también recogido en la normativa Seveso."
+      },
+      {
+        "id": "voc-x1-procsafety-026",
+        "front": "safe operating limits / operating envelope",
+        "back": "límites seguros de operación / ventana operativa",
+        "example": "The unit was operated outside its safe operating limits for several hours.",
+        "note": "“To stay within the envelope” = mantenerse dentro de la ventana."
+      },
+      {
+        "id": "voc-x1-procsafety-027",
+        "front": "incompatible substances",
+        "back": "sustancias incompatibles",
+        "example": "Oxidisers and flammable liquids are incompatible substances and must be segregated.",
+        "note": "“Segregation” = separación en almacenamiento."
+      },
+      {
+        "id": "voc-x1-procsafety-028",
+        "front": "vapour cloud explosion (VCE)",
+        "back": "explosión de nube de vapor",
+        "example": "Congestion in the pipe rack made a vapour cloud explosion more severe.",
+        "note": "Ortografía británica “vapour”."
+      },
+      {
+        "id": "voc-x1-procsafety-029",
+        "front": "deflagration vs detonation",
+        "back": "deflagración vs detonación",
+        "example": "The vents are designed for a deflagration, not a detonation.",
+        "note": "Deflagración: frente subsónico; detonación: supersónico."
+      },
+      {
+        "id": "voc-x1-procsafety-030",
+        "front": "alarm flood",
+        "back": "avalancha de alarmas",
+        "example": "During the upset, an alarm flood overwhelmed the panel operator.",
+        "note": "“Alarm management / rationalisation” = gestión de alarmas."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-h2storage",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "hydrogen and storage",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Hydrogen, batteries & storage",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-h2storage-001",
+        "front": "grey / blue hydrogen",
+        "back": "hidrógeno gris / azul",
+        "example": "Blue hydrogen relies on carbon capture to cut the emissions of grey hydrogen.",
+        "note": "Gris: de gas natural sin captura; azul: con captura de CO₂."
+      },
+      {
+        "id": "voc-x1-h2storage-002",
+        "front": "proton exchange membrane (PEM)",
+        "back": "membrana de intercambio de protones",
+        "example": "PEM electrolysers respond quickly to fluctuations in renewable output.",
+        "note": "También “polymer electrolyte membrane”."
+      },
+      {
+        "id": "voc-x1-h2storage-003",
+        "front": "alkaline electrolysis",
+        "back": "electrólisis alcalina",
+        "example": "Alkaline electrolysis is a mature, lower-cost technology.",
+        "note": "Tecnología veterana frente a PEM y SOEC."
+      },
+      {
+        "id": "voc-x1-h2storage-004",
+        "front": "fuel cell",
+        "back": "pila de combustible",
+        "example": "The forklifts are powered by hydrogen fuel cells.",
+        "note": "“Fuel cell electric vehicle (FCEV)”."
+      },
+      {
+        "id": "voc-x1-h2storage-005",
+        "front": "hydrogen embrittlement",
+        "back": "fragilización por hidrógeno",
+        "example": "Hydrogen embrittlement limits which steels can be used in pipelines.",
+        "note": "Clave al reutilizar gasoductos de gas natural."
+      },
+      {
+        "id": "voc-x1-h2storage-006",
+        "front": "compressed hydrogen",
+        "back": "hidrógeno comprimido",
+        "example": "The tube trailers carry compressed hydrogen at 300 bar.",
+        "note": "“Tube trailer” = semirremolque de tubos."
+      },
+      {
+        "id": "voc-x1-h2storage-007",
+        "front": "liquefaction",
+        "back": "licuefacción",
+        "example": "Liquefaction consumes roughly a third of the energy content of the hydrogen.",
+        "note": "Verbo: “to liquefy” (ojo a la ortografía)."
+      },
+      {
+        "id": "voc-x1-h2storage-008",
+        "front": "hydrogen carrier",
+        "back": "vector / portador de hidrógeno",
+        "example": "Ammonia is being studied as a hydrogen carrier for long-distance shipping.",
+        "note": "También LOHC (liquid organic hydrogen carriers)."
+      },
+      {
+        "id": "voc-x1-h2storage-009",
+        "front": "hydrogen valley / hub",
+        "back": "valle / polo del hidrógeno",
+        "example": "The region aims to become a hydrogen valley linking producers and industrial users.",
+        "note": "Concentración geográfica de producción y consumo."
+      },
+      {
+        "id": "voc-x1-h2storage-010",
+        "front": "blending (into the gas network)",
+        "back": "mezcla / inyección en la red de gas",
+        "example": "Blending up to 5% hydrogen requires few changes to domestic appliances.",
+        "note": "“Blend” = mezcla; “blending limit” = límite de mezcla."
+      },
+      {
+        "id": "voc-x1-h2storage-011",
+        "front": "refuelling station",
+        "back": "estación de repostaje (hidrogenera)",
+        "example": "A new refuelling station will serve the city’s hydrogen buses.",
+        "note": "Británico “refuelling” con doble l."
+      },
+      {
+        "id": "voc-x1-h2storage-012",
+        "front": "lithium-ion battery",
+        "back": "batería de ion litio",
+        "example": "Lithium-ion batteries dominate the stationary storage market.",
+        "note": "Abreviatura “Li-ion”. Variante química: LFP (litio-ferrofosfato)."
+      },
+      {
+        "id": "voc-x1-h2storage-013",
+        "front": "cell / module / pack",
+        "back": "celda / módulo / paquete",
+        "example": "Hundreds of cells are grouped into modules, which form the battery pack.",
+        "note": "Jerarquía básica de una batería."
+      },
+      {
+        "id": "voc-x1-h2storage-014",
+        "front": "state of charge (SoC)",
+        "back": "estado de carga",
+        "example": "The system keeps the state of charge between 10% and 90% to extend battery life.",
+        "note": "Diferente de “state of health (SoH)” = estado de salud."
+      },
+      {
+        "id": "voc-x1-h2storage-015",
+        "front": "depth of discharge (DoD)",
+        "back": "profundidad de descarga",
+        "example": "Deep discharges shorten battery life, so the depth of discharge is limited.",
+        "note": "Relacionado inversamente con la vida en ciclos."
+      },
+      {
+        "id": "voc-x1-h2storage-016",
+        "front": "round-trip efficiency",
+        "back": "eficiencia de ciclo completo (carga-descarga)",
+        "example": "The battery offers a round-trip efficiency of around 88%.",
+        "note": "Compara energía recuperada con energía almacenada."
+      },
+      {
+        "id": "voc-x1-h2storage-017",
+        "front": "thermal runaway",
+        "back": "embalamiento / fuga térmica",
+        "example": "A single damaged cell can trigger thermal runaway across the whole rack.",
+        "note": "Riesgo principal de incendio en baterías de litio."
+      },
+      {
+        "id": "voc-x1-h2storage-018",
+        "front": "battery management system (BMS)",
+        "back": "sistema de gestión de baterías",
+        "example": "The BMS isolated the module as soon as it detected abnormal temperatures.",
+        "note": "Controla tensión, temperatura y equilibrado de celdas."
+      },
+      {
+        "id": "voc-x1-h2storage-019",
+        "front": "cycle life",
+        "back": "vida útil en ciclos",
+        "example": "Manufacturers guarantee a cycle life of 6,000 cycles.",
+        "note": "Frente a “calendar life” (vida por envejecimiento temporal)."
+      },
+      {
+        "id": "voc-x1-h2storage-020",
+        "front": "capacity fade / degradation",
+        "back": "pérdida de capacidad / degradación",
+        "example": "Capacity fade must be factored into the financial model.",
+        "note": "“To fade” = desvanecerse; aquí, pérdida gradual."
+      },
+      {
+        "id": "voc-x1-h2storage-021",
+        "front": "pumped hydro storage",
+        "back": "almacenamiento por bombeo (hidráulico)",
+        "example": "Pumped hydro storage still provides most of the world’s storage capacity.",
+        "note": "También “pumped storage hydropower”."
+      },
+      {
+        "id": "voc-x1-h2storage-022",
+        "front": "flow battery",
+        "back": "batería de flujo",
+        "example": "Vanadium flow batteries suit long-duration applications.",
+        "note": "Potencia y energía se dimensionan por separado."
+      },
+      {
+        "id": "voc-x1-h2storage-023",
+        "front": "behind-the-meter",
+        "back": "detrás del contador (en instalaciones del cliente)",
+        "example": "Behind-the-meter storage lets the factory reduce its peak charges.",
+        "note": "Opuesto: “front-of-the-meter” (a escala de red)."
+      },
+      {
+        "id": "voc-x1-h2storage-024",
+        "front": "peak shaving",
+        "back": "recorte de puntas (de demanda)",
+        "example": "Peak shaving with batteries lowered the contracted power.",
+        "note": "No confundir con “load shifting” (desplazamiento de cargas)."
+      },
+      {
+        "id": "voc-x1-h2storage-025",
+        "front": "utility-scale / grid-scale",
+        "back": "a escala de red / de gran escala",
+        "example": "A utility-scale battery was commissioned next to the wind farm.",
+        "note": "Se usa como adjetivo compuesto delante del sustantivo."
+      },
+      {
+        "id": "voc-x1-h2storage-026",
+        "front": "second-life batteries",
+        "back": "baterías de segunda vida",
+        "example": "Second-life batteries from electric buses now provide backup at the depot.",
+        "note": "Baterías de VE reutilizadas en aplicaciones estacionarias."
+      },
+      {
+        "id": "voc-x1-h2storage-027",
+        "front": "critical raw materials",
+        "back": "materias primas críticas",
+        "example": "Lithium, cobalt and graphite are classed as critical raw materials in the EU.",
+        "note": "Concepto de la política industrial europea."
+      },
+      {
+        "id": "voc-x1-h2storage-028",
+        "front": "gigafactory",
+        "back": "gigafactoría",
+        "example": "The gigafactory will produce cells for 300,000 vehicles a year.",
+        "note": "Gran planta de fabricación de baterías."
+      },
+      {
+        "id": "voc-x1-h2storage-029",
+        "front": "power-to-X (PtX)",
+        "back": "power-to-X (conversión de electricidad en otros vectores)",
+        "example": "Power-to-X projects turn surplus electricity into hydrogen, methanol or ammonia.",
+        "note": "Se mantiene en inglés en textos técnicos españoles."
+      },
+      {
+        "id": "voc-x1-h2storage-030",
+        "front": "energy arbitrage",
+        "back": "arbitraje energético",
+        "example": "The battery earns revenue through energy arbitrage, charging when prices are low.",
+        "note": "Comprar barato (cargar) y vender caro (descargar)."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-construction",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "construction",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Construction & civil works for industry",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-construction-001",
+        "front": "groundworks",
+        "back": "trabajos de cimentación y movimiento de tierras",
+        "example": "Groundworks were delayed by three weeks of heavy rain.",
+        "note": "Fase inicial de la obra; suele ir en plural."
+      },
+      {
+        "id": "voc-x1-construction-002",
+        "front": "excavation",
+        "back": "excavación",
+        "example": "The excavation for the tank foundations reached the water table.",
+        "note": "Verbo “to excavate”; “excavator” = excavadora (también “digger”)."
+      },
+      {
+        "id": "voc-x1-construction-003",
+        "front": "foundations / footing",
+        "back": "cimentación / zapata",
+        "example": "The press requires isolated footings to absorb vibration.",
+        "note": "“To lay the foundations” también en sentido figurado."
+      },
+      {
+        "id": "voc-x1-construction-004",
+        "front": "piling",
+        "back": "pilotaje",
+        "example": "Poor ground conditions meant the warehouse had to be built on piling.",
+        "note": "“Pile” = pilote; “pile driver” = martinete."
+      },
+      {
+        "id": "voc-x1-construction-005",
+        "front": "reinforced concrete",
+        "back": "hormigón armado",
+        "example": "The silo is a reinforced concrete structure.",
+        "note": "“Concrete” = hormigón (falso amigo con “concreto”). “Cement” es solo el conglomerante."
+      },
+      {
+        "id": "voc-x1-construction-006",
+        "front": "rebar",
+        "back": "ferralla / armadura (barras corrugadas)",
+        "example": "The inspector checked the rebar spacing before the pour.",
+        "note": "Abreviatura de “reinforcing bar”."
+      },
+      {
+        "id": "voc-x1-construction-007",
+        "front": "formwork",
+        "back": "encofrado",
+        "example": "The formwork can be struck once the concrete has gained sufficient strength.",
+        "note": "“To strike formwork” = desencofrar."
+      },
+      {
+        "id": "voc-x1-construction-008",
+        "front": "to pour (concrete)",
+        "back": "hormigonar / verter el hormigón",
+        "example": "The slab was poured overnight to avoid the afternoon heat.",
+        "note": "Sustantivo: “a pour” = una hormigonada."
+      },
+      {
+        "id": "voc-x1-construction-009",
+        "front": "curing",
+        "back": "curado",
+        "example": "Inadequate curing led to surface cracks.",
+        "note": "Verbo “to cure”; no confundir con “to heal”."
+      },
+      {
+        "id": "voc-x1-construction-010",
+        "front": "precast",
+        "back": "prefabricado",
+        "example": "Precast panels sped up the construction of the plant building.",
+        "note": "Adjetivo; “precast concrete” = hormigón prefabricado."
+      },
+      {
+        "id": "voc-x1-construction-011",
+        "front": "steelwork / structural steel",
+        "back": "estructura metálica",
+        "example": "The steelwork erection is scheduled for September.",
+        "note": "“Steel erector” = montador de estructuras."
+      },
+      {
+        "id": "voc-x1-construction-012",
+        "front": "scaffolding",
+        "back": "andamiaje / andamio",
+        "example": "The scaffolding must be inspected weekly and after bad weather.",
+        "note": "Incontable; “a scaffold” = un andamio."
+      },
+      {
+        "id": "voc-x1-construction-013",
+        "front": "tower crane",
+        "back": "grúa torre",
+        "example": "High winds forced the tower crane to stop work.",
+        "note": "“Mobile crane” = grúa móvil; “lifting plan” = plan de izado."
+      },
+      {
+        "id": "voc-x1-construction-014",
+        "front": "site manager / foreman",
+        "back": "jefe de obra / encargado",
+        "example": "The foreman briefed the crew on the day’s lifting operations.",
+        "note": "En lenguaje inclusivo se usa “supervisor”."
+      },
+      {
+        "id": "voc-x1-construction-015",
+        "front": "subcontractor",
+        "back": "subcontratista",
+        "example": "The electrical installation was let to a specialist subcontractor.",
+        "note": "“Main / principal contractor” = contratista principal."
+      },
+      {
+        "id": "voc-x1-construction-016",
+        "front": "bill of quantities (BoQ)",
+        "back": "mediciones y presupuesto",
+        "example": "Tenderers price each item in the bill of quantities.",
+        "note": "Documento clave en licitaciones de obra británicas."
+      },
+      {
+        "id": "voc-x1-construction-017",
+        "front": "as-built drawings",
+        "back": "planos as-built / de obra ejecutada",
+        "example": "The contractor has not yet delivered the as-built drawings.",
+        "note": "Reflejan lo realmente construido, no lo proyectado."
+      },
+      {
+        "id": "voc-x1-construction-018",
+        "front": "snagging list / punch list",
+        "back": "lista de repasos / pendientes",
+        "example": "Twenty items remain on the snagging list.",
+        "note": "“Snag” = defecto menor; “punch list” es americano."
+      },
+      {
+        "id": "voc-x1-construction-019",
+        "front": "load-bearing",
+        "back": "portante / de carga",
+        "example": "You cannot remove a load-bearing wall without a structural assessment.",
+        "note": "Adjetivo compuesto; “load-bearing capacity” = capacidad portante."
+      },
+      {
+        "id": "voc-x1-construction-020",
+        "front": "geotechnical survey",
+        "back": "estudio geotécnico",
+        "example": "The geotechnical survey revealed soft clay beneath the site.",
+        "note": "“Site investigation” es un término equivalente más amplio."
+      },
+      {
+        "id": "voc-x1-construction-021",
+        "front": "retaining wall",
+        "back": "muro de contención",
+        "example": "A retaining wall was built to stabilise the embankment.",
+        "note": "“To retain” = retener."
+      },
+      {
+        "id": "voc-x1-construction-022",
+        "front": "cut and fill",
+        "back": "desmonte y terraplén",
+        "example": "Balancing cut and fill reduced the amount of material taken off site.",
+        "note": "“Earthworks” = movimiento de tierras."
+      },
+      {
+        "id": "voc-x1-construction-023",
+        "front": "compaction",
+        "back": "compactación",
+        "example": "Compaction tests must be passed before the slab is laid.",
+        "note": "Verbo “to compact”; “roller” = rodillo compactador."
+      },
+      {
+        "id": "voc-x1-construction-024",
+        "front": "planning permission",
+        "back": "licencia urbanística / de obras",
+        "example": "The extension cannot start until planning permission is granted.",
+        "note": "Término británico; también “building permit”."
+      },
+      {
+        "id": "voc-x1-construction-025",
+        "front": "construction phase plan",
+        "back": "plan de seguridad y salud (de obra)",
+        "example": "The construction phase plan sets out how site risks will be managed.",
+        "note": "Equivalente británico aproximado del plan de SyS español."
+      },
+      {
+        "id": "voc-x1-construction-026",
+        "front": "to backfill",
+        "back": "rellenar (una zanja o excavación)",
+        "example": "The trench was backfilled once the pipe had been tested.",
+        "note": "También sustantivo: “backfill material”."
+      },
+      {
+        "id": "voc-x1-construction-027",
+        "front": "practical completion",
+        "back": "recepción (provisional) de la obra",
+        "example": "Practical completion was certified on 30 June.",
+        "note": "Marca el inicio del periodo de garantía."
+      },
+      {
+        "id": "voc-x1-construction-028",
+        "front": "defects liability period",
+        "back": "periodo de garantía (de defectos)",
+        "example": "Any cracks appearing during the defects liability period must be repaired by the contractor.",
+        "note": "Suele ser de 12 meses en contratos británicos."
+      },
+      {
+        "id": "voc-x1-construction-029",
+        "front": "trench",
+        "back": "zanja",
+        "example": "Unsupported trenches deeper than 1.2 m are a serious collapse hazard.",
+        "note": "“Trench shoring / support” = entibación."
+      },
+      {
+        "id": "voc-x1-construction-030",
+        "front": "setting out",
+        "back": "replanteo",
+        "example": "Setting out errors placed the column bases 20 cm off the grid.",
+        "note": "Verbo: “to set out” una obra."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-mining2",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "mining operations",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Mining operations & mineral processing II",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-mining2-001",
+        "front": "ore grade / cut-off grade",
+        "back": "ley del mineral / ley de corte",
+        "example": "Falling copper prices raised the cut-off grade and shrank the mineable reserve.",
+        "note": "Ojo: “ley” NO es “law” en este contexto."
+      },
+      {
+        "id": "voc-x1-mining2-002",
+        "front": "stripping ratio",
+        "back": "ratio de desmonte (estéril/mineral)",
+        "example": "A high stripping ratio makes the deeper pit uneconomic.",
+        "note": "Cantidad de estéril movida por unidad de mineral."
+      },
+      {
+        "id": "voc-x1-mining2-003",
+        "front": "drill and blast",
+        "back": "perforación y voladura",
+        "example": "The drill-and-blast cycle determines the daily advance in the tunnel.",
+        "note": "Se usa como adjetivo compuesto: “drill-and-blast method”."
+      },
+      {
+        "id": "voc-x1-mining2-004",
+        "front": "burden and spacing",
+        "back": "piedra y espaciamiento (malla de voladura)",
+        "example": "The engineer reduced the burden to improve fragmentation.",
+        "note": "“Blast pattern” = malla de perforación."
+      },
+      {
+        "id": "voc-x1-mining2-005",
+        "front": "stemming",
+        "back": "retacado",
+        "example": "Insufficient stemming allowed gases to vent and caused fly rock.",
+        "note": "Material inerte que confina la carga en el barreno."
+      },
+      {
+        "id": "voc-x1-mining2-006",
+        "front": "detonator / delay",
+        "back": "detonador / retardo",
+        "example": "Electronic detonators allow precise delays between holes.",
+        "note": "“Non-electric detonator” = detonador no eléctrico."
+      },
+      {
+        "id": "voc-x1-mining2-007",
+        "front": "fly rock",
+        "back": "proyecciones (de roca)",
+        "example": "Fly rock is one of the most serious hazards associated with surface blasting.",
+        "note": "También “flyrock”. El área de exclusión se define por este riesgo."
+      },
+      {
+        "id": "voc-x1-mining2-008",
+        "front": "air overpressure / airblast",
+        "back": "onda aérea / sobrepresión",
+        "example": "Neighbours complained about the airblast rather than the ground vibration.",
+        "note": "Se mide en dB(L) o Pa."
+      },
+      {
+        "id": "voc-x1-mining2-009",
+        "front": "mine shaft / headframe",
+        "back": "pozo minero / castillete",
+        "example": "The old headframe has been preserved as a landmark.",
+        "note": "“To sink a shaft” = profundizar un pozo."
+      },
+      {
+        "id": "voc-x1-mining2-010",
+        "front": "adit / drift",
+        "back": "socavón / galería",
+        "example": "Access to the deposit is through an adit driven into the hillside.",
+        "note": "“Adit” es horizontal desde superficie; “drift”, galería que sigue la capa."
+      },
+      {
+        "id": "voc-x1-mining2-011",
+        "front": "stope / stoping",
+        "back": "cámara de explotación / explotación por cámaras",
+        "example": "Each stope is backfilled with cemented tailings once it is mined out.",
+        "note": "“Sublevel stoping” = cámaras por subniveles."
+      },
+      {
+        "id": "voc-x1-mining2-012",
+        "front": "room and pillar",
+        "back": "cámaras y pilares",
+        "example": "Room-and-pillar mining leaves part of the ore in place as support.",
+        "note": "Método típico en potasa y carbón."
+      },
+      {
+        "id": "voc-x1-mining2-013",
+        "front": "longwall mining",
+        "back": "explotación por tajo largo",
+        "example": "Longwall mining achieves high recovery but causes surface subsidence.",
+        "note": "“Shearer” = rozadora; “shields” = pilas de entibación."
+      },
+      {
+        "id": "voc-x1-mining2-014",
+        "front": "ventilation shaft",
+        "back": "pozo de ventilación",
+        "example": "A second ventilation shaft was sunk to dilute diesel exhaust.",
+        "note": "“Main fan” = ventilador principal."
+      },
+      {
+        "id": "voc-x1-mining2-015",
+        "front": "firedamp",
+        "back": "grisú",
+        "example": "Continuous firedamp monitoring is mandatory in gassy coal mines.",
+        "note": "Término histórico para el metano en minas; “gassy mine” = mina grisuosa."
+      },
+      {
+        "id": "voc-x1-mining2-016",
+        "front": "comminution",
+        "back": "conminución (trituración y molienda)",
+        "example": "Comminution accounts for most of the plant’s energy consumption.",
+        "note": "Término técnico que engloba crushing + grinding."
+      },
+      {
+        "id": "voc-x1-mining2-017",
+        "front": "grinding / ball mill",
+        "back": "molienda / molino de bolas",
+        "example": "The ball mill grinds the ore to below 100 microns.",
+        "note": "“SAG mill” = molino semiautógeno."
+      },
+      {
+        "id": "voc-x1-mining2-018",
+        "front": "screening",
+        "back": "cribado",
+        "example": "Screening separates fines from oversize before the secondary crusher.",
+        "note": "“Screen” = criba; “oversize / undersize” = rechazo / pasante."
+      },
+      {
+        "id": "voc-x1-mining2-019",
+        "front": "concentrate",
+        "back": "concentrado",
+        "example": "The zinc concentrate is trucked to the port for export.",
+        "note": "Sustantivo contable aquí, no el verbo “concentrate”."
+      },
+      {
+        "id": "voc-x1-mining2-020",
+        "front": "recovery (metallurgical)",
+        "back": "recuperación metalúrgica",
+        "example": "Fine grinding raised gold recovery from 82% to 89%.",
+        "note": "Porcentaje del metal contenido que se recupera."
+      },
+      {
+        "id": "voc-x1-mining2-021",
+        "front": "thickener",
+        "back": "espesador",
+        "example": "Water recovered from the thickener is recycled to the mill.",
+        "note": "Equipo de separación sólido-líquido por sedimentación."
+      },
+      {
+        "id": "voc-x1-mining2-022",
+        "front": "heap leaching",
+        "back": "lixiviación en pilas",
+        "example": "Low-grade oxide ore is treated by heap leaching.",
+        "note": "“Leach pad” = plataforma de lixiviación."
+      },
+      {
+        "id": "voc-x1-mining2-023",
+        "front": "smelter",
+        "back": "fundición",
+        "example": "The concentrate is sold to a smelter overseas.",
+        "note": "“To smelt” = fundir mineral; “refinery” = refinería."
+      },
+      {
+        "id": "voc-x1-mining2-024",
+        "front": "assay",
+        "back": "ensayo / análisis de ley",
+        "example": "Assay results confirmed the high-grade intercept.",
+        "note": "Pronunciación /ˈæseɪ/. “Assay laboratory”."
+      },
+      {
+        "id": "voc-x1-mining2-025",
+        "front": "life of mine (LOM)",
+        "back": "vida de la mina",
+        "example": "The expansion extends the life of mine to 2045.",
+        "note": "“LOM plan” = plan minero a largo plazo."
+      },
+      {
+        "id": "voc-x1-mining2-026",
+        "front": "dragline",
+        "back": "dragalina",
+        "example": "A dragline removes the overburden above the coal seam.",
+        "note": "Excavadora de cables con cazo de arrastre."
+      },
+      {
+        "id": "voc-x1-mining2-027",
+        "front": "face shovel / wheel loader",
+        "back": "pala excavadora frontal / pala cargadora",
+        "example": "Two wheel loaders feed the primary crusher.",
+        "note": "“Loader” a secas = pala cargadora."
+      },
+      {
+        "id": "voc-x1-mining2-028",
+        "front": "dust suppression",
+        "back": "supresión / control de polvo",
+        "example": "Water bowsers are used for dust suppression on dry days.",
+        "note": "“Bowser” = camión cisterna (británico)."
+      },
+      {
+        "id": "voc-x1-mining2-029",
+        "front": "subsidence",
+        "back": "subsidencia / hundimiento del terreno",
+        "example": "Old workings caused subsidence beneath the village road.",
+        "note": "Verbo “to subside”."
+      },
+      {
+        "id": "voc-x1-mining2-030",
+        "front": "site water balance",
+        "back": "balance hídrico del emplazamiento",
+        "example": "The site water balance shows a deficit during the summer months.",
+        "note": "Herramienta clave para gestionar balsas y vertidos."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-procurement",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "procurement and contracts",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Procurement, contracts & tendering",
+    "category": "industrial",
+    "cards": [
+      {
+        "id": "voc-x1-procurement-001",
+        "front": "public procurement",
+        "back": "contratación pública",
+        "example": "Public procurement rules require transparency and equal treatment of bidders.",
+        "note": "Incontable. “Procurement officer” = técnico de contratación."
+      },
+      {
+        "id": "voc-x1-procurement-002",
+        "front": "invitation to tender (ITT) / call for tenders",
+        "back": "licitación / anuncio de licitación",
+        "example": "The invitation to tender was published in the EU journal.",
+        "note": "“To issue / put out an ITT”."
+      },
+      {
+        "id": "voc-x1-procurement-003",
+        "front": "bid bond",
+        "back": "garantía provisional",
+        "example": "Bidders must submit a bid bond equal to 2% of their offer.",
+        "note": "Garantiza que el licitador mantendrá su oferta."
+      },
+      {
+        "id": "voc-x1-procurement-004",
+        "front": "performance bond",
+        "back": "garantía definitiva / de cumplimiento",
+        "example": "The contractor provided a performance bond worth 5% of the contract value.",
+        "note": "Se ejecuta si el contratista incumple."
+      },
+      {
+        "id": "voc-x1-procurement-005",
+        "front": "technical specifications",
+        "back": "pliego de prescripciones técnicas",
+        "example": "The technical specifications must not favour a particular brand.",
+        "note": "El pliego administrativo: “administrative terms / conditions”."
+      },
+      {
+        "id": "voc-x1-procurement-006",
+        "front": "award criteria",
+        "back": "criterios de adjudicación",
+        "example": "Price accounted for only 40% of the award criteria.",
+        "note": "Distinto de “selection criteria” (solvencia del licitador)."
+      },
+      {
+        "id": "voc-x1-procurement-007",
+        "front": "most economically advantageous tender (MEAT)",
+        "back": "oferta económicamente más ventajosa",
+        "example": "The contract will go to the most economically advantageous tender, not simply the cheapest.",
+        "note": "Combina precio y calidad."
+      },
+      {
+        "id": "voc-x1-procurement-008",
+        "front": "abnormally low tender",
+        "back": "oferta anormalmente baja (temeraria)",
+        "example": "The authority asked the bidder to justify its abnormally low tender.",
+        "note": "Antes “oferta temeraria” en España."
+      },
+      {
+        "id": "voc-x1-procurement-009",
+        "front": "contracting authority",
+        "back": "órgano / poder adjudicador",
+        "example": "The contracting authority may reject incomplete bids.",
+        "note": "Término de las directivas europeas."
+      },
+      {
+        "id": "voc-x1-procurement-010",
+        "front": "framework agreement",
+        "back": "acuerdo marco",
+        "example": "Spare parts are purchased under a four-year framework agreement.",
+        "note": "“Call-off” = contrato basado en el acuerdo marco."
+      },
+      {
+        "id": "voc-x1-procurement-011",
+        "front": "open / restricted procedure",
+        "back": "procedimiento abierto / restringido",
+        "example": "Under the restricted procedure only pre-qualified firms may bid.",
+        "note": "En el abierto cualquier operador puede presentar oferta."
+      },
+      {
+        "id": "voc-x1-procurement-012",
+        "front": "negotiated procedure",
+        "back": "procedimiento negociado",
+        "example": "A negotiated procedure was justified by extreme urgency.",
+        "note": "Excepcional; debe motivarse."
+      },
+      {
+        "id": "voc-x1-procurement-013",
+        "front": "lot",
+        "back": "lote",
+        "example": "The contract was divided into lots to encourage SMEs to bid.",
+        "note": "“Lot” también es “solar/parcela” en inglés americano."
+      },
+      {
+        "id": "voc-x1-procurement-014",
+        "front": "bidder / tenderer",
+        "back": "licitador",
+        "example": "Five tenderers submitted compliant bids.",
+        "note": "“Successful / unsuccessful bidder” = adjudicatario / no adjudicatario."
+      },
+      {
+        "id": "voc-x1-procurement-015",
+        "front": "standstill period",
+        "back": "periodo de suspensión (antes de formalizar)",
+        "example": "No contract may be signed during the ten-day standstill period.",
+        "note": "Permite a los licitadores recurrir la adjudicación."
+      },
+      {
+        "id": "voc-x1-procurement-016",
+        "front": "to submit a bid",
+        "back": "presentar una oferta",
+        "example": "All bids must be submitted electronically.",
+        "note": "Colocación: “submit / put in / lodge a bid”."
+      },
+      {
+        "id": "voc-x1-procurement-017",
+        "front": "closing date / deadline for submission",
+        "back": "fecha límite / plazo de presentación",
+        "example": "Late bids received after the closing date will be disregarded.",
+        "note": "“To extend the deadline” = ampliar el plazo."
+      },
+      {
+        "id": "voc-x1-procurement-018",
+        "front": "lump-sum contract",
+        "back": "contrato a tanto alzado / precio cerrado",
+        "example": "Under a lump-sum contract the contractor bears the risk of cost overruns.",
+        "note": "Frente a “remeasurement contract” (por mediciones)."
+      },
+      {
+        "id": "voc-x1-procurement-019",
+        "front": "cost-plus contract",
+        "back": "contrato de coste más margen",
+        "example": "Cost-plus contracts offer little incentive to control spending.",
+        "note": "El cliente paga costes reales más un margen o fee."
+      },
+      {
+        "id": "voc-x1-procurement-020",
+        "front": "liquidated damages",
+        "back": "penalizaciones contractuales (por demora)",
+        "example": "Liquidated damages of 0.1% per day will be applied for late delivery.",
+        "note": "Falso amigo: nada que ver con “liquidar”; son daños preestablecidos."
+      },
+      {
+        "id": "voc-x1-procurement-021",
+        "front": "force majeure",
+        "back": "fuerza mayor",
+        "example": "The supplier invoked force majeure after the port was closed.",
+        "note": "Expresión francesa usada en inglés jurídico."
+      },
+      {
+        "id": "voc-x1-procurement-022",
+        "front": "retention (money)",
+        "back": "retención (en garantía)",
+        "example": "Five per cent retention is held until the defects period expires.",
+        "note": "Parte de cada certificación retenida como garantía."
+      },
+      {
+        "id": "voc-x1-procurement-023",
+        "front": "purchase order (PO)",
+        "back": "pedido / orden de compra",
+        "example": "No invoice can be paid without a matching purchase order.",
+        "note": "“To raise / issue a PO”."
+      },
+      {
+        "id": "voc-x1-procurement-024",
+        "front": "request for quotation (RFQ)",
+        "back": "solicitud de oferta / presupuesto",
+        "example": "We sent an RFQ to three suppliers for the valves.",
+        "note": "Para importes menores que una licitación formal."
+      },
+      {
+        "id": "voc-x1-procurement-025",
+        "front": "supplier qualification / approved vendor list",
+        "back": "homologación de proveedores / lista de proveedores homologados",
+        "example": "Only firms on the approved vendor list may quote.",
+        "note": "“Vendor” = proveedor (no “vendedor” de tienda)."
+      },
+      {
+        "id": "voc-x1-procurement-026",
+        "front": "conflict of interest",
+        "back": "conflicto de intereses",
+        "example": "Evaluators must declare any conflict of interest before scoring.",
+        "note": "En español en plural “intereses”; en inglés singular."
+      },
+      {
+        "id": "voc-x1-procurement-027",
+        "front": "bid rigging",
+        "back": "colusión / amaño de licitaciones",
+        "example": "The competition authority fined four firms for bid rigging.",
+        "note": "Práctica anticompetitiva sancionable."
+      },
+      {
+        "id": "voc-x1-procurement-028",
+        "front": "to terminate a contract",
+        "back": "resolver / rescindir un contrato",
+        "example": "The authority terminated the contract for repeated breaches.",
+        "note": "“Termination for convenience” = resolución por conveniencia."
+      },
+      {
+        "id": "voc-x1-procurement-029",
+        "front": "Incoterms",
+        "back": "Incoterms (términos comerciales internacionales)",
+        "example": "Delivery is DAP under Incoterms 2020.",
+        "note": "Definen reparto de costes y riesgos en el transporte."
+      },
+      {
+        "id": "voc-x1-procurement-030",
+        "front": "single-source procurement",
+        "back": "adjudicación a proveedor único",
+        "example": "Single-source procurement must be justified in writing.",
+        "note": "“Sole supplier” = proveedor exclusivo."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-court",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "courtroom and legal English",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Courtroom & legal English",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-x1-court-001",
+        "front": "defendant",
+        "back": "acusado / demandado",
+        "example": "The defendant sat impassively as the charges were read out.",
+        "note": "En lo penal = acusado; en lo civil = demandado."
+      },
+      {
+        "id": "voc-x1-court-002",
+        "front": "claimant (BrE) / plaintiff",
+        "back": "demandante",
+        "example": "The claimant is seeking compensation for the injuries she sustained.",
+        "note": "“Plaintiff” es el término tradicional y americano."
+      },
+      {
+        "id": "voc-x1-court-003",
+        "front": "defence counsel / barrister",
+        "back": "abogado defensor / abogado (que litiga en sala)",
+        "example": "Defence counsel argued that the search had been unlawful.",
+        "note": "“Solicitor” = abogado que asesora y prepara; “barrister” = el que litiga."
+      },
+      {
+        "id": "voc-x1-court-004",
+        "front": "to plead guilty / not guilty",
+        "back": "declararse culpable / inocente",
+        "example": "He pleaded not guilty to all three counts.",
+        "note": "Pasado británico: “pleaded”; “pled” es americano."
+      },
+      {
+        "id": "voc-x1-court-005",
+        "front": "verdict",
+        "back": "veredicto",
+        "example": "The jury returned a unanimous verdict after six hours.",
+        "note": "“To reach / return a verdict”."
+      },
+      {
+        "id": "voc-x1-court-006",
+        "front": "to acquit / acquittal",
+        "back": "absolver / absolución",
+        "example": "She was acquitted on the grounds of insufficient evidence.",
+        "note": "Se construye “acquitted of a charge”."
+      },
+      {
+        "id": "voc-x1-court-007",
+        "front": "to convict / conviction",
+        "back": "condenar / condena (declaración de culpabilidad)",
+        "example": "The court convicted him of aggravated burglary.",
+        "note": "“Previous convictions” = antecedentes penales."
+      },
+      {
+        "id": "voc-x1-court-008",
+        "front": "to sentence (to)",
+        "back": "condenar (a una pena) / imponer pena",
+        "example": "The judge sentenced her to four years’ imprisonment.",
+        "note": "“Conviction” = culpabilidad; “sentence” = pena impuesta."
+      },
+      {
+        "id": "voc-x1-court-009",
+        "front": "suspended sentence",
+        "back": "pena suspendida (en suspenso)",
+        "example": "Given his clean record, he received a suspended sentence.",
+        "note": "No ingresa en prisión salvo que reincida."
+      },
+      {
+        "id": "voc-x1-court-010",
+        "front": "to testify / testimony",
+        "back": "declarar (como testigo) / testimonio",
+        "example": "The officer testified that the van had no lights on.",
+        "note": "“To give evidence” es más habitual en el Reino Unido."
+      },
+      {
+        "id": "voc-x1-court-011",
+        "front": "to cross-examine",
+        "back": "interrogar (la parte contraria) / contrainterrogar",
+        "example": "Under cross-examination, the witness admitted she had not seen the driver’s face.",
+        "note": "“Examination-in-chief” = interrogatorio de la parte que propone al testigo."
+      },
+      {
+        "id": "voc-x1-court-012",
+        "front": "perjury",
+        "back": "falso testimonio / perjurio",
+        "example": "Lying under oath constitutes perjury.",
+        "note": "“To commit perjury”. “Under oath” = bajo juramento."
+      },
+      {
+        "id": "voc-x1-court-013",
+        "front": "hearsay",
+        "back": "testimonio de referencia (de oídas)",
+        "example": "The judge excluded the statement as hearsay.",
+        "note": "Por regla general inadmisible, con excepciones."
+      },
+      {
+        "id": "voc-x1-court-014",
+        "front": "burden of proof",
+        "back": "carga de la prueba",
+        "example": "In criminal cases the burden of proof lies with the prosecution.",
+        "note": "“The onus is on…” es una alternativa formal."
+      },
+      {
+        "id": "voc-x1-court-015",
+        "front": "beyond reasonable doubt",
+        "back": "más allá de toda duda razonable",
+        "example": "The prosecution must prove guilt beyond reasonable doubt.",
+        "note": "Estándar penal; en civil “on the balance of probabilities”."
+      },
+      {
+        "id": "voc-x1-court-016",
+        "front": "presumption of innocence",
+        "back": "presunción de inocencia",
+        "example": "Media coverage must not undermine the presumption of innocence.",
+        "note": "Derecho fundamental; no es “presumption of innocent”."
+      },
+      {
+        "id": "voc-x1-court-017",
+        "front": "to adjourn / adjournment",
+        "back": "aplazar / suspender (la vista)",
+        "example": "The hearing was adjourned until an interpreter could be found.",
+        "note": "“Adjourned sine die” = aplazado sin fecha."
+      },
+      {
+        "id": "voc-x1-court-018",
+        "front": "to appeal against (a ruling)",
+        "back": "recurrir (una resolución)",
+        "example": "The defence intends to appeal against the sentence.",
+        "note": "En inglés británico “appeal against”; en americano “appeal” sin preposición."
+      },
+      {
+        "id": "voc-x1-court-019",
+        "front": "jurisdiction",
+        "back": "jurisdicción / competencia",
+        "example": "The court ruled that it lacked jurisdiction over offences committed at sea.",
+        "note": "“To fall within the jurisdiction of”."
+      },
+      {
+        "id": "voc-x1-court-020",
+        "front": "contempt of court",
+        "back": "desacato (al tribunal)",
+        "example": "Publishing the juror’s name could amount to contempt of court.",
+        "note": "Incluye desobedecer órdenes judiciales."
+      },
+      {
+        "id": "voc-x1-court-021",
+        "front": "summons",
+        "back": "citación (judicial)",
+        "example": "The witness received a summons to appear on 12 May.",
+        "note": "Singular con -s; plural “summonses”."
+      },
+      {
+        "id": "voc-x1-court-022",
+        "front": "investigating judge / examining magistrate",
+        "back": "juez de instrucción",
+        "example": "In Spain, the investigating judge directs the pre-trial phase.",
+        "note": "No existe en el sistema inglés; útil para explicar el modelo español."
+      },
+      {
+        "id": "voc-x1-court-023",
+        "front": "indictment",
+        "back": "escrito de acusación",
+        "example": "The indictment lists twelve separate offences.",
+        "note": "Pronunciación /ɪnˈdaɪtmənt/ (la c es muda)."
+      },
+      {
+        "id": "voc-x1-court-024",
+        "front": "plea bargain",
+        "back": "acuerdo de conformidad",
+        "example": "The plea bargain reduced the charge to manslaughter.",
+        "note": "En España: “conformidad” del acusado con la pena."
+      },
+      {
+        "id": "voc-x1-court-025",
+        "front": "mitigating / aggravating circumstances",
+        "back": "circunstancias atenuantes / agravantes",
+        "example": "His genuine remorse was accepted as a mitigating circumstance.",
+        "note": "“Mitigation” = alegaciones para reducir la pena."
+      },
+      {
+        "id": "voc-x1-court-026",
+        "front": "statute of limitations",
+        "back": "plazo de prescripción",
+        "example": "The offence fell outside the statute of limitations.",
+        "note": "“Time-barred” = prescrito."
+      },
+      {
+        "id": "voc-x1-court-027",
+        "front": "expert witness",
+        "back": "perito / testigo experto",
+        "example": "An expert witness explained the ballistic evidence to the jury.",
+        "note": "“Expert report” = informe pericial."
+      },
+      {
+        "id": "voc-x1-court-028",
+        "front": "affidavit / sworn statement",
+        "back": "declaración jurada",
+        "example": "The officer swore an affidavit in support of the application.",
+        "note": "“To swear an affidavit”."
+      },
+      {
+        "id": "voc-x1-court-029",
+        "front": "miscarriage of justice",
+        "back": "error judicial",
+        "example": "The conviction was quashed as a miscarriage of justice.",
+        "note": "“To quash a conviction” = anular una condena."
+      },
+      {
+        "id": "voc-x1-court-030",
+        "front": "in camera / behind closed doors",
+        "back": "a puerta cerrada",
+        "example": "The minor’s evidence was heard in camera.",
+        "note": "Nada que ver con cámaras: es latín (“en la cámara”)."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-cbrn",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "firearms explosives and CBRN",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Firearms, explosives & CBRN",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-x1-cbrn-001",
+        "front": "firearms licence / certificate",
+        "back": "licencia / guía de armas",
+        "example": "His firearms certificate was revoked after the domestic incident.",
+        "note": "Británico: “licence” (sustantivo) con c."
+      },
+      {
+        "id": "voc-x1-cbrn-002",
+        "front": "calibre",
+        "back": "calibre",
+        "example": "Shell casings of two different calibres were recovered.",
+        "note": "Británico “calibre”; americano “caliber”."
+      },
+      {
+        "id": "voc-x1-cbrn-003",
+        "front": "handgun / long gun",
+        "back": "arma corta / arma larga",
+        "example": "Most seized handguns had been illegally converted.",
+        "note": "“Shotgun” = escopeta; “rifle” = rifle / fusil."
+      },
+      {
+        "id": "voc-x1-cbrn-004",
+        "front": "ammunition / round",
+        "back": "munición / cartucho",
+        "example": "Officers found 200 rounds of ammunition in the boot.",
+        "note": "“Ammunition” es incontable; se cuenta en “rounds”."
+      },
+      {
+        "id": "voc-x1-cbrn-005",
+        "front": "cartridge case / casing",
+        "back": "vaina",
+        "example": "The cartridge cases were bagged and sent for ballistic comparison.",
+        "note": "“Spent casing” = vaina percutida."
+      },
+      {
+        "id": "voc-x1-cbrn-006",
+        "front": "magazine",
+        "back": "cargador",
+        "example": "The suspect discarded an empty magazine as he fled.",
+        "note": "Falso amigo: no es “almacén”; también revista."
+      },
+      {
+        "id": "voc-x1-cbrn-007",
+        "front": "to discharge a firearm",
+        "back": "disparar un arma de fuego",
+        "example": "Every discharge of a firearm by an officer triggers an independent review.",
+        "note": "Registro formal; coloquial “to fire”."
+      },
+      {
+        "id": "voc-x1-cbrn-008",
+        "front": "negligent / unintentional discharge",
+        "back": "disparo accidental / negligente",
+        "example": "An unintentional discharge occurred while the weapon was being cleaned.",
+        "note": "Muy usado en informes internos."
+      },
+      {
+        "id": "voc-x1-cbrn-009",
+        "front": "ballistics",
+        "back": "balística",
+        "example": "Ballistics linked the weapon to two earlier shootings.",
+        "note": "Sustantivo incontable con verbo en singular."
+      },
+      {
+        "id": "voc-x1-cbrn-010",
+        "front": "gunshot residue (GSR)",
+        "back": "residuos de disparo",
+        "example": "Swabs were taken from the suspect’s hands to test for gunshot residue.",
+        "note": "También “firearm discharge residue”."
+      },
+      {
+        "id": "voc-x1-cbrn-011",
+        "front": "converted / reactivated weapon",
+        "back": "arma transformada / reactivada",
+        "example": "Converted blank-firing pistols are a growing problem in Europe.",
+        "note": "“Deactivated” = inutilizada."
+      },
+      {
+        "id": "voc-x1-cbrn-012",
+        "front": "3D-printed firearm",
+        "back": "arma impresa en 3D",
+        "example": "Investigators seized a printer used to produce 3D-printed firearms.",
+        "note": "También “ghost gun” (sin número de serie)."
+      },
+      {
+        "id": "voc-x1-cbrn-013",
+        "front": "obliterated serial number",
+        "back": "número de serie borrado / limado",
+        "example": "The lab restored the obliterated serial number using chemical etching.",
+        "note": "“To obliterate” = borrar por completo."
+      },
+      {
+        "id": "voc-x1-cbrn-014",
+        "front": "illicit arms trafficking",
+        "back": "tráfico ilícito de armas",
+        "example": "The joint operation targeted illicit arms trafficking from the Western Balkans.",
+        "note": "“Arms” en plural en este sentido."
+      },
+      {
+        "id": "voc-x1-cbrn-015",
+        "front": "safe storage",
+        "back": "custodia / almacenamiento seguro",
+        "example": "Licence holders must comply with safe storage requirements.",
+        "note": "“Gun cabinet / safe” = armero."
+      },
+      {
+        "id": "voc-x1-cbrn-016",
+        "front": "high explosive vs low explosive",
+        "back": "explosivo detonante vs deflagrante",
+        "example": "Black powder is a low explosive, whereas TNT is a high explosive.",
+        "note": "Clasificación por velocidad de reacción."
+      },
+      {
+        "id": "voc-x1-cbrn-017",
+        "front": "explosive precursor",
+        "back": "precursor de explosivos",
+        "example": "Retailers must report suspicious purchases of explosive precursors.",
+        "note": "Regulado por normativa de la UE."
+      },
+      {
+        "id": "voc-x1-cbrn-018",
+        "front": "detonating cord",
+        "back": "cordón detonante",
+        "example": "Detonating cord was found among the items in the garage.",
+        "note": "Comercialmente “det cord”."
+      },
+      {
+        "id": "voc-x1-cbrn-019",
+        "front": "cordon distance / safety radius",
+        "back": "distancia de seguridad / radio de acordonamiento",
+        "example": "The cordon distance was extended to 400 metres.",
+        "note": "“To set up a cordon” = establecer un perímetro."
+      },
+      {
+        "id": "voc-x1-cbrn-020",
+        "front": "render-safe procedure (RSP)",
+        "back": "procedimiento de neutralización",
+        "example": "The technician applied a render-safe procedure to the device.",
+        "note": "“To render safe” = neutralizar."
+      },
+      {
+        "id": "voc-x1-cbrn-021",
+        "front": "explosive ordnance disposal (EOD)",
+        "back": "desactivación de explosivos (equivalente TEDAX)",
+        "example": "EOD teams cleared the unexploded shells found on the beach.",
+        "note": "“Unexploded ordnance (UXO)” = munición sin explosionar."
+      },
+      {
+        "id": "voc-x1-cbrn-022",
+        "front": "CBRN (chemical, biological, radiological and nuclear)",
+        "back": "NRBQ (nuclear, radiológico, biológico y químico)",
+        "example": "All first responders receive basic CBRN awareness training.",
+        "note": "Ojo al orden de las siglas: distinto en español."
+      },
+      {
+        "id": "voc-x1-cbrn-023",
+        "front": "decontamination",
+        "back": "descontaminación",
+        "example": "Casualties underwent decontamination before being taken to hospital.",
+        "note": "Coloquial “decon”. “Mass decontamination” = masiva."
+      },
+      {
+        "id": "voc-x1-cbrn-024",
+        "front": "hot / warm / cold zone",
+        "back": "zona caliente / templada / fría",
+        "example": "Only personnel in full protective equipment may enter the hot zone.",
+        "note": "Zonificación estándar en incidentes NRBQ."
+      },
+      {
+        "id": "voc-x1-cbrn-025",
+        "front": "nerve agent",
+        "back": "agente nervioso",
+        "example": "Symptoms were consistent with exposure to a nerve agent.",
+        "note": "Familia de armas químicas organofosforadas."
+      },
+      {
+        "id": "voc-x1-cbrn-026",
+        "front": "radiological dispersal device / dirty bomb",
+        "back": "dispositivo de dispersión radiológica / bomba sucia",
+        "example": "A dirty bomb is designed to cause panic rather than mass casualties.",
+        "note": "No es un arma nuclear."
+      },
+      {
+        "id": "voc-x1-cbrn-027",
+        "front": "dosimeter",
+        "back": "dosímetro",
+        "example": "Each officer at the scene was issued with a personal dosimeter.",
+        "note": "Mide la dosis de radiación acumulada."
+      },
+      {
+        "id": "voc-x1-cbrn-028",
+        "front": "respirator / protective suit",
+        "back": "equipo de respiración / traje de protección",
+        "example": "Respirators must be fit-tested for each user.",
+        "note": "“Fit test” = prueba de ajuste."
+      },
+      {
+        "id": "voc-x1-cbrn-029",
+        "front": "hazmat (hazardous materials)",
+        "back": "materias peligrosas",
+        "example": "A hazmat team was called after the lorry overturned.",
+        "note": "Muy común como adjetivo: “hazmat suit”."
+      },
+      {
+        "id": "voc-x1-cbrn-030",
+        "front": "first responder",
+        "back": "primer interviniente",
+        "example": "First responders must avoid becoming casualties themselves.",
+        "note": "Regla “Step 1-2-3” en incidentes con varias víctimas inexplicadas."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-gbv",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "gender-based violence",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Gender-based violence & victim support",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-x1-gbv-001",
+        "front": "gender-based violence (GBV)",
+        "back": "violencia de género",
+        "example": "Specialist units investigate gender-based violence across the province.",
+        "note": "En el marco legal español, la ejercida contra la mujer por su pareja o expareja."
+      },
+      {
+        "id": "voc-x1-gbv-002",
+        "front": "domestic abuse",
+        "back": "violencia doméstica / malos tratos en el ámbito familiar",
+        "example": "Domestic abuse is often hidden behind closed doors.",
+        "note": "Término británico preferido a “domestic violence” por incluir abusos no físicos."
+      },
+      {
+        "id": "voc-x1-gbv-003",
+        "front": "intimate partner violence (IPV)",
+        "back": "violencia en la pareja",
+        "example": "Intimate partner violence affects people of all backgrounds.",
+        "note": "Término usado en estudios internacionales."
+      },
+      {
+        "id": "voc-x1-gbv-004",
+        "front": "coercive control",
+        "back": "control coercitivo",
+        "example": "Coercive control can be as damaging as physical violence.",
+        "note": "Tipificado como delito en Inglaterra y Gales."
+      },
+      {
+        "id": "voc-x1-gbv-005",
+        "front": "protection order / restraining order",
+        "back": "orden de protección / orden de alejamiento",
+        "example": "He was arrested for approaching her in breach of the restraining order.",
+        "note": "“Non-molestation order” es otra figura británica."
+      },
+      {
+        "id": "voc-x1-gbv-006",
+        "front": "to breach an order",
+        "back": "quebrantar una orden",
+        "example": "Breaching a protection order is a criminal offence.",
+        "note": "Sustantivo: “breach of a court order”."
+      },
+      {
+        "id": "voc-x1-gbv-007",
+        "front": "high-risk victim",
+        "back": "víctima de riesgo alto",
+        "example": "High-risk victims are assigned a dedicated officer.",
+        "note": "En España se valora con un sistema de niveles de riesgo."
+      },
+      {
+        "id": "voc-x1-gbv-008",
+        "front": "stalking",
+        "back": "acoso / hostigamiento (acecho)",
+        "example": "Online stalking frequently escalates to physical approaches.",
+        "note": "“Stalker” = acosador."
+      },
+      {
+        "id": "voc-x1-gbv-009",
+        "front": "harassment",
+        "back": "acoso",
+        "example": "Repeated unwanted messages may constitute harassment.",
+        "note": "Pronunciación británica /ˈhærəsmənt/."
+      },
+      {
+        "id": "voc-x1-gbv-010",
+        "front": "sexual assault",
+        "back": "agresión sexual",
+        "example": "Victims of sexual assault should be offered a forensic examination as soon as possible.",
+        "note": "Registro jurídico; evitar eufemismos."
+      },
+      {
+        "id": "voc-x1-gbv-011",
+        "front": "consent",
+        "back": "consentimiento",
+        "example": "The case turned on whether consent had been freely given.",
+        "note": "“To give / withdraw consent”."
+      },
+      {
+        "id": "voc-x1-gbv-012",
+        "front": "survivor",
+        "back": "superviviente",
+        "example": "Many survivors prefer this term to “victim”.",
+        "note": "Matiz empoderador; uso según preferencia de la persona."
+      },
+      {
+        "id": "voc-x1-gbv-013",
+        "front": "victim support services",
+        "back": "servicios de atención a la víctima",
+        "example": "Officers must refer every victim to victim support services.",
+        "note": "“To refer someone to” = derivar."
+      },
+      {
+        "id": "voc-x1-gbv-014",
+        "front": "refuge / safe house",
+        "back": "centro / casa de acogida",
+        "example": "She and her children were moved to a refuge in another city.",
+        "note": "“Refuge” en el Reino Unido es el término habitual."
+      },
+      {
+        "id": "voc-x1-gbv-015",
+        "front": "safety plan",
+        "back": "plan de seguridad (personalizado)",
+        "example": "Together they drew up a safety plan, including a code word for emergencies.",
+        "note": "Medidas de autoprotección acordadas con la víctima."
+      },
+      {
+        "id": "voc-x1-gbv-016",
+        "front": "electronic monitoring / tag",
+        "back": "dispositivo telemático (pulsera)",
+        "example": "The offender’s electronic tag alerts the control centre if he enters the exclusion zone.",
+        "note": "“Exclusion zone” = zona de exclusión."
+      },
+      {
+        "id": "voc-x1-gbv-017",
+        "front": "perpetrator",
+        "back": "autor / agresor",
+        "example": "Perpetrator programmes aim to change abusive behaviour.",
+        "note": "Registro formal; “abuser” más general."
+      },
+      {
+        "id": "voc-x1-gbv-018",
+        "front": "repeat victimisation",
+        "back": "victimización reiterada / reincidencia sobre la víctima",
+        "example": "Repeat victimisation is a key risk indicator.",
+        "note": "Ortografía británica -isation."
+      },
+      {
+        "id": "voc-x1-gbv-019",
+        "front": "secondary victimisation",
+        "back": "victimización secundaria",
+        "example": "Insensitive questioning can lead to secondary victimisation.",
+        "note": "Daño causado por las propias instituciones."
+      },
+      {
+        "id": "voc-x1-gbv-020",
+        "front": "to disclose (abuse)",
+        "back": "revelar / contar (el maltrato)",
+        "example": "Victims often disclose abuse to a friend before reporting it.",
+        "note": "Sustantivo “disclosure”."
+      },
+      {
+        "id": "voc-x1-gbv-021",
+        "front": "under-reporting",
+        "back": "infradenuncia",
+        "example": "Under-reporting means official figures are only part of the picture.",
+        "note": "Relacionado con la “cifra negra” (dark figure of crime)."
+      },
+      {
+        "id": "voc-x1-gbv-022",
+        "front": "trauma-informed approach",
+        "back": "enfoque basado en el trauma",
+        "example": "A trauma-informed approach recognises that memory gaps are normal after abuse.",
+        "note": "Evita culpabilizar a la víctima."
+      },
+      {
+        "id": "voc-x1-gbv-023",
+        "front": "helpline",
+        "back": "línea de ayuda / teléfono de atención",
+        "example": "The 24-hour helpline does not appear on phone bills.",
+        "note": "En España, el 016."
+      },
+      {
+        "id": "voc-x1-gbv-024",
+        "front": "femicide",
+        "back": "feminicidio",
+        "example": "Every femicide is reviewed to identify missed opportunities.",
+        "note": "También “femicide” vs “feminicide” según autores."
+      },
+      {
+        "id": "voc-x1-gbv-025",
+        "front": "honour-based abuse",
+        "back": "violencia por motivos de “honor”",
+        "example": "Honour-based abuse may involve several family members.",
+        "note": "Ortografía británica “honour”."
+      },
+      {
+        "id": "voc-x1-gbv-026",
+        "front": "forced marriage",
+        "back": "matrimonio forzado",
+        "example": "Forced marriage is a criminal offence and a human rights violation.",
+        "note": "Distinto de matrimonio concertado (“arranged marriage”)."
+      },
+      {
+        "id": "voc-x1-gbv-027",
+        "front": "female genital mutilation (FGM)",
+        "back": "mutilación genital femenina",
+        "example": "Professionals have a duty to report known cases of FGM.",
+        "note": "Se pronuncian las siglas."
+      },
+      {
+        "id": "voc-x1-gbv-028",
+        "front": "non-fatal strangulation",
+        "back": "estrangulamiento no mortal",
+        "example": "Non-fatal strangulation is a strong predictor of future homicide.",
+        "note": "Indicador de riesgo muy relevante."
+      },
+      {
+        "id": "voc-x1-gbv-029",
+        "front": "multi-agency approach",
+        "back": "enfoque interinstitucional / coordinado",
+        "example": "A multi-agency approach brings together police, health and social services.",
+        "note": "“Multi-agency meeting” = mesa de coordinación."
+      },
+      {
+        "id": "voc-x1-gbv-030",
+        "front": "victim personal statement",
+        "back": "declaración de impacto de la víctima",
+        "example": "Her victim personal statement was read aloud at the sentencing hearing.",
+        "note": "Expone el impacto del delito; también “victim impact statement”."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-drugs2",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "drugs and organised crime",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Drugs & organised crime II",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-x1-drugs2-001",
+        "front": "cannabis resin / hashish",
+        "back": "resina de cannabis / hachís",
+        "example": "Officers seized two tonnes of cannabis resin hidden in a lorry.",
+        "note": "“Herbal cannabis” = marihuana (cogollos)."
+      },
+      {
+        "id": "voc-x1-drugs2-002",
+        "front": "indoor cannabis farm",
+        "back": "plantación indoor de cannabis",
+        "example": "The indoor cannabis farm was powered by an illegal connection to the grid.",
+        "note": "“Grow house” = vivienda usada como plantación."
+      },
+      {
+        "id": "voc-x1-drugs2-003",
+        "front": "new psychoactive substances (NPS)",
+        "back": "nuevas sustancias psicoactivas",
+        "example": "NPS are designed to evade existing drug controls.",
+        "note": "Antes “legal highs” en prensa británica."
+      },
+      {
+        "id": "voc-x1-drugs2-004",
+        "front": "clandestine laboratory",
+        "back": "laboratorio clandestino",
+        "example": "A clandestine laboratory producing synthetic drugs was dismantled.",
+        "note": "Coloquial “drug lab”."
+      },
+      {
+        "id": "voc-x1-drugs2-005",
+        "front": "drug precursors",
+        "back": "precursores de drogas",
+        "example": "Large orders of drug precursors were traced to a chemical broker.",
+        "note": "Sustancias químicas de doble uso, controladas."
+      },
+      {
+        "id": "voc-x1-drugs2-006",
+        "front": "cutting agent",
+        "back": "adulterante / sustancia de corte",
+        "example": "Lab analysis identified the cutting agent as a veterinary medicine.",
+        "note": "“To cut” = adulterar."
+      },
+      {
+        "id": "voc-x1-drugs2-007",
+        "front": "purity / street value",
+        "back": "pureza / valor en la calle",
+        "example": "The seizure has an estimated street value of €3 million.",
+        "note": "Las cifras de “street value” suelen inflarse."
+      },
+      {
+        "id": "voc-x1-drugs2-008",
+        "front": "drug courier / mule",
+        "back": "correo / mula de la droga",
+        "example": "The courier was paid a few hundred euros for the journey.",
+        "note": "Distinto de “money mule” (mula de dinero)."
+      },
+      {
+        "id": "voc-x1-drugs2-009",
+        "front": "body packer",
+        "back": "portador intracorporal (“culero”)",
+        "example": "X-rays revealed that the passenger was a body packer.",
+        "note": "“Swallower” = el que ingiere bolas."
+      },
+      {
+        "id": "voc-x1-drugs2-010",
+        "front": "controlled delivery",
+        "back": "entrega vigilada",
+        "example": "A controlled delivery allowed detectives to identify the recipients.",
+        "note": "Técnica de investigación autorizada judicialmente."
+      },
+      {
+        "id": "voc-x1-drugs2-011",
+        "front": "asset recovery",
+        "back": "recuperación de activos",
+        "example": "Asset recovery hits criminal groups where it hurts most.",
+        "note": "“Asset Recovery Office” = Oficina de Recuperación de Activos."
+      },
+      {
+        "id": "voc-x1-drugs2-012",
+        "front": "to freeze assets",
+        "back": "bloquear / congelar bienes",
+        "example": "The court froze assets worth €12 million.",
+        "note": "“Freezing order” = orden de embargo preventivo."
+      },
+      {
+        "id": "voc-x1-drugs2-013",
+        "front": "proceeds of crime",
+        "back": "productos / beneficios del delito",
+        "example": "The proceeds of crime were invested in luxury property.",
+        "note": "Expresión fija; “Proceeds of Crime Act” en el Reino Unido."
+      },
+      {
+        "id": "voc-x1-drugs2-014",
+        "front": "front company / shell company",
+        "back": "empresa pantalla / sociedad instrumental",
+        "example": "A shell company with no employees moved millions through its accounts.",
+        "note": "“Front” = fachada."
+      },
+      {
+        "id": "voc-x1-drugs2-015",
+        "front": "hawala",
+        "back": "hawala (sistema informal de transferencias)",
+        "example": "Payments were settled through a hawala network.",
+        "note": "Sistema basado en la confianza, sin movimiento físico de fondos."
+      },
+      {
+        "id": "voc-x1-drugs2-016",
+        "front": "extortion / protection racket",
+        "back": "extorsión / cobro de “protección”",
+        "example": "Local businesses were victims of a protection racket.",
+        "note": "“Racketeering” = crimen organizado lucrativo."
+      },
+      {
+        "id": "voc-x1-drugs2-017",
+        "front": "ringleader / kingpin",
+        "back": "cabecilla / capo",
+        "example": "The alleged ringleader ran the network from abroad.",
+        "note": "“Kingpin” se usa sobre todo en prensa."
+      },
+      {
+        "id": "voc-x1-drugs2-018",
+        "front": "enforcer",
+        "back": "brazo ejecutor / sicario",
+        "example": "The group’s enforcer was charged with two assaults.",
+        "note": "Encargado de la violencia dentro del grupo."
+      },
+      {
+        "id": "voc-x1-drugs2-019",
+        "front": "turf war",
+        "back": "guerra entre bandas (por el territorio)",
+        "example": "A turf war between rival gangs led to a spate of shootings.",
+        "note": "“Turf” = territorio controlado."
+      },
+      {
+        "id": "voc-x1-drugs2-020",
+        "front": "street dealer",
+        "back": "camello / traficante minorista",
+        "example": "Arresting street dealers rarely disrupts the supply chain.",
+        "note": "“To deal drugs” = traficar al menudeo."
+      },
+      {
+        "id": "voc-x1-drugs2-021",
+        "front": "stash house",
+        "back": "guardería / piso de almacenamiento",
+        "example": "The stash house contained cash, weapons and packaging material.",
+        "note": "Lugar de acopio de droga o dinero."
+      },
+      {
+        "id": "voc-x1-drugs2-022",
+        "front": "phone tapping / lawful interception",
+        "back": "intervención de las comunicaciones",
+        "example": "The judge authorised phone tapping for one month.",
+        "note": "“Wiretap” es americano."
+      },
+      {
+        "id": "voc-x1-drugs2-023",
+        "front": "encrypted communication platform",
+        "back": "plataforma de comunicaciones cifradas",
+        "example": "Infiltrating an encrypted communication platform led to hundreds of arrests.",
+        "note": "Usadas masivamente por redes criminales."
+      },
+      {
+        "id": "voc-x1-drugs2-024",
+        "front": "rip-on / rip-off (container method)",
+        "back": "gancho ciego (contaminación de contenedores)",
+        "example": "Using the rip-on/rip-off method, the drugs were placed in a legitimate container without the exporter’s knowledge.",
+        "note": "Requiere complicidad de trabajadores portuarios."
+      },
+      {
+        "id": "voc-x1-drugs2-025",
+        "front": "narco-submarine / semi-submersible",
+        "back": "narcosubmarino / semisumergible",
+        "example": "The semi-submersible was intercepted off the Galician coast.",
+        "note": "Embarcación de bajo perfil difícil de detectar."
+      },
+      {
+        "id": "voc-x1-drugs2-026",
+        "front": "to dismantle a network",
+        "back": "desarticular una red",
+        "example": "The operation dismantled a network operating in four countries.",
+        "note": "Colocación muy frecuente en notas de prensa policiales."
+      },
+      {
+        "id": "voc-x1-drugs2-027",
+        "front": "bribery / to bribe",
+        "back": "soborno / sobornar (cohecho)",
+        "example": "A customs officer was arrested on suspicion of bribery.",
+        "note": "“Corruption of public officials” en lenguaje jurídico."
+      },
+      {
+        "id": "voc-x1-drugs2-028",
+        "front": "high-value target (HVT)",
+        "back": "objetivo de alto valor",
+        "example": "The task force focuses on high-value targets rather than low-level dealers.",
+        "note": "Personas clave en la estructura criminal."
+      },
+      {
+        "id": "voc-x1-drugs2-029",
+        "front": "drug-related violence",
+        "back": "violencia vinculada al narcotráfico",
+        "example": "Drug-related violence has spilled over into residential areas.",
+        "note": "“To spill over” = extenderse."
+      },
+      {
+        "id": "voc-x1-drugs2-030",
+        "front": "county lines",
+        "back": "líneas de distribución (redes que usan menores para traficar)",
+        "example": "County lines gangs exploit children to move drugs to smaller towns.",
+        "note": "Fenómeno británico; útil para hablar de explotación de menores."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-interview",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "investigative interviewing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Interview & interrogation techniques",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-x1-interview-001",
+        "front": "investigative interviewing",
+        "back": "entrevista de investigación",
+        "example": "Investigative interviewing seeks accurate information, not a confession.",
+        "note": "Enfoque opuesto al interrogatorio acusatorio."
+      },
+      {
+        "id": "voc-x1-interview-002",
+        "front": "PEACE model",
+        "back": "modelo PEACE",
+        "example": "All detectives are trained in the PEACE model.",
+        "note": "Planning, Engage and explain, Account, Closure, Evaluate."
+      },
+      {
+        "id": "voc-x1-interview-003",
+        "front": "to build rapport",
+        "back": "crear sintonía / establecer una relación de confianza",
+        "example": "Building rapport early made the witness far more forthcoming.",
+        "note": "“Rapport” se pronuncia /ræˈpɔː/ (la t es muda)."
+      },
+      {
+        "id": "voc-x1-interview-004",
+        "front": "open question",
+        "back": "pregunta abierta",
+        "example": "Start with an open question such as “Tell me what happened”.",
+        "note": "Fórmula TED: Tell, Explain, Describe."
+      },
+      {
+        "id": "voc-x1-interview-005",
+        "front": "closed question",
+        "back": "pregunta cerrada",
+        "example": "Closed questions are useful for clarifying specific details.",
+        "note": "Se responden con sí/no o un dato."
+      },
+      {
+        "id": "voc-x1-interview-006",
+        "front": "leading question",
+        "back": "pregunta sugestiva / inductora",
+        "example": "Avoid leading questions such as “The car was red, wasn’t it?”.",
+        "note": "Pueden contaminar el testimonio."
+      },
+      {
+        "id": "voc-x1-interview-007",
+        "front": "probing question",
+        "back": "pregunta de sondeo / de profundización",
+        "example": "Probing questions helped fill gaps in the timeline.",
+        "note": "Típicas: who, what, where, when, why, how."
+      },
+      {
+        "id": "voc-x1-interview-008",
+        "front": "free recall",
+        "back": "relato libre",
+        "example": "Allow uninterrupted free recall before asking any questions.",
+        "note": "Fase clave de la entrevista cognitiva."
+      },
+      {
+        "id": "voc-x1-interview-009",
+        "front": "cognitive interview",
+        "back": "entrevista cognitiva",
+        "example": "The cognitive interview helped the witness recall the number plate.",
+        "note": "Técnicas: reinstauración del contexto, cambio de perspectiva..."
+      },
+      {
+        "id": "voc-x1-interview-010",
+        "front": "to elicit",
+        "back": "obtener / sonsacar (información)",
+        "example": "The aim is to elicit a full and accurate account.",
+        "note": "No confundir con “illicit” (ilícito)."
+      },
+      {
+        "id": "voc-x1-interview-011",
+        "front": "account",
+        "back": "relato / versión",
+        "example": "The suspect’s account changed significantly between interviews.",
+        "note": "“To give an account of” = relatar."
+      },
+      {
+        "id": "voc-x1-interview-012",
+        "front": "inconsistency",
+        "back": "contradicción / incoherencia",
+        "example": "Inconsistencies should be explored, not immediately confronted.",
+        "note": "Adjetivo “inconsistent”."
+      },
+      {
+        "id": "voc-x1-interview-013",
+        "front": "to challenge (an account)",
+        "back": "confrontar / cuestionar (una versión)",
+        "example": "The interviewer challenged the alibi with CCTV evidence.",
+        "note": "Fase de “challenge” en el modelo PEACE."
+      },
+      {
+        "id": "voc-x1-interview-014",
+        "front": "pre-interview disclosure",
+        "back": "información previa facilitada a la defensa",
+        "example": "The solicitor requested further pre-interview disclosure.",
+        "note": "Qué pruebas se revelan antes de la entrevista."
+      },
+      {
+        "id": "voc-x1-interview-015",
+        "front": "duty solicitor",
+        "back": "abogado de oficio (de guardia)",
+        "example": "He declined the duty solicitor and was interviewed alone.",
+        "note": "“Legal adviser / representative”."
+      },
+      {
+        "id": "voc-x1-interview-016",
+        "front": "right to remain silent",
+        "back": "derecho a no declarar",
+        "example": "The detainee was reminded of his right to remain silent.",
+        "note": "También “right to silence”."
+      },
+      {
+        "id": "voc-x1-interview-017",
+        "front": "“no comment” interview",
+        "back": "entrevista en la que el sospechoso no responde",
+        "example": "Even in a “no comment” interview, all relevant questions must be put.",
+        "note": "Práctica común aconsejada por abogados en el Reino Unido."
+      },
+      {
+        "id": "voc-x1-interview-018",
+        "front": "appropriate adult",
+        "back": "adulto responsable (acompañante de menor o persona vulnerable)",
+        "example": "An appropriate adult must be present when interviewing a minor.",
+        "note": "Salvaguarda para personas vulnerables."
+      },
+      {
+        "id": "voc-x1-interview-019",
+        "front": "interpreter",
+        "back": "intérprete",
+        "example": "The interview was suspended until a qualified interpreter arrived.",
+        "note": "“Translator” trabaja por escrito; “interpreter”, oralmente."
+      },
+      {
+        "id": "voc-x1-interview-020",
+        "front": "false confession",
+        "back": "confesión falsa",
+        "example": "Long, oppressive interviews increase the risk of a false confession.",
+        "note": "Vulnerables y menores, especialmente expuestos."
+      },
+      {
+        "id": "voc-x1-interview-021",
+        "front": "oppressive questioning",
+        "back": "interrogatorio opresivo / coactivo",
+        "example": "Evidence obtained through oppressive questioning may be excluded.",
+        "note": "“Oppression” = coacción."
+      },
+      {
+        "id": "voc-x1-interview-022",
+        "front": "recorded interview",
+        "back": "entrevista grabada",
+        "example": "All suspect interviews are audio-visually recorded.",
+        "note": "“Transcript” = transcripción."
+      },
+      {
+        "id": "voc-x1-interview-023",
+        "front": "non-verbal cues",
+        "back": "señales no verbales",
+        "example": "Non-verbal cues are unreliable indicators of deception.",
+        "note": "Mito frecuente: “los mentirosos no miran a los ojos”."
+      },
+      {
+        "id": "voc-x1-interview-024",
+        "front": "active listening",
+        "back": "escucha activa",
+        "example": "Active listening shows the interviewee that their account matters.",
+        "note": "Asentir, parafrasear, silencios."
+      },
+      {
+        "id": "voc-x1-interview-025",
+        "front": "to summarise (back)",
+        "back": "resumir (devolviendo lo dicho)",
+        "example": "The officer summarised back the key points to check accuracy.",
+        "note": "Permite corregir malentendidos."
+      },
+      {
+        "id": "voc-x1-interview-026",
+        "front": "version of events",
+        "back": "versión de los hechos",
+        "example": "Her version of events was consistent with the forensic evidence.",
+        "note": "Colocación fija."
+      },
+      {
+        "id": "voc-x1-interview-027",
+        "front": "strategic use of evidence",
+        "back": "uso estratégico de la prueba",
+        "example": "Through the strategic use of evidence, the interviewer revealed facts gradually.",
+        "note": "Técnica SUE (Strategic Use of Evidence)."
+      },
+      {
+        "id": "voc-x1-interview-028",
+        "front": "pause / strategic silence",
+        "back": "pausa / silencio estratégico",
+        "example": "A well-timed pause often prompts the interviewee to add detail.",
+        "note": "Herramienta subestimada."
+      },
+      {
+        "id": "voc-x1-interview-029",
+        "front": "to corroborate",
+        "back": "corroborar",
+        "example": "Phone records corroborated the witness’s account.",
+        "note": "Sustantivo “corroboration”."
+      },
+      {
+        "id": "voc-x1-interview-030",
+        "front": "interview plan",
+        "back": "plan de entrevista",
+        "example": "The interview plan set out the topics and the order of disclosure.",
+        "note": "Fase P (Planning) del modelo PEACE."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-civilservice",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "public administration",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Public administration & oposiciones vocabulary",
+    "category": "police",
+    "cards": [
+      {
+        "id": "voc-x1-civilservice-001",
+        "front": "civil service",
+        "back": "función pública / administración",
+        "example": "She has spent her entire career in the civil service.",
+        "note": "En el Reino Unido se refiere a la administración central."
+      },
+      {
+        "id": "voc-x1-civilservice-002",
+        "front": "civil servant / public servant",
+        "back": "funcionario / empleado público",
+        "example": "Civil servants are expected to act impartially.",
+        "note": "“Public servant” es más amplio (incluye policía, docentes...)."
+      },
+      {
+        "id": "voc-x1-civilservice-003",
+        "front": "competitive examination",
+        "back": "oposición",
+        "example": "Entry to the force is through a competitive examination.",
+        "note": "No existe traducción exacta: explica el sistema al hablar de “oposiciones”."
+      },
+      {
+        "id": "voc-x1-civilservice-004",
+        "front": "merit-based selection",
+        "back": "selección basada en el mérito",
+        "example": "Merit-based selection is a constitutional principle of public employment.",
+        "note": "Junto a igualdad, mérito, capacidad y publicidad."
+      },
+      {
+        "id": "voc-x1-civilservice-005",
+        "front": "equality, merit and ability",
+        "back": "igualdad, mérito y capacidad",
+        "example": "Recruitment must respect the principles of equality, merit and ability.",
+        "note": "Fórmula útil para explicar el acceso al empleo público español."
+      },
+      {
+        "id": "voc-x1-civilservice-006",
+        "front": "public employment offer",
+        "back": "oferta de empleo público",
+        "example": "This year’s public employment offer includes 2,000 police posts.",
+        "note": "Explicación necesaria para hablantes no españoles."
+      },
+      {
+        "id": "voc-x1-civilservice-007",
+        "front": "call for applications",
+        "back": "convocatoria",
+        "example": "The call for applications was published in the official gazette.",
+        "note": "También “notice of competition”."
+      },
+      {
+        "id": "voc-x1-civilservice-008",
+        "front": "official gazette",
+        "back": "boletín oficial (BOE)",
+        "example": "The list of successful candidates appears in the official gazette.",
+        "note": "Para el BOE: “Official State Gazette”."
+      },
+      {
+        "id": "voc-x1-civilservice-009",
+        "front": "vacancy / post",
+        "back": "plaza / puesto vacante",
+        "example": "There are 300 vacancies for 9,000 applicants.",
+        "note": "“To fill a post” = cubrir una plaza."
+      },
+      {
+        "id": "voc-x1-civilservice-010",
+        "front": "syllabus",
+        "back": "temario",
+        "example": "The syllabus covers 75 topics, from constitutional law to criminology.",
+        "note": "Plural: syllabuses / syllabi."
+      },
+      {
+        "id": "voc-x1-civilservice-011",
+        "front": "eligibility requirements",
+        "back": "requisitos de admisión",
+        "example": "Candidates must meet the eligibility requirements on the closing date.",
+        "note": "“Eligible” = que cumple los requisitos."
+      },
+      {
+        "id": "voc-x1-civilservice-012",
+        "front": "provisional list of admitted candidates",
+        "back": "lista provisional de admitidos",
+        "example": "The provisional list of admitted candidates is open to claims for ten days.",
+        "note": "“Excluded” = excluidos."
+      },
+      {
+        "id": "voc-x1-civilservice-013",
+        "front": "selection board / panel",
+        "back": "tribunal (de oposición)",
+        "example": "The selection board marks the written papers anonymously.",
+        "note": "No “court”: “court” es judicial."
+      },
+      {
+        "id": "voc-x1-civilservice-014",
+        "front": "pass mark / cut-off score",
+        "back": "nota mínima / nota de corte",
+        "example": "The cut-off score rose because so many candidates performed well.",
+        "note": "“Pass mark” = aprobado; “cut-off” depende de plazas."
+      },
+      {
+        "id": "voc-x1-civilservice-015",
+        "front": "competition based on merits and exams",
+        "back": "concurso-oposición",
+        "example": "In a competition based on merits and exams, experience adds points to the exam score.",
+        "note": "Concurso = solo méritos."
+      },
+      {
+        "id": "voc-x1-civilservice-016",
+        "front": "to sit an exam",
+        "back": "presentarse a un examen",
+        "example": "He is sitting the exam for the third time.",
+        "note": "Británico; también “to take an exam”. “To pass” = aprobar, nunca “presentarse”."
+      },
+      {
+        "id": "voc-x1-civilservice-017",
+        "front": "to lodge a claim / an objection",
+        "back": "presentar una reclamación / alegación",
+        "example": "Candidates may lodge a claim against the provisional marks.",
+        "note": "Registro administrativo formal."
+      },
+      {
+        "id": "voc-x1-civilservice-018",
+        "front": "probationary period",
+        "back": "periodo de prácticas / de prueba",
+        "example": "Officers complete a probationary period before being appointed.",
+        "note": "“On probation” también = en libertad condicional (contexto penal)."
+      },
+      {
+        "id": "voc-x1-civilservice-019",
+        "front": "to be appointed",
+        "back": "ser nombrado / tomar posesión",
+        "example": "Successful candidates will be appointed as career civil servants.",
+        "note": "“Appointment” = nombramiento."
+      },
+      {
+        "id": "voc-x1-civilservice-020",
+        "front": "permanent post / tenure",
+        "back": "plaza fija / en propiedad",
+        "example": "Securing a permanent post offers long-term job security.",
+        "note": "“Tenure” es habitual en el ámbito académico."
+      },
+      {
+        "id": "voc-x1-civilservice-021",
+        "front": "seniority",
+        "back": "antigüedad",
+        "example": "Promotion depends partly on seniority.",
+        "note": "“Length of service” es sinónimo."
+      },
+      {
+        "id": "voc-x1-civilservice-022",
+        "front": "internal promotion",
+        "back": "promoción interna",
+        "example": "Half of the sergeant posts are filled by internal promotion.",
+        "note": "Frente a “open competition” (turno libre)."
+      },
+      {
+        "id": "voc-x1-civilservice-023",
+        "front": "pay scale",
+        "back": "escala retributiva",
+        "example": "Officers move up the pay scale every three years.",
+        "note": "“Increment” = trienio / incremento."
+      },
+      {
+        "id": "voc-x1-civilservice-024",
+        "front": "leave of absence",
+        "back": "excedencia / permiso",
+        "example": "She took a leave of absence to care for her father.",
+        "note": "Para “excedencia voluntaria”: “voluntary unpaid leave”."
+      },
+      {
+        "id": "voc-x1-civilservice-025",
+        "front": "transparency",
+        "back": "transparencia",
+        "example": "Publishing the marking criteria improves transparency.",
+        "note": "Valor central de la buena administración."
+      },
+      {
+        "id": "voc-x1-civilservice-026",
+        "front": "accountability",
+        "back": "rendición de cuentas",
+        "example": "Public bodies are subject to democratic accountability.",
+        "note": "No tiene traducción de una palabra; “accountable to” = responder ante."
+      },
+      {
+        "id": "voc-x1-civilservice-027",
+        "front": "impartiality",
+        "back": "imparcialidad",
+        "example": "Impartiality requires civil servants to set aside personal views.",
+        "note": "Adjetivo “impartial”."
+      },
+      {
+        "id": "voc-x1-civilservice-028",
+        "front": "administrative procedure",
+        "back": "procedimiento administrativo",
+        "example": "The fine was annulled for failure to follow administrative procedure.",
+        "note": "Ley de procedimiento administrativo común."
+      },
+      {
+        "id": "voc-x1-civilservice-029",
+        "front": "statement of reasons",
+        "back": "motivación (de un acto administrativo)",
+        "example": "Every decision must include a statement of reasons.",
+        "note": "“To give reasons for a decision”."
+      },
+      {
+        "id": "voc-x1-civilservice-030",
+        "front": "time limit",
+        "back": "plazo",
+        "example": "The time limit for appeals is one month from notification.",
+        "note": "“Within the time limit” = en plazo."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-opinion",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "opinion and argument",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Opinion & argument (C1 verbs and adjectives)",
+    "category": "general",
+    "cards": [
+      {
+        "id": "voc-x1-opinion-001",
+        "front": "to contend (that)",
+        "back": "sostener / afirmar (en un debate)",
+        "example": "Critics contend that the reform will widen inequality.",
+        "note": "Muy formal; “contention” = argumento, tesis."
+      },
+      {
+        "id": "voc-x1-opinion-002",
+        "front": "to maintain (that)",
+        "back": "sostener / mantener (una opinión)",
+        "example": "He has always maintained that the accident was avoidable.",
+        "note": "Sentido de seguir afirmando algo pese a la oposición."
+      },
+      {
+        "id": "voc-x1-opinion-003",
+        "front": "to assert",
+        "back": "afirmar (con rotundidad)",
+        "example": "The report asserts that the targets are unrealistic.",
+        "note": "“Assertive” = firme, seguro de sí mismo."
+      },
+      {
+        "id": "voc-x1-opinion-004",
+        "front": "to concede (that)",
+        "back": "admitir / reconocer (a regañadientes)",
+        "example": "I concede that the scheme has some merit, but the costs are prohibitive.",
+        "note": "Útil en ensayos para la concesión antes del contraargumento."
+      },
+      {
+        "id": "voc-x1-opinion-005",
+        "front": "to dispute",
+        "back": "cuestionar / rebatir",
+        "example": "Nobody disputes the need for action; the question is how.",
+        "note": "“Beyond dispute” = indiscutible."
+      },
+      {
+        "id": "voc-x1-opinion-006",
+        "front": "to qualify (a statement)",
+        "back": "matizar (una afirmación)",
+        "example": "I would qualify that claim: the policy works, but only in large cities.",
+        "note": "Falso amigo parcial: aquí no es “calificar”. “Unqualified support” = apoyo sin reservas."
+      },
+      {
+        "id": "voc-x1-opinion-007",
+        "front": "to advocate",
+        "back": "abogar por / defender",
+        "example": "Many experts advocate a gradual approach.",
+        "note": "Sin preposición: “advocate something”, NO “advocate for” en británico formal."
+      },
+      {
+        "id": "voc-x1-opinion-008",
+        "front": "to endorse",
+        "back": "respaldar / apoyar (públicamente)",
+        "example": "The proposal was endorsed by both unions.",
+        "note": "Sustantivo “endorsement”."
+      },
+      {
+        "id": "voc-x1-opinion-009",
+        "front": "to dismiss",
+        "back": "desestimar / descartar",
+        "example": "It would be a mistake to dismiss these concerns as scaremongering.",
+        "note": "“To dismiss” también = despedir."
+      },
+      {
+        "id": "voc-x1-opinion-010",
+        "front": "to downplay",
+        "back": "restar importancia a",
+        "example": "The company tried to downplay the extent of the leak.",
+        "note": "Sinónimo: “to play down”."
+      },
+      {
+        "id": "voc-x1-opinion-011",
+        "front": "to overstate",
+        "back": "exagerar",
+        "example": "The importance of early education can hardly be overstated.",
+        "note": "“Cannot be overstated” = es imposible exagerarlo."
+      },
+      {
+        "id": "voc-x1-opinion-012",
+        "front": "to acknowledge",
+        "back": "reconocer",
+        "example": "We must acknowledge that the policy has had unintended consequences.",
+        "note": "Formal; también “acusar recibo” (acknowledge receipt)."
+      },
+      {
+        "id": "voc-x1-opinion-013",
+        "front": "to call into question",
+        "back": "poner en entredicho",
+        "example": "These findings call into question the reliability of the data.",
+        "note": "Variante: “to cast doubt on”."
+      },
+      {
+        "id": "voc-x1-opinion-014",
+        "front": "to take issue with",
+        "back": "discrepar de / poner reparos a",
+        "example": "I take issue with the claim that technology alone will solve the problem.",
+        "note": "Siempre con “with”."
+      },
+      {
+        "id": "voc-x1-opinion-015",
+        "front": "to subscribe to (a view)",
+        "back": "suscribir / compartir (una opinión)",
+        "example": "I do not subscribe to the view that young people are apathetic.",
+        "note": "Muy útil para introducir la propia postura."
+      },
+      {
+        "id": "voc-x1-opinion-016",
+        "front": "to champion",
+        "back": "defender / abanderar",
+        "example": "She has championed the rights of rural communities for decades.",
+        "note": "Verbo transitivo, sin preposición."
+      },
+      {
+        "id": "voc-x1-opinion-017",
+        "front": "to uphold",
+        "back": "defender / mantener (un principio, una decisión)",
+        "example": "The court upheld the original ruling.",
+        "note": "Pasado: upheld."
+      },
+      {
+        "id": "voc-x1-opinion-018",
+        "front": "to rebut",
+        "back": "rebatir / refutar",
+        "example": "The minister rebutted the accusation point by point.",
+        "note": "Sustantivo “rebuttal”."
+      },
+      {
+        "id": "voc-x1-opinion-019",
+        "front": "to posit",
+        "back": "postular / plantear (como hipótesis)",
+        "example": "The authors posit that trust in institutions is declining.",
+        "note": "Muy formal y académico; sinónimo de “to propose”."
+      },
+      {
+        "id": "voc-x1-opinion-020",
+        "front": "to hold the view that",
+        "back": "opinar / sostener que",
+        "example": "Many economists hold the view that the tax is counterproductive.",
+        "note": "Alternativa formal a “think”."
+      },
+      {
+        "id": "voc-x1-opinion-021",
+        "front": "compelling",
+        "back": "convincente / contundente",
+        "example": "There is compelling evidence that the measure saves lives.",
+        "note": "“A compelling case for” = argumentos de peso a favor de."
+      },
+      {
+        "id": "voc-x1-opinion-022",
+        "front": "persuasive",
+        "back": "persuasivo / convincente",
+        "example": "Her argument was persuasive but not entirely accurate.",
+        "note": "“Persuasion” = persuasión."
+      },
+      {
+        "id": "voc-x1-opinion-023",
+        "front": "cogent",
+        "back": "sólido / bien razonado",
+        "example": "He presented a cogent case for investing in rail.",
+        "note": "Muy formal; típico de C1-C2."
+      },
+      {
+        "id": "voc-x1-opinion-024",
+        "front": "flawed",
+        "back": "defectuoso / con fallos",
+        "example": "The survey was flawed because the sample was too small.",
+        "note": "“Fundamentally flawed” = viciado de raíz."
+      },
+      {
+        "id": "voc-x1-opinion-025",
+        "front": "tenuous",
+        "back": "endeble / tenue",
+        "example": "The link between the two events is tenuous at best.",
+        "note": "“At best” refuerza la debilidad."
+      },
+      {
+        "id": "voc-x1-opinion-026",
+        "front": "sound",
+        "back": "sólido / fundado",
+        "example": "The plan is based on sound financial principles.",
+        "note": "“Safe and sound” = sano y salvo."
+      },
+      {
+        "id": "voc-x1-opinion-027",
+        "front": "far-fetched",
+        "back": "inverosímil / rebuscado",
+        "example": "The idea that the fire was deliberate seemed far-fetched at first.",
+        "note": "Adjetivo compuesto con guion."
+      },
+      {
+        "id": "voc-x1-opinion-028",
+        "front": "debatable",
+        "back": "discutible",
+        "example": "Whether the reform has improved standards is debatable.",
+        "note": "Más suave que “wrong”."
+      },
+      {
+        "id": "voc-x1-opinion-029",
+        "front": "untenable",
+        "back": "insostenible",
+        "example": "The minister’s position became untenable after the leak.",
+        "note": "Para argumentos o situaciones."
+      },
+      {
+        "id": "voc-x1-opinion-030",
+        "front": "misguided",
+        "back": "equivocado / mal enfocado",
+        "example": "The campaign, though well-intentioned, was misguided.",
+        "note": "Implica buena intención con mal resultado."
+      },
+      {
+        "id": "voc-x1-opinion-031",
+        "front": "short-sighted",
+        "back": "miope / cortoplacista",
+        "example": "Cutting the training budget would be short-sighted.",
+        "note": "Ortografía británica con guion."
+      },
+      {
+        "id": "voc-x1-opinion-032",
+        "front": "one-sided",
+        "back": "parcial / sesgado",
+        "example": "The documentary gave a rather one-sided account of the dispute.",
+        "note": "Contrario: “balanced”."
+      },
+      {
+        "id": "voc-x1-opinion-033",
+        "front": "well-founded",
+        "back": "fundado",
+        "example": "Residents’ fears proved to be well-founded.",
+        "note": "“Unfounded” = infundado."
+      },
+      {
+        "id": "voc-x1-opinion-034",
+        "front": "unfounded",
+        "back": "infundado",
+        "example": "The rumours of closure are completely unfounded.",
+        "note": "Combina con “allegations, fears, claims”."
+      },
+      {
+        "id": "voc-x1-opinion-035",
+        "front": "indisputable",
+        "back": "indiscutible",
+        "example": "It is indisputable that the climate is changing.",
+        "note": "Sinónimo: “undeniable”."
+      },
+      {
+        "id": "voc-x1-opinion-036",
+        "front": "simplistic",
+        "back": "simplista",
+        "example": "Blaming social media alone is a simplistic explanation.",
+        "note": "No es lo mismo que “simple” (sencillo)."
+      },
+      {
+        "id": "voc-x1-opinion-037",
+        "front": "nuanced",
+        "back": "matizado",
+        "example": "The issue calls for a more nuanced debate.",
+        "note": "“Nuance” = matiz."
+      },
+      {
+        "id": "voc-x1-opinion-038",
+        "front": "biased",
+        "back": "sesgado / parcial",
+        "example": "The questionnaire was biased towards positive answers.",
+        "note": "“Bias” = sesgo; “unbiased” = imparcial."
+      },
+      {
+        "id": "voc-x1-opinion-039",
+        "front": "thought-provoking",
+        "back": "que invita a la reflexión",
+        "example": "It is a thought-provoking book that raises more questions than it answers.",
+        "note": "Muy útil en reseñas (reviews)."
+      },
+      {
+        "id": "voc-x1-opinion-040",
+        "front": "questionable",
+        "back": "cuestionable / dudoso",
+        "example": "The ethics of the experiment are questionable.",
+        "note": "Suaviza una crítica."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-wordfam",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "word formation",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Word formation families",
+    "category": "general",
+    "cards": [
+      {
+        "id": "voc-x1-wordfam-001",
+        "front": "rely → reliable, reliability, unreliable, reliance",
+        "back": "depender/confiar → fiable, fiabilidad, poco fiable, dependencia",
+        "example": "Our heavy reliance on a single supplier has made deliveries unreliable.",
+        "note": "“Reliance ON”; ojo: “reliable” (y → i)."
+      },
+      {
+        "id": "voc-x1-wordfam-002",
+        "front": "able → ability, enable, inability, disabled",
+        "back": "capaz → capacidad, permitir, incapacidad, discapacitado",
+        "example": "Her inability to delegate eventually limited the team.",
+        "note": "Negativo de “ability”: “inability”, no “unability”."
+      },
+      {
+        "id": "voc-x1-wordfam-003",
+        "front": "compete → competition, competitive, competitor, competitiveness",
+        "back": "competir → competencia, competitivo, competidor, competitividad",
+        "example": "Rising energy costs threaten the competitiveness of European industry.",
+        "note": "“Competence” = aptitud, otra familia."
+      },
+      {
+        "id": "voc-x1-wordfam-004",
+        "front": "decide → decision, decisive, indecisive, decisively",
+        "back": "decidir → decisión, decisivo, indeciso, de forma decisiva",
+        "example": "The government acted decisively once the data were available.",
+        "note": "“Decisive” = determinante o resuelto."
+      },
+      {
+        "id": "voc-x1-wordfam-005",
+        "front": "depend → dependent, dependence, independent, dependable",
+        "back": "depender → dependiente, dependencia, independiente, fiable",
+        "example": "He is a dependable colleague who never misses a deadline.",
+        "note": "“Dependant” (BrE) = persona a cargo; “dependent” = adjetivo."
+      },
+      {
+        "id": "voc-x1-wordfam-006",
+        "front": "apply → applicant, application, applicable, inapplicable",
+        "back": "solicitar/aplicar → solicitante, solicitud/aplicación, aplicable, inaplicable",
+        "example": "The rule is not applicable to temporary staff.",
+        "note": "“Appliance” = electrodoméstico (misma raíz, otro sentido)."
+      },
+      {
+        "id": "voc-x1-wordfam-007",
+        "front": "sufficient → sufficiency, insufficient, sufficiently",
+        "back": "suficiente → suficiencia, insuficiente, suficientemente",
+        "example": "The evidence was insufficient to bring charges.",
+        "note": "Típico en word formation con prefijo negativo “in-”."
+      },
+      {
+        "id": "voc-x1-wordfam-008",
+        "front": "strong → strength, strengthen, strongly",
+        "back": "fuerte → fuerza, reforzar, firmemente",
+        "example": "The new law strengthens the rights of consumers.",
+        "note": "Ortografía: “strength” (ng + th)."
+      },
+      {
+        "id": "voc-x1-wordfam-009",
+        "front": "wide → width, widen, widely, widespread",
+        "back": "ancho → anchura, ensanchar, ampliamente, generalizado",
+        "example": "There is widespread support for the plan.",
+        "note": "“Widespread” se escribe junto."
+      },
+      {
+        "id": "voc-x1-wordfam-010",
+        "front": "deep → depth, deepen, deeply",
+        "back": "profundo → profundidad, profundizar, profundamente",
+        "example": "The crisis has deepened divisions within the party.",
+        "note": "“In depth” = en profundidad."
+      },
+      {
+        "id": "voc-x1-wordfam-011",
+        "front": "long → length, lengthen, lengthy, prolong",
+        "back": "largo → longitud, alargar, extenso, prolongar",
+        "example": "After lengthy negotiations, the deal was signed.",
+        "note": "“Lengthy” suele tener matiz negativo (demasiado largo)."
+      },
+      {
+        "id": "voc-x1-wordfam-012",
+        "front": "secure → security, insecure, insecurity, securely",
+        "back": "seguro → seguridad, inseguro, inseguridad, de forma segura",
+        "example": "Job insecurity has risen among young workers.",
+        "note": "“Safety” = seguridad física; “security” = protección frente a amenazas."
+      },
+      {
+        "id": "voc-x1-wordfam-013",
+        "front": "just → justice, justify, justification, unjustified, injustice",
+        "back": "justo → justicia, justificar, justificación, injustificado, injusticia",
+        "example": "There is no justification for such a steep price rise.",
+        "note": "“Unjust” (injusto) vs “unjustified” (injustificado)."
+      },
+      {
+        "id": "voc-x1-wordfam-014",
+        "front": "sign → signify, significant, significance, insignificant, signature",
+        "back": "signo → significar, significativo, importancia, insignificante, firma",
+        "example": "The significance of the discovery was not immediately clear.",
+        "note": "“Significance” = importancia, no “significado” (meaning)."
+      },
+      {
+        "id": "voc-x1-wordfam-015",
+        "front": "prevent → prevention, preventive / preventative, preventable",
+        "back": "prevenir/impedir → prevención, preventivo, evitable",
+        "example": "Most of these injuries were entirely preventable.",
+        "note": "“Prevent” = impedir/evitar, no “avisar” (falso amigo)."
+      },
+      {
+        "id": "voc-x1-wordfam-016",
+        "front": "compare → comparison, comparable, comparative, incomparable",
+        "back": "comparar → comparación, comparable, comparativo, incomparable",
+        "example": "Salaries are low in comparison with other sectors.",
+        "note": "“Comparable” se acentúa en la primera sílaba: /ˈkɒmpərəbl/."
+      },
+      {
+        "id": "voc-x1-wordfam-017",
+        "front": "predict → prediction, predictable, unpredictable, predictably",
+        "back": "predecir → predicción, previsible, imprevisible, como era de esperar",
+        "example": "Predictably, the announcement caused an outcry.",
+        "note": "“Predictably” como adverbio oracional al inicio."
+      },
+      {
+        "id": "voc-x1-wordfam-018",
+        "front": "accept → acceptance, acceptable, unacceptable, acceptability",
+        "back": "aceptar → aceptación, aceptable, inaceptable, aceptabilidad",
+        "example": "Public acceptance of wind farms varies by region.",
+        "note": "Termina en -able, no -ible."
+      },
+      {
+        "id": "voc-x1-wordfam-019",
+        "front": "exist → existence, existing, non-existent, coexist",
+        "back": "existir → existencia, existente, inexistente, coexistir",
+        "example": "Support for victims was virtually non-existent in rural areas.",
+        "note": "Ortografía: “existence” con -ence."
+      },
+      {
+        "id": "voc-x1-wordfam-020",
+        "front": "consider → consideration, considerable, considerate, inconsiderate",
+        "back": "considerar → consideración, considerable, considerado (atento), desconsiderado",
+        "example": "It was inconsiderate of them to park across the entrance.",
+        "note": "“Considerable” = cuantioso; “considerate” = atento con los demás."
+      },
+      {
+        "id": "voc-x1-wordfam-021",
+        "front": "responsible → responsibility, irresponsible, responsibly",
+        "back": "responsable → responsabilidad, irresponsable, de forma responsable",
+        "example": "It would be irresponsible to ignore the warnings.",
+        "note": "Prefijo “ir-” ante r."
+      },
+      {
+        "id": "voc-x1-wordfam-022",
+        "front": "legal → legality, illegal, legalise, legislation",
+        "back": "legal → legalidad, ilegal, legalizar, legislación",
+        "example": "The legality of the search was challenged in court.",
+        "note": "Prefijo “il-” ante l; británico “legalise”."
+      },
+      {
+        "id": "voc-x1-wordfam-023",
+        "front": "regular → regulate, regulation, irregular, irregularity",
+        "back": "regular → regular (normar), normativa, irregular, irregularidad",
+        "example": "Auditors found several irregularities in the accounts.",
+        "note": "“Regulate” = regular por normas; no “arreglar”."
+      },
+      {
+        "id": "voc-x1-wordfam-024",
+        "front": "resist → resistance, resistant, irresistible",
+        "back": "resistir → resistencia, resistente, irresistible",
+        "example": "The coating makes the steel resistant to corrosion.",
+        "note": "Sufijo “-ible” en “irresistible”."
+      },
+      {
+        "id": "voc-x1-wordfam-025",
+        "front": "hesitate → hesitation, hesitant, unhesitatingly",
+        "back": "dudar → vacilación, vacilante, sin dudarlo",
+        "example": "She agreed unhesitatingly to lead the project.",
+        "note": "“Without hesitation” es alternativa frecuente."
+      },
+      {
+        "id": "voc-x1-wordfam-026",
+        "front": "appear → appearance, apparent, apparently, disappear",
+        "back": "aparecer/parecer → aparición/aspecto, aparente/evidente, al parecer, desaparecer",
+        "example": "For no apparent reason, the system shut down.",
+        "note": "“Apparent” puede ser “evidente” o “aparente”."
+      },
+      {
+        "id": "voc-x1-wordfam-027",
+        "front": "suspect → suspicion, suspicious, suspiciously, unsuspecting",
+        "back": "sospechar → sospecha, sospechoso, de forma sospechosa, desprevenido",
+        "example": "Unsuspecting customers were charged twice.",
+        "note": "“Suspicious of” = receloso de."
+      },
+      {
+        "id": "voc-x1-wordfam-028",
+        "front": "economy → economic, economical, economist, economise",
+        "back": "economía → económico (de la economía), económico (que ahorra), economista, ahorrar",
+        "example": "The new boiler is far more economical to run.",
+        "note": "“Economic growth” vs “an economical car”."
+      },
+      {
+        "id": "voc-x1-wordfam-029",
+        "front": "sense → sensible, sensitive, sensitivity, senseless",
+        "back": "sentido → sensato, sensible, sensibilidad, sin sentido",
+        "example": "Personal data is highly sensitive and must be protected.",
+        "note": "“Sensible” = sensato (falso amigo)."
+      },
+      {
+        "id": "voc-x1-wordfam-030",
+        "front": "occur → occurrence, recur, recurrence, recurrent",
+        "back": "ocurrir → suceso/aparición, repetirse, repetición, recurrente",
+        "example": "Measures were taken to prevent a recurrence of the fault.",
+        "note": "Doble r: “occurrence”, “occurred”."
+      },
+      {
+        "id": "voc-x1-wordfam-031",
+        "front": "vary → variety, various, variable, variation, invariably",
+        "back": "variar → variedad, varios, variable, variación, invariablemente",
+        "example": "Delays invariably occur when the paperwork is incomplete.",
+        "note": "“Invariably” = siempre, sin excepción."
+      },
+      {
+        "id": "voc-x1-wordfam-032",
+        "front": "maintain → maintenance, maintainable",
+        "back": "mantener → mantenimiento, mantenible",
+        "example": "Maintenance costs were underestimated.",
+        "note": "Ortografía: “maintenance”, NO “maintainance”."
+      },
+      {
+        "id": "voc-x1-wordfam-033",
+        "front": "threat → threaten, threatening, threatened",
+        "back": "amenaza → amenazar, amenazador, amenazado",
+        "example": "The species is threatened by habitat loss.",
+        "note": "“Under threat” = amenazado."
+      },
+      {
+        "id": "voc-x1-wordfam-034",
+        "front": "critic → criticise, criticism, critical, critically",
+        "back": "crítico (persona) → criticar, crítica, crítico/fundamental, gravemente",
+        "example": "Two of the injured are in a critical condition.",
+        "note": "“Critic” es persona; “criticism” es la crítica; “review” = reseña."
+      },
+      {
+        "id": "voc-x1-wordfam-035",
+        "front": "broad → breadth, broaden, broadly",
+        "back": "amplio → amplitud, ampliar, en líneas generales",
+        "example": "Broadly speaking, the results were positive.",
+        "note": "Ortografía: “breadth” (cambio vocálico)."
+      },
+      {
+        "id": "voc-x1-wordfam-036",
+        "front": "courage → courageous, encourage, discourage, encouragement",
+        "back": "valor → valiente, animar, desanimar, ánimo",
+        "example": "High fees discourage many students from applying.",
+        "note": "“Discourage someone FROM doing”."
+      },
+      {
+        "id": "voc-x1-wordfam-037",
+        "front": "deny → denial, undeniable, undeniably",
+        "back": "negar → negación, innegable, indudablemente",
+        "example": "The project has undeniably raised the town’s profile.",
+        "note": "“To be in denial” = negar la realidad."
+      },
+      {
+        "id": "voc-x1-wordfam-038",
+        "front": "effect → effective, ineffective, effectiveness, effectively",
+        "back": "efecto → eficaz, ineficaz, eficacia, eficazmente/de hecho",
+        "example": "The ban was effectively ignored by most drivers.",
+        "note": "“Effectively” también = en la práctica. “Affect” es verbo."
+      },
+      {
+        "id": "voc-x1-wordfam-039",
+        "front": "vulnerable → vulnerability, invulnerable",
+        "back": "vulnerable → vulnerabilidad, invulnerable",
+        "example": "The audit exposed several vulnerabilities in the network.",
+        "note": "Pronunciación /ˈvʌlnərəbl/."
+      },
+      {
+        "id": "voc-x1-wordfam-040",
+        "front": "persuade → persuasion, persuasive, persuasively, dissuade",
+        "back": "persuadir → persuasión, persuasivo, de forma persuasiva, disuadir",
+        "example": "She argued persuasively for a change of strategy.",
+        "note": "“Dissuade someone FROM doing”."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-colloc2",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "collocations",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Advanced collocations II",
+    "category": "collocations",
+    "cards": [
+      {
+        "id": "voc-x1-colloc2-001",
+        "front": "to wield influence / power",
+        "back": "ejercer influencia / poder",
+        "example": "Large retailers wield considerable influence over farmers.",
+        "note": "“Wield” también = blandir (un arma)."
+      },
+      {
+        "id": "voc-x1-colloc2-002",
+        "front": "to stand a chance (of)",
+        "back": "tener posibilidades (de)",
+        "example": "Without more funding, the project does not stand a chance.",
+        "note": "Casi siempre en negativa o pregunta."
+      },
+      {
+        "id": "voc-x1-colloc2-003",
+        "front": "to draw criticism",
+        "back": "suscitar / recibir críticas",
+        "example": "The decision drew criticism from all sides.",
+        "note": "También “to attract criticism”."
+      },
+      {
+        "id": "voc-x1-colloc2-004",
+        "front": "to meet demand",
+        "back": "satisfacer / atender la demanda",
+        "example": "The plant cannot meet demand during the summer peak.",
+        "note": "También “meet requirements / expectations / standards”."
+      },
+      {
+        "id": "voc-x1-colloc2-005",
+        "front": "to strike a balance",
+        "back": "encontrar un equilibrio",
+        "example": "Policymakers must strike a balance between security and privacy.",
+        "note": "“Between X and Y”."
+      },
+      {
+        "id": "voc-x1-colloc2-006",
+        "front": "to voice concerns",
+        "back": "expresar inquietudes / preocupación",
+        "example": "Residents voiced concerns about traffic.",
+        "note": "Alternativa a “raise concerns”."
+      },
+      {
+        "id": "voc-x1-colloc2-007",
+        "front": "to harbour doubts",
+        "back": "albergar dudas",
+        "example": "Some engineers still harbour doubts about the design.",
+        "note": "Británico “harbour”. También “harbour a grudge” = guardar rencor."
+      },
+      {
+        "id": "voc-x1-colloc2-008",
+        "front": "to sustain injuries",
+        "back": "sufrir lesiones",
+        "example": "The driver sustained serious head injuries.",
+        "note": "Registro formal de prensa y partes policiales."
+      },
+      {
+        "id": "voc-x1-colloc2-009",
+        "front": "to deliver results",
+        "back": "dar resultados",
+        "example": "The new manager is under pressure to deliver results.",
+        "note": "“Deliver” = cumplir, no solo “entregar”."
+      },
+      {
+        "id": "voc-x1-colloc2-010",
+        "front": "to heed a warning / advice",
+        "back": "hacer caso de una advertencia / un consejo",
+        "example": "Had they heeded the warnings, the disaster might have been avoided.",
+        "note": "Formal; “to pay heed to”."
+      },
+      {
+        "id": "voc-x1-colloc2-011",
+        "front": "to break new ground",
+        "back": "abrir nuevos caminos / ser pionero",
+        "example": "The study breaks new ground in battery research.",
+        "note": "“Groundbreaking” = innovador."
+      },
+      {
+        "id": "voc-x1-colloc2-012",
+        "front": "to pay lip service to",
+        "back": "apoyar de boquilla",
+        "example": "Many firms pay lip service to diversity without changing anything.",
+        "note": "Crítica de hipocresía."
+      },
+      {
+        "id": "voc-x1-colloc2-013",
+        "front": "to come under scrutiny",
+        "back": "ser objeto de escrutinio",
+        "example": "The agency’s spending has come under close scrutiny.",
+        "note": "Variantes: “close / intense / public scrutiny”."
+      },
+      {
+        "id": "voc-x1-colloc2-014",
+        "front": "to take its toll (on)",
+        "back": "pasar factura (a)",
+        "example": "Years of night shifts had taken their toll on his health.",
+        "note": "Posesivo variable: “its/their toll”."
+      },
+      {
+        "id": "voc-x1-colloc2-015",
+        "front": "to cast doubt on",
+        "back": "poner en duda",
+        "example": "New evidence casts doubt on the official version.",
+        "note": "Pasado: cast (invariable)."
+      },
+      {
+        "id": "voc-x1-colloc2-016",
+        "front": "to lay the foundations for",
+        "back": "sentar las bases de",
+        "example": "The agreement laid the foundations for future cooperation.",
+        "note": "También “lay the groundwork for”."
+      },
+      {
+        "id": "voc-x1-colloc2-017",
+        "front": "to run its course",
+        "back": "seguir su curso",
+        "example": "The doctors let the infection run its course.",
+        "note": "Implica no intervenir."
+      },
+      {
+        "id": "voc-x1-colloc2-018",
+        "front": "to bear fruit",
+        "back": "dar fruto",
+        "example": "Years of investment are finally bearing fruit.",
+        "note": "Sentido figurado muy frecuente."
+      },
+      {
+        "id": "voc-x1-colloc2-019",
+        "front": "to fall short of (expectations)",
+        "back": "no estar a la altura (de las expectativas)",
+        "example": "Sales fell well short of expectations.",
+        "note": "“Well short” = muy por debajo."
+      },
+      {
+        "id": "voc-x1-colloc2-020",
+        "front": "to gain momentum",
+        "back": "cobrar impulso / fuerza",
+        "example": "The campaign gained momentum after the documentary aired.",
+        "note": "También “lose momentum”."
+      },
+      {
+        "id": "voc-x1-colloc2-021",
+        "front": "to keep pace with",
+        "back": "seguir el ritmo de",
+        "example": "Regulation has failed to keep pace with technology.",
+        "note": "Similar a “keep up with”, más formal."
+      },
+      {
+        "id": "voc-x1-colloc2-022",
+        "front": "to seize an opportunity",
+        "back": "aprovechar una oportunidad",
+        "example": "The firm seized the opportunity to enter the Asian market.",
+        "note": "También “seize the moment”."
+      },
+      {
+        "id": "voc-x1-colloc2-023",
+        "front": "to make a concerted effort",
+        "back": "hacer un esfuerzo concertado / conjunto",
+        "example": "We must make a concerted effort to reduce waste.",
+        "note": "“Concerted” = coordinado."
+      },
+      {
+        "id": "voc-x1-colloc2-024",
+        "front": "to make allowances for",
+        "back": "tener en cuenta / ser indulgente con",
+        "example": "Examiners make allowances for minor slips under pressure.",
+        "note": "Plural “allowances”."
+      },
+      {
+        "id": "voc-x1-colloc2-025",
+        "front": "sweeping reforms / changes",
+        "back": "reformas / cambios radicales",
+        "example": "The new government introduced sweeping reforms to the tax system.",
+        "note": "“Sweeping statement” = generalización."
+      },
+      {
+        "id": "voc-x1-colloc2-026",
+        "front": "a stark contrast",
+        "back": "un fuerte / marcado contraste",
+        "example": "Conditions in the north stand in stark contrast to those in the south.",
+        "note": "“In stark contrast to”."
+      },
+      {
+        "id": "voc-x1-colloc2-027",
+        "front": "a hotly debated issue",
+        "back": "un tema muy debatido",
+        "example": "Nuclear power remains a hotly debated issue.",
+        "note": "“Hotly contested” = muy reñido."
+      },
+      {
+        "id": "voc-x1-colloc2-028",
+        "front": "far-reaching consequences",
+        "back": "consecuencias de gran alcance",
+        "example": "The ruling could have far-reaching consequences for employers.",
+        "note": "También “far-reaching reforms”."
+      },
+      {
+        "id": "voc-x1-colloc2-029",
+        "front": "a staunch supporter / opponent",
+        "back": "un firme defensor / opositor",
+        "example": "She is a staunch supporter of public transport.",
+        "note": "Adjetivo intensificador típico."
+      },
+      {
+        "id": "voc-x1-colloc2-030",
+        "front": "sheer (size / volume / luck)",
+        "back": "puro / mero (tamaño, volumen, suerte)",
+        "example": "The sheer volume of data overwhelmed the analysts.",
+        "note": "Intensificador antes del sustantivo."
+      },
+      {
+        "id": "voc-x1-colloc2-031",
+        "front": "painstaking research",
+        "back": "investigación minuciosa",
+        "example": "Painstaking research revealed the origin of the documents.",
+        "note": "“Painstakingly” = con esmero."
+      },
+      {
+        "id": "voc-x1-colloc2-032",
+        "front": "utterly convinced",
+        "back": "completamente convencido",
+        "example": "I am utterly convinced that this is the right decision.",
+        "note": "“Utterly” va con adjetivos extremos o absolutos."
+      },
+      {
+        "id": "voc-x1-colloc2-033",
+        "front": "vastly improved",
+        "back": "enormemente mejorado",
+        "example": "Access to the site has been vastly improved.",
+        "note": "También “vastly different / superior”."
+      },
+      {
+        "id": "voc-x1-colloc2-034",
+        "front": "heavily reliant on",
+        "back": "muy dependiente de",
+        "example": "The region is heavily reliant on tourism.",
+        "note": "También “heavily dependent on”."
+      },
+      {
+        "id": "voc-x1-colloc2-035",
+        "front": "readily available",
+        "back": "fácilmente disponible",
+        "example": "Spare parts are readily available locally.",
+        "note": "También “readily accessible”."
+      },
+      {
+        "id": "voc-x1-colloc2-036",
+        "front": "deeply rooted / deep-rooted",
+        "back": "profundamente arraigado",
+        "example": "Such prejudices are deeply rooted in society.",
+        "note": "“Ingrained” es sinónimo."
+      },
+      {
+        "id": "voc-x1-colloc2-037",
+        "front": "a heated debate / argument",
+        "back": "un debate acalorado",
+        "example": "The proposal sparked a heated debate in parliament.",
+        "note": "“To spark a debate” = desencadenar."
+      },
+      {
+        "id": "voc-x1-colloc2-038",
+        "front": "a rough estimate",
+        "back": "un cálculo aproximado",
+        "example": "A rough estimate puts the cost at €2 million.",
+        "note": "“Ballpark figure” es más coloquial."
+      },
+      {
+        "id": "voc-x1-colloc2-039",
+        "front": "an uphill struggle / battle",
+        "back": "una lucha cuesta arriba",
+        "example": "Changing the safety culture has been an uphill struggle.",
+        "note": "Proceso difícil y largo."
+      },
+      {
+        "id": "voc-x1-colloc2-040",
+        "front": "a foregone conclusion",
+        "back": "una conclusión inevitable / cantada",
+        "example": "The result of the vote was a foregone conclusion.",
+        "note": "Ortografía: “foregone” con e."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-x1-phrasal2",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "phrasal verbs",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Phrasal verbs II",
+    "category": "phrasal-verbs",
+    "cards": [
+      {
+        "id": "voc-x1-phrasal2-001",
+        "front": "bring up",
+        "back": "sacar (un tema) / criar",
+        "example": "She brought up the issue of overtime at the meeting.",
+        "note": "Separable: “bring it up”."
+      },
+      {
+        "id": "voc-x1-phrasal2-002",
+        "front": "brush up on",
+        "back": "repasar / refrescar",
+        "example": "I need to brush up on my technical vocabulary before the interview.",
+        "note": "Muy útil al hablar de preparación de exámenes."
+      },
+      {
+        "id": "voc-x1-phrasal2-003",
+        "front": "catch up on",
+        "back": "ponerse al día con",
+        "example": "I spent the weekend catching up on paperwork.",
+        "note": "“Catch up with someone” = alcanzar a alguien."
+      },
+      {
+        "id": "voc-x1-phrasal2-004",
+        "front": "come across",
+        "back": "encontrarse con / dar una impresión",
+        "example": "He comes across as confident, but he is actually quite shy.",
+        "note": "“Come across as + adjetivo”."
+      },
+      {
+        "id": "voc-x1-phrasal2-005",
+        "front": "come down to",
+        "back": "reducirse a / depender de",
+        "example": "In the end, it all comes down to money.",
+        "note": "Sinónimo: “boil down to”."
+      },
+      {
+        "id": "voc-x1-phrasal2-006",
+        "front": "cut off",
+        "back": "cortar (suministro) / aislar",
+        "example": "Floods cut off several villages for two days.",
+        "note": "Pasiva frecuente: “be cut off”."
+      },
+      {
+        "id": "voc-x1-phrasal2-007",
+        "front": "do away with",
+        "back": "suprimir / abolir",
+        "example": "The company did away with paper forms altogether.",
+        "note": "Inseparable de tres partes."
+      },
+      {
+        "id": "voc-x1-phrasal2-008",
+        "front": "draw on",
+        "back": "recurrir a / basarse en",
+        "example": "The report draws on interviews with over 200 workers.",
+        "note": "También “draw on experience”."
+      },
+      {
+        "id": "voc-x1-phrasal2-009",
+        "front": "face up to",
+        "back": "afrontar / asumir",
+        "example": "We have to face up to the fact that the plan has failed.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-x1-phrasal2-010",
+        "front": "factor in",
+        "back": "tener en cuenta (en un cálculo)",
+        "example": "Have you factored in the cost of training?",
+        "note": "Separable: “factor it in”."
+      },
+      {
+        "id": "voc-x1-phrasal2-011",
+        "front": "figure out",
+        "back": "averiguar / entender",
+        "example": "Engineers are still trying to figure out what caused the failure.",
+        "note": "Más coloquial que “work out”."
+      },
+      {
+        "id": "voc-x1-phrasal2-012",
+        "front": "get across",
+        "back": "transmitir / hacer entender",
+        "example": "The campaign failed to get its message across.",
+        "note": "“Get something across (to someone)”."
+      },
+      {
+        "id": "voc-x1-phrasal2-013",
+        "front": "get round to",
+        "back": "sacar tiempo para / ponerse por fin a",
+        "example": "I never got round to replying to his email.",
+        "note": "Británico; americano “get around to”."
+      },
+      {
+        "id": "voc-x1-phrasal2-014",
+        "front": "give in",
+        "back": "ceder / rendirse",
+        "example": "The council eventually gave in to public pressure.",
+        "note": "“Give in to” + presión/demanda."
+      },
+      {
+        "id": "voc-x1-phrasal2-015",
+        "front": "go through with",
+        "back": "llevar a cabo (algo difícil)",
+        "example": "Despite the protests, they went through with the closure.",
+        "note": "Implica superar dudas u oposición."
+      },
+      {
+        "id": "voc-x1-phrasal2-016",
+        "front": "hold back",
+        "back": "contener / frenar",
+        "example": "Lack of investment is holding back growth.",
+        "note": "“Hold back tears” = contener las lágrimas."
+      },
+      {
+        "id": "voc-x1-phrasal2-017",
+        "front": "lay down",
+        "back": "establecer (normas)",
+        "example": "The directive lays down minimum safety requirements.",
+        "note": "Muy común en textos normativos: “laid down in”."
+      },
+      {
+        "id": "voc-x1-phrasal2-018",
+        "front": "live up to",
+        "back": "estar a la altura de",
+        "example": "The new system has not lived up to expectations.",
+        "note": "Siempre con expectativas, reputación, etc."
+      },
+      {
+        "id": "voc-x1-phrasal2-019",
+        "front": "look up to",
+        "back": "admirar / respetar",
+        "example": "Younger officers look up to her.",
+        "note": "Contrario: “look down on” = menospreciar."
+      },
+      {
+        "id": "voc-x1-phrasal2-020",
+        "front": "make up for",
+        "back": "compensar",
+        "example": "Extra shifts were scheduled to make up for lost production.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-x1-phrasal2-021",
+        "front": "opt out (of)",
+        "back": "optar por no participar / excluirse",
+        "example": "Employees can opt out of the pension scheme.",
+        "note": "Sustantivo “an opt-out”."
+      },
+      {
+        "id": "voc-x1-phrasal2-022",
+        "front": "own up (to)",
+        "back": "confesar / admitir",
+        "example": "Nobody owned up to damaging the vehicle.",
+        "note": "“Own up to + -ing”."
+      },
+      {
+        "id": "voc-x1-phrasal2-023",
+        "front": "pass on",
+        "back": "transmitir / repercutir",
+        "example": "Suppliers will pass on the higher costs to consumers.",
+        "note": "“Pass away” = fallecer (no confundir)."
+      },
+      {
+        "id": "voc-x1-phrasal2-024",
+        "front": "pick up on",
+        "back": "percatarse de / retomar",
+        "example": "The auditor picked up on a discrepancy in the figures.",
+        "note": "Detectar algo sutil."
+      },
+      {
+        "id": "voc-x1-phrasal2-025",
+        "front": "pull through",
+        "back": "recuperarse / salir adelante",
+        "example": "Doctors expect the injured worker to pull through.",
+        "note": "Intransitivo."
+      },
+      {
+        "id": "voc-x1-phrasal2-026",
+        "front": "put off",
+        "back": "posponer / desanimar",
+        "example": "The inspection was put off until next month.",
+        "note": "“Put someone off” = quitar las ganas."
+      },
+      {
+        "id": "voc-x1-phrasal2-027",
+        "front": "put up with",
+        "back": "aguantar / tolerar",
+        "example": "Residents have put up with the noise for years.",
+        "note": "Inseparable de tres partes."
+      },
+      {
+        "id": "voc-x1-phrasal2-028",
+        "front": "run into",
+        "back": "toparse con / encontrarse con (problemas)",
+        "example": "The project ran into difficulties in its second year.",
+        "note": "También “run into someone” = encontrarse por casualidad."
+      },
+      {
+        "id": "voc-x1-phrasal2-029",
+        "front": "sort out",
+        "back": "resolver / arreglar",
+        "example": "IT sorted out the network problem within an hour.",
+        "note": "Coloquial-neutro; “resolve” más formal."
+      },
+      {
+        "id": "voc-x1-phrasal2-030",
+        "front": "single out",
+        "back": "destacar / señalar (a alguien)",
+        "example": "The report singled out the maintenance team for praise.",
+        "note": "Puede ser positivo o negativo."
+      },
+      {
+        "id": "voc-x1-phrasal2-031",
+        "front": "stave off",
+        "back": "evitar / mantener a raya",
+        "example": "Emergency loans helped the firm stave off bankruptcy.",
+        "note": "Pasado: staved off. Similar a “ward off”."
+      },
+      {
+        "id": "voc-x1-phrasal2-032",
+        "front": "take up",
+        "back": "empezar (una actividad) / ocupar",
+        "example": "The new duties take up most of my time.",
+        "note": "“Take up a post” = tomar posesión de un cargo."
+      },
+      {
+        "id": "voc-x1-phrasal2-033",
+        "front": "talk (someone) into / out of",
+        "back": "convencer (a alguien) para / de no",
+        "example": "Her colleagues talked her out of resigning.",
+        "note": "“Into” = para hacer; “out of” = para no hacer."
+      },
+      {
+        "id": "voc-x1-phrasal2-034",
+        "front": "tie in with",
+        "back": "cuadrar / coincidir con",
+        "example": "His statement ties in with the CCTV footage.",
+        "note": "Muy útil en investigación."
+      },
+      {
+        "id": "voc-x1-phrasal2-035",
+        "front": "phase in",
+        "back": "introducir gradualmente",
+        "example": "The new rules will be phased in over three years.",
+        "note": "Contrario de “phase out”."
+      },
+      {
+        "id": "voc-x1-phrasal2-036",
+        "front": "weed out",
+        "back": "eliminar / descartar (lo indeseable)",
+        "example": "The screening process weeds out unsuitable candidates.",
+        "note": "De “weed” = mala hierba."
+      },
+      {
+        "id": "voc-x1-phrasal2-037",
+        "front": "head off",
+        "back": "atajar / evitar",
+        "example": "Quick action headed off a potential strike.",
+        "note": "Prevenir algo antes de que ocurra."
+      },
+      {
+        "id": "voc-x1-phrasal2-038",
+        "front": "fend off",
+        "back": "repeler / esquivar",
+        "example": "The minister fended off awkward questions from journalists.",
+        "note": "“Fend off an attack / competition”."
+      },
+      {
+        "id": "voc-x1-phrasal2-039",
+        "front": "bank on",
+        "back": "contar con / confiar en",
+        "example": "We cannot bank on government subsidies continuing.",
+        "note": "Coloquial-neutro."
+      },
+      {
+        "id": "voc-x1-phrasal2-040",
+        "front": "gloss over",
+        "back": "pasar por alto / restar importancia",
+        "example": "The report glosses over the safety failings.",
+        "note": "Ocultar deliberadamente problemas."
+      }
+    ]
+  }
+]
