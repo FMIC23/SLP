@@ -17,3 +17,17 @@ describe('datos', () => {
     expect(decks[0].meta.generated).toBe(false);
   });
 });
+
+describe('lector de ZIP/docx', () => {
+  it('extrae una entrada comprimida sin unzip', async () => {
+    const { readZipEntry } = await import('../scripts/import-material.mjs');
+    const { execFileSync } = await import('node:child_process');
+    const { mkdtempSync, writeFileSync, readFileSync } = await import('node:fs');
+    const { join } = await import('node:path');
+    const { tmpdir } = await import('node:os');
+    const d = mkdtempSync(join(tmpdir(), 'zip-'));
+    writeFileSync(join(d, 'a.txt'), 'hello '.repeat(200));
+    execFileSync('zip', ['-q', '-9', join(d, 't.zip'), 'a.txt'], { cwd: d });
+    expect(readZipEntry(readFileSync(join(d, 't.zip')), 'a.txt').toString()).toBe('hello '.repeat(200));
+  });
+});

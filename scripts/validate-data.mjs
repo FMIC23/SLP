@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 // Valida la coherencia de todos los JSON de data/ (y data/private/ si existe).
 // Uso: node scripts/validate-data.mjs
+import { fileURLToPath } from 'node:url';
 import { readFileSync, readdirSync, existsSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const DATA = join(ROOT, 'data');
 const errors = [];
 const warn = [];

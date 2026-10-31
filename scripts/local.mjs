@@ -6,11 +6,12 @@
  *   3. Sirve la app en http://localhost:4173 y abre el navegador.
  * Uso: npm run local   (o doble clic en iniciar-windows.bat / iniciar-mac-linux.command)
  */
+import { fileURLToPath } from 'node:url';
 import { existsSync, readdirSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
 import { join } from 'node:path';
 
-const ROOT = new URL('..', import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, '$1');
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const npm = process.platform === 'win32' ? 'npm.cmd' : 'npm';
 const run = (args) => {
   const r = spawnSync(npm, args, { cwd: ROOT, stdio: 'inherit', shell: process.platform === 'win32' });
