@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 import { listening, reading, speakingCards, useOfEnglish, writingTasks } from '../core/content';
 import { countWords, type TaskGrade } from '../core/grading';
 import { cambridgeBand, overallCambridge, percentToCambridge, percentToSlp, slpProfile } from '../core/scoring';
@@ -321,14 +322,14 @@ export function mockReport(results: SectionResult[], target: 'C1' | 'SLP3') {
       h(
         'table',
         null,
-        h('thead', null, h('tr', null, h('th', null, 'Destreza'), h('th', null, 'Aciertos'), h('th', null, '%'), h('th', null, 'Escala Cambridge (aprox.)'), h('th', null, 'SLP (aprox.)'))),
-        h('tbody', null, rows.map((x) => h('tr', null, h('td', null, x.label), h('td', null, `${x.r.score}/${x.r.max}`), h('td', null, `${x.pct} %`, bar(x.pct)), h('td', null, `${x.scale} (${cambridgeBand(x.scale)})`), h('td', null, x.slp)))),
+        h('thead', null, h('tr', null, h('th', null, 'Destreza'), h('th', null, 'Aciertos'), h('th', null, '%'), h('th', null, 'Escala Cambridge (aprox.)'), IS_OPO ? null : h('th', null, 'SLP (aprox.)'))),
+        h('tbody', null, rows.map((x) => h('tr', null, h('td', null, x.label), h('td', null, `${x.r.score}/${x.r.max}`), h('td', null, `${x.pct} %`, bar(x.pct)), h('td', null, `${x.scale} (${cambridgeBand(x.scale)})`), IS_OPO ? null : h('td', null, x.slp)))),
       ),
     ),
     rows.length > 1
       ? h('p', { class: 'result' }, target === 'C1' ? `Global estimado: ${scaleAll} → ${cambridgeBand(scaleAll)}` : `Perfil SLP estimado (L.S.R.W): ${slpProfile(slpLevels as any)}`)
       : null,
-    h('p', { class: 'small muted' }, 'Estimaciones orientativas: Cambridge ≈ 60 % → 180 (C1) y ≈ 80 % → 200 (C2); SLP 3 ≈ 70 % de acierto en tareas de nivel 3. En el C1 real, Reading and Use of English cuenta doble (Reading y Use of English por separado). Writing y Speaking proceden de tu autoevaluación.'),
+    h('p', { class: 'small muted' }, IS_OPO ? 'Estimaciones orientativas: Cambridge ≈ 60 % → 180 (C1) y ≈ 80 % → 200 (C2). Writing y Speaking proceden de tu autoevaluación.' : 'Estimaciones orientativas: Cambridge ≈ 60 % → 180 (C1) y ≈ 80 % → 200 (C2); SLP 3 ≈ 70 % de acierto en tareas de nivel 3. En el C1 real, Reading and Use of English cuenta doble (Reading y Use of English por separado). Writing y Speaking proceden de tu autoevaluación.'),
     h('p', null, h('a', { class: 'btn', href: '#/progreso' }, 'Ver progreso'), ' ', h('a', { class: 'btn secondary', href: '#/simulacros' }, 'Otro simulacro')),
   );
 }
@@ -338,10 +339,10 @@ export function mockView(main: HTMLElement, params: string[]) {
   if (def) return runMock(main, def);
   main.append(
     h('h1', null, 'Simulacros'),
-    h('p', { class: 'muted' }, 'Exámenes cronometrados por destreza o completos, compuestos con ejercicios del banco (prioriza los que no has hecho). Al terminar obtienes una puntuación estimada en la escala Cambridge y en niveles SLP.'),
+    h('p', { class: 'muted' }, IS_OPO ? 'Exámenes cronometrados por destreza o completos, compuestos con ejercicios del banco (prioriza los que no has hecho). Al terminar obtienes una puntuación estimada en la escala Cambridge y en niveles MCER.' : 'Exámenes cronometrados por destreza o completos, compuestos con ejercicios del banco (prioriza los que no has hecho). Al terminar obtienes una puntuación estimada en la escala Cambridge y en niveles SLP.'),
   );
   main.append(h('div', { class: 'card' }, h('strong', null, 'Oposiciones IIE y Minas: '), 'el ejercicio de inglés del cuerpo (resumen de un texto leído dos veces + traducción directa + oral con el tribunal) tiene su propia sección: ', h('a', { href: '#/cuerpos' }, 'Inglés IIE/Minas'), '.'));
-  for (const target of ['C1', 'SLP3'] as const) {
+  for (const target of (IS_OPO ? ['C1'] : ['C1', 'SLP3']) as ('C1' | 'SLP3')[]) {
     main.append(h('h2', null, target === 'C1' ? 'Cambridge C1 Advanced' : 'SLP 3 (STANAG 6001)'));
     main.append(h('div', { class: 'grid' }, MOCKS.filter((m) => m.target === target).map((m) => h('a', { class: 'tile', href: `#/simulacros/${m.id}` }, h('h3', null, m.title), h('p', { class: 'small muted' }, m.description)))));
   }

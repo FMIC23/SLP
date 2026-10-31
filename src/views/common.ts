@@ -20,7 +20,7 @@ export function taskList(main: HTMLElement, opts: { title: string; intro: (strin
   const kinds = [...new Map(opts.items.map((i) => [i.kind, i.kindLabel])).entries()];
   const kindSel = h('select', { 'aria-label': 'Filtrar por tipo' }, h('option', { value: '' }, 'Todos los tipos'), kinds.map(([k, l]) => h('option', { value: k }, l)));
   const domSel = h('select', { 'aria-label': 'Filtrar por ámbito' }, h('option', { value: '' }, 'Todos los ámbitos'), Object.entries(DOMAIN_LABEL).filter(([k]) => !IS_OPO || k !== 'police').map(([k, l]) => h('option', { value: k }, l)));
-  const levelSel = h('select', { 'aria-label': 'Filtrar por nivel' }, h('option', { value: '' }, 'C1 y SLP 3'), h('option', { value: 'C1' }, 'Formato C1'), h('option', { value: 'SLP3' }, 'Estilo SLP 3'));
+  const levelSel = h('select', { 'aria-label': 'Filtrar por nivel', hidden: IS_OPO }, h('option', { value: '' }, 'C1 y SLP 3'), h('option', { value: 'C1' }, 'Formato C1'), h('option', { value: 'SLP3' }, 'Estilo SLP 3'));
   const grid = h('div', { class: 'grid' });
   const draw = () => {
     grid.replaceChildren();

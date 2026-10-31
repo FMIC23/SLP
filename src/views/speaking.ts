@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 import { debateQuestions, speakingCards } from '../core/content';
 import { rubricPercent } from '../core/scoring';
 import { analyzeTranscript } from '../core/speech';
@@ -182,7 +183,7 @@ function cardView(main: HTMLElement, card: SpeakingCard) {
 
   // Rúbrica
   const scores: Record<string, number> = {};
-  const rub = h('div', { class: 'card' }, h('h2', null, 'Autoevaluación (0-5)'), h('p', { class: 'small muted' }, 'Escucha la grabación. 3/5 en cada escala ≈ C1/SLP 3. Sé exigente con la fluidez y la variedad.'));
+  const rub = h('div', { class: 'card' }, h('h2', null, 'Autoevaluación (0-5)'), h('p', { class: 'small muted' }, IS_OPO ? 'Escucha la grabación. 3/5 en cada escala ≈ C1. Sé exigente con la fluidez y la variedad.' : 'Escucha la grabación. 3/5 en cada escala ≈ C1/SLP 3. Sé exigente con la fluidez y la variedad.'));
   for (const r of SPEAKING_RUBRIC) {
     const sel = h('select', { id: `sr-${r.key}` }, h('option', { value: '' }, '—'), [0, 1, 2, 3, 4, 5].map((v) => h('option', { value: String(v) }, String(v))));
     sel.addEventListener('change', () => (sel.value === '' ? delete scores[r.key] : (scores[r.key] = Number(sel.value))));
@@ -208,7 +209,7 @@ function cardView(main: HTMLElement, card: SpeakingCard) {
 }
 
 function debateView(main: HTMLElement) {
-  main.append(h('p', null, h('a', { href: '#/speaking' }, '← Speaking')), h('h1', null, 'Preguntas de debate'), h('p', { class: 'muted' }, 'Pulsa «Pregunta al azar», piensa 10 segundos y habla 1-2 minutos. Ideal para práctica diaria corta (Part 4 / entrevista SLP).'));
+  main.append(h('p', null, h('a', { href: '#/speaking' }, '← Speaking')), h('h1', null, 'Preguntas de debate'), h('p', { class: 'muted' }, `Pulsa «Pregunta al azar», piensa 10 segundos y habla 1-2 minutos. Ideal para práctica diaria corta (Part 4 / ${IS_OPO ? 'conversación con el tribunal' : 'entrevista SLP'}).`));
   const all = debateQuestions.flatMap((g) => g.questions.map((q) => ({ q, topic: g.topic })));
   const shown = h('div', { class: 'card flashcard', 'aria-live': 'polite' }, 'Pulsa el botón para empezar');
   const t = timer({ countdown: 120, onEnd: () => beep(440, 400) });

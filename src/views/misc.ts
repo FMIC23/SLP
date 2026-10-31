@@ -1,6 +1,7 @@
 import { externalResources, grammarRefs, materialIndex } from '../core/content';
 import { store } from '../core/store';
 import { download, h, SKILL_LABEL } from '../ui/dom';
+import { IS_OPO } from '../core/edition';
 import type { Skill } from '../core/types';
 import { englishVoices, voicesReady } from '../ui/tts';
 
@@ -175,6 +176,31 @@ function refreshHeader() {
 export function guideView(main: HTMLElement) {
   const sec = (title: string, ...children: (Node | string)[]) => h('div', { class: 'card' }, h('h2', { style: 'margin-top:0' }, title), ...children);
   const tbl = (head: string[], rows: string[][]) => h('div', { style: 'overflow-x:auto' }, h('table', null, h('thead', null, h('tr', null, head.map((x) => h('th', null, x)))), h('tbody', null, rows.map((r) => h('tr', null, r.map((c) => h('td', null, c)))))));
+  if (IS_OPO) {
+    main.append(
+      h('h1', null, 'Guía: C1 Advanced y ejercicio de inglés de los cuerpos'),
+      sec(
+        'Ejercicio de inglés: Cuerpos de Ingenieros Industriales y de Minas del Estado',
+        h('p', null, 'Segundo ejercicio, obligatorio y eliminatorio. Según las memorias de los tribunales: el asesor lingüístico lee dos veces un texto en inglés y el opositor escribe un resumen en inglés; después traduce al inglés un texto en castellano (2 horas en total, a mano y sin diccionario). En sesión pública lee ambos textos y conversa en inglés con el tribunal hasta 10 minutos.'),
+        h('p', null, 'Calificación por niveles MCER: C2 = 10, C1 = 7, B2 = 5; por debajo de B2, no apto. Puede sustituirse por un certificado oficial de nivel B2 o superior (consulta la convocatoria vigente).'),
+        h('p', null, h('a', { class: 'btn', href: '#/cuerpos' }, 'Ir a los simulacros del cuerpo')),
+      ),
+      sec(
+        'Cambridge C1 Advanced (formato vigente)',
+        tbl(
+          ['Prueba', 'Duración', 'Partes'],
+          [
+            ['Reading and Use of English', '1 h 30 min', '8 partes, 56 preguntas'],
+            ['Writing', '1 h 30 min', 'Essay obligatorio + email/letter, proposal, report o review (220-260 palabras)'],
+            ['Listening', '≈ 40 min', '4 partes, 30 preguntas'],
+            ['Speaking', '15 min (en pareja)', '4 partes'],
+          ],
+        ),
+        h('p', { class: 'small' }, 'Cambridge English Scale: 160-179 = B2; 180-199 = C1; 200-210 = C2. Es uno de los certificados habituales para acreditar el nivel exigido.'),
+      ),
+    );
+    return;
+  }
   main.append(
     h('h1', null, 'Guía: C1 Advanced y SLP 3'),
     sec(

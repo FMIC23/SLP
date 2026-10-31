@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 import { phraseBank, writingTasks } from '../core/content';
 import { countWords } from '../core/grading';
 import { rubricPercent } from '../core/scoring';
@@ -54,7 +55,7 @@ function writingList(main: HTMLElement) {
   taskList(main, {
     title: 'Writing',
     intro: [
-      h('p', null, 'Tareas C1 (essay obligatorio de 220-260 palabras y Part 2 a elegir) y tareas profesionales/SLP 3. Editor con contador de palabras, temporizador, checklist, rúbrica de autoevaluación, modelo de respuesta y exportación en Markdown para pedir corrección externa.'),
+      h('p', null, `Tareas C1 (essay obligatorio de 220-260 palabras y Part 2 a elegir) y tareas profesionales${IS_OPO ? '' : '/SLP 3'}. ` + 'Editor con contador de palabras, temporizador, checklist, rúbrica de autoevaluación, modelo de respuesta y exportación en Markdown para pedir corrección externa.'),
       h('p', null, h('a', { href: '#/writing/frases' }, '→ Banco de conectores, estructuras y frases modelo')),
     ],
     items: writingTasks.map((t) => ({ id: t.meta.id, title: t.title, meta: t.meta, kind: t.genre, kindLabel: GENRE_LABEL[t.genre] ?? t.genre, href: `#/writing/${t.meta.id}`, extra: `${t.minWords}-${t.maxWords} palabras · ${t.timeMinutes} min` })),

@@ -36,6 +36,14 @@ rmSync(join(dest, 'private'), { recursive: true, force: true });
 // Textos estáticos de la edición opo (sin ámbito policial)
 for (const f of ['index.html', 'manifest.webmanifest']) {
   const p = join(dest, f);
-  if (existsSync(p)) writeFileSync(p, readFileSync(p, 'utf8').replaceAll('con vocabulario industrial y policial', 'con vocabulario técnico e industrial'));
+  if (!existsSync(p)) continue;
+  const out = readFileSync(p, 'utf8')
+    .replaceAll('Entrenador de inglés C1 Advanced y SLP 3 (STANAG 6001) con vocabulario industrial y policial', 'Inglés C1 y ejercicio de idioma de los Cuerpos de Ingenieros Industriales y de Minas del Estado')
+    .replaceAll('Inglés C1 Advanced y SLP 3 (STANAG 6001) con vocabulario industrial y policial', 'Inglés C1 y ejercicio de idioma de los Cuerpos de Ingenieros Industriales y de Minas del Estado')
+    .replaceAll('Entrenador C1 · SLP 3', 'Inglés · OpoIndustriales')
+    .replaceAll('"short_name": "C1·SLP3"', '"short_name": "Inglés"')
+    .replaceAll('>C1 · SLP 3<', '>Inglés · OpoIndustriales<');
+  if (/SLP|STANAG|policial/.test(out)) throw new Error(`Quedan textos SLP/STANAG/policial en ${f}`);
+  writeFileSync(p, out);
 }
 console.log(`✔ Versión pública copiada en ${dest} (servida en /ingles/index.html)`);
