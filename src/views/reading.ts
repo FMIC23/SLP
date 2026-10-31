@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 import { reading } from '../core/content';
 import type { ReadingFormat } from '../core/types';
 import { badges, h } from '../ui/dom';
@@ -18,7 +19,7 @@ export function readingView(main: HTMLElement, params: string[]) {
     taskList(main, {
       title: 'Reading',
       intro: [
-        h('p', null, 'Textos C1 generales, industriales y policiales con el formato del Reading and Use of English (Parts 5-8) y preguntas al estilo STANAG nivel 3: idea principal, detalle, inferencia, tono y propósito del autor.'),
+        h('p', null, IS_OPO ? 'Textos C1 generales e industriales con el formato del Reading and Use of English (Parts 5-8): idea principal, detalle, inferencia, tono y propósito del autor.' : 'Textos C1 generales, industriales y policiales con el formato del Reading and Use of English (Parts 5-8) y preguntas al estilo STANAG nivel 3: idea principal, detalle, inferencia, tono y propósito del autor.'),
       ],
       items: reading.map((t) => ({ id: t.meta.id, title: t.title, meta: t.meta, kind: t.format, kindLabel: READING_LABEL[t.format], href: `#/reading/${t.meta.id}`, extra: `${t.questions.length} preguntas` })),
     });

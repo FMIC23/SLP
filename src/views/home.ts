@@ -67,6 +67,6 @@ export function homeView(main: HTMLElement) {
         h('a', { class: 'tile', href: SKILL_ROUTE[s] }, h('h3', null, SKILL_LABEL[s]), h('div', { class: 'small muted' }, `${n} ${unit}`), stats[s].attempts ? [h('div', { class: 'small' }, `Acierto reciente: ${stats[s].pct} %`), bar(stats[s].pct)] : h('div', { class: 'small muted' }, 'Sin empezar')),
       ),
     ),
-    h('p', null, h('a', { class: 'btn', href: '#/simulacros' }, 'Hacer un simulacro'), ' ', h('a', { class: 'btn secondary', href: '#/guia' }, 'Qué evalúa el C1 y el SLP 3')),
+    h('p', null, h('a', { class: 'btn', href: '#/simulacros' }, 'Hacer un simulacro'), ' ', h('a', { class: 'btn secondary', href: '#/guia' }, IS_OPO ? 'Qué evalúa el C1 y el ejercicio de los cuerpos' : 'Qué evalúa el C1 y el SLP 3')),
   );
 }

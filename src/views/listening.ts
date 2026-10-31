@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 import { externalResources, listening } from '../core/content';
 import { store } from '../core/store';
 import type { ListeningPart, ListeningTask } from '../core/types';
@@ -84,7 +85,7 @@ export function listeningView(main: HTMLElement, params: string[]) {
     taskList(main, {
       title: 'Listening',
       intro: [
-        h('p', null, 'Partes 1-4 del C1 y tareas de comprensión auditiva SLP 3. Escucha sin leer la transcripción; actívala solo al corregir. Ajusta la velocidad (empieza a 0.9× y sube a 1.1× para entrenar).'),
+        h('p', null, (IS_OPO ? 'Partes 1-4 del C1. ' : 'Partes 1-4 del C1 y tareas de comprensión auditiva SLP 3. ') + 'Escucha sin leer la transcripción; actívala solo al corregir. Ajusta la velocidad (empieza a 0.9× y sube a 1.1× para entrenar).'),
       ],
       items: listening.map((t) => ({ id: t.meta.id, title: t.title, meta: t.meta, kind: t.part, kindLabel: LISTENING_LABEL[t.part], href: `#/listening/${t.meta.id}`, extra: `${t.questions.length} preguntas` })),
     });

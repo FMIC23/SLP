@@ -20,7 +20,7 @@ type Mod = Record<string, unknown>;
 
 /** En la edición «opo» (OpoIndustriales) se excluye el contenido del ámbito policial. */
 function flatten<T>(mods: Mod): T[] {
-  return flattenAll<T>(mods).filter((x) => !IS_OPO || (x as { meta?: { domain?: string } })?.meta?.domain !== 'police');
+  return flattenAll<T>(mods).filter((x) => !IS_OPO || (x as { meta?: { domain?: string; level?: string } })?.meta?.domain !== 'police' && (x as { meta?: { level?: string } })?.meta?.level !== 'SLP3');
 }
 
 function flattenAll<T>(mods: Mod): T[] {
@@ -49,12 +49,12 @@ export const useOfEnglish = flatten<UoeTask>(uoeMods);
 export const listening = flatten<ListeningTask>(listeningMods);
 export const decks = flatten<Deck>(vocabMods).filter((d) => d && d.meta && Array.isArray(d.cards));
 export const writingTasks = flatten<WritingTask>(writingMods);
-export const phraseBank = flatten<PhraseGroup>(phraseMods);
+export const phraseBank = flattenAll<PhraseGroup>(phraseMods).filter((g) => !IS_OPO || !/policial|police/i.test(g.title)).map((g) => (IS_OPO ? { ...g, use: g.use.replace(/\s*y para memos SLP/g, '').replace(/SLP ?3?/g, '') } : g));
 export const speakingCards = flatten<SpeakingCard>(speakingMods);
 export const debateQuestions = flattenAll<{ topic: string; domain: string; questions: string[] }>(debateMods).filter((g) => !IS_OPO || g.domain !== 'police');
 export const cuerpoExams = flatten<CuerpoExam>(cuerpoMods);
 export const grammarRefs = grammar as GrammarRef[];
-export const externalResources = resources as ExternalResource[];
+export const externalResources = (resources as ExternalResource[]).filter((r) => !IS_OPO || !/STANAG|NATO|Europol|SLP/i.test(`${r.title} ${r.description} ${r.provider}`));
 export const materialIndex = flatten<{ title: string; type: string; skill: string; folder: string; url: string; usage: string }>(materialIndexMods);
 
 export function grammarById(id: string): GrammarRef | undefined {

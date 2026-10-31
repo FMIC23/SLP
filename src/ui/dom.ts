@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 type Child = Node | string | number | null | undefined | false | Child[];
 type Attrs = Record<string, unknown> & { on?: Record<string, (e: any) => void> };
 
@@ -46,7 +47,7 @@ export function badges(meta: { level: string; domain: string; topic: string; gen
   return h(
     'div',
     { class: 'badges' },
-    h('span', { class: 'badge' }, meta.level),
+    h('span', { class: 'badge' }, IS_OPO ? meta.level.replace('/SLP3', '') : meta.level),
     h('span', { class: `badge ${meta.domain}` }, DOMAIN_LABEL[meta.domain] ?? meta.domain),
     h('span', { class: 'badge' }, meta.topic),
     meta.private ? h('span', { class: 'badge private', title: 'Material personal: solo local' }, 'privado') : null,

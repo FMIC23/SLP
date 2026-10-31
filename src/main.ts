@@ -1,6 +1,7 @@
 import './ui/styles.css';
 import { h, clear } from './ui/dom';
 import { store } from './core/store';
+import { IS_OPO } from './core/edition';
 import { homeView } from './views/home';
 import { readingView } from './views/reading';
 import { uoeView } from './views/uoe';
@@ -26,13 +27,14 @@ const routes: { path: string; label?: string; view: View }[] = [
   { path: 'simulacros', label: 'Simulacros', view: mockView },
   { path: 'cuerpos', label: 'Inglés IIE/Minas', view: cuerposView },
   { path: 'progreso', label: 'Progreso', view: progressView },
-  { path: 'guia', label: 'Guía C1/SLP', view: guideView },
+  { path: 'guia', label: IS_OPO ? 'Guía C1' : 'Guía C1/SLP', view: guideView },
   { path: 'recursos', label: 'Recursos', view: resourcesView },
   { path: 'gramatica', view: grammarView },
   { path: 'ajustes', label: 'Ajustes', view: settingsView },
 ];
 
 const main = document.getElementById('main')!;
+if (IS_OPO) document.querySelector('.brand')!.textContent = 'Inglés · OpoIndustriales';
 const nav = document.getElementById('nav')!;
 const toggle = document.querySelector<HTMLButtonElement>('.menu-toggle')!;
 let cleanup: void | (() => void);
@@ -78,7 +80,8 @@ function render() {
     main.append(h('div', { class: 'card' }, h('h1', null, 'Error'), h('p', null, String(e))));
   }
   const title = main.querySelector('h1')?.textContent;
-  document.title = title ? `${title} · C1 · SLP 3` : 'Entrenador C1 · SLP 3';
+  const brand = IS_OPO ? 'Inglés · OpoIndustriales' : 'C1 · SLP 3';
+  document.title = title ? `${title} · ${brand}` : IS_OPO ? brand : 'Entrenador C1 · SLP 3';
   window.scrollTo(0, 0);
   main.focus({ preventScroll: true });
 }

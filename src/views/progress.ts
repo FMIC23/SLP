@@ -1,3 +1,4 @@
+import { IS_OPO } from '../core/edition';
 import { allTasks, grammarRefs } from '../core/content';
 import { recommend } from '../core/recommend';
 import { cambridgeBand, errorTagCounts, percentToCambridge, percentToSlp, skillStats, streak } from '../core/scoring';
@@ -100,10 +101,10 @@ export function progressView(main: HTMLElement) {
     const x = stats[s];
     const sc = percentToCambridge(x.pct);
     tbody.append(
-      h('tr', null, h('th', { scope: 'row' }, SKILL_LABEL[s]), h('td', null, String(x.attempts)), h('td', { style: 'min-width:140px' }, x.attempts ? [`${x.pct} %`, bar(x.pct)] : '—'), h('td', null, x.attempts && s !== 'vocabulary' ? `${sc} (${cambridgeBand(sc)})` : '—'), h('td', null, x.attempts && ['reading', 'listening', 'writing', 'speaking'].includes(s) ? percentToSlp(x.pct) : '—')),
+      h('tr', null, h('th', { scope: 'row' }, SKILL_LABEL[s]), h('td', null, String(x.attempts)), h('td', { style: 'min-width:140px' }, x.attempts ? [`${x.pct} %`, bar(x.pct)] : '—'), h('td', null, x.attempts && s !== 'vocabulary' ? `${sc} (${cambridgeBand(sc)})` : '—'), IS_OPO ? null : h('td', null, x.attempts && ['reading', 'listening', 'writing', 'speaking'].includes(s) ? percentToSlp(x.pct) : '—')),
     );
   }
-  main.append(h('h2', null, 'Por destreza (últimos 15 intentos)'), h('div', { class: 'card', style: 'overflow-x:auto' }, h('table', null, h('thead', null, h('tr', null, h('th', null, 'Destreza'), h('th', null, 'Intentos'), h('th', null, 'Acierto'), h('th', null, 'Cambridge aprox.'), h('th', null, 'SLP aprox.'))), tbody)));
+  main.append(h('h2', null, 'Por destreza (últimos 15 intentos)'), h('div', { class: 'card', style: 'overflow-x:auto' }, h('table', null, h('thead', null, h('tr', null, h('th', null, 'Destreza'), h('th', null, 'Intentos'), h('th', null, 'Acierto'), h('th', null, 'Cambridge aprox.'), IS_OPO ? null : h('th', null, 'SLP aprox.'))), tbody)));
 
   // Por ámbito y tema
   const byDomain = new Map<string, { s: number; m: number; n: number }>();
