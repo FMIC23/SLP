@@ -9,3 +9,5 @@ data/private/*
 !data/private/README.md
 public/private/*
 !public/private/.gitkeep
+
+# Recordatorio: un build local (dist/) puede contener material privado: no lo publiques

@@ -19,11 +19,20 @@ Herramienta web de estudio para preparar el **Cambridge C1 Advanced (CAE)** y el
 | **Simulacros** | C1 por prueba o completo, y SLP por destreza o completo | Cronometrados, con puntuación aproximada en la **escala Cambridge** y en **niveles SLP** (perfil L.S.R.W) |
 | **Progreso** | Estadísticas por destreza, ámbito, tema y tipo de error | Racha, historial, **plan semanal configurable** y recomendación del siguiente ejercicio (prioriza tus puntos débiles y, sobre todo, speaking) |
 
+## Perfiles
+Hay un selector de perfil en la barra superior, con dos perfiles por defecto: **Fran** (prioriza Speaking) y **Mayka**. Cada perfil tiene su propio progreso, tarjetas, plan, redacciones y ajustes. Puedes añadir más en *Ajustes → Perfiles*.
+
+## App local completa (con tu material)
+Para usar la app en tu PC con todo tu material, haz doble clic en `iniciar-windows.bat` o `iniciar-mac-linux.command`, o ejecuta `npm run local`. Guía paso a paso: [`docs/LOCAL.md`](docs/LOCAL.md).
+
+## Integración en OpoIndustriales
+Ejecuta `npm run export:opo -- ../opoindustriales` y crea una página en el campus. Guía: [`docs/INTEGRACION-OPOINDUSTRIALES.md`](docs/INTEGRACION-OPOINDUSTRIALES.md).
+
 ## Uso
 
 ```bash
 npm install
-npm run dev        # http://localhost:5173
+npm run dev        # http://localhost:4173 (mismo puerto que la app local)
 npm test           # pruebas de corrección, SM-2, puntuaciones, importador y datos
 npm run build      # valida datos + build en dist/
 ```
