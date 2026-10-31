@@ -1,0 +1,165 @@
+[
+  {
+    "meta": {
+      "id": "uoe-gapped-sentences-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Polysemous words: justice and industry",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Gapped sentences 1",
+    "part": "gapped-sentences",
+    "instructions": "For questions 1-6, think of ONE word only which can be used appropriately in all three sentences.",
+    "questions": [
+      {
+        "id": "uoe-gapped-sentences-01-q1",
+        "kind": "text",
+        "prompt": "The suspect will appear in court tomorrow to answer a _____ of armed robbery. / Most of the electric vans can be left to _____ overnight at the depot. / She took _____ of the investigation after the previous inspector retired.",
+        "accepted": [
+          "charge"
+        ],
+        "explanation": "«Charge»: cargo/acusación («a charge of robbery»), cargar una batería (intransitivo) y «take charge of» (hacerse cargo de).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-gapped-sentences-01-q2",
+        "kind": "text",
+        "prompt": "The company is planning to build a desalination _____ on the coast. / Detectives suspected that someone had tried to _____ evidence in the victim's car. / Volunteers will _____ two thousand trees along the riverbank this spring.",
+        "accepted": [
+          "plant"
+        ],
+        "explanation": "«Plant»: planta industrial, colocar pruebas falsas para incriminar («plant evidence») y plantar árboles.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-gapped-sentences-01-q3",
+        "kind": "text",
+        "prompt": "The union has threatened to _____ a complaint with the labour tribunal. / Officers keep a confidential _____ on every informant they handle. / The firefighters walked in single _____ through the narrow tunnel.",
+        "accepted": [
+          "file"
+        ],
+        "explanation": "«File»: presentar formalmente («file a complaint»), expediente o ficha, y «in single file» (en fila india).",
+        "tag": "vocabulary",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-gapped-sentences-01-q4",
+        "kind": "text",
+        "prompt": "Rainfall last month broke the previous _____, which had stood since 1989. / A suspect with no criminal _____ is less likely to be remanded in custody. / All maintenance work must be kept on _____ for at least five years.",
+        "accepted": [
+          "record"
+        ],
+        "explanation": "«Record»: récord, antecedentes penales («criminal record») y «keep on record» (dejar constancia/registro).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-gapped-sentences-01-q5",
+        "kind": "text",
+        "prompt": "The judge handed down a _____ of six years' imprisonment. / Try to keep each _____ short when writing a technical report. / The court will _____ the two defendants next Monday.",
+        "accepted": [
+          "sentence"
+        ],
+        "explanation": "«Sentence»: condena, oración gramatical y el verbo «sentence» (dictar sentencia/condenar).",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-gapped-sentences-01-q6",
+        "kind": "text",
+        "prompt": "Workers at the refinery have voted to go on _____ over pay. / Police believe the gang may _____ again before the end of the month. / It didn't _____ me as odd at the time that he was carrying two phones.",
+        "accepted": [
+          "strike"
+        ],
+        "explanation": "«Strike»: huelga («go on strike»), atacar o actuar de nuevo («strike again») y «strike somebody as» (parecerle a alguien).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-gapped-sentences-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Polysemous words: mixed contexts",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Gapped sentences 2",
+    "part": "gapped-sentences",
+    "instructions": "For questions 1-6, think of ONE word only which can be used appropriately in all three sentences.",
+    "questions": [
+      {
+        "id": "uoe-gapped-sentences-02-q1",
+        "kind": "text",
+        "prompt": "Police obtained a _____ to search the warehouse. / The test results hardly _____ such an expensive redesign of the turbine. / A European arrest _____ was issued for the fugitive.",
+        "accepted": [
+          "warrant"
+        ],
+        "explanation": "«Warrant»: orden judicial («search warrant», «arrest warrant») y el verbo «warrant» (justificar, merecer).",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-gapped-sentences-02-q2",
+        "kind": "text",
+        "prompt": "The new exhibition is expected to _____ large crowds. / It is too early to _____ any firm conclusions from the data. / The match ended in a goalless _____.",
+        "accepted": [
+          "draw"
+        ],
+        "explanation": "«Draw»: atraer público («draw crowds»), sacar conclusiones («draw conclusions») y empate («a goalless draw»).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-gapped-sentences-02-q3",
+        "kind": "text",
+        "prompt": "The engineers calculated how much weight the beam could _____. / Please _____ in mind that the site will be closed on Friday. / The documents found at the scene _____ the signature of a senior official.",
+        "accepted": [
+          "bear"
+        ],
+        "explanation": "«Bear»: soportar carga, «bear in mind» (tener en cuenta) y llevar/presentar una firma o marca.",
+        "tag": "vocabulary",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-gapped-sentences-02-q4",
+        "kind": "text",
+        "prompt": "The ministry is expected to _____ new safety guidelines next month. / Funding remains the most contentious _____ in the negotiations. / The latest _____ of the journal focuses on hydrogen storage.",
+        "accepted": [
+          "issue"
+        ],
+        "explanation": "«Issue»: publicar o emitir (normas, documentos), cuestión o asunto polémico, y número de una revista.",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-gapped-sentences-02-q5",
+        "kind": "text",
+        "prompt": "She has been asked to _____ the new laboratory when it opens. / The pipeline will _____ for 300 kilometres across the desert. / The suspect made a _____ for the exit when he saw the officers.",
+        "accepted": [
+          "run"
+        ],
+        "explanation": "«Run»: dirigir/gestionar, extenderse (un oleoducto, una carretera) y «make a run for» (echar a correr hacia).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-gapped-sentences-02-q6",
+        "kind": "text",
+        "prompt": "The suspect was taken into _____ shortly after midnight. / The parents are currently fighting for _____ of their two children. / Samples must remain in secure _____ until they reach the laboratory.",
+        "accepted": [
+          "custody"
+        ],
+        "explanation": "«Custody»: detención («take into custody»), custodia de los hijos y custodia de pruebas (cadena de custodia).",
+        "tag": "vocabulary",
+        "grammarRef": "collocations"
+      }
+    ]
+  }
+]

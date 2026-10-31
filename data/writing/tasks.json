@@ -1,0 +1,552 @@
+[
+  {
+    "meta": {
+      "id": "wr-c1-essay-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Public health policy",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Encouraging healthier lifestyles",
+    "genre": "essay",
+    "prompt": "Your class has watched a panel discussion about what governments could do to encourage people to lead healthier lives. You have made the notes below. Write an essay discussing TWO of the methods in your notes. You should explain which method you think is more effective, giving reasons in support of your answer. You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.",
+    "notes": [
+      "Methods governments could use: taxing unhealthy food and drink",
+      "Methods governments could use: investing in public sports facilities",
+      "Methods governments could use: health education in schools",
+      "Opinion expressed in the discussion: \"Higher prices are the only thing that really changes what people buy.\"",
+      "Opinion expressed in the discussion: \"People will exercise if there is somewhere free and convenient to do it.\"",
+      "Opinion expressed in the discussion: \"Habits formed in childhood last a lifetime.\""
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Estructura en 4-5 párrafos: introducción (parafrasea el tema), un párrafo por cada uno de los DOS puntos elegidos, conclusión que diga cuál es más importante/eficaz y POR QUÉ.",
+      "Elige solo dos de los tres puntos de las notas. Puedes usar las opiniones de la discusión, pero reformúlalas con tus palabras; no las copies literalmente.",
+      "Registro neutro-formal: evita contracciones, preguntas retóricas excesivas y lenguaje coloquial.",
+      "Usa conectores variados (Admittedly, Nevertheless, What is more, Consequently) e inversiones o cleft sentences para demostrar rango C1.",
+      "La conclusión debe responder explícitamente a la pregunta \"which is more important/effective\" con una justificación clara."
+    ],
+    "model": "It is widely acknowledged that sedentary lifestyles and poor diets are placing an ever-increasing burden on public health systems. Governments have a range of tools at their disposal to tackle this problem, two of which deserve particular attention: taxing unhealthy products and providing better sports facilities.\n\nTaxation is undoubtedly a powerful lever. Experience with tobacco has shown that when prices rise significantly, consumption tends to fall, particularly among young people and those on lower incomes. A levy on sugary drinks or highly processed snacks could therefore discourage excessive consumption while also generating revenue for the health service. However, critics argue that such taxes are regressive, hitting the poorest households hardest, and that they do little to promote positive alternatives.\n\nInvesting in accessible sports facilities, by contrast, tackles the problem from a more constructive angle. Many people would be willing to exercise more if there were a well-maintained park, swimming pool or cycle lane within easy reach. Free or low-cost facilities remove both financial and practical barriers, and they also strengthen community ties. The main drawback is the considerable initial investment, together with ongoing maintenance costs.\n\nOn balance, I believe that improving sports facilities is the more effective option. While taxation may reduce harmful consumption in the short term, it relies on penalising people rather than empowering them. Providing attractive opportunities to stay active, on the other hand, encourages lasting changes in behaviour, which is ultimately what any public health policy should aim to achieve."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-essay-02",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Industry and the environment",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Reducing the environmental impact of heavy industry",
+    "genre": "essay",
+    "prompt": "Your class has attended a lecture on how to reduce the environmental impact of heavy industry. You have made the notes below. Write an essay discussing TWO of the approaches in your notes. You should explain which approach you think would be more effective, giving reasons in support of your answer. You may, if you wish, make use of the opinions expressed in the lecture, but you should use your own words as far as possible.",
+    "notes": [
+      "Approaches: carbon taxes on emissions",
+      "Approaches: public investment in clean technology",
+      "Approaches: stricter environmental regulation",
+      "Opinion expressed in the lecture: \"If polluting is cheap, companies will keep polluting.\"",
+      "Opinion expressed in the lecture: \"Industry cannot decarbonise with technology that does not exist yet.\"",
+      "Opinion expressed in the lecture: \"Rules mean nothing without inspectors to enforce them.\""
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Estructura en 4-5 párrafos: introducción (parafrasea el tema), un párrafo por cada uno de los DOS puntos elegidos, conclusión que diga cuál es más importante/eficaz y POR QUÉ.",
+      "Elige solo dos de los tres puntos de las notas. Puedes usar las opiniones de la discusión, pero reformúlalas con tus palabras; no las copies literalmente.",
+      "Registro neutro-formal: evita contracciones, preguntas retóricas excesivas y lenguaje coloquial.",
+      "Usa conectores variados (Admittedly, Nevertheless, What is more, Consequently) e inversiones o cleft sentences para demostrar rango C1.",
+      "La conclusión debe responder explícitamente a la pregunta \"which is more important/effective\" con una justificación clara."
+    ],
+    "model": "Heavy industries such as steel, cement and chemicals are responsible for a considerable share of global greenhouse gas emissions. Reducing their footprint without undermining competitiveness is one of the great challenges of our time, and two approaches are frequently put forward: carbon taxes and public investment in clean technology.\n\nThe rationale behind a carbon tax is straightforward: if emitting carbon dioxide carries a cost, companies have a financial incentive to emit less. Such a tax allows each firm to decide how best to cut emissions, whether by improving energy efficiency or by switching fuels. Nevertheless, if the tax is set too low it will simply be absorbed as an operating cost, and if it is set too high it may drive production to countries with weaker environmental standards.\n\nPublic investment in clean technology addresses a different problem. Many industrial processes cannot yet be decarbonised because the necessary technology, such as green hydrogen for steelmaking or carbon capture for cement kilns, is not mature or affordable. By funding research, pilot plants and infrastructure, governments can reduce the risks that private companies are reluctant to take on. The obvious drawback is the cost to the taxpayer, along with the danger of backing technologies that ultimately fail.\n\nIn my view, investment in clean technology is the more effective of the two. A carbon tax may encourage companies to change, but it cannot provide them with the means to do so. Only when viable low-carbon alternatives exist will price signals translate into genuine and lasting reductions in emissions."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-essay-03",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Road safety",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Making roads safer",
+    "genre": "essay",
+    "prompt": "Your class has taken part in a seminar on how to reduce the number of road accidents. You have made the notes below. Write an essay discussing TWO of the measures in your notes. You should explain which measure you think is more important, giving reasons in support of your answer. You may, if you wish, make use of the opinions expressed in the seminar, but you should use your own words as far as possible.",
+    "notes": [
+      "Measures: more speed cameras and traffic patrols",
+      "Measures: better driver education",
+      "Measures: improved road infrastructure",
+      "Opinion expressed in the seminar: \"Drivers only slow down when they think they might be caught.\"",
+      "Opinion expressed in the seminar: \"Most accidents are caused by human error, not by the road.\"",
+      "Opinion expressed in the seminar: \"A well-designed road forgives the mistakes drivers make.\""
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Estructura en 4-5 párrafos: introducción (parafrasea el tema), un párrafo por cada uno de los DOS puntos elegidos, conclusión que diga cuál es más importante/eficaz y POR QUÉ.",
+      "Elige solo dos de los tres puntos de las notas. Puedes usar las opiniones de la discusión, pero reformúlalas con tus palabras; no las copies literalmente.",
+      "Registro neutro-formal: evita contracciones, preguntas retóricas excesivas y lenguaje coloquial.",
+      "Usa conectores variados (Admittedly, Nevertheless, What is more, Consequently) e inversiones o cleft sentences para demostrar rango C1.",
+      "La conclusión debe responder explícitamente a la pregunta \"which is more important/effective\" con una justificación clara."
+    ],
+    "model": "Despite significant progress over recent decades, road accidents still claim thousands of lives every year. There is no single solution to this problem, but two measures are often proposed: stepping up enforcement through cameras and patrols, and improving the education drivers receive.\n\nEnforcement has a proven track record. When drivers believe there is a real chance of being caught, they tend to respect speed limits and avoid drink-driving. Visible patrols also allow officers to detect other dangerous behaviour, such as using a mobile phone at the wheel. On the other hand, enforcement alone can breed resentment, particularly if speed cameras are perceived as a means of raising revenue rather than saving lives. Moreover, its effect often disappears as soon as the camera or patrol car is out of sight.\n\nDriver education, in contrast, aims to change attitudes rather than merely deter offences. Since the overwhelming majority of collisions involve some form of human error, teaching drivers to anticipate hazards, manage fatigue and understand the consequences of speeding could prevent accidents at their source. The difficulty lies in reaching experienced drivers, who may consider themselves competent and see little need for further training.\n\nAll things considered, I would argue that education is the more important measure in the long term. Enforcement undoubtedly has a role to play, but it treats the symptoms rather than the cause. A generation of drivers who genuinely understand risk will drive safely whether or not anyone is watching, and that is surely the ultimate goal of road safety policy."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-essay-04",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Technical careers",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Attracting young people to technical careers",
+    "genre": "essay",
+    "prompt": "Your class has discussed why fewer young people are choosing careers in engineering and technical trades. You have made the notes below. Write an essay discussing TWO of the ways in your notes of attracting more young people to these careers. You should explain which way you think would be more effective, giving reasons in support of your answer. You may, if you wish, make use of the opinions expressed in the discussion, but you should use your own words as far as possible.",
+    "notes": [
+      "Ways to attract young people: paid apprenticeships with companies",
+      "Ways to attract young people: outreach programmes in secondary schools",
+      "Ways to attract young people: higher starting salaries",
+      "Opinion expressed in the discussion: \"Young people want to earn while they learn.\"",
+      "Opinion expressed in the discussion: \"Most teenagers have no idea what an engineer actually does.\"",
+      "Opinion expressed in the discussion: \"Money talks, especially when housing is so expensive.\""
+    ],
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Estructura en 4-5 párrafos: introducción (parafrasea el tema), un párrafo por cada uno de los DOS puntos elegidos, conclusión que diga cuál es más importante/eficaz y POR QUÉ.",
+      "Elige solo dos de los tres puntos de las notas. Puedes usar las opiniones de la discusión, pero reformúlalas con tus palabras; no las copies literalmente.",
+      "Registro neutro-formal: evita contracciones, preguntas retóricas excesivas y lenguaje coloquial.",
+      "Usa conectores variados (Admittedly, Nevertheless, What is more, Consequently) e inversiones o cleft sentences para demostrar rango C1.",
+      "La conclusión debe responder explícitamente a la pregunta \"which is more important/effective\" con una justificación clara."
+    ],
+    "model": "Many industrialised countries are facing a growing shortage of engineers and skilled technicians at precisely the moment when the energy transition and digitalisation demand them most. Two possible remedies stand out: offering paid apprenticeships and running outreach programmes in secondary schools.\n\nPaid apprenticeships have obvious appeal. They allow young people to gain a recognised qualification while earning a salary, which removes one of the main financial obstacles to further training. Companies, for their part, can shape apprentices to their own needs and often retain them once they qualify. The weakness of this approach is that it only attracts those who have already shown an interest in technical work; it does little for students who have never considered such a career.\n\nThis is precisely where school outreach programmes come in. Surprisingly few teenagers have a clear idea of what engineers or technicians actually do, and many associate technical jobs with dirty, poorly paid work. Visits to modern plants, talks by young professionals and hands-on workshops can dispel these misconceptions and spark curiosity at an age when important educational choices are being made. Admittedly, the results of such initiatives are slow to appear and difficult to measure.\n\nIn my opinion, outreach in schools is the more effective strategy because it widens the pool of potential candidates in the first place. Apprenticeships are an excellent route once interest exists, but without early exposure to the reality of technical careers, many talented young people will never think of taking that route at all."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-report-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Health and safety training",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Report on the new safety induction programme",
+    "genre": "report",
+    "prompt": "Six months ago the manufacturing company where you work introduced a new health and safety induction programme for all new staff. The plant manager has asked you to write a report on the programme. In your report you should describe the main features of the programme, evaluate how successful it has been, and recommend any improvements that could be made. Write your report.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Usa un título y encabezados claros (Introduction, Main features, Effectiveness, Recommendations). Los informes en C1 se valoran por su organización visual.",
+      "Registro formal e impersonal: voz pasiva, \"It was found that...\", \"The majority of staff reported...\".",
+      "Apoya tus valoraciones con datos o hechos concretos (cifras de incidentes, encuestas), aunque sean inventados y verosímiles.",
+      "En las recomendaciones usa lenguaje de sugerencia: \"It is recommended that... be...\", \"Consideration should be given to...\".",
+      "No escribas en estilo carta: nada de \"Dear...\" ni despedidas."
+    ],
+    "model": "Report on the Safety Induction Programme\n\nIntroduction\nThe aim of this report is to outline the main features of the safety induction programme introduced six months ago, assess its effectiveness and suggest possible improvements. The findings are based on accident records and a questionnaire completed by forty recently recruited employees.\n\nMain features\nThe programme consists of a two-day course delivered before new staff are allowed onto the shop floor. It covers hazard identification, lockout/tagout procedures, the correct use of personal protective equipment and emergency evacuation. Each newcomer is also assigned an experienced mentor for their first month.\n\nEffectiveness\nOn the whole, the programme has been a success. Minor injuries among staff with less than a year of service have fallen by roughly a third compared with the same period last year. The mentoring scheme was particularly well received, with most respondents stating that it gave them the confidence to ask questions. However, a significant number felt that the classroom sessions were overly theoretical and that too much information was presented in too short a time.\n\nRecommendations\nIn the light of these findings, it is recommended that the classroom element be shortened and complemented with practical exercises on the shop floor, such as supervised lockout drills. Consideration should also be given to a brief refresher session after three months, when new staff have had time to become familiar with the plant. Finally, mentors should receive some basic training so that the quality of support is consistent across all departments."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-report-02",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Public transport",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Report on public transport in your town",
+    "genre": "report",
+    "prompt": "The local council wants to encourage more residents to use public transport instead of private cars. You have been asked to write a report for the council. In your report you should explain why many residents currently prefer to drive, evaluate the current public transport services, and recommend changes that would persuade more people to use them. Write your report.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Organiza el informe con encabezados que sigan el orden de las tres partes del enunciado.",
+      "Usa expresiones de generalización y cuantificación: \"A large proportion of\", \"The vast majority\", \"Only a minority\".",
+      "Distingue hechos de opiniones: \"Residents claim/complain that...\", \"It appears that...\".",
+      "Las recomendaciones deben ser concretas y realistas, conectadas con los problemas detectados.",
+      "Termina con una frase de cierre que resuma el beneficio esperado."
+    ],
+    "model": "Report on Public Transport Use\n\nPurpose\nThis report examines why many residents continue to rely on private cars, evaluates existing public transport services and proposes measures to increase their use. It draws on an online survey of 300 residents and interviews with bus users.\n\nReasons for car dependence\nThe vast majority of respondents cited convenience as their main reason for driving. Many work in the industrial estate on the outskirts of town, which is poorly connected to residential areas. Others, particularly parents, stated that their daily routine involves several stops that would be impractical by bus.\n\nCurrent services\nBus routes within the town centre are generally regarded as reliable and reasonably priced. However, services become infrequent after eight in the evening and at weekends, and there is no direct link to the industrial estate or the hospital. A further complaint concerned the lack of real-time information, which leaves passengers unsure how long they will have to wait.\n\nRecommendations\nIn view of the above, the following measures are recommended:\n- introducing a direct shuttle to the industrial estate timed to coincide with shift changes;\n- extending evening and weekend timetables on the busiest routes;\n- installing digital display boards at main stops and launching a mobile app with live tracking;\n- offering a discounted monthly pass for regular commuters.\n\nConclusion\nIf these changes were implemented, public transport would become a genuinely competitive alternative for a much larger number of residents, reducing both congestion and pollution in the town centre."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-proposal-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Community policing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Proposal for a youth outreach initiative",
+    "genre": "proposal",
+    "prompt": "Relations between the police and young people in one neighbourhood of your town have deteriorated recently. The town council has invited proposals for a project to improve these relations. Write a proposal describing the current situation, outlining a project that could help, and explaining how the project would benefit both young people and the local police. Write your proposal.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Una propuesta mira al FUTURO: usa \"would\", \"could\", \"it is proposed that\", \"the project would involve\".",
+      "Encabezados recomendados: Introduction, Current situation, The proposed project, Expected benefits, Conclusion.",
+      "Sé persuasivo pero formal: destaca beneficios para todas las partes y anticipa posibles objeciones (coste, participación).",
+      "Incluye detalles prácticos (quién, cuándo, dónde, coste aproximado) para que la propuesta resulte creíble."
+    ],
+    "model": "Proposal: Bridging the Gap between Police and Young People\n\nIntroduction\nThis proposal outlines a project designed to rebuild trust between local police officers and young people in the Riverside neighbourhood. It is submitted in response to the council's recent call for initiatives.\n\nCurrent situation\nOver the past year, relations have become increasingly strained. Several stop-and-search incidents have been widely shared on social media, and many teenagers now regard officers with suspicion. At the same time, officers report that young people are reluctant to provide information, even when they have been victims of crime themselves.\n\nThe proposed project\nIt is proposed that a weekly sports and mentoring programme be set up at the Riverside community centre. Off-duty officers and youth workers would coach football and basketball sessions, followed by informal discussions on topics chosen by the participants, such as online safety or their rights when stopped by the police. Twice a term, participants would be invited to visit the local station and learn about different police roles.\n\nExpected benefits\nFor young people, the project would offer a safe and free leisure activity, positive adult role models and a better understanding of how policing works. For the police, regular informal contact would help officers to see young residents as individuals rather than potential suspects, which could, in turn, improve cooperation and intelligence gathering in the area.\n\nConclusion\nThe costs involved would be modest, as the facilities already exist. I am confident that, with the council's support, this project could make a lasting contribution to community cohesion in Riverside."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-proposal-02",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Energy saving at work",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Proposal for an energy-saving scheme",
+    "genre": "proposal",
+    "prompt": "The company you work for wants to reduce its energy consumption and has asked employees to submit proposals. Write a proposal for the management team explaining where energy is currently being wasted, suggesting practical measures to reduce consumption, and explaining how staff could be encouraged to participate. Write your proposal.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Divide el texto en secciones con encabezados claros que reflejen las tres partes del enunciado.",
+      "Combina medidas técnicas (iluminación LED, aire comprimido, variadores) con medidas de comportamiento.",
+      "Cuantifica cuando puedas: \"could cut consumption by an estimated 10%\" hace la propuesta más convincente.",
+      "Usa lenguaje de recomendación y condicionales: \"Were the company to...\", \"Should management approve...\".",
+      "Cierra con una frase que vincule ahorro económico y beneficios medioambientales o de imagen."
+    ],
+    "model": "Proposal for an Energy-Saving Scheme\n\nIntroduction\nThe purpose of this proposal is to identify the main sources of energy waste at our plant and to suggest affordable measures, both technical and behavioural, that could reduce consumption significantly.\n\nWhere energy is being wasted\nA walk-through audit carried out last month revealed three major problems. Firstly, the compressed air network has numerous leaks, which means compressors run almost continuously, even during breaks. Secondly, lighting in the warehouse and car park remains on throughout the night, regardless of activity. Finally, office equipment is routinely left on standby over weekends.\n\nSuggested measures\nIt is suggested that a leak detection survey be commissioned and that the compressed air system be repaired and fitted with automatic shut-off valves. Replacing the remaining fluorescent tubes with LED fittings controlled by motion sensors would also bring considerable savings. In the offices, smart power strips could switch off equipment automatically outside working hours. Taken together, these measures could cut the site's electricity bill by an estimated twelve per cent.\n\nEncouraging staff participation\nTechnical solutions alone will not suffice unless employees are involved. I would recommend appointing an \"energy champion\" in each department, displaying monthly consumption figures on screens in the canteen and introducing a small reward for the team that achieves the greatest reduction. Staff could also be invited to report waste through a simple online form.\n\nConclusion\nShould management approve this scheme, the company would not only lower its operating costs but also strengthen its environmental credentials with customers and the local community."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-letter-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Proposed open-pit mine",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Letter to a newspaper about a proposed mine",
+    "genre": "letter",
+    "prompt": "You have read an article in a regional newspaper about plans to open a large open-pit copper mine near your town. The article presented only the arguments against the mine. Write a letter to the editor giving a more balanced view, explaining the potential benefits and risks of the project, and suggesting conditions that should be imposed if it goes ahead. Write your letter.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Abre con \"Dear Sir or Madam,\" o \"Dear Editor,\" y cierra con \"Yours faithfully,\" (si no conoces el nombre).",
+      "En el primer párrafo indica el motivo de la carta y la referencia al artículo (fecha/título).",
+      "Muestra equilibrio: reconoce los argumentos del artículo antes de presentar los tuyos (\"While I share some of the concerns raised...\").",
+      "Usa vocabulario técnico de minería con precisión: tailings, acid mine drainage, land rehabilitation, environmental impact assessment.",
+      "Termina con una propuesta constructiva y una frase de cierre formal."
+    ],
+    "model": "Dear Editor,\n\nI am writing in response to your article \"A Hole in Our Future\", published last Thursday, concerning the proposed copper mine near our town. While I share some of its concerns, I feel the article presented a rather one-sided picture.\n\nThere is no denying that an open-pit mine carries genuine risks. Dust, noise from blasting and heavy traffic would affect nearby villages, and poorly managed waste could lead to acid mine drainage contaminating the river. These dangers must be taken seriously.\n\nHowever, the potential benefits deserve equal consideration. The developers estimate that the mine would create around four hundred direct jobs and many more in local services, in a district where unemployment among young people is alarmingly high. Moreover, copper is essential for electric vehicles, wind turbines and power grids, so a responsibly run European mine could reduce our dependence on imports from countries with far weaker environmental standards.\n\nIf the project does go ahead, I believe strict conditions should be imposed. Firstly, the company should be required to deposit a financial guarantee covering the full cost of land rehabilitation once the mine closes. Secondly, water quality and dust levels should be monitored by an independent body, with results published online. Finally, a fixed percentage of jobs should be reserved for local residents, supported by a training programme.\n\nA modern mine need not be an environmental disaster, provided that it is properly regulated. I hope your newspaper will give readers the opportunity to consider both sides of this important debate.\n\nYours faithfully,\nA concerned resident"
+  },
+  {
+    "meta": {
+      "id": "wr-c1-email-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Joining the police",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Email to a colleague considering a police career",
+    "genre": "email",
+    "prompt": "You have received an email from an English-speaking former colleague, Alex: \"I'm seriously thinking about leaving my engineering job and applying to join the police. You know a bit about how the selection process works and what the job is really like. What should I expect, what would I need to prepare, and do you think it's a good idea for someone like me?\" Write your email in reply.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Registro semiformal/informal pero cuidado: contracciones permitidas, phrasal verbs, pero sin errores ni jerga excesiva.",
+      "Responde a las TRES preguntas del email (qué esperar, cómo prepararse, tu opinión) en párrafos separados.",
+      "Abre con una referencia al email recibido y cierra con una fórmula amistosa (\"Let me know how it goes\", \"Best wishes\").",
+      "Muestra rango C1 incluso en registro informal: \"If I were you, I'd...\", \"Bear in mind that...\", \"The thing is...\"."
+    ],
+    "model": "Hi Alex,\n\nIt was great to hear from you, and what exciting news! I'm happy to share what I know, although bear in mind that the process varies slightly between forces.\n\nAs far as the selection process goes, you should expect several stages spread over a few months. There's usually a written exam covering general knowledge and the law, a psychometric test, a demanding physical fitness assessment and, finally, an interview and medical check. Once you're accepted, there's a long period of training at the academy followed by supervised work in a station, so it's quite a commitment.\n\nIn terms of preparation, I'd start training for the fitness tests straight away, as that's where many otherwise strong candidates fall down. It would also be worth getting hold of the official syllabus and setting yourself a realistic study timetable. If you can, try to talk to serving officers about their daily routine, because the reality is often less glamorous than TV series suggest: plenty of paperwork, shift work and difficult situations with people in distress.\n\nAs for whether it's a good idea, I honestly think you'd be an asset. Your engineering background means you're used to analysing problems methodically, and specialist units dealing with cybercrime, accident reconstruction or environmental offences are crying out for people with technical skills. The main thing to consider is whether you're ready for the irregular hours and the emotional demands of the job.\n\nLet me know what you decide, and good luck if you go for it!\n\nBest wishes,\nSam"
+  },
+  {
+    "meta": {
+      "id": "wr-c1-review-01",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Engineering documentary",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Review of a documentary about engineering megaprojects",
+    "genre": "review",
+    "prompt": "A science and technology website has invited readers to submit reviews of documentaries about engineering. Write a review of a documentary you have seen about a major engineering project (a bridge, dam, tunnel, power plant, etc.). Describe what the documentary covers, explain what you found most and least impressive about it, and say who would benefit from watching it. Write your review.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Empieza con un título atractivo y una primera frase que enganche al lector.",
+      "Combina descripción breve (sin contar todo) con valoración: el peso debe estar en la evaluación.",
+      "Usa adjetivos y adverbios evaluativos precisos: gripping, painstaking, visually stunning, somewhat superficial, overly technical.",
+      "Equilibra elogios y críticas, y termina con una recomendación clara indicando a qué público va dirigido.",
+      "Puedes inventar el documental: lo importante es el lenguaje, no que exista."
+    ],
+    "model": "Building Beneath the Waves: a Triumph of Storytelling\n\nFew documentaries manage to make concrete and steel as gripping as a crime thriller, but \"Building Beneath the Waves\" comes remarkably close. This three-part series follows the construction of an undersea rail tunnel linking two countries, from the first geological surveys to the opening ceremony.\n\nThe first episode focuses on the painstaking planning phase, explaining how engineers mapped the seabed and chose between a bored tunnel and an immersed tube. The second and third episodes take us inside the tunnel boring machines, introducing the crews who work in shifts around the clock and the problems they face, including an unexpected inflow of water that halted progress for weeks.\n\nWhat impressed me most was the way the film balances technical explanation with human stories. Clear animations show exactly how the segments are assembled, yet we also hear from a young geotechnical engineer whose calculations helped to avert a potential disaster. The cinematography, particularly the footage shot inside the flooded section, is simply breathtaking.\n\nIf I had one criticism, it would be that the series glosses over the controversies surrounding the project. The enormous cost overruns and the concerns of local fishing communities are mentioned only briefly, which leaves the impression of a slightly promotional account.\n\nNevertheless, I would wholeheartedly recommend it. Engineering students will find it both inspiring and informative, while viewers with no technical background will enjoy a compelling story of ambition and perseverance. It might even persuade a few teenagers to consider a career in engineering."
+  },
+  {
+    "meta": {
+      "id": "wr-c1-review-02",
+      "skill": "writing",
+      "level": "C1",
+      "topic": "Crime drama series",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Review of a police drama series",
+    "genre": "review",
+    "prompt": "An international magazine for people working in law enforcement is asking readers to review a TV crime drama. Write a review of a police series you have watched, commenting on how realistically it portrays police work, what makes it entertaining, and whether you would recommend it to people who are considering a career in the police. Write your review.",
+    "minWords": 220,
+    "maxWords": 260,
+    "timeMinutes": 45,
+    "tips": [
+      "Adapta el contenido al público de la revista: profesionales de la seguridad valorarán el realismo de procedimientos.",
+      "Usa vocabulario policial: chain of custody, interview room, forensic evidence, warrant, informant, chain of command.",
+      "Estructura: introducción con gancho, argumento sin spoilers, valoración del realismo, valoración del entretenimiento, recomendación.",
+      "Varía la estructura de las frases: \"Where the series really excels is...\", \"Not only does it..., but it also...\"."
+    ],
+    "model": "\"Night Shift\": Closer to the Truth than Most\n\nPolice dramas are notorious for car chases, instant forensic results and rule-breaking detectives. \"Night Shift\", a ten-episode series set in a busy port city, is a refreshing exception.\n\nThe series follows a small team of officers working the overnight shift, dealing with everything from domestic disputes to a drug-smuggling network operating through the container terminal. Rather than focusing on a single brilliant detective, it presents policing as a collective effort in which uniformed officers, analysts and forensic staff all play a part.\n\nWhere the series really excels is in its attention to procedure. Evidence is carefully bagged, labelled and logged, and one entire episode revolves around a case that collapses because the chain of custody was broken. Interviews are conducted with lawyers present, and warrants take days rather than minutes to obtain. Not only does this make the series more credible, but it also creates genuine tension, since viewers understand exactly what is at stake.\n\nThat said, it is far from dull. The characters are complex and believable, and the writers explore the toll that shift work and traumatic incidents take on officers' private lives. If anything, the later episodes are somewhat slow, and one subplot feels rather predictable.\n\nI would strongly recommend \"Night Shift\" to anyone considering joining the police. It will not prepare you for the academy, of course, but it offers an honest glimpse of the frustrations and rewards of the job, which is more than can be said for most programmes in the genre."
+  },
+  {
+    "meta": {
+      "id": "wr-slp-techreport-01",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Conveyor belt accident",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Incident report: conveyor belt entanglement",
+    "genre": "technical-report",
+    "prompt": "You are the health and safety engineer at a mineral processing plant. Yesterday a maintenance operator suffered a hand injury while clearing spillage near the tail pulley of a conveyor belt. Write an incident report for the plant manager and the company's international safety committee. Include: a factual description of the incident, the immediate actions taken, the root causes identified, and corrective and preventive actions with responsibilities and deadlines.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "Estructura estándar: 1. Summary, 2. Description of the incident, 3. Immediate actions, 4. Root cause analysis, 5. Corrective and preventive actions (CAPA), 6. Conclusion.",
+      "Hechos primero, sin juicios ni culpables: \"The operator was found...\", \"It was established that...\". Separa hechos (findings) de conclusiones.",
+      "Usa la voz pasiva y la nominalización: \"the isolation of the drive\", \"failure to apply lockout\".",
+      "Precisión técnica: tail pulley, guarding, emergency pull-cord, lockout/tagout (LOTO), permit to work, near miss, lost-time injury.",
+      "Las acciones correctoras deben ser SMART: responsable y fecha límite para cada una.",
+      "Tiempo verbal: pasado simple para la cronología; presente para conclusiones; \"will/shall\" para acciones."
+    ],
+    "model": "INCIDENT REPORT - Conveyor CV-04 Hand Injury\n\n1. Summary\nAt approximately 10:15 on 14 March, a maintenance operator sustained a fracture to two fingers of his right hand while removing spillage near the tail pulley of conveyor CV-04. The injury is classified as a lost-time injury.\n\n2. Description of the incident\nThe operator had been instructed to clear accumulated ore beneath the tail end of the conveyor. The belt was running at the time. While using a shovel close to the pulley, the shovel was drawn into the nip point and the operator's hand was pulled against the guard frame. A colleague activated the emergency pull-cord and the belt stopped within three seconds.\n\n3. Immediate actions\nFirst aid was administered on site and the operator was transferred to hospital. The conveyor was isolated, the area was cordoned off and photographs were taken before any equipment was moved.\n\n4. Root cause analysis\nThe investigation identified the following causes:\n- The cleaning task was carried out without applying lockout/tagout, as it was perceived to be a routine, low-risk job.\n- A section of the tail pulley guard had been removed during a previous repair and had not been refitted.\n- The task was not covered by any written procedure or risk assessment.\n- Production pressure discouraged stopping the conveyor during the shift.\n\n5. Corrective and preventive actions\n- Refit and inspect all conveyor guards across the site. Responsible: maintenance supervisor. Deadline: 21 March.\n- Draft a safe work procedure for spillage removal requiring full isolation. Responsible: HSE engineer. Deadline: 31 March.\n- Deliver refresher LOTO training to all maintenance and production staff. Responsible: training coordinator. Deadline: 30 April.\n- Introduce a guard removal permit to ensure guards are reinstated after repairs. Responsible: maintenance manager. Deadline: 15 April.\n\n6. Conclusion\nThis incident was entirely preventable. It highlights the danger of treating frequent tasks as low-risk and confirms that isolation must be applied before any intervention near moving parts, regardless of production targets."
+  },
+  {
+    "meta": {
+      "id": "wr-slp-techreport-02",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Substation outage",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Technical report: substation outage",
+    "genre": "technical-report",
+    "prompt": "You work as an electrical engineer for a regional distribution company. Last week a fault at a 66/20 kV substation left around 12,000 customers without power for four hours, including a hospital that had to rely on backup generators. Write a technical report for senior management describing the event, its impact, the probable cause and your recommendations to prevent recurrence.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "Abre con un resumen ejecutivo de 2-3 líneas: qué pasó, impacto y recomendación principal.",
+      "Cronología con horas exactas (\"At 18:42 the busbar protection operated...\").",
+      "Diferencia entre causa probable y causa confirmada: \"The most likely cause appears to be...\", \"pending laboratory analysis\".",
+      "Vocabulario: busbar, circuit breaker, protection relay, tripped, restored, N-1 redundancy, load transfer, condition monitoring.",
+      "Cuantifica el impacto (clientes, duración, energía no suministrada) y termina con recomendaciones priorizadas."
+    ],
+    "model": "TECHNICAL REPORT - Outage at North Substation (66/20 kV)\n\nSummary\nOn 9 May a fault on a 20 kV busbar at North Substation interrupted supply to approximately 12,000 customers for up to four hours. The most likely cause was the failure of a deteriorated cable termination. Investment in condition monitoring and an additional network interconnection is recommended.\n\nSequence of events\nAt 18:42 the busbar differential protection operated and tripped both incoming transformer circuit breakers, de-energising all eight 20 kV feeders. The control centre dispatched a field crew, which arrived at 19:20 and reported smoke damage in cubicle 5. Once the faulty section had been isolated, supply was restored to five feeders by 20:30. The remaining three feeders, including the one supplying the district hospital, were restored at 22:45 after load was transferred through a neighbouring substation.\n\nImpact\nThe outage resulted in an estimated 31 MWh of energy not supplied. The hospital operated on its backup generators throughout and reported no disruption to critical services. However, traffic lights at four junctions were out of service, and the company received over 900 customer complaints.\n\nProbable cause\nA visual inspection revealed severe tracking and burn marks on the cable termination in cubicle 5. The termination was installed in 1998 and had not been tested since 2015. Partial discharge is considered the most likely failure mechanism, although this remains to be confirmed by laboratory analysis.\n\nRecommendations\n1. Carry out partial discharge testing on all terminations older than twenty years across the network within six months.\n2. Install online condition monitoring at the five substations that supply critical customers.\n3. Build a second 20 kV interconnection to North Substation, so that load can be transferred within minutes rather than hours.\n4. Review the communication protocol with critical customers to ensure they are informed promptly of expected restoration times.\n\nConclusion\nAlthough the protection system operated correctly, the outage exposed weaknesses in asset maintenance and network redundancy that should be addressed as a priority."
+  },
+  {
+    "meta": {
+      "id": "wr-slp-exec-01",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Solar PV plant feasibility",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Executive summary: feasibility of a solar PV plant",
+    "genre": "executive-summary",
+    "prompt": "Your engineering consultancy has completed a 60-page feasibility study for a client who wants to build a 25 MW solar photovoltaic plant on former mining land. Write the executive summary for the client's board of directors, who will not read the full study. Cover the objective, key technical and economic findings, main risks and your recommendation.",
+    "minWords": 200,
+    "maxWords": 280,
+    "timeMinutes": 45,
+    "tips": [
+      "Un resumen ejecutivo debe poder leerse de forma independiente: el lector decide basándose solo en él.",
+      "Empieza por la conclusión/recomendación o justo después del objetivo (principio de \"bottom line up front\").",
+      "Usa cifras clave: capacidad, producción anual, inversión (CAPEX), retorno (payback, IRR).",
+      "Frases concisas, sin detalles técnicos innecesarios; viñetas para los riesgos.",
+      "Registro formal y seguro, pero con matiz: \"subject to\", \"provided that\", \"on condition that\"."
+    ],
+    "model": "EXECUTIVE SUMMARY - 25 MW Solar PV Plant at the Former Valle Mine\n\nObjective\nThis study assessed the technical and economic feasibility of developing a 25 MW photovoltaic plant on 45 hectares of rehabilitated land at the former Valle open-pit mine.\n\nKey findings\nThe site is technically suitable. Solar irradiation is high, averaging 1,850 kWh per square metre per year, and the expected annual output is approximately 45 GWh, enough to supply around 13,000 households. Geotechnical surveys confirm that the backfilled ground can support ground-mounted structures, provided that ballasted foundations are used in the areas of former waste dumps. A 132 kV line passes within three kilometres of the site, which significantly reduces connection costs.\n\nThe estimated capital cost is 19 million euros. Assuming a long-term power purchase agreement, the project would achieve an internal rate of return of around 8 per cent and a payback period of eleven years.\n\nMain risks\n- Delays in obtaining grid access permits, currently averaging eighteen months in the region.\n- Ground settlement in backfilled areas, which may increase maintenance costs.\n- Falling wholesale electricity prices during peak solar hours, which could reduce revenue if no purchase agreement is secured.\n\nRecommendation\nWe recommend that the client proceed to the detailed design phase, subject to two conditions: securing a power purchase agreement for at least 70 per cent of output, and applying for grid access immediately. Consideration should also be given to adding battery storage in a second phase, which would mitigate price risk and strengthen the project's long-term profitability."
+  },
+  {
+    "meta": {
+      "id": "wr-slp-exec-02",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Drone surveillance pilot",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Executive summary: evaluation of a drone surveillance pilot",
+    "genre": "executive-summary",
+    "prompt": "For six months your unit ran a pilot project using drones to support coastal surveillance and search-and-rescue operations. Write an executive summary of the evaluation report for senior command. Summarise the aims of the pilot, the results achieved, the problems encountered (technical, legal and operational) and your recommendation on whether to extend the programme.",
+    "minWords": 200,
+    "maxWords": 280,
+    "timeMinutes": 45,
+    "tips": [
+      "Formato BLUF (Bottom Line Up Front), típico en entornos militares y policiales: la recomendación aparece muy pronto.",
+      "Datos concretos: horas de vuelo, número de detecciones, tiempos de respuesta comparados.",
+      "Menciona aspectos legales (protección de datos, espacio aéreo) con lenguaje prudente.",
+      "Vocabulario: deployment, flight hours, thermal imaging, airspace restrictions, data protection, cost-effectiveness, roll-out.",
+      "Evita opiniones personales; usa \"The evaluation found / indicates / suggests\"."
+    ],
+    "model": "EXECUTIVE SUMMARY - Coastal Drone Surveillance Pilot\n\nRecommendation\nThe evaluation indicates that drones are a cost-effective complement to existing maritime surveillance assets. It is recommended that the programme be extended to two further coastal sectors, subject to the measures outlined below.\n\nAims of the pilot\nThe six-month pilot aimed to determine whether unmanned aircraft could improve the detection of small vessels approaching the coast and reduce response times in search-and-rescue incidents.\n\nResults\nFour drones equipped with thermal imaging cameras completed 610 flight hours. They contributed to the detection of 37 small boats, 11 of which had not been picked up by coastal radar. In search-and-rescue operations, the average time needed to locate people in the water fell from 48 to 19 minutes. The cost per flight hour was roughly one tenth of that of a manned helicopter.\n\nProblems encountered\n- Technical: endurance was limited to 50 minutes per flight, and operations were suspended on 23 days because of strong winds.\n- Legal: concerns were raised about the incidental recording of people on beaches, and the existing data protection guidelines proved insufficient.\n- Operational: only six officers were qualified as pilots, which restricted night-time coverage.\n\nConditions for extension\nShould the programme be extended, it will be essential to train at least twelve additional pilots, to acquire fixed-wing drones with greater endurance, and to adopt a specific protocol on the storage and deletion of footage, agreed with the data protection officer. With these measures in place, drones could significantly enhance both border security and the protection of lives at sea."
+  },
+  {
+    "meta": {
+      "id": "wr-slp-email-01",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "International police cooperation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Email to a foreign liaison officer requesting information",
+    "genre": "formal-email",
+    "prompt": "You are investigating a network suspected of stealing high-value construction machinery in your country and shipping it abroad. Some of the machinery may have been exported through a port in another EU country. Write a formal email to the police liaison officer of that country at your embassy, introducing yourself, explaining the case briefly, requesting specific information and explaining how the information will be handled.",
+    "minWords": 180,
+    "maxWords": 250,
+    "timeMinutes": 40,
+    "tips": [
+      "Asunto (Subject:) claro y con referencia del caso. Saludo: \"Dear Inspector [apellido],\" o \"Dear Sir or Madam,\".",
+      "Párrafo 1: quién eres y por qué escribes. Párrafo 2: contexto breve del caso. Párrafo 3: peticiones concretas (en lista). Párrafo 4: tratamiento de la información y cierre.",
+      "Peticiones corteses e indirectas: \"I would be grateful if you could...\", \"Would it be possible to...?\".",
+      "Menciona canales oficiales (SIENA de Europol, orden europea de investigación) de forma genérica y la confidencialidad.",
+      "Cierre: \"I look forward to hearing from you.\" + \"Yours sincerely,\" / \"Kind regards,\" + nombre, cargo y unidad."
+    ],
+    "model": "Subject: Request for information - stolen construction machinery (Ref. 2026/0417)\n\nDear Inspector Larsen,\n\nMy name is Sergeant García and I am currently leading an investigation within the Organised Crime Unit into the theft of heavy construction machinery in the north of Spain. I am writing to ask for your assistance in establishing whether some of the stolen equipment may have passed through ports in your country.\n\nSince January, at least fourteen excavators and loaders, with a total value of approximately 1.2 million euros, have been stolen from building sites. We have reason to believe that the vehicles are fitted with false identification plates and transported by road to northern Europe before being shipped to third countries.\n\nI would be grateful if you could help us with the following:\n- confirmation of whether any of the serial numbers in the attached list have been registered at customs in your ports since January;\n- details of the freight companies and consignees involved in any such shipments;\n- any intelligence on similar thefts reported in your country.\n\nPlease be assured that any information you provide will be used solely for the purposes of this investigation and handled in accordance with our data protection obligations. Should you require a formal request through Europol channels or a European Investigation Order, I will arrange this without delay.\n\nThank you in advance for your cooperation. I look forward to hearing from you.\n\nYours sincerely,\n\nSgt. M. García\nOrganised Crime Unit"
+  },
+  {
+    "meta": {
+      "id": "wr-slp-email-02",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Supplier non-conformity",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Email to a supplier about a non-conformity",
+    "genre": "formal-email",
+    "prompt": "You are the quality manager at a company that manufactures pressure vessels. A batch of steel flanges recently delivered by a foreign supplier failed your incoming inspection: several pieces have dimensional deviations and the material certificates do not match the heat numbers stamped on the parts. Write a formal email to the supplier's quality department describing the non-conformity, its consequences, and the actions you require, with deadlines.",
+    "minWords": 180,
+    "maxWords": 250,
+    "timeMinutes": 40,
+    "tips": [
+      "Tono firme pero profesional: describe los hechos objetivamente, sin acusaciones personales.",
+      "Incluye referencias: número de pedido, albarán, lote, informe de no conformidad (NCR).",
+      "Vocabulario de calidad: non-conformity report (NCR), incoming inspection, tolerance, heat number, material certificate (EN 10204 3.1), root cause analysis, 8D report, quarantine.",
+      "Expresa exigencias con modales y estructuras formales: \"We must ask you to...\", \"We would request that...\", \"We expect to receive...\".",
+      "Menciona consecuencias (retrasos, costes) y posibles medidas si no se corrige, sin amenazar de forma agresiva."
+    ],
+    "model": "Subject: Non-conformity report NCR-2026-112 - Purchase order 45871\n\nDear Quality Department,\n\nI am writing to inform you that the batch of 120 weld neck flanges delivered on 3 October under purchase order 45871 has failed our incoming inspection and has been placed in quarantine.\n\nOur inspection identified two serious non-conformities. Firstly, 18 flanges show bore diameters outside the tolerance specified in the drawing, with deviations of up to 0.8 mm. Secondly, the heat numbers stamped on 40 pieces do not correspond to those shown on the EN 10204 3.1 material certificates supplied with the delivery. As a consequence, we are unable to guarantee the traceability of the material, which is a mandatory requirement for pressure equipment.\n\nThis situation has already delayed the fabrication of two vessels for a key customer, and we may incur contractual penalties if the delay exceeds two weeks.\n\nWe must therefore ask you to:\n- confirm receipt of this email and of the attached NCR within 48 hours;\n- provide correct certificates or replace the affected flanges by 24 October;\n- submit an 8D report including root cause analysis and preventive actions by 7 November.\n\nWe value our long-standing relationship with your company and trust that these issues will be resolved promptly. Please do not hesitate to contact me should you require any further information or wish to arrange a joint inspection.\n\nYours faithfully,\n\nQuality Manager"
+  },
+  {
+    "meta": {
+      "id": "wr-slp-memo-01",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Police recruitment policy",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Position paper: recruitment of technical specialists",
+    "genre": "slp-memo",
+    "prompt": "Your commanding officer has asked for short position papers on the following question: \"Should the force create a specialist entry route that allows engineers, IT experts and scientists to join at a higher rank without completing the standard basic training?\" Write a memo stating and supporting your position, considering the counter-arguments, and hypothesising about the likely consequences if your recommendation were (or were not) adopted.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "SLP 3 exige apoyar una opinión y formular hipótesis: usa condicionales de todo tipo (If we were to..., Had we..., Unless...).",
+      "Formato memo: TO / FROM / DATE / SUBJECT, luego Purpose, Background, Discussion, Recommendation.",
+      "Presenta y refuta contraargumentos: \"It could be argued that... However...\", \"Critics would point out...\".",
+      "Lenguaje de especulación: \"This would almost certainly lead to...\", \"There is a real risk that...\", \"In all likelihood...\".",
+      "Mantén un registro institucional: impersonal, preciso, sin emociones; conclusiones claras."
+    ],
+    "model": "MEMORANDUM\n\nTO: Commanding Officer, Human Resources Division\nFROM: Lieutenant, Technical Support Unit\nDATE: 12 October\nSUBJECT: Specialist entry route for technical professionals\n\n1. Purpose\nThis memo sets out my position on the proposal to allow engineers, IT experts and scientists to join the force at a higher rank without completing standard basic training.\n\n2. Position\nI support the creation of a specialist entry route, provided that it includes a shortened but compulsory programme of core police training.\n\n3. Discussion\nCrime is becoming increasingly technical. Investigations into cyberattacks, financial fraud or environmental offences require expertise that takes years to acquire and that our current recruitment model rarely attracts. A qualified engineer earning a competitive salary in the private sector is unlikely to start again as a junior officer on a basic wage. If we offered a realistic career path, we would gain access to a pool of talent that is currently closed to us.\n\nIt could be argued that officers who bypass basic training would lack legitimacy among colleagues and an understanding of operational realities. This concern is valid, which is why I do not recommend exempting them entirely. A twelve-week programme covering criminal law, the use of force, human rights and evidence handling would provide the necessary foundation without discouraging applicants.\n\n4. Likely consequences\nWere this route adopted, I would expect specialist units to reduce their dependence on external contractors within three to five years, lowering costs and improving the security of sensitive data. Conversely, if we maintained the current system, the technical gap between our investigators and organised criminal groups would almost certainly widen. There is also a real risk that we would continue to lose our most capable technical staff to the private sector.\n\n5. Recommendation\nI recommend that a pilot specialist entry scheme be launched next year for twenty candidates, focusing on cybercrime and forensic engineering, and that it be evaluated after two years before any wider implementation."
+  },
+  {
+    "meta": {
+      "id": "wr-slp-memo-02",
+      "skill": "writing",
+      "level": "SLP3",
+      "topic": "Cyber training for officers",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Position paper: mandatory cyber training for all personnel",
+    "genre": "slp-memo",
+    "prompt": "Following a phishing incident that compromised several internal accounts, headquarters is considering making annual cybersecurity training compulsory for all personnel, from patrol officers to senior commanders. Write a memo giving your opinion on this proposal, supporting it with arguments, addressing possible objections (cost, time, effectiveness) and hypothesising about what might happen if no action were taken.",
+    "minWords": 250,
+    "maxWords": 350,
+    "timeMinutes": 60,
+    "tips": [
+      "Abre con el propósito y tu postura en una o dos frases (estilo militar: claridad ante todo).",
+      "Usa ejemplos concretos y verosímiles para apoyar tus argumentos (simulacros de phishing, costes de un incidente).",
+      "Hipótesis: \"If a similar breach were to affect...\", \"Had the officers been trained, the attack would probably have been detected...\".",
+      "Anticipa objeciones con estructuras concesivas: \"Admittedly...\", \"While it is true that...\", \"Granted, ... but...\".",
+      "Termina con recomendaciones numeradas y concretas."
+    ],
+    "model": "MEMORANDUM\n\nTO: Head of Training, General Headquarters\nFROM: Sergeant, Cybercrime Investigation Unit\nDATE: 5 November\nSUBJECT: Proposal for compulsory annual cybersecurity training\n\n1. Purpose\nThis memo responds to the proposal to introduce compulsory annual cybersecurity training for all personnel. I strongly support the proposal.\n\n2. Background\nLast month, a phishing email impersonating the payroll department led eleven members of staff to enter their credentials on a fraudulent website. Several internal accounts were compromised before the breach was detected two days later. Fortunately, there is no evidence that operational data was accessed.\n\n3. Arguments\nThe incident shows that our technical defences are only as strong as the least informed user. Attackers deliberately target people rather than systems because it is cheaper and more effective. Had the affected staff received even basic training, they would probably have noticed the suspicious sender address and reported the message immediately.\n\nMoreover, police organisations are particularly attractive targets. Criminal groups would gain enormous advantage from access to investigation files, informant details or the location of patrols.\n\n4. Possible objections\nAdmittedly, training thousands of officers involves cost and time away from operational duties. However, a well-designed online module of around ninety minutes, combined with periodic simulated phishing exercises, would keep both to a minimum. While it is true that awareness training does not eliminate human error, experience in other organisations suggests that it can reduce click rates on phishing emails by more than half.\n\n5. Consequences of inaction\nIf no action were taken, a similar breach would be very likely to occur again, perhaps with far more serious consequences. Were sensitive case files to be leaked, prosecutions could collapse, lives could be put at risk and public trust in the force would be severely damaged.\n\n6. Recommendations\na) Introduce a compulsory annual online module for all personnel, including senior commanders.\nb) Conduct unannounced phishing simulations every quarter.\nc) Provide additional training for staff with access to sensitive databases."
+  }
+]

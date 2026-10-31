@@ -1,0 +1,683 @@
+[
+  {
+    "meta": {
+      "id": "uoe-kwt-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Mixed transformations: everyday and workplace",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 1",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-kwt-01-q1",
+        "kind": "text",
+        "original": "I had no idea that the meeting had been cancelled.",
+        "keyword": "LITTLE",
+        "prompt": "_____ the meeting had been cancelled.",
+        "parts": [
+          [
+            "little did i"
+          ],
+          [
+            "know",
+            "realise",
+            "realize",
+            "suspect"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "little did i know that",
+          "little did i know",
+          "little did i realise that",
+          "little did i realise",
+          "little did i realize that",
+          "little did i realize",
+          "little did i suspect that",
+          "little did i suspect"
+        ],
+        "explanation": "Inversión tras el adverbio restrictivo «little»: «Little did I know (that)...». Tras «little» va el auxiliar «did» + sujeto + infinitivo sin «to».",
+        "tag": "grammar",
+        "grammarRef": "inversion"
+      },
+      {
+        "id": "uoe-kwt-01-q2",
+        "kind": "text",
+        "original": "People believe that the thieves escaped through the roof.",
+        "keyword": "BELIEVED",
+        "prompt": "The thieves _____ through the roof.",
+        "parts": [
+          [
+            "are believed"
+          ],
+          [
+            "to have escaped"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "are believed to have escaped"
+        ],
+        "explanation": "Pasiva impersonal con sujeto personal: «sujeto + is/are believed + to have + participio» cuando la acción creída es anterior.",
+        "tag": "grammar",
+        "grammarRef": "passive"
+      },
+      {
+        "id": "uoe-kwt-01-q3",
+        "kind": "text",
+        "original": "\"You really should get a second opinion,\" the engineer told me.",
+        "keyword": "ADVISED",
+        "prompt": "The engineer _____ a second opinion.",
+        "parts": [
+          [
+            "advised me",
+            "advised that i",
+            "advised that i should"
+          ],
+          [
+            "to get",
+            "to seek",
+            "to obtain",
+            "get",
+            "seek"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "advised me to get",
+          "advised me to seek",
+          "advised me to obtain",
+          "advised that i get",
+          "advised that i should get",
+          "advised that i seek",
+          "advised that i should seek"
+        ],
+        "explanation": "Verbo de estilo indirecto «advise + objeto + to-infinitivo» (o «advise that + sujeto + (should) + infinitivo»).",
+        "tag": "grammar",
+        "grammarRef": "reporting-verbs"
+      },
+      {
+        "id": "uoe-kwt-01-q4",
+        "kind": "text",
+        "original": "We only finished on time because the contractors worked through the weekend.",
+        "keyword": "HAD",
+        "prompt": "We would not have finished on time _____ through the weekend.",
+        "parts": [
+          [
+            "had the contractors not",
+            "if the contractors had not",
+            "if the contractors hadn't"
+          ],
+          [
+            "worked"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "had the contractors not worked",
+          "if the contractors had not worked",
+          "if the contractors hadn't worked"
+        ],
+        "explanation": "Tercera condicional sobre un hecho pasado contrario a la realidad. Con inversión se omite «if»: «had the contractors not worked». Ojo: en la inversión no se contrae («hadn't the contractors» es incorrecto).",
+        "tag": "grammar",
+        "grammarRef": "conditionals-mixed"
+      },
+      {
+        "id": "uoe-kwt-01-q5",
+        "kind": "text",
+        "original": "The committee rejected the proposal because it was too expensive.",
+        "keyword": "TURNED",
+        "prompt": "The proposal _____ by the committee because of its cost.",
+        "parts": [
+          [
+            "was"
+          ],
+          [
+            "turned down"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "was turned down"
+        ],
+        "explanation": "«Turn down» = rechazar. Al pasar a pasiva (el sujeto es «the proposal»): «was turned down by».",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      },
+      {
+        "id": "uoe-kwt-01-q6",
+        "kind": "text",
+        "original": "The new system is nowhere near as efficient as we had hoped.",
+        "keyword": "FAR",
+        "prompt": "The new system is _____ we had hoped.",
+        "parts": [
+          [
+            "far less"
+          ],
+          [
+            "efficient than"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "far less efficient than"
+        ],
+        "explanation": "«Nowhere near as ... as» equivale a un comparativo de inferioridad reforzado: «far less efficient than». «Far» intensifica el comparativo.",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-kwt-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Transformations in a police context",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 2",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-kwt-02-q1",
+        "kind": "text",
+        "original": "The suspect was released only after his lawyer had arrived.",
+        "keyword": "UNTIL",
+        "prompt": "Not _____ was the suspect released.",
+        "parts": [
+          [
+            "until his lawyer"
+          ],
+          [
+            "had arrived",
+            "arrived"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "until his lawyer had arrived",
+          "until his lawyer arrived"
+        ],
+        "explanation": "«Not until + oración» al inicio provoca inversión en la oración principal («was the suspect released»).",
+        "tag": "grammar",
+        "grammarRef": "inversion"
+      },
+      {
+        "id": "uoe-kwt-02-q2",
+        "kind": "text",
+        "original": "It is possible that the evidence was tampered with before it reached the lab.",
+        "keyword": "MAY",
+        "prompt": "The evidence _____ with before it reached the lab.",
+        "parts": [
+          [
+            "may have been"
+          ],
+          [
+            "tampered"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "may have been tampered"
+        ],
+        "explanation": "Deducción sobre el pasado en pasiva: «may have been + participio». Se mantiene la preposición «with» del verbo «tamper with».",
+        "tag": "grammar",
+        "grammarRef": "modals-deduction"
+      },
+      {
+        "id": "uoe-kwt-02-q3",
+        "kind": "text",
+        "original": "The officer said it was my fault that the accident had happened.",
+        "keyword": "BLAMED",
+        "prompt": "The officer _____ the accident.",
+        "parts": [
+          [
+            "blamed me"
+          ],
+          [
+            "for",
+            "for causing"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "blamed me for",
+          "blamed me for causing"
+        ],
+        "explanation": "«Blame somebody for something/doing something» = culpar a alguien de algo. Verbo de estilo indirecto con preposición dependiente «for».",
+        "tag": "grammar",
+        "grammarRef": "reporting-verbs"
+      },
+      {
+        "id": "uoe-kwt-02-q4",
+        "kind": "text",
+        "original": "Nobody expected the operation to be so successful.",
+        "keyword": "EXCEEDED",
+        "prompt": "The success of the operation _____.",
+        "parts": [
+          [
+            "exceeded"
+          ],
+          [
+            "everyone's expectations",
+            "everybody's expectations",
+            "all expectations",
+            "all our expectations"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "exceeded everyone's expectations",
+          "exceeded all expectations",
+          "exceeded all our expectations",
+          "exceeded everybody's expectations"
+        ],
+        "explanation": "Colocación «exceed (all/everyone's) expectations» = superar las expectativas. Recuerda que «everyone's» cuenta como una sola palabra.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-kwt-02-q5",
+        "kind": "text",
+        "original": "The investigation is being hindered by a lack of witnesses.",
+        "keyword": "WAY",
+        "prompt": "A lack of witnesses _____ the investigation.",
+        "parts": [
+          [
+            "is getting in",
+            "is standing in",
+            "stands in",
+            "gets in"
+          ],
+          [
+            "the way of"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "is getting in the way of",
+          "is standing in the way of",
+          "stands in the way of",
+          "gets in the way of"
+        ],
+        "explanation": "«Get/stand in the way of» = obstaculizar. Se mantiene el aspecto continuo del original («is being hindered» → «is getting in the way of»).",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-kwt-02-q6",
+        "kind": "text",
+        "original": "They will have to postpone the trial until the new judge is appointed.",
+        "keyword": "OFF",
+        "prompt": "The trial will have to _____ until the new judge is appointed.",
+        "parts": [
+          [
+            "be"
+          ],
+          [
+            "put off"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "be put off"
+        ],
+        "explanation": "«Put off» = aplazar. Tras «will have to» la pasiva es «be + participio»: «be put off».",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-kwt-03",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Transformations in an industrial context",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 3",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-kwt-03-q1",
+        "kind": "text",
+        "original": "The plant manager arranged for someone to replace the faulty valve immediately.",
+        "keyword": "HAD",
+        "prompt": "The plant manager _____ immediately.",
+        "parts": [
+          [
+            "had the faulty valve"
+          ],
+          [
+            "replaced"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "had the faulty valve replaced"
+        ],
+        "explanation": "Causativa «have + objeto + participio»: el gerente encargó la tarea a otra persona.",
+        "tag": "grammar",
+        "grammarRef": "causative"
+      },
+      {
+        "id": "uoe-kwt-03-q2",
+        "kind": "text",
+        "original": "Production must not resume before the inspection has been completed, whatever happens.",
+        "keyword": "CIRCUMSTANCES",
+        "prompt": "Under _____ resume before the inspection has been completed.",
+        "parts": [
+          [
+            "no circumstances"
+          ],
+          [
+            "must production",
+            "should production",
+            "can production",
+            "is production to"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "no circumstances must production",
+          "no circumstances should production",
+          "no circumstances can production",
+          "no circumstances is production to"
+        ],
+        "explanation": "«Under no circumstances» al inicio exige inversión: auxiliar/modal + sujeto («must production resume»).",
+        "tag": "grammar",
+        "grammarRef": "inversion"
+      },
+      {
+        "id": "uoe-kwt-03-q3",
+        "kind": "text",
+        "original": "The new regulations will affect small companies more than anyone else.",
+        "keyword": "IMPACT",
+        "prompt": "The new regulations will _____ small companies than on anyone else.",
+        "parts": [
+          [
+            "have a greater",
+            "have a bigger",
+            "have a larger",
+            "have more of an"
+          ],
+          [
+            "impact on"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "have a greater impact on",
+          "have a bigger impact on",
+          "have a larger impact on",
+          "have more of an impact on"
+        ],
+        "explanation": "Colocación «have an impact on» en comparativo: «have a greater impact on X than on Y». La preposición «on» se repite en el segundo término.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-kwt-03-q4",
+        "kind": "text",
+        "original": "It's a pity we didn't carry out a risk assessment before starting.",
+        "keyword": "WISH",
+        "prompt": "I _____ out a risk assessment before starting.",
+        "parts": [
+          [
+            "wish we had",
+            "wish we'd"
+          ],
+          [
+            "carried"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "wish we had carried",
+          "wish we'd carried"
+        ],
+        "explanation": "Lamento sobre el pasado: «wish + past perfect». Se mantiene el phrasal verb «carry out».",
+        "tag": "grammar",
+        "grammarRef": "wish"
+      },
+      {
+        "id": "uoe-kwt-03-q5",
+        "kind": "text",
+        "original": "The supplier said that the delay was not their fault.",
+        "keyword": "DENIED",
+        "prompt": "The supplier _____ for the delay.",
+        "parts": [
+          [
+            "denied"
+          ],
+          [
+            "being responsible",
+            "having been responsible",
+            "that they were responsible",
+            "all responsibility",
+            "any responsibility",
+            "being to blame",
+            "that they were to blame"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "denied being responsible",
+          "denied having been responsible",
+          "denied that they were responsible",
+          "denied all responsibility",
+          "denied any responsibility",
+          "denied being to blame",
+          "denied that they were to blame"
+        ],
+        "explanation": "«Deny + -ing» o «deny that...»: negar ser responsable. «Responsible for» y «to blame for» encajan con el «for» de la frase.",
+        "tag": "grammar",
+        "grammarRef": "reporting-verbs"
+      },
+      {
+        "id": "uoe-kwt-03-q6",
+        "kind": "text",
+        "original": "Costs rose so sharply that the project had to be abandoned.",
+        "keyword": "SUCH",
+        "prompt": "There was _____ costs that the project had to be abandoned.",
+        "parts": [
+          [
+            "such a sharp",
+            "such a steep"
+          ],
+          [
+            "rise in",
+            "increase in"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "such a sharp rise in",
+          "such a steep rise in",
+          "such a sharp increase in",
+          "such a steep increase in"
+        ],
+        "explanation": "«So + adverbio» pasa a «such a + adjetivo + sustantivo»: «such a sharp rise in costs that...». «Rise/increase» rigen «in».",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-kwt-04",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Mixed transformations: security and press",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Key word transformations 4",
+    "part": "kwt",
+    "instructions": "For questions 1-6, complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and six words, including the word given.",
+    "questions": [
+      {
+        "id": "uoe-kwt-04-q1",
+        "kind": "text",
+        "original": "As soon as the alarm went off, the guards sealed the building.",
+        "keyword": "SOONER",
+        "prompt": "No _____ off than the guards sealed the building.",
+        "parts": [
+          [
+            "sooner had"
+          ],
+          [
+            "the alarm gone"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "sooner had the alarm gone"
+        ],
+        "explanation": "«No sooner + had + sujeto + participio ... than»: inversión con past perfect. El participio de «go off» es «gone off».",
+        "tag": "grammar",
+        "grammarRef": "inversion"
+      },
+      {
+        "id": "uoe-kwt-04-q2",
+        "kind": "text",
+        "original": "I'd prefer you not to mention this to the press.",
+        "keyword": "RATHER",
+        "prompt": "I _____ this to the press.",
+        "parts": [
+          [
+            "would rather you"
+          ],
+          [
+            "did not mention",
+            "didn't mention"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "would rather you did not mention",
+          "would rather you didn't mention"
+        ],
+        "explanation": "«Would rather + sujeto distinto + pasado simple» expresa preferencia sobre lo que hace otra persona en el presente o futuro.",
+        "tag": "grammar",
+        "grammarRef": "wish"
+      },
+      {
+        "id": "uoe-kwt-04-q3",
+        "kind": "text",
+        "original": "Everyone says the new chief inspector is extremely competent.",
+        "keyword": "REPUTATION",
+        "prompt": "The new chief inspector _____ extremely competent.",
+        "parts": [
+          [
+            "has a reputation",
+            "has the reputation"
+          ],
+          [
+            "for being",
+            "of being"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "has a reputation for being",
+          "has a reputation of being",
+          "has the reputation of being",
+          "has the reputation for being"
+        ],
+        "explanation": "«Have a reputation for/of being + adjetivo» = tener fama de. Tras preposición, gerundio («being»).",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-kwt-04-q4",
+        "kind": "text",
+        "original": "The witness was so frightened that she could not speak.",
+        "keyword": "TOO",
+        "prompt": "The witness _____ speak.",
+        "parts": [
+          [
+            "was too frightened"
+          ],
+          [
+            "to"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "was too frightened to"
+        ],
+        "explanation": "«So + adjetivo + that ... could not» equivale a «too + adjetivo + to-infinitivo».",
+        "tag": "grammar",
+        "grammarRef": "gerund-infinitive"
+      },
+      {
+        "id": "uoe-kwt-04-q5",
+        "kind": "text",
+        "original": "It wasn't necessary for you to call an ambulance, but you did.",
+        "keyword": "NEED",
+        "prompt": "You _____ an ambulance.",
+        "parts": [
+          [
+            "need not have",
+            "needn't have"
+          ],
+          [
+            "called"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "need not have called",
+          "needn't have called"
+        ],
+        "explanation": "«Needn't have + participio» indica que algo se hizo pero no era necesario. «Didn't need to call» no transmite que la acción sí se realizó, por eso no se acepta aquí.",
+        "tag": "grammar"
+      },
+      {
+        "id": "uoe-kwt-04-q6",
+        "kind": "text",
+        "original": "The minister's announcement took the journalists completely by surprise.",
+        "keyword": "ABACK",
+        "prompt": "The journalists _____ by the minister's announcement.",
+        "parts": [
+          [
+            "were"
+          ],
+          [
+            "completely taken aback",
+            "taken completely aback",
+            "totally taken aback"
+          ]
+        ],
+        "points": 2,
+        "accepted": [
+          "were completely taken aback",
+          "were taken completely aback",
+          "were totally taken aback"
+        ],
+        "explanation": "«Be taken aback (by)» = quedarse desconcertado. Hay que conservar el intensificador «completely» y usar la pasiva.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      }
+    ]
+  }
+]

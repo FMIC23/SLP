@@ -1,0 +1,518 @@
+[
+  {
+    "meta": {
+      "id": "uoe-mc-cloze-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "The four-day working week",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The four-day week",
+    "part": "mc-cloze",
+    "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "When a handful of companies first experimented with a four-day working week, sceptics [[1]] the idea as a passing fad. A decade later, the concept has gained considerable [[2]], with pilot schemes running in several European countries. The premise is simple: staff work fewer hours for the same pay, on the [[3]] that they will be more focused and therefore just as productive.\n\nEarly results have been encouraging, [[4]] not entirely conclusive. Participating firms report lower staff turnover and fewer days lost to illness, and many employees claim they would be reluctant to return to a conventional timetable. However, critics point out that the companies taking part were self-selected, a factor that may [[5]] the findings, since only those confident of a positive outcome were likely to sign up in the first place.\n\nThere are also sectors where the model is difficult to [[6]] into practice. Hospitals, emergency services and manufacturing plants that operate around the clock cannot simply close on Fridays; for them, a shorter week means recruiting additional staff, which [[7]] up costs considerably. Supporters concede this point but insist that the underlying principle, namely that output rather than hours spent at a desk should be the [[8]] of performance, remains sound.",
+    "questions": [
+      {
+        "id": "uoe-mc-cloze-01-q1",
+        "kind": "choice",
+        "options": [
+          "dismissed",
+          "ignored",
+          "denied",
+          "refused"
+        ],
+        "answer": 0,
+        "explanation": "La estructura es «dismiss something as + sustantivo/adjetivo» (descartar algo por considerarlo...). «Ignore», «deny» y «refuse» no admiten «as» con este sentido.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q2",
+        "kind": "choice",
+        "options": [
+          "momentum",
+          "impulse",
+          "velocity",
+          "motion"
+        ],
+        "answer": 0,
+        "explanation": "«Gain momentum» es la colocación fija para «cobrar impulso/fuerza». «Impulse» en inglés es un impulso repentino o un arrebato, no progreso sostenido; «velocity» y «motion» son términos físicos que no colocan aquí.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q3",
+        "kind": "choice",
+        "options": [
+          "assumption",
+          "view",
+          "opinion",
+          "thought"
+        ],
+        "answer": 0,
+        "explanation": "«On the assumption that» (partiendo de la premisa de que) es una expresión fija. No existe «on the view/opinion/thought that».",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q4",
+        "kind": "choice",
+        "options": [
+          "if",
+          "unless",
+          "whether",
+          "despite"
+        ],
+        "answer": 0,
+        "explanation": "«Adjetivo, if not + adjetivo» equivale a «aunque no del todo»: «encouraging, if not entirely conclusive». «Unless» es condicional, «whether» introduce alternativas y «despite» exige sustantivo o -ing.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q5",
+        "kind": "choice",
+        "options": [
+          "skew",
+          "bend",
+          "lean",
+          "tip"
+        ],
+        "answer": 0,
+        "explanation": "«Skew the findings/results» significa sesgar o distorsionar los resultados. «Bend» se usa con «the rules» o «the truth»; «lean» es intransitivo y «tip» se usa con «the balance».",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q6",
+        "kind": "choice",
+        "options": [
+          "put",
+          "set",
+          "carry",
+          "bring"
+        ],
+        "answer": 0,
+        "explanation": "«Put something into practice» (llevar a la práctica) es la expresión fija. «Carry out» o «bring about» existen, pero no con «into practice».",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q7",
+        "kind": "choice",
+        "options": [
+          "drives",
+          "pulls",
+          "lifts",
+          "raises"
+        ],
+        "answer": 0,
+        "explanation": "«Drive up costs/prices» = hacer subir los costes. «Raise» es correcto sin «up» («raises costs»), pero «raises up costs» no es idiomático; «pull up» y «lift up» tienen sentido físico.",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      },
+      {
+        "id": "uoe-mc-cloze-01-q8",
+        "kind": "choice",
+        "options": [
+          "measure",
+          "weight",
+          "scale",
+          "degree"
+        ],
+        "answer": 0,
+        "explanation": "«The measure of performance» = el criterio con el que se mide el rendimiento. «Weight» es peso/importancia, «scale» es una escala graduada y «degree» indica grado o intensidad, no un criterio.",
+        "tag": "vocabulary"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-mc-cloze-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Lockout/tagout and hazardous energy",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Locking out danger",
+    "part": "mc-cloze",
+    "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "In industrial maintenance, few procedures are as critical as lockout/tagout, which [[1]] the backbone of most safety management systems. The principle is straightforward: before anyone works on a machine, every source of hazardous energy must be isolated and the isolation point secured so that the equipment cannot be switched on [[2]] accident. Yet investigations into serious injuries repeatedly reveal that the procedure was either skipped or carried out in a perfunctory manner.\n\nPart of the problem is cultural. When production targets are tight, there is strong pressure to [[3]] corners, and a technician who insists on following every step may be seen as obstructive. Supervisors therefore play a [[4]] role: if they tolerate shortcuts even once, they implicitly signal that safety rules are negotiable.\n\nAnother difficulty lies in stored energy. Isolating the electrical supply is not enough if a hydraulic line remains [[5]] pressure or a raised component could fall under its own weight. A thorough procedure must therefore include verification that all residual energy has been dissipated before work [[6]].\n\nLeading companies have begun to [[7]] these weaknesses by digitising work permits and requiring each worker to attach a personal padlock to the isolation point. Only when the last lock has been removed can the machine be restarted. Such measures may seem cumbersome, but they are a small price to pay [[8]] avoiding life-changing injuries.",
+    "questions": [
+      {
+        "id": "uoe-mc-cloze-02-q1",
+        "kind": "choice",
+        "options": [
+          "forms",
+          "makes",
+          "constructs",
+          "shapes"
+        ],
+        "answer": 0,
+        "explanation": "«Form the backbone of» (constituir la columna vertebral de) es la colocación habitual. «Make», «construct» y «shape» no colocan con «backbone» en este sentido.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q2",
+        "kind": "choice",
+        "options": [
+          "by",
+          "in",
+          "on",
+          "with"
+        ],
+        "answer": 0,
+        "explanation": "«By accident» = accidentalmente. «On accident» es coloquial y no estándar; «in» y «with» no forman la expresión.",
+        "tag": "preposition",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q3",
+        "kind": "choice",
+        "options": [
+          "cut",
+          "trim",
+          "round",
+          "shave"
+        ],
+        "answer": 0,
+        "explanation": "«Cut corners» = hacer las cosas de forma chapucera para ahorrar tiempo o dinero. Es una expresión fija; los demás verbos no la forman.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q4",
+        "kind": "choice",
+        "options": [
+          "pivotal",
+          "hinging",
+          "tipping",
+          "balancing"
+        ],
+        "answer": 0,
+        "explanation": "«Play a pivotal role» = desempeñar un papel decisivo. «Hinging», «tipping» y «balancing» no funcionan como adjetivos con «role» («tipping point» sí existe, pero no aquí).",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q5",
+        "kind": "choice",
+        "options": [
+          "under",
+          "in",
+          "at",
+          "with"
+        ],
+        "answer": 0,
+        "explanation": "«Under pressure» es la preposición fija tanto en sentido físico (presión hidráulica) como figurado. «At pressure» solo aparece con un valor numérico («at 200 bar»).",
+        "tag": "preposition",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q6",
+        "kind": "choice",
+        "options": [
+          "commences",
+          "initiates",
+          "launches",
+          "opens"
+        ],
+        "answer": 0,
+        "explanation": "«Work commences» (formal de «begins») es intransitivo, como exige la frase. «Initiate» y «launch» suelen ser transitivos (necesitan objeto) y «work opens» no tiene sentido.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q7",
+        "kind": "choice",
+        "options": [
+          "address",
+          "attend",
+          "cope",
+          "deal"
+        ],
+        "answer": 0,
+        "explanation": "«Address weaknesses/problems» = abordarlos, con objeto directo. «Attend», «cope» y «deal» necesitarían preposición («attend to», «cope with», «deal with»).",
+        "tag": "collocation",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-mc-cloze-02-q8",
+        "kind": "choice",
+        "options": [
+          "for",
+          "in",
+          "by",
+          "on"
+        ],
+        "answer": 0,
+        "explanation": "«A small price to pay for (doing) something» es una expresión fija: un sacrificio pequeño a cambio de algo valioso.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-mc-cloze-03",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Community policing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Policing by consent",
+    "part": "mc-cloze",
+    "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "Community policing rests on a deceptively simple idea: officers who know the neighbourhoods they patrol are better [[1]] to prevent crime than those who merely respond to emergency calls. By building relationships with residents, shopkeepers and local associations, they gain access to information that would otherwise never [[2]] to light.\n\nCritics, however, argue that the approach is difficult to evaluate. Crimes that are prevented leave no trace in the statistics, so the benefits are easily [[3]] by the more visible demands of emergency response. When budgets are squeezed, neighbourhood teams are often the first to be cut, [[4]] the fact that rebuilding trust can take years.\n\nTrust is, indeed, the [[5]] of the matter. In areas where relations with the police have historically been strained, residents may be reluctant to come [[6]] as witnesses, fearing reprisals or simply doubting that anything will be done. Officers who attend community meetings regularly and follow up on complaints can gradually [[7]] this scepticism, demonstrating through their actions that local concerns are taken seriously.\n\nUltimately, the success of community policing [[8]] on whether officers are genuinely willing to listen, rather than on the sheer number deployed. A patrol that stops to talk to a shopkeeper may achieve more in an afternoon than a dozen arrests.",
+    "questions": [
+      {
+        "id": "uoe-mc-cloze-03-q1",
+        "kind": "choice",
+        "options": [
+          "placed",
+          "set",
+          "put",
+          "laid"
+        ],
+        "answer": 0,
+        "explanation": "«Be better placed to do something» = estar en mejor posición para hacerlo. «Set to» significa «a punto de»; «put» y «laid» no forman esta expresión.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q2",
+        "kind": "choice",
+        "options": [
+          "come",
+          "bring",
+          "get",
+          "arrive"
+        ],
+        "answer": 0,
+        "explanation": "«Come to light» = salir a la luz (sin objeto). «Bring something to light» necesitaría objeto; «get» y «arrive» no forman la expresión.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q3",
+        "kind": "choice",
+        "options": [
+          "overshadowed",
+          "overcast",
+          "overrun",
+          "overdrawn"
+        ],
+        "answer": 0,
+        "explanation": "«Be overshadowed by» = quedar eclipsado por algo más visible. «Overcast» se dice del cielo nublado, «overrun» de un lugar invadido y «overdrawn» de una cuenta en números rojos.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q4",
+        "kind": "choice",
+        "options": [
+          "despite",
+          "although",
+          "however",
+          "nevertheless"
+        ],
+        "answer": 0,
+        "explanation": "Solo «despite» puede ir seguido de «the fact that» + oración. «Although» introduce directamente una oración (sin «the fact that») y «however»/«nevertheless» son adverbios que no subordinan.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q5",
+        "kind": "choice",
+        "options": [
+          "heart",
+          "centre",
+          "middle",
+          "base"
+        ],
+        "answer": 0,
+        "explanation": "«The heart of the matter» = el meollo de la cuestión. Es una expresión fija; «centre», «middle» o «base» no la forman.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q6",
+        "kind": "choice",
+        "options": [
+          "forward",
+          "out",
+          "up",
+          "over"
+        ],
+        "answer": 0,
+        "explanation": "«Come forward (as a witness)» = presentarse voluntariamente para aportar información a la policía. «Come out» significa salir o hacerse público, y «come up/over» tienen otros sentidos.",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q7",
+        "kind": "choice",
+        "options": [
+          "dispel",
+          "disperse",
+          "dispense",
+          "displace"
+        ],
+        "answer": 0,
+        "explanation": "«Dispel scepticism/doubts/fears» = disipar dudas o recelos. «Disperse» se usa con multitudes o gases, «dispense» significa repartir o prescindir («dispense with») y «displace» es desplazar.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-03-q8",
+        "kind": "choice",
+        "options": [
+          "hinges",
+          "leans",
+          "bases",
+          "grounds"
+        ],
+        "answer": 0,
+        "explanation": "«Hinge on» = depender por completo de. «Lean on» es apoyarse o presionar; «base» y «ground» son transitivos y requieren pasiva («is based on»).",
+        "tag": "phrasal",
+        "grammarRef": "dependent-prepositions"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-mc-cloze-04",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Mine closure and acid mine drainage",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Life after the mine",
+    "part": "mc-cloze",
+    "instructions": "For questions 1-8, read the text below and decide which answer (A, B, C or D) best fits each gap.",
+    "text": "For much of the twentieth century, mining companies treated the land they excavated as a resource to be exploited and then abandoned. Today, by [[1]], a closure plan must be approved before extraction can even begin, and operators are required to set [[2]] funds to cover the full cost of rehabilitation.\n\nOne of the most persistent problems is acid mine drainage. When sulphide minerals exposed by excavation come into [[3]] with air and water, they produce sulphuric acid, which in turn leaches heavy metals from the surrounding rock. The resulting effluent can [[4]] rivers for decades, long after the mine itself has ceased operating.\n\nEngineers have developed a range of techniques to get to [[5]] with the problem. Covering waste rock with impermeable layers limits the ingress of oxygen; adding crushed limestone raises the pH of the water; and passive treatment systems, such as constructed wetlands, rely on natural processes to remove metals. [[6]] of these methods is a panacea, however: each must be tailored to the geology and climate of the site.\n\nRehabilitation also has a social dimension. Communities that have lived alongside a mine for generations often hold firm views about what the land should be used for once operations [[7]] to an end. Involving them early in the planning process not only reduces the risk of conflict but also [[8]] the chances that the restored landscape will be valued and maintained.",
+    "questions": [
+      {
+        "id": "uoe-mc-cloze-04-q1",
+        "kind": "choice",
+        "options": [
+          "contrast",
+          "distinction",
+          "opposite",
+          "reverse"
+        ],
+        "answer": 0,
+        "explanation": "«By contrast» es el conector fijo para marcar oposición entre dos situaciones (antes/hoy). «By distinction», «by opposite» y «by reverse» no existen («in reverse» sí, pero con otro sentido).",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q2",
+        "kind": "choice",
+        "options": [
+          "aside",
+          "apart",
+          "away",
+          "off"
+        ],
+        "answer": 0,
+        "explanation": "«Set aside (funds)» = reservar dinero para un fin concreto. «Set apart» significa distinguir; «set off» es ponerse en marcha o provocar, y «set away» no existe.",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q3",
+        "kind": "choice",
+        "options": [
+          "contact",
+          "touch",
+          "connection",
+          "reach"
+        ],
+        "answer": 0,
+        "explanation": "«Come into contact with» = entrar en contacto con. «Get in touch» existe pero con otro verbo y sentido (comunicarse); «connection» y «reach» no forman la expresión.",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q4",
+        "kind": "choice",
+        "options": [
+          "contaminate",
+          "infest",
+          "infect",
+          "intoxicate"
+        ],
+        "answer": 0,
+        "explanation": "«Contaminate rivers» = contaminar con sustancias nocivas. «Infest» se usa con plagas, «infect» con enfermedades y «intoxicate» significa embriagar (falso amigo de «intoxicar»).",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q5",
+        "kind": "choice",
+        "options": [
+          "grips",
+          "hold",
+          "terms",
+          "hands"
+        ],
+        "answer": 0,
+        "explanation": "«Get to grips with» = abordar con decisión un problema. «Come to terms with» existe, pero con «come» y significa aceptar; «get to hold/hands» no existen.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q6",
+        "kind": "choice",
+        "options": [
+          "None",
+          "Neither",
+          "No",
+          "Nothing"
+        ],
+        "answer": 0,
+        "explanation": "Se mencionan tres métodos, así que se usa «None of» (ninguno de más de dos). «Neither of» solo vale para dos elementos, «No» no va seguido de «of» y «Nothing of» no es idiomático.",
+        "tag": "grammar",
+        "grammarRef": "quantifiers"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q7",
+        "kind": "choice",
+        "options": [
+          "come",
+          "reach",
+          "arrive",
+          "bring"
+        ],
+        "answer": 0,
+        "explanation": "«Come to an end» = llegar a su fin (intransitivo). «Bring something to an end» necesita objeto; «reach an end» no lleva «to» y «arrive to an end» no existe.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-mc-cloze-04-q8",
+        "kind": "choice",
+        "options": [
+          "boosts",
+          "grows",
+          "rises",
+          "expands"
+        ],
+        "answer": 0,
+        "explanation": "«Boost the chances» = aumentar las probabilidades. «Rise» es intransitivo (no lleva objeto); «grow» y «expand» no colocan con «chances».",
+        "tag": "collocation",
+        "grammarRef": "collocations"
+      }
+    ]
+  }
+]

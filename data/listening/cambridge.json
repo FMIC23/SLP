@@ -1,0 +1,1273 @@
+[
+  {
+    "meta": {
+      "id": "ls-cae-01",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Peatonalización del centro urbano",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Car-free high street",
+    "part": "part1",
+    "instructions": "You will hear an extract from a conversation. For each question, choose the answer (A, B or C) which fits best according to what you hear.",
+    "speakers": {
+      "Woman": "female",
+      "Man": "male"
+    },
+    "script": [
+      {
+        "speaker": "Woman",
+        "text": "So, have you been into town since they closed the high street to cars? I went on Saturday and, honestly, I hardly recognised the place."
+      },
+      {
+        "speaker": "Man",
+        "text": "I have, yeah. I mean, I was pretty sceptical when they first announced it. I thought the shops would just die, you know, because nobody'd be able to park anywhere near them."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Well, that was everyone's fear, wasn't it? But from what I saw, it was heaving. Cafés had tables out on the street, kids were running about... it felt more like a village square than a city centre. Mind you, I'm not sure how it'll look on a wet Tuesday in February."
+      },
+      {
+        "speaker": "Man",
+        "text": "That's the real test, isn't it? Anyone can make a place look nice in the sunshine."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Exactly. So I'm reserving judgement for now. Cautiously optimistic, let's put it that way."
+      },
+      {
+        "speaker": "Man",
+        "text": "The thing that bothers me, though, is the way it was handled. They ran this consultation, right, but it was all online, and the deadline was ridiculously short. My mum, for instance, she's eighty-two, she relies on the bus, and she had no idea any of it was happening until her bus route got diverted."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Oh, that's not great."
+      },
+      {
+        "speaker": "Man",
+        "text": "No. And it's not that I'm against the scheme itself. I've more or less come round to it, actually."
+      },
+      {
+        "speaker": "Man",
+        "text": "It's just that the people who are affected most were the last to find out. If they'd put notices up at the bus stops, or held a couple of meetings in the library, say, I think there'd have been far less resentment."
+      },
+      {
+        "speaker": "Woman",
+        "text": "Fair point. Though, to be honest, I suspect some people would've complained whatever they did."
+      },
+      {
+        "speaker": "Man",
+        "text": "Probably. But at least they'd have had a say."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-01-q1",
+        "kind": "choice",
+        "prompt": "How does the woman feel about the car-free high street?",
+        "options": [
+          "She is convinced it has already transformed the town for the better.",
+          "She is impressed so far but wants to see how it works in less favourable conditions.",
+          "She thinks it has mainly benefited families with children."
+        ],
+        "answer": 1,
+        "tag": "attitude",
+        "explanation": "Le gustó lo que vio, pero añade \"I'm not sure how it'll look on a wet Tuesday in February\" y \"I'm reserving judgement for now\". A exagera su entusiasmo; C toma un detalle (\"kids were running about\") como conclusión."
+      },
+      {
+        "id": "ls-cae-01-q2",
+        "kind": "choice",
+        "prompt": "What is the man's main criticism of the scheme?",
+        "options": [
+          "It has driven customers away from local shops.",
+          "Bus services should have been improved before it was introduced.",
+          "Some of the residents most affected were not properly consulted."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "Dice \"the people who are affected most were the last to find out\" y critica que la consulta fuera solo online y con plazo corto. A era solo su temor inicial (\"I thought the shops would just die\"); B no lo propone."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-02",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Mantenimiento predictivo y fatiga de alarmas",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Sensor trial on Line 3",
+    "part": "part1",
+    "instructions": "You will hear an extract from a conversation. For each question, choose the answer (A, B or C) which fits best according to what you hear.",
+    "speakers": {
+      "Laura": "female",
+      "Dave": "male"
+    },
+    "script": [
+      {
+        "speaker": "Laura",
+        "text": "Dave, have you had a chance to look at the vibration data from the new sensors on Line 3?"
+      },
+      {
+        "speaker": "Dave",
+        "text": "I have, yeah. Bit of a mixed bag, to be honest. The sensors themselves are fine, they're picking up everything."
+      },
+      {
+        "speaker": "Dave",
+        "text": "Too much, if anything. We had forty-odd alerts last week and, as far as I can tell, only two of them were worth anyone getting out of their chair for."
+      },
+      {
+        "speaker": "Laura",
+        "text": "Right, so the thresholds are set too tight."
+      },
+      {
+        "speaker": "Dave",
+        "text": "That's my guess. And the trouble is, if the operators get bombarded with false alarms, they'll just start ignoring them. And then the one time it actually matters, nobody reacts."
+      },
+      {
+        "speaker": "Laura",
+        "text": "Well, that's alarm fatigue in a nutshell. I mean, we saw exactly the same thing with the gas detectors a few years back. So what are you suggesting? We pause the trial?"
+      },
+      {
+        "speaker": "Dave",
+        "text": "No, no, not at all. I think the idea's sound. What I'd like to do is run it in the background for a month."
+      },
+      {
+        "speaker": "Dave",
+        "text": "Log everything, but don't send anything to the operators. Then sit down with the maintenance crew and work out what normal actually looks like for each machine. At the moment we're using the manufacturer's default settings, and they're, well, generic."
+      },
+      {
+        "speaker": "Laura",
+        "text": "That makes sense. Although I'll have to sell it to the production director, and he's expecting results by the end of the quarter."
+      },
+      {
+        "speaker": "Dave",
+        "text": "I know. But I'd rather tell him it's going to take an extra month than have him find out the hard way that nobody trusts the system."
+      },
+      {
+        "speaker": "Laura",
+        "text": "True. Okay, put something in writing for me and I'll take it to him on Monday."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-02-q1",
+        "kind": "choice",
+        "prompt": "What problem does Dave identify with the sensor trial?",
+        "options": [
+          "The system is producing too many unnecessary alerts.",
+          "The sensors are failing to detect genuine faults.",
+          "The operators have not been trained to interpret the data."
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "Dice que hubo \"forty-odd alerts\" y que solo dos merecían atención: los sensores captan \"too much, if anything\". B contradice \"they're picking up everything\"; C no se menciona."
+      },
+      {
+        "id": "ls-cae-02-q2",
+        "kind": "choice",
+        "prompt": "What does Dave propose?",
+        "options": [
+          "Suspending the trial until the manufacturer updates its settings.",
+          "Applying the thresholds that were used for the gas detectors.",
+          "Recording data without alerting operators in order to establish each machine's normal behaviour."
+        ],
+        "answer": 2,
+        "tag": "paraphrase",
+        "explanation": "Propone \"run it in the background for a month. Log everything, but don't send anything to the operators\" para saber \"what normal actually looks like for each machine\". A: rechaza pausar (\"No, no, not at all\"); B: los detectores de gas solo se citan como ejemplo de fatiga de alarmas."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-03",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Cámaras corporales y cadena de custodia",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Body-worn cameras",
+    "part": "part1",
+    "instructions": "You will hear an extract from a conversation. For each question, choose the answer (A, B or C) which fits best according to what you hear.",
+    "speakers": {
+      "Sergeant": "female",
+      "Constable": "male"
+    },
+    "script": [
+      {
+        "speaker": "Sergeant",
+        "text": "So, how are you getting on with the body-worn camera? You've had it, what, three weeks now?"
+      },
+      {
+        "speaker": "Constable",
+        "text": "About that, yeah. Honestly, I was dreading it. I thought it'd feel like having someone looking over my shoulder the whole shift."
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "And does it?"
+      },
+      {
+        "speaker": "Constable",
+        "text": "Not really, no. What surprised me is the effect it has on the people we deal with. Last Friday, outside one of the bars on the seafront, there was this lad who was really kicking off, shouting, squaring up to my colleague."
+      },
+      {
+        "speaker": "Constable",
+        "text": "I just said, calmly, \"I'm recording this,\" and he, well, he more or less deflated. Stopped dead."
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "That's quite common. Though I wouldn't rely on it. With some people, especially if they've had a lot to drink, it makes no difference whatsoever. Or it winds them up even more."
+      },
+      {
+        "speaker": "Constable",
+        "text": "Sure. The bit I'm still struggling with is the admin side. Every time I record something, I have to tag it, categorise it, upload it before the end of the shift... it eats up a good half hour sometimes."
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "I hear that a lot. But think about it from the court's point of view. If that footage isn't labelled properly, or there's a gap in who had access to it, a defence lawyer's going to have a field day. The camera's only as useful as the evidence trail behind it."
+      },
+      {
+        "speaker": "Constable",
+        "text": "I suppose so. I hadn't really thought of it in those terms."
+      },
+      {
+        "speaker": "Sergeant",
+        "text": "Most people don't. Not until a case falls apart."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-03-q1",
+        "kind": "choice",
+        "prompt": "What surprised the constable about using the camera?",
+        "options": [
+          "It made him feel as if he was constantly being watched.",
+          "It helped to calm down an aggressive member of the public.",
+          "It made his colleagues behave more cautiously."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "Cuenta que al decir \"I'm recording this\" el joven \"more or less deflated. Stopped dead\". A era lo que temía, pero dice \"Not really, no\"; C no se menciona."
+      },
+      {
+        "id": "ls-cae-03-q2",
+        "kind": "choice",
+        "prompt": "Why does the sergeant stress the importance of the admin?",
+        "options": [
+          "Badly handled footage could undermine a prosecution.",
+          "Supervisors check it at the end of every shift.",
+          "It reduces the time officers have to spend in court."
+        ],
+        "answer": 0,
+        "tag": "inference",
+        "explanation": "Explica que si la grabación no está bien etiquetada o hay huecos en quién accedió, \"a defence lawyer's going to have a field day\": \"The camera's only as useful as the evidence trail behind it\". B y C no se dicen."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-04",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Trabajos en espacios confinados",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Working in confined spaces",
+    "part": "part2",
+    "instructions": "You will hear a talk. For each question, complete the sentence with a word or short phrase (1-3 words) that you hear.",
+    "speakers": {
+      "Helen": "female"
+    },
+    "script": [
+      {
+        "speaker": "Helen",
+        "text": "Good morning, everyone, and thanks for coming along. My name's Helen, I'm a safety engineer, and for the last twelve years or so I've been working mainly on, well, what we call confined-space entry. Tanks, silos, sewers, that kind of thing."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Now, most people, when they hear the words 'confined space', picture something tiny. A manhole, say. But actually, size has very little to do with it."
+      },
+      {
+        "speaker": "Helen",
+        "text": "What makes a space confined, in the legal sense, is that it's substantially enclosed and there's a reasonably foreseeable hazard. A toxic gas, a lack of oxygen, the risk of being engulfed by grain or sludge."
+      },
+      {
+        "speaker": "Helen",
+        "text": "So a huge storage tank can be a confined space, while a small cupboard often isn't."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Let me start with a figure that, frankly, still shocks me. Of all the people who die in confined spaces, something like sixty per cent aren't the original workers. They're the rescuers. Colleagues who see someone collapse, jump in without thinking, and are overcome by exactly the same atmosphere."
+      },
+      {
+        "speaker": "Helen",
+        "text": "It's an entirely human reaction, of course. But it's also the single biggest reason why a bad incident turns into a multiple fatality."
+      },
+      {
+        "speaker": "Helen",
+        "text": "So, what do we do about it? Well, first of all, nobody goes in until the atmosphere's been tested. And I mean properly tested."
+      },
+      {
+        "speaker": "Helen",
+        "text": "We don't just poke a detector through the hatch and call it a day. Gases settle in layers, so you've got to test at different levels: near the top, in the middle and right down at the bottom."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Some gases are heavier than air and sit at the bottom; others are lighter and collect up at the top. If you only sample one spot, you can get a completely misleading reading."
+      },
+      {
+        "speaker": "Helen",
+        "text": "The one I'm personally most wary of is hydrogen sulphide. You get it in sewers, in wastewater plants, anywhere organic matter is rotting. At low concentrations it smells of rotten eggs, which sounds like a handy warning, doesn't it?"
+      },
+      {
+        "speaker": "Helen",
+        "text": "The problem is, at higher concentrations it knocks out your sense of smell within a couple of breaths. So people think the gas has gone, when actually it's getting worse."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Right. Once the atmosphere's been tested, we issue a permit to work. On our site, a permit is valid for one shift only."
+      },
+      {
+        "speaker": "Helen",
+        "text": "If the job runs over, or there's a change of crew, the whole process starts again from scratch: new test, new signatures. People grumble about that, I know, but conditions inside a tank can change surprisingly quickly."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Then there's the person outside. On our site we call them the 'hole watch'. Their job is to stay at the entrance, keep in constant contact with the people inside, and raise the alarm if anything goes wrong."
+      },
+      {
+        "speaker": "Helen",
+        "text": "And the golden rule, the absolute golden rule, is that the hole watch never, ever goes in. Not even if their best mate is lying unconscious two metres away."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Ventilation is another area where well-meaning people make dangerous mistakes. We use fans and ducting to push fresh air in. What you must never do is use pure oxygen to 'sweeten' the air, as some people put it."
+      },
+      {
+        "speaker": "Helen",
+        "text": "An oxygen-enriched atmosphere makes materials burn far more fiercely, so you're massively increasing the risk of fire. Clothing, hair, grease on a glove: it can all go up in seconds."
+      },
+      {
+        "speaker": "Helen",
+        "text": "And finally, rescue. Every single entry has to have a written rescue plan before anyone goes in, and the plan can't just be 'phone the fire brigade'. By the time they arrive, it's very often too late. We have our own trained rescue team, with breathing apparatus and a tripod and winch, and we drill the plan every three months, in real tanks, in real kit."
+      },
+      {
+        "speaker": "Helen",
+        "text": "Is it time-consuming? Yes. Is it expensive?"
+      },
+      {
+        "speaker": "Helen",
+        "text": "Absolutely. But I've never once had to tell a family that someone wasn't coming home, and I'd like to keep it that way. Right, I'll stop there and take a few questions."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-04-q1",
+        "kind": "text",
+        "prompt": "The speaker says a confined space is defined not by its size but by the presence of a reasonably foreseeable _____.",
+        "accepted": [
+          "hazard"
+        ],
+        "tag": "detail",
+        "explanation": "Dice: \"it's substantially enclosed and there's a reasonably foreseeable hazard\". El tamaño \"has very little to do with it\"."
+      },
+      {
+        "id": "ls-cae-04-q2",
+        "kind": "text",
+        "prompt": "Roughly _____ per cent of people who die in confined spaces are rescuers rather than the original workers.",
+        "accepted": [
+          "60",
+          "sixty"
+        ],
+        "tag": "detail",
+        "explanation": "\"Something like sixty per cent aren't the original workers. They're the rescuers.\""
+      },
+      {
+        "id": "ls-cae-04-q3",
+        "kind": "text",
+        "prompt": "Because gases settle in layers, the atmosphere must be tested at different _____.",
+        "accepted": [
+          "levels"
+        ],
+        "tag": "detail",
+        "explanation": "\"Gases settle in layers, so you've got to test at different levels: near the top, in the middle and right down at the bottom.\""
+      },
+      {
+        "id": "ls-cae-04-q4",
+        "kind": "text",
+        "prompt": "At higher concentrations, hydrogen sulphide can quickly knock out a worker's sense of _____.",
+        "accepted": [
+          "smell"
+        ],
+        "tag": "detail",
+        "explanation": "\"At higher concentrations it knocks out your sense of smell within a couple of breaths\", por eso la gente cree que el gas ha desaparecido."
+      },
+      {
+        "id": "ls-cae-04-q5",
+        "kind": "text",
+        "prompt": "On the speaker's site, a permit to work is valid for one _____ only.",
+        "accepted": [
+          "shift"
+        ],
+        "tag": "detail",
+        "explanation": "\"On our site, a permit is valid for one shift only.\" Si el trabajo se alarga o cambia el equipo, todo empieza de nuevo."
+      },
+      {
+        "id": "ls-cae-04-q6",
+        "kind": "text",
+        "prompt": "The person who stays at the entrance, known on site as the _____, must never go inside.",
+        "accepted": [
+          "hole watch",
+          "hole-watch"
+        ],
+        "tag": "detail",
+        "explanation": "\"On our site we call them the 'hole watch'... the hole watch never, ever goes in.\""
+      },
+      {
+        "id": "ls-cae-04-q7",
+        "kind": "text",
+        "prompt": "Using pure oxygen to ventilate a space is forbidden because it greatly increases the risk of _____.",
+        "accepted": [
+          "fire"
+        ],
+        "tag": "detail",
+        "explanation": "\"An oxygen-enriched atmosphere makes materials burn far more fiercely, so you're massively increasing the risk of fire.\""
+      },
+      {
+        "id": "ls-cae-04-q8",
+        "kind": "text",
+        "prompt": "The site rescue team practises the rescue plan every _____ months.",
+        "accepted": [
+          "three",
+          "3"
+        ],
+        "tag": "detail",
+        "explanation": "\"We drill the plan every three months, in real tanks, in real kit.\""
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-05",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Vigilancia marítima y salvamento",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Life at a coastal station",
+    "part": "part2",
+    "instructions": "You will hear a talk. For each question, complete the sentence with a word or short phrase (1-3 words) that you hear.",
+    "speakers": {
+      "Officer": "male"
+    },
+    "script": [
+      {
+        "speaker": "Officer",
+        "text": "Good evening, and thanks for having me. I've been a maritime officer for, oh, nearly nineteen years now, and these days I run the operations room at a coastal station. I thought tonight I'd give you a bit of a behind-the-scenes look at what we actually do, because I think there are quite a few misconceptions out there."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Our station's responsible for roughly four hundred kilometres of coastline. That's cliffs, beaches, a couple of busy fishing ports and one very large commercial harbour. And our work basically falls into two areas: search and rescue on the one hand, and law enforcement, so smuggling, illegal fishing, people trafficking, on the other."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Let's start with rescue. People generally assume our busiest time is the height of summer, when the beaches are packed. Actually, it isn't."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Our busiest period is late spring. The weather turns nice, people dig their boats and kayaks out of the garage, but the sea's still bitterly cold, and a lot of them haven't been out on the water for six months."
+      },
+      {
+        "speaker": "Officer",
+        "text": "And that cold water is the real killer. Most people imagine they'd have hours before hypothermia set in. In reality, the most dangerous moment is the first minute."
+      },
+      {
+        "speaker": "Officer",
+        "text": "You hit the water, your body goes into what's called cold shock, and you gasp, involuntarily. If your head's under at that point, you inhale water. It's as simple, and as brutal, as that."
+      },
+      {
+        "speaker": "Officer",
+        "text": "So if I could give you one piece of advice, it'd be this: before you go out, leave a float plan with someone on shore. Where you're going, when you'll be back, what you're sailing in. It takes two minutes, and it means that if you don't come home, we know exactly where to start looking."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Oh, and wear a lifejacket. Not in the boat, on you. I've lost count of the number of times we've recovered someone whose lifejacket was found later, neatly stowed under a seat."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Speaking of looking, technology has changed the job enormously. Drones in particular. A few years ago, searching a stretch of coastline meant boats, a helicopter if we were lucky, and people walking the cliffs."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Now we can put a drone with a thermal camera up within minutes, and it's cut our search times by roughly half. At night especially, a person in the water shows up as a bright spot against the cold sea, which is something no pair of binoculars can match."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Right, let me turn to the enforcement side. Every commercial vessel above a certain size has to carry a transponder that broadcasts its identity and position. So on our screens we can see pretty much everything that's moving."
+      },
+      {
+        "speaker": "Officer",
+        "text": "But, of course, the people we're most interested in know that perfectly well. So at some point, they switch the transponder off. We call that 'going dark', and when a vessel goes dark in the wrong place at the wrong time, it gets our attention very quickly."
+      },
+      {
+        "speaker": "Officer",
+        "text": "The drug smugglers in our area tend to use semi-rigid boats: long, low, and fitted with several outboard engines. They can do well over forty knots, so if we spot one late, frankly, we won't catch it. Which is why intelligence matters so much more than speed."
+      },
+      {
+        "speaker": "Officer",
+        "text": "And that intelligence increasingly comes from cooperation. We share information with our counterparts across the border almost in real time now, and we run joint patrols. Last year those patrols led to twenty-three interceptions, which, believe me, is a big improvement on what we used to manage working on our own."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Anyway, that's a whistle-stop tour. I'll stop there, and I'm happy to take any questions."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-05-q1",
+        "kind": "text",
+        "prompt": "The speaker's station is responsible for about _____ kilometres of coastline.",
+        "accepted": [
+          "400",
+          "four hundred"
+        ],
+        "tag": "detail",
+        "explanation": "\"Our station's responsible for roughly four hundred kilometres of coastline.\""
+      },
+      {
+        "id": "ls-cae-05-q2",
+        "kind": "text",
+        "prompt": "Contrary to what people assume, the station's busiest period is _____.",
+        "accepted": [
+          "late spring"
+        ],
+        "tag": "detail",
+        "explanation": "\"Actually, it isn't. Our busiest period is late spring\", no el verano."
+      },
+      {
+        "id": "ls-cae-05-q3",
+        "kind": "text",
+        "prompt": "In cold water, the most dangerous moment is the first _____, when people gasp involuntarily.",
+        "accepted": [
+          "minute",
+          "one minute",
+          "1 minute"
+        ],
+        "tag": "detail",
+        "explanation": "\"In reality, the most dangerous moment is the first minute... you gasp, involuntarily.\""
+      },
+      {
+        "id": "ls-cae-05-q4",
+        "kind": "text",
+        "prompt": "The speaker advises people going out in boats to leave a _____ with someone on shore.",
+        "accepted": [
+          "float plan"
+        ],
+        "tag": "detail",
+        "explanation": "\"Before you go out, leave a float plan with someone on shore.\""
+      },
+      {
+        "id": "ls-cae-05-q5",
+        "kind": "text",
+        "prompt": "Drones with thermal cameras have reduced search times by roughly _____.",
+        "accepted": [
+          "half",
+          "a half",
+          "50%",
+          "50 per cent",
+          "fifty per cent"
+        ],
+        "tag": "detail",
+        "explanation": "\"It's cut our search times by roughly half.\""
+      },
+      {
+        "id": "ls-cae-05-q6",
+        "kind": "text",
+        "prompt": "When a vessel switches off its transponder, officers call it '_____'.",
+        "accepted": [
+          "going dark"
+        ],
+        "tag": "detail",
+        "explanation": "\"We call that 'going dark'.\""
+      },
+      {
+        "id": "ls-cae-05-q7",
+        "kind": "text",
+        "prompt": "Local drug smugglers use semi-rigid boats fitted with several _____.",
+        "accepted": [
+          "outboard engines",
+          "engines",
+          "outboards"
+        ],
+        "tag": "detail",
+        "explanation": "\"Semi-rigid boats: long, low, and fitted with several outboard engines.\""
+      },
+      {
+        "id": "ls-cae-05-q8",
+        "kind": "text",
+        "prompt": "Joint patrols with neighbouring countries led to _____ interceptions last year.",
+        "accepted": [
+          "23",
+          "twenty-three",
+          "twenty three"
+        ],
+        "tag": "detail",
+        "explanation": "\"Last year those patrols led to twenty-three interceptions.\""
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-06",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "La semana laboral de cuatro días",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The four-day week",
+    "part": "part3",
+    "instructions": "You will hear an interview. For each question, choose the answer (A, B, C or D) which fits best according to what you hear.",
+    "speakers": {
+      "Presenter": "male",
+      "Ruth": "female",
+      "Tom": "male"
+    },
+    "script": [
+      {
+        "speaker": "Presenter",
+        "text": "With me in the studio today are Ruth Hammond, who's spent the last two years studying four-day-week trials, and Tom Carver, who runs a small engineering consultancy that switched to a four-day week last year. Ruth, if I can start with you: the headlines have been pretty glowing, haven't they?"
+      },
+      {
+        "speaker": "Ruth",
+        "text": "They have, and, well, I'd add a note of caution there. A lot of the coverage has given the impression that people simply work four days and magically produce the same output as five. That's not really what we found. I mean, the results were broadly positive, but the reasons behind them are far less glamorous than the headlines suggest."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "So what was going on?"
+      },
+      {
+        "speaker": "Ruth",
+        "text": "Basically, the firms that did well were the ones that took a long, hard look at how they spent their time. Meetings, mostly. In company after company, people were spending something like a day a week in meetings that, frankly, didn't need to happen, or didn't need them in the room."
+      },
+      {
+        "speaker": "Ruth",
+        "text": "Once that was stripped out, keeping output steady over four days became perfectly achievable. It wasn't that people were working faster; they were just wasting less."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Tom, does that ring true?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "It does, actually. Though I have to confess, when the idea was first floated, I thought it was a bit of a gimmick. Something for tech start-ups with beanbags, you know, not a firm like ours, where people are designing drainage systems and signing off structural calculations."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "So why did you go ahead with it?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "Honestly? Recruitment. We'd lost three good engineers in eighteen months to bigger firms that could pay more than we could."
+      },
+      {
+        "speaker": "Tom",
+        "text": "I couldn't compete on salary, so I thought, well, maybe I can compete on time. It was a business decision more than anything. I wasn't converted to the cause, not at that stage."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "And how did it go?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "Internally, really well. Sick days went down, people seemed, I don't know, sharper. Nobody's left since, which was the whole point."
+      },
+      {
+        "speaker": "Tom",
+        "text": "The difficulty was outside the building. We'd all taken Fridays off, and it turned out some of our clients, local councils, contractors on site, expected to be able to pick up the phone on a Friday and get an answer. And when they couldn't, they weren't shy about letting me know."
+      },
+      {
+        "speaker": "Ruth",
+        "text": "That's something we saw a lot, to be fair. The firms with the fewest problems were the ones that staggered the day off, rather than everyone disappearing at once."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Which is exactly where we ended up. Half the team off on Mondays, half on Fridays. It's a bit more complicated to manage, but the clients haven't noticed a thing."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Ruth, should the government be encouraging this more widely? Some people have called for it to be written into law."
+      },
+      {
+        "speaker": "Ruth",
+        "text": "I'd be wary of that, I really would. What works in an office doesn't necessarily translate to a hospital ward or a factory floor running round the clock. If you impose one model across the board, you risk discrediting the whole idea when it fails in sectors it was never designed for."
+      },
+      {
+        "speaker": "Tom",
+        "text": "I'm with Ruth on that one. It's got to come from the business itself, and it's got to fit the kind of work you do. If someone had forced it on me, I'd have resisted it tooth and nail."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "And Tom, looking ahead, is the four-day week here to stay at your firm?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "For now, yes. I'd be lying if I said every problem's been ironed out. There are weeks when a big deadline lands and, well, people quietly work the fifth day anyway, and I'm not entirely comfortable with that."
+      },
+      {
+        "speaker": "Tom",
+        "text": "So it's a work in progress. But I can't imagine going back, put it that way."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Ruth, a final word?"
+      },
+      {
+        "speaker": "Ruth",
+        "text": "Just that the four-day week isn't really the point. The point is that most organisations have never seriously questioned how they use people's time. If a trial forces them to do that, it's worth it, whatever they end up deciding."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-06-q1",
+        "kind": "choice",
+        "prompt": "How does Ruth feel about the media coverage of the trials?",
+        "options": [
+          "She believes it has been unfairly negative.",
+          "She thinks it has misrepresented why the trials succeeded.",
+          "She feels it has focused too much on large companies.",
+          "She considers it accurate but lacking in statistics."
+        ],
+        "answer": 1,
+        "tag": "attitude",
+        "explanation": "Dice que la prensa da la impresión de que la gente \"magically produce[s] the same output\" y que las razones reales \"are far less glamorous than the headlines suggest\". A contradice \"pretty glowing\"; C y D no se mencionan."
+      },
+      {
+        "id": "ls-cae-06-q2",
+        "kind": "choice",
+        "prompt": "According to Ruth, firms kept output steady mainly because",
+        "options": [
+          "employees worked longer hours on the remaining days.",
+          "staff were more motivated and worked faster.",
+          "they cut down on time spent in unnecessary meetings.",
+          "they invested in new technology."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "Lo explica así: \"Meetings, mostly... It wasn't that people were working faster; they were just wasting less.\" Esto descarta B explícitamente."
+      },
+      {
+        "id": "ls-cae-06-q3",
+        "kind": "choice",
+        "prompt": "What was Tom's original reason for introducing the four-day week?",
+        "options": [
+          "He hoped to keep and attract staff without raising salaries.",
+          "He was convinced it would improve staff wellbeing.",
+          "Several clients had asked for more flexible arrangements.",
+          "He wanted to follow the example of technology start-ups."
+        ],
+        "answer": 0,
+        "tag": "detail",
+        "explanation": "\"Honestly? Recruitment... I couldn't compete on salary, so I thought, well, maybe I can compete on time.\" B: \"I wasn't converted to the cause\"; D: las start-ups le parecían un \"gimmick\"."
+      },
+      {
+        "id": "ls-cae-06-q4",
+        "kind": "choice",
+        "prompt": "What problem did Tom's firm encounter?",
+        "options": [
+          "Staff struggled to finish their work in four days.",
+          "Sickness absence rose during the first months.",
+          "Managing a staggered rota proved impossible.",
+          "Some clients were annoyed that nobody answered on Fridays."
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "\"Some of our clients... expected to be able to pick up the phone on a Friday and get an answer. And when they couldn't, they weren't shy about letting me know.\" B es lo contrario (\"Sick days went down\"); C: el turno escalonado es \"a bit more complicated\", no imposible."
+      },
+      {
+        "id": "ls-cae-06-q5",
+        "kind": "choice",
+        "prompt": "What do Ruth and Tom agree about?",
+        "options": [
+          "The four-day week should be made a legal requirement.",
+          "The four-day week should not be imposed uniformly from outside.",
+          "The model is unsuitable for engineering firms.",
+          "Staggering days off causes more problems than it solves."
+        ],
+        "answer": 1,
+        "tag": "attitude",
+        "explanation": "Ruth advierte \"If you impose one model across the board...\" y Tom responde \"I'm with Ruth on that one. It's got to come from the business itself\". A es justo lo que rechazan; C y D contradicen la experiencia de Tom."
+      },
+      {
+        "id": "ls-cae-06-q6",
+        "kind": "choice",
+        "prompt": "How does Tom feel about the current situation at his firm?",
+        "options": [
+          "He is satisfied that all the initial difficulties have been resolved.",
+          "He is considering a return to the five-day week.",
+          "He is committed to it, though uneasy that staff sometimes work their day off.",
+          "He fears that clients will eventually take their business elsewhere."
+        ],
+        "answer": 2,
+        "tag": "attitude",
+        "explanation": "\"People quietly work the fifth day anyway, and I'm not entirely comfortable with that... But I can't imagine going back.\" A contradice \"I'd be lying if I said every problem's been ironed out\"; B contradice \"can't imagine going back\"."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-07",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Reapertura de minas y minerales críticos",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Reopening old mines",
+    "part": "part3",
+    "instructions": "You will hear an interview. For each question, choose the answer (A, B, C or D) which fits best according to what you hear.",
+    "speakers": {
+      "Presenter": "female",
+      "Daniel": "male",
+      "Claire": "female"
+    },
+    "script": [
+      {
+        "speaker": "Presenter",
+        "text": "Today we're discussing a question that's dividing a lot of rural communities: should old mines be reopened to supply the critical minerals the energy transition needs? I'm joined by Daniel Reyes, a mining engineer who's worked on several reopening projects, and Claire Whitford, an environmental scientist who specialises in mine water. Daniel, the case for reopening seems straightforward enough. Europe needs these minerals."
+      },
+      {
+        "speaker": "Daniel",
+        "text": "It does, and I think people sometimes forget just how much. Every wind turbine, every electric car battery, needs metals that, at the moment, we import almost entirely from a handful of countries. Now, that's a strategic vulnerability, but it's also, if I'm honest, a bit of a moral cop-out. We're happy to buy the end product, but we'd rather the digging happened somewhere out of sight, often in places with far weaker environmental rules than ours."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Claire, is that a fair point?"
+      },
+      {
+        "speaker": "Claire",
+        "text": "It's a fair point, up to a point. I don't dispute that we need the minerals, and I'm not one of those people who think every mine is inherently evil. What I'd question is the assumption that reopening an old site is the easy option. In some ways it's harder than starting from scratch."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Why's that?"
+      },
+      {
+        "speaker": "Claire",
+        "text": "Because old mines come with a legacy. Many of the sites I've worked on were abandoned decades ago with no proper closure plan. You've got waste heaps full of sulphide minerals, and when those react with air and rainwater you get acid drainage: water that's highly acidic and loaded with heavy metals."
+      },
+      {
+        "speaker": "Claire",
+        "text": "In some valleys that's been seeping into the rivers for fifty years. So before you dig anything new, you're inheriting a problem nobody's ever properly paid to fix."
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Which, if you don't mind me saying, is actually one of the strongest arguments for reopening. At the moment, nobody's responsible for those sites. The original companies went bust long ago."
+      },
+      {
+        "speaker": "Daniel",
+        "text": "If a new operator comes in, they can be made to clean up the legacy pollution as a condition of their licence. On one project I worked on, the treatment plant we built has improved the river downstream more in three years than anything the authorities managed in thirty."
+      },
+      {
+        "speaker": "Claire",
+        "text": "I'll grant you it can work out that way. My concern is what happens if the price of the metal collapses. We've seen it before. The operator walks away halfway through, and the community's left with a bigger hole and the same polluted river."
+      },
+      {
+        "speaker": "Daniel",
+        "text": "That's why financial guarantees matter. A company should have to put the money for closure and rehabilitation aside before it extracts a single tonne. Not after. Before."
+      },
+      {
+        "speaker": "Claire",
+        "text": "On that, we're in complete agreement. If the bond's big enough and it's held independently, a lot of my objections fall away. The problem is that, historically, those guarantees have been far too small."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "And what about the people living nearby? Polls suggest a lot of them are opposed."
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Some are, certainly. And to be honest, I don't think the industry's always done itself any favours there. Too often, companies have turned up with a finished plan and a glossy brochure and expected people to be grateful for the jobs."
+      },
+      {
+        "speaker": "Claire",
+        "text": "Exactly. And people in these areas have long memories. Their grandparents worked in those mines, and some of them died of lung disease. You can't expect trust just because you've got better technology now."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "So, Daniel, how would you do it differently?"
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Involve the community from day one, before the design is fixed. Let them see the water-monitoring data, in real time if possible. If a local committee can actually influence decisions, rather than just being informed of them, you get a very different conversation."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Claire, a final thought?"
+      },
+      {
+        "speaker": "Claire",
+        "text": "Just that I'd rather see a well-regulated mine here than an unregulated one on the other side of the world. But 'well-regulated' has to mean something. It can't just be a phrase in a press release."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-07-q1",
+        "kind": "choice",
+        "prompt": "What point does Daniel make about importing critical minerals?",
+        "options": [
+          "It is cheaper than producing them domestically in the long run.",
+          "It is unavoidable because Europe lacks the necessary deposits.",
+          "It allows Europe to avoid facing the environmental cost of what it consumes.",
+          "It has pushed exporting countries to raise their environmental standards."
+        ],
+        "answer": 2,
+        "tag": "inference",
+        "explanation": "Lo llama \"a bit of a moral cop-out\": \"we'd rather the digging happened somewhere out of sight, often in places with far weaker environmental rules\". D dice lo contrario; A y B no se mencionan."
+      },
+      {
+        "id": "ls-cae-07-q2",
+        "kind": "choice",
+        "prompt": "What is Claire's attitude to reopening old mines?",
+        "options": [
+          "She thinks it is more complicated than many people assume.",
+          "She is opposed to mining on principle.",
+          "She believes the need for minerals has been exaggerated.",
+          "She considers it preferable to opening new sites."
+        ],
+        "answer": 0,
+        "tag": "attitude",
+        "explanation": "\"What I'd question is the assumption that reopening an old site is the easy option. In some ways it's harder than starting from scratch.\" B contradice \"I'm not one of those people who think every mine is inherently evil\"; C contradice \"I don't dispute that we need the minerals\"."
+      },
+      {
+        "id": "ls-cae-07-q3",
+        "kind": "choice",
+        "prompt": "Why does Daniel believe reopening a mine can benefit the environment?",
+        "options": [
+          "Modern extraction methods no longer produce acid drainage.",
+          "The original companies can be forced to return and pay.",
+          "The authorities would then be obliged to fund a clean-up.",
+          "A new operator can be required to treat existing pollution."
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"If a new operator comes in, they can be made to clean up the legacy pollution as a condition of their licence.\" B contradice \"The original companies went bust long ago\"."
+      },
+      {
+        "id": "ls-cae-07-q4",
+        "kind": "choice",
+        "prompt": "What do Daniel and Claire agree on?",
+        "options": [
+          "Metal prices are likely to remain stable.",
+          "Money for closure and rehabilitation must be secured before extraction begins.",
+          "Existing financial guarantees are generally adequate.",
+          "Local opposition is based on outdated information."
+        ],
+        "answer": 1,
+        "tag": "attitude",
+        "explanation": "Daniel: \"put the money for closure and rehabilitation aside before it extracts a single tonne\"; Claire: \"On that, we're in complete agreement.\" C contradice \"those guarantees have been far too small\"."
+      },
+      {
+        "id": "ls-cae-07-q5",
+        "kind": "choice",
+        "prompt": "How does Daniel describe the mining industry's past approach to local communities?",
+        "options": [
+          "Generous in offering compensation.",
+          "Unfairly criticised by the media.",
+          "Presumptuous and too focused on presenting finished plans.",
+          "Successful in creating long-term employment."
+        ],
+        "answer": 2,
+        "tag": "attitude",
+        "explanation": "\"Companies have turned up with a finished plan and a glossy brochure and expected people to be grateful for the jobs\": reconoce que la industria no se ha hecho \"any favours\"."
+      },
+      {
+        "id": "ls-cae-07-q6",
+        "kind": "choice",
+        "prompt": "Claire's final comment suggests that she",
+        "options": [
+          "has been completely won over by Daniel's arguments.",
+          "doubts that any form of regulation can be effective.",
+          "would prefer mining to take place abroad.",
+          "accepts domestic mining in principle, provided regulation is genuinely rigorous."
+        ],
+        "answer": 3,
+        "tag": "inference",
+        "explanation": "\"I'd rather see a well-regulated mine here than an unregulated one on the other side of the world. But 'well-regulated' has to mean something.\" C es lo contrario; B exagera su escepticismo."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-cae-08",
+      "skill": "listening",
+      "level": "C1",
+      "topic": "Cambio de carrera hacia la ingeniería y la policía",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Changing career",
+    "part": "part4",
+    "instructions": "You will hear five short extracts in which people talk about changing career. Task One (questions 1-5): choose from the list (A-H) why each speaker changed career. Task Two (questions 6-10): choose from the list (A-H) what each speaker finds most challenging now. Each option may be used only once in each task; three options in each task are not needed.",
+    "speakers": {
+      "Speaker 1": "female",
+      "Speaker 2": "male",
+      "Speaker 3": "female",
+      "Speaker 4": "male",
+      "Speaker 5": "male"
+    },
+    "script": [
+      {
+        "speaker": "Speaker 1",
+        "text": "I spent eleven years as an accountant, and I was good at it, I suppose. But I'd go home at night and think, well, what have I actually made today? A spreadsheet."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "My dad was a civil engineer, funnily enough, though he never once suggested I follow him; I think he assumed I'd find it dull. Anyway, I wanted to be able to point at something real, a bridge, a road, and say 'I helped build that'. So at thirty-six I went back to university."
+      },
+      {
+        "speaker": "Speaker 1",
+        "text": "The content was fine, numbers have never scared me. What I found hard was being the oldest in every lecture by a mile. The other students were lovely, but I'd sit there feeling like everybody's aunt."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "I was a chef for years. Long hours, hot kitchen, I loved it. Then one night we were robbed at closing time. A guy with a knife, the whole thing."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "And what stayed with me wasn't the fear so much as the two officers who turned up afterwards. They were so calm, so decent with my staff, who were in pieces. I thought, I want to be that person. People assume the fitness test must've been my big hurdle, but I trained hard and sailed through it."
+      },
+      {
+        "speaker": "Speaker 2",
+        "text": "No, the hard part is what you carry home. You walk into somebody's worst day, over and over, and you can't just switch that off when you take the uniform off."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "I'd been a journalist for nearly fifteen years when I got chatting to a woman on a delayed train. Three hours stuck outside a station, so, you know, you talk. She turned out to be a detective in a cybercrime unit, and by the time we pulled in I'd more or less decided. I'd never even considered policing before that day."
+      },
+      {
+        "speaker": "Speaker 3",
+        "text": "Everyone warned me I'd drown in paperwork, but honestly, after years of deadlines, writing reports comes naturally. What I really struggle with is the rota. Nights, then earlies, then lates. My body clock has no idea what's going on, and I'm not sure it ever will."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "I worked in a bank, selling financial products. The money was good, very good, but over time I realised I was being pushed to sell things to people who didn't need them and, in some cases, couldn't really afford them. I just couldn't square that with my conscience any more. So I retrained as an electrical engineer, and now I work on wind farm connections."
+      },
+      {
+        "speaker": "Speaker 4",
+        "text": "I took a big pay cut, but to be honest I barely notice it. What nearly finished me off was the theory in the first year. Calculus, circuit analysis. I hadn't done any serious maths since school, and some weeks I genuinely thought I'd have to give up."
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "For twenty years I supervised a production line in a textile factory. Then the owners moved everything abroad, and two hundred of us were let go in a single afternoon. I was fifty-one. I'd always been the one people called when a machine broke down, so I used my redundancy money to retrain as a maintenance engineer."
+      },
+      {
+        "speaker": "Speaker 5",
+        "text": "The job itself I took to straight away. The trickiest thing has been winning over the experienced technicians. On paper I'm the engineer, but some of them have been fixing those machines for thirty years, and to them I was just the new bloke with a certificate. It took months before they'd take my word on anything."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-cae-08-q1",
+        "kind": "choice",
+        "prompt": "Speaker 1: why did they change career?",
+        "options": [
+          "wanting work with tangible, visible results",
+          "a frightening personal experience",
+          "encouragement from a parent",
+          "the loss of a previous job",
+          "a desire for greater job security",
+          "wanting to spend more time outdoors",
+          "a chance conversation with a stranger",
+          "unease about practices in a previous job"
+        ],
+        "answer": 0,
+        "tag": "paraphrase",
+        "explanation": "Quería \"point at something real, a bridge, a road, and say 'I helped build that'\". Su padre ingeniero \"never once suggested I follow him\", así que C no vale."
+      },
+      {
+        "id": "ls-cae-08-q2",
+        "kind": "choice",
+        "prompt": "Speaker 2: why did they change career?",
+        "options": [
+          "wanting work with tangible, visible results",
+          "a frightening personal experience",
+          "encouragement from a parent",
+          "the loss of a previous job",
+          "a desire for greater job security",
+          "wanting to spend more time outdoors",
+          "a chance conversation with a stranger",
+          "unease about practices in a previous job"
+        ],
+        "answer": 1,
+        "tag": "paraphrase",
+        "explanation": "Le robaron a punta de cuchillo y le marcaron los agentes: \"I thought, I want to be that person.\""
+      },
+      {
+        "id": "ls-cae-08-q3",
+        "kind": "choice",
+        "prompt": "Speaker 3: why did they change career?",
+        "options": [
+          "wanting work with tangible, visible results",
+          "a frightening personal experience",
+          "encouragement from a parent",
+          "the loss of a previous job",
+          "a desire for greater job security",
+          "wanting to spend more time outdoors",
+          "a chance conversation with a stranger",
+          "unease about practices in a previous job"
+        ],
+        "answer": 6,
+        "tag": "detail",
+        "explanation": "Conoció a una detective en un tren retrasado: \"by the time we pulled in I'd more or less decided\"."
+      },
+      {
+        "id": "ls-cae-08-q4",
+        "kind": "choice",
+        "prompt": "Speaker 4: why did they change career?",
+        "options": [
+          "wanting work with tangible, visible results",
+          "a frightening personal experience",
+          "encouragement from a parent",
+          "the loss of a previous job",
+          "a desire for greater job security",
+          "wanting to spend more time outdoors",
+          "a chance conversation with a stranger",
+          "unease about practices in a previous job"
+        ],
+        "answer": 7,
+        "tag": "paraphrase",
+        "explanation": "Le presionaban para vender productos a quien no los necesitaba: \"I just couldn't square that with my conscience any more.\""
+      },
+      {
+        "id": "ls-cae-08-q5",
+        "kind": "choice",
+        "prompt": "Speaker 5: why did they change career?",
+        "options": [
+          "wanting work with tangible, visible results",
+          "a frightening personal experience",
+          "encouragement from a parent",
+          "the loss of a previous job",
+          "a desire for greater job security",
+          "wanting to spend more time outdoors",
+          "a chance conversation with a stranger",
+          "unease about practices in a previous job"
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "La fábrica se trasladó al extranjero: \"two hundred of us were let go in a single afternoon\"; usó la indemnización para reciclarse."
+      },
+      {
+        "id": "ls-cae-08-q6",
+        "kind": "choice",
+        "prompt": "Speaker 1: what do they find most challenging?",
+        "options": [
+          "the shift patterns",
+          "being much older than fellow students",
+          "the amount of paperwork",
+          "the theoretical side of the training",
+          "the emotional impact of the work",
+          "earning less money than before",
+          "the physical fitness requirements",
+          "gaining the respect of experienced colleagues"
+        ],
+        "answer": 1,
+        "tag": "paraphrase",
+        "explanation": "\"What I found hard was being the oldest in every lecture by a mile.\" Las matemáticas no le costaron (\"numbers have never scared me\")."
+      },
+      {
+        "id": "ls-cae-08-q7",
+        "kind": "choice",
+        "prompt": "Speaker 2: what do they find most challenging?",
+        "options": [
+          "the shift patterns",
+          "being much older than fellow students",
+          "the amount of paperwork",
+          "the theoretical side of the training",
+          "the emotional impact of the work",
+          "earning less money than before",
+          "the physical fitness requirements",
+          "gaining the respect of experienced colleagues"
+        ],
+        "answer": 4,
+        "tag": "paraphrase",
+        "explanation": "\"The hard part is what you carry home. You walk into somebody's worst day, over and over.\" La prueba física la superó sin problema (\"sailed through it\")."
+      },
+      {
+        "id": "ls-cae-08-q8",
+        "kind": "choice",
+        "prompt": "Speaker 3: what do they find most challenging?",
+        "options": [
+          "the shift patterns",
+          "being much older than fellow students",
+          "the amount of paperwork",
+          "the theoretical side of the training",
+          "the emotional impact of the work",
+          "earning less money than before",
+          "the physical fitness requirements",
+          "gaining the respect of experienced colleagues"
+        ],
+        "answer": 0,
+        "tag": "paraphrase",
+        "explanation": "\"What I really struggle with is the rota. Nights, then earlies, then lates.\" El papeleo no le cuesta (\"writing reports comes naturally\")."
+      },
+      {
+        "id": "ls-cae-08-q9",
+        "kind": "choice",
+        "prompt": "Speaker 4: what do they find most challenging?",
+        "options": [
+          "the shift patterns",
+          "being much older than fellow students",
+          "the amount of paperwork",
+          "the theoretical side of the training",
+          "the emotional impact of the work",
+          "earning less money than before",
+          "the physical fitness requirements",
+          "gaining the respect of experienced colleagues"
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "\"What nearly finished me off was the theory in the first year. Calculus, circuit analysis.\" El recorte de sueldo \"I barely notice it\"."
+      },
+      {
+        "id": "ls-cae-08-q10",
+        "kind": "choice",
+        "prompt": "Speaker 5: what do they find most challenging?",
+        "options": [
+          "the shift patterns",
+          "being much older than fellow students",
+          "the amount of paperwork",
+          "the theoretical side of the training",
+          "the emotional impact of the work",
+          "earning less money than before",
+          "the physical fitness requirements",
+          "gaining the respect of experienced colleagues"
+        ],
+        "answer": 7,
+        "tag": "paraphrase",
+        "explanation": "\"The trickiest thing has been winning over the experienced technicians... It took months before they'd take my word on anything.\""
+      }
+    ]
+  }
+]

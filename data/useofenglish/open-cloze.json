@@ -1,0 +1,416 @@
+[
+  {
+    "meta": {
+      "id": "uoe-open-cloze-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "The science of habits",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Creatures of habit",
+    "part": "open-cloze",
+    "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "Most of us like to think that our daily decisions are the product of careful deliberation. In reality, a large proportion [[1]] what we do each day is driven by habit. Researchers estimate that around forty per cent of our actions are performed almost automatically, with little [[2]] no conscious thought.\n\nHabits form through repetition. Each time a behaviour is followed by a reward, the link between the cue and the action grows stronger, [[3]] the point where the behaviour is triggered without any need for willpower. This explains why bad habits are so hard to break: the brain has, in effect, automated them.\n\n[[4]] this may sound discouraging, it also contains a valuable lesson. If habits can be formed unintentionally, they can just [[5]] easily be formed on purpose. The trick is not to rely on motivation, [[6]] tends to fade within days, but to design one's environment so that the desired behaviour becomes the path of least resistance. Someone hoping to read more, for instance, might leave a book on their pillow rather [[7]] keeping their phone by the bed.\n\nIt is also worth remembering that change rarely happens overnight. Studies suggest it takes, on average, over two months for a new behaviour to become automatic, so those who give up after a week [[8]] well be abandoning the effort just before it starts to pay off.",
+    "questions": [
+      {
+        "id": "uoe-open-cloze-01-q1",
+        "kind": "text",
+        "accepted": [
+          "of"
+        ],
+        "explanation": "«A (large) proportion of» + sustantivo: la preposición de las expresiones de cantidad es siempre «of».",
+        "tag": "preposition",
+        "grammarRef": "quantifiers"
+      },
+      {
+        "id": "uoe-open-cloze-01-q2",
+        "kind": "text",
+        "accepted": [
+          "or",
+          "to"
+        ],
+        "explanation": "«Little or no» (poco o ningún) es la expresión fija; «little to no» también se acepta, sobre todo en inglés americano.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-open-cloze-01-q3",
+        "kind": "text",
+        "accepted": [
+          "to",
+          "until"
+        ],
+        "explanation": "«To the point where» = hasta el punto de que. «Until the point where» también es posible, aunque menos frecuente.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-open-cloze-01-q4",
+        "kind": "text",
+        "accepted": [
+          "although",
+          "though",
+          "while",
+          "whilst"
+        ],
+        "explanation": "Hace falta un conector concesivo que subordine la primera oración: «Although/Though/While/Whilst this may sound discouraging, it...». «But» o «however» no pueden ir al inicio de la subordinada.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-open-cloze-01-q5",
+        "kind": "text",
+        "accepted": [
+          "as"
+        ],
+        "explanation": "«Just as easily» = con la misma facilidad: comparación de igualdad «as + adverbio (+ as)», aquí con el segundo término implícito.",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      },
+      {
+        "id": "uoe-open-cloze-01-q6",
+        "kind": "text",
+        "accepted": [
+          "which"
+        ],
+        "explanation": "Relativo explicativo (non-defining) tras coma referido a una cosa («motivation»): solo «which». «That» no puede introducir una relativa explicativa.",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      },
+      {
+        "id": "uoe-open-cloze-01-q7",
+        "kind": "text",
+        "accepted": [
+          "than"
+        ],
+        "explanation": "«Rather than» + -ing = en lugar de. Es una expresión fija.",
+        "tag": "fixed-expression",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-open-cloze-01-q8",
+        "kind": "text",
+        "accepted": [
+          "may",
+          "might",
+          "could"
+        ],
+        "explanation": "«May/might/could well + infinitivo» expresa una probabilidad bastante alta. «Will well» o «would well» no son posibles.",
+        "tag": "grammar",
+        "grammarRef": "modals-deduction"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-open-cloze-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Online fraud and phishing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Hooked online",
+    "part": "open-cloze",
+    "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "Few forms of crime have grown as rapidly in recent years [[1]] online fraud. Unlike a burglary, which requires the offender to be physically present, a phishing campaign can be launched from anywhere in the world and target thousands of victims at [[2]].\n\nThe typical scheme relies [[3]] deception rather than technical sophistication. Victims receive a message that appears to come from their bank or a delivery company, urging them to click on a link and 'confirm' their details. [[4]] they do so, the information is harvested and sold, often within hours.\n\nInvestigating such offences poses particular challenges. The servers involved may be located in several jurisdictions, and evidence can disappear before a court order has [[5]] obtained. For this reason, cooperation between national police forces and agencies such as Europol has become indispensable.\n\nPrevention, however, remains the most effective strategy. Awareness campaigns encourage citizens to be wary [[6]] unsolicited messages and never to share passwords, no matter [[7]] convincing the request may seem. Banks, for their part, have introduced two-factor authentication, which makes it far harder for criminals to access an account even if they have managed to obtain the password.\n\nUltimately, the battle against online fraud is unlikely to be won by technology alone. [[8]] users understand how these scams work, they will continue to fall victim to them.",
+    "questions": [
+      {
+        "id": "uoe-open-cloze-02-q1",
+        "kind": "text",
+        "accepted": [
+          "as"
+        ],
+        "explanation": "Comparación de igualdad «as rapidly ... as»: el primer «as» ya aparece y el segundo es obligatorio.",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      },
+      {
+        "id": "uoe-open-cloze-02-q2",
+        "kind": "text",
+        "accepted": [
+          "once"
+        ],
+        "explanation": "«At once» = a la vez, simultáneamente (también «inmediatamente»). Es una expresión fija.",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-open-cloze-02-q3",
+        "kind": "text",
+        "accepted": [
+          "on",
+          "upon"
+        ],
+        "explanation": "«Rely on/upon» es un verbo con preposición dependiente; «upon» es más formal.",
+        "tag": "preposition",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-open-cloze-02-q4",
+        "kind": "text",
+        "accepted": [
+          "once",
+          "if",
+          "when",
+          "whenever",
+          "after",
+          "as",
+          "should"
+        ],
+        "explanation": "Se necesita un conector temporal o condicional: «Once/When/Whenever/After/As/If they do so». También vale la inversión condicional formal «Should they do so».",
+        "tag": "linking",
+        "grammarRef": "conditionals-mixed"
+      },
+      {
+        "id": "uoe-open-cloze-02-q5",
+        "kind": "text",
+        "accepted": [
+          "been"
+        ],
+        "explanation": "Pasiva en presente perfecto: «has been obtained». La orden judicial no obtiene nada, es obtenida.",
+        "tag": "grammar",
+        "grammarRef": "passive"
+      },
+      {
+        "id": "uoe-open-cloze-02-q6",
+        "kind": "text",
+        "accepted": [
+          "of"
+        ],
+        "explanation": "«Be wary of» = desconfiar de, tener cuidado con. Preposición dependiente del adjetivo.",
+        "tag": "preposition",
+        "grammarRef": "dependent-prepositions"
+      },
+      {
+        "id": "uoe-open-cloze-02-q7",
+        "kind": "text",
+        "accepted": [
+          "how"
+        ],
+        "explanation": "«No matter how + adjetivo» = por muy ... que. «No matter what/who» no pueden ir delante de un adjetivo.",
+        "tag": "fixed-expression",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-open-cloze-02-q8",
+        "kind": "text",
+        "accepted": [
+          "unless",
+          "until"
+        ],
+        "explanation": "«Unless» (a menos que) o «until» (hasta que) dan sentido a la frase: los usuarios seguirán siendo víctimas mientras no entiendan las estafas. «If» daría el sentido contrario.",
+        "tag": "linking",
+        "grammarRef": "conditionals-mixed"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-open-cloze-03",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Green hydrogen",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The hydrogen question",
+    "part": "open-cloze",
+    "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "Hydrogen has long been hailed as the fuel of the future, but it is only recently that the technology has begun to live [[1]] to its promise. The key development has been the falling cost of renewable electricity, [[2]] can be used to split water into hydrogen and oxygen through electrolysis.\n\nHydrogen produced in this way, known as 'green' hydrogen, emits no carbon dioxide at the point of use. This makes it particularly attractive for sectors [[3]] as steelmaking and heavy transport, where direct electrification is either impractical or prohibitively expensive.\n\nNevertheless, significant obstacles remain. Electrolysers are still costly, and a considerable amount of energy is lost during conversion. [[4]] is more, hydrogen is notoriously difficult to store and transport: it is highly flammable, and its tiny molecules can escape through materials [[5]] would contain other gases without difficulty.\n\nGovernments have responded by offering subsidies and setting ambitious production targets. Critics warn, however, that public money should be directed towards applications where hydrogen offers a clear advantage, [[6]] than spreading it thinly across every conceivable use. Heating homes, for example, can be done far more efficiently with heat pumps.\n\nWhether green hydrogen fulfils these expectations will depend [[7]] large part on how quickly costs fall. If they do, it could play a central role in decarbonising heavy industry; if not, it is likely [[8]] remain a niche solution for decades to come.",
+    "questions": [
+      {
+        "id": "uoe-open-cloze-03-q1",
+        "kind": "text",
+        "accepted": [
+          "up"
+        ],
+        "explanation": "«Live up to (expectations/promise)» = estar a la altura de. Phrasal verb de tres partes.",
+        "tag": "phrasal",
+        "grammarRef": "phrasal-verbs"
+      },
+      {
+        "id": "uoe-open-cloze-03-q2",
+        "kind": "text",
+        "accepted": [
+          "which"
+        ],
+        "explanation": "Relativo explicativo (tras coma) referido a «renewable electricity»: solo «which». «That» no se usa en relativas explicativas.",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      },
+      {
+        "id": "uoe-open-cloze-03-q3",
+        "kind": "text",
+        "accepted": [
+          "such"
+        ],
+        "explanation": "«Such as» introduce ejemplos: «sectors such as steelmaking...».",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-open-cloze-03-q4",
+        "kind": "text",
+        "accepted": [
+          "what"
+        ],
+        "explanation": "«What is more» = además, es más. Conector aditivo fijo.",
+        "tag": "linking",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-open-cloze-03-q5",
+        "kind": "text",
+        "accepted": [
+          "that",
+          "which"
+        ],
+        "explanation": "Relativo especificativo (sin coma) referido a cosas («materials»): valen «that» y «which». No se puede omitir porque es sujeto de «would contain».",
+        "tag": "grammar",
+        "grammarRef": "relative-clauses"
+      },
+      {
+        "id": "uoe-open-cloze-03-q6",
+        "kind": "text",
+        "accepted": [
+          "rather"
+        ],
+        "explanation": "«Rather than» + -ing = en lugar de. Contrapone dos opciones de gasto.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-open-cloze-03-q7",
+        "kind": "text",
+        "accepted": [
+          "in"
+        ],
+        "explanation": "«In large part» = en gran medida. Expresión fija equivalente a «largely».",
+        "tag": "fixed-expression",
+        "grammarRef": "fixed-expressions"
+      },
+      {
+        "id": "uoe-open-cloze-03-q8",
+        "kind": "text",
+        "accepted": [
+          "to"
+        ],
+        "explanation": "«Be likely to + infinitivo» = ser probable que. «Likely» va seguido de infinitivo con «to».",
+        "tag": "grammar",
+        "grammarRef": "gerund-infinitive"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-open-cloze-04",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Learning a language as an adult",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Never too late",
+    "part": "open-cloze",
+    "instructions": "For questions 1-8, read the text below and think of the word which best fits each gap. Use only ONE word in each gap.",
+    "text": "It is often claimed that children learn languages more easily than adults, but the reality is rather more nuanced. While young children do tend to achieve a more native-like accent, adults frequently make faster progress in the early stages, [[1]] to their superior ability to analyse grammatical patterns.\n\nWhat adults often lack is not aptitude [[2]] time and exposure. A child acquiring a first language is immersed in it for thousands of hours, whereas an adult learner may manage [[3]] more than a couple of classes a week. Under these circumstances, it is hardly surprising that progress feels slow.\n\nAnother obstacle is the fear of making mistakes. Adults are accustomed [[4]] being competent, and the experience of struggling to express a simple idea can be deeply uncomfortable. [[5]] a result, many avoid speaking altogether, which deprives them of precisely the practice they need.\n\nExperts recommend a number of strategies. Regular, short sessions are more effective than occasional marathons, and listening to authentic material helps learners attune their ear to natural speech, [[6]] when they understand only a fraction of it. Above all, they stress the importance of accepting errors as [[7]] integral part of the learning process.\n\nNone of this means that learning a language in adulthood is easy. It does mean, however, that age in itself is rarely the decisive factor; motivation and consistency count for far more [[8]] most people imagine.",
+    "questions": [
+      {
+        "id": "uoe-open-cloze-04-q1",
+        "kind": "text",
+        "accepted": [
+          "thanks",
+          "owing",
+          "due"
+        ],
+        "explanation": "Conectores de causa seguidos de «to»: «thanks to», «owing to», «due to» (gracias a / debido a).",
+        "tag": "linking",
+        "grammarRef": "linking-cause"
+      },
+      {
+        "id": "uoe-open-cloze-04-q2",
+        "kind": "text",
+        "accepted": [
+          "but"
+        ],
+        "explanation": "Estructura «not X but Y» (no X sino Y) para corregir una idea.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-open-cloze-04-q3",
+        "kind": "text",
+        "accepted": [
+          "no",
+          "little",
+          "barely",
+          "hardly",
+          "scarcely"
+        ],
+        "explanation": "«No more than» / «little more than» = no más de, apenas. También «barely/hardly/scarcely more than». Todas indican una cantidad muy reducida.",
+        "tag": "grammar",
+        "grammarRef": "quantifiers"
+      },
+      {
+        "id": "uoe-open-cloze-04-q4",
+        "kind": "text",
+        "accepted": [
+          "to"
+        ],
+        "explanation": "«Be accustomed to + -ing» (estar acostumbrado a): «to» es preposición, por eso va seguida de gerundio («being»).",
+        "tag": "preposition",
+        "grammarRef": "gerund-infinitive"
+      },
+      {
+        "id": "uoe-open-cloze-04-q5",
+        "kind": "text",
+        "accepted": [
+          "as"
+        ],
+        "explanation": "«As a result» = como consecuencia. Conector consecutivo fijo.",
+        "tag": "linking",
+        "grammarRef": "linking-cause"
+      },
+      {
+        "id": "uoe-open-cloze-04-q6",
+        "kind": "text",
+        "accepted": [
+          "even"
+        ],
+        "explanation": "«Even when» = incluso cuando. «Even» refuerza la concesión.",
+        "tag": "linking",
+        "grammarRef": "linking-contrast"
+      },
+      {
+        "id": "uoe-open-cloze-04-q7",
+        "kind": "text",
+        "accepted": [
+          "an"
+        ],
+        "explanation": "Artículo indefinido ante sonido vocálico: «an integral part». «Integral» es contable y singular, así que necesita artículo.",
+        "tag": "grammar",
+        "grammarRef": "articles"
+      },
+      {
+        "id": "uoe-open-cloze-04-q8",
+        "kind": "text",
+        "accepted": [
+          "than"
+        ],
+        "explanation": "Comparativo de superioridad «far more ... than»: «more» exige «than» para introducir el segundo término.",
+        "tag": "grammar",
+        "grammarRef": "comparatives"
+      }
+    ]
+  }
+]

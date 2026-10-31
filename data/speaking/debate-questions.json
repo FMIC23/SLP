@@ -1,0 +1,158 @@
+[
+  {
+    "topic": "Energy transition",
+    "domain": "industrial",
+    "questions": [
+      "Should governments set a fixed date to ban the sale of new petrol and diesel cars?",
+      "Is it fair to ask developing countries to give up cheap fossil fuels?",
+      "Who should pay for upgrading the electricity grid: consumers, taxpayers or energy companies?",
+      "Are large wind and solar farms a threat to rural landscapes and agriculture?",
+      "Will green hydrogen live up to the hype, or is it an expensive distraction?",
+      "Should households be forced to replace gas boilers with heat pumps?",
+      "How can regions that depend on coal or oil avoid economic decline during the transition?",
+      "Is energy independence more important than cheap energy?"
+    ]
+  },
+  {
+    "topic": "Automation and jobs",
+    "domain": "industrial",
+    "questions": [
+      "Will automation create more jobs than it destroys?",
+      "Should companies that replace workers with robots pay a \"robot tax\"?",
+      "Which jobs in your sector are most likely to disappear in the next twenty years?",
+      "Is a universal basic income a realistic answer to job losses caused by automation?",
+      "Who is responsible for retraining workers: the state, companies or the workers themselves?",
+      "Can a fully automated factory still have a \"safety culture\"?",
+      "Does automation make work more interesting or more monotonous for those who remain?"
+    ]
+  },
+  {
+    "topic": "Mining and society",
+    "domain": "industrial",
+    "questions": [
+      "Should Europe open new mines to secure critical raw materials, even if local people oppose them?",
+      "Is it hypocritical to oppose mining while using smartphones and electric cars?",
+      "How much say should local communities have in approving a new mine?",
+      "Can mining ever be truly sustainable?",
+      "Who should be responsible for rehabilitating abandoned mines with no identifiable owner?",
+      "Should deep-sea mining be allowed?",
+      "Is recycling a realistic alternative to extracting new raw materials?"
+    ]
+  },
+  {
+    "topic": "Nuclear power",
+    "domain": "industrial",
+    "questions": [
+      "Is nuclear power essential to reach net-zero emissions?",
+      "Should existing nuclear plants have their lifespan extended rather than be closed?",
+      "Can the problem of long-term nuclear waste storage ever be solved satisfactorily?",
+      "Are small modular reactors the future of nuclear energy or just a marketing idea?",
+      "Has public fear of nuclear accidents been exaggerated?",
+      "Should countries without nuclear power start building plants now?",
+      "Would you accept a nuclear waste storage facility near your town in exchange for investment?"
+    ]
+  },
+  {
+    "topic": "Safety culture",
+    "domain": "industrial",
+    "questions": [
+      "Is \"zero accidents\" a realistic goal or a counterproductive slogan?",
+      "Should workers be punished for breaking safety rules, or does that discourage reporting?",
+      "Are most industrial accidents caused by human error or by poor management systems?",
+      "Does production pressure inevitably compromise safety?",
+      "Should safety performance affect managers' bonuses?",
+      "How can contractors be integrated into a company's safety culture?",
+      "Is there too much paperwork in health and safety today?"
+    ]
+  },
+  {
+    "topic": "Women in engineering",
+    "domain": "industrial",
+    "questions": [
+      "Why are women still under-represented in engineering and mining?",
+      "Are quotas an effective way to increase diversity in technical professions?",
+      "Do role models matter in encouraging girls to study STEM subjects?",
+      "Are some industrial work environments still designed only for men?",
+      "Does a more diverse team produce better engineering solutions?",
+      "What can companies do to retain women engineers after they have children?"
+    ]
+  },
+  {
+    "topic": "AI in industry",
+    "domain": "industrial",
+    "questions": [
+      "Should an AI system ever be allowed to take safety-critical decisions without human approval?",
+      "Who is liable when an AI-controlled machine causes an accident?",
+      "Will predictive maintenance based on AI make traditional inspections obsolete?",
+      "Does AI make engineers more productive or less skilled?",
+      "Should companies disclose when decisions about employees are made by algorithms?",
+      "Is the energy consumption of AI data centres compatible with climate targets?",
+      "Will small and medium-sized companies be left behind in the AI revolution?"
+    ]
+  },
+  {
+    "topic": "Circular economy",
+    "domain": "industrial",
+    "questions": [
+      "Should manufacturers be legally required to make their products easy to repair?",
+      "Is the circular economy a real change of model or just a new name for recycling?",
+      "Should single-use plastics be banned completely?",
+      "Who should pay for the collection and recycling of products at the end of their life?",
+      "Can industrial waste be turned into a profitable resource?",
+      "Do consumers really care about sustainability when price is at stake?",
+      "Is planned obsolescence a myth or a real business strategy?"
+    ]
+  },
+  {
+    "topic": "Surveillance vs privacy",
+    "domain": "police",
+    "questions": [
+      "Should the police be allowed to use live facial recognition in public spaces?",
+      "Does the argument \"if you have nothing to hide, you have nothing to fear\" hold up?",
+      "Should messaging apps be forced to give the police access to encrypted messages?",
+      "How long should CCTV footage and personal data be stored?",
+      "Is mass surveillance an effective tool against terrorism?",
+      "Who should supervise the use of surveillance technologies by the police?",
+      "Are citizens more worried about state surveillance or about private companies collecting data?"
+    ]
+  },
+  {
+    "topic": "Cybercrime",
+    "domain": "police",
+    "questions": [
+      "Should paying ransoms to cybercriminals be made illegal?",
+      "Are companies doing enough to protect their customers' data?",
+      "Should every police officer receive basic cybercrime training?",
+      "How can police forces compete with the private sector to recruit IT experts?",
+      "Should hackers who are caught be offered jobs in cybersecurity instead of prison?",
+      "Is international cooperation against cybercrime realistic when some countries protect criminals?",
+      "Who is mainly responsible for online fraud against elderly people: banks, platforms or users?"
+    ]
+  },
+  {
+    "topic": "Migration and borders",
+    "domain": "police",
+    "questions": [
+      "How can states control their borders while respecting the rights of migrants and refugees?",
+      "Should rescuing migrants at sea be the responsibility of individual countries or the whole EU?",
+      "Are physical barriers such as fences effective in reducing irregular migration?",
+      "How can police distinguish between victims of trafficking and irregular migrants?",
+      "Should the EU share responsibility for asylum seekers among all member states?",
+      "What role should technology (biometrics, drones, databases) play at borders?",
+      "Do media reports on migration help or hinder public understanding of the issue?"
+    ]
+  },
+  {
+    "topic": "Police and technology",
+    "domain": "police",
+    "questions": [
+      "Should the police use algorithms to predict where crimes are likely to happen?",
+      "Should all officers wear body cameras while on duty?",
+      "Will drones and robots replace some police officers in the future?",
+      "Does technology make the police more distant from the communities they serve?",
+      "Should evidence from AI tools be admissible in court?",
+      "How can police forces avoid bias in the technologies they use?",
+      "Is traditional community policing still relevant in a digital age?"
+    ]
+  }
+]

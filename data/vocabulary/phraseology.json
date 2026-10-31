@@ -1,0 +1,1657 @@
+[
+  {
+    "meta": {
+      "id": "voc-phr-colloc",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "collocations",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Collocations C1",
+    "category": "collocations",
+    "cards": [
+      {
+        "id": "voc-phr-colloc-001",
+        "front": "carry out an inspection",
+        "back": "realizar una inspección",
+        "example": "Engineers carried out a thorough inspection of the bridge.",
+        "note": "También carry out research / a survey / checks. No \"make an inspection\"."
+      },
+      {
+        "id": "voc-phr-colloc-002",
+        "front": "meet a deadline",
+        "back": "cumplir un plazo",
+        "example": "We worked through the weekend to meet the deadline.",
+        "note": "Lo contrario: miss a deadline. No \"achieve a deadline\"."
+      },
+      {
+        "id": "voc-phr-colloc-003",
+        "front": "pose a threat",
+        "back": "suponer una amenaza",
+        "example": "The damaged dam poses a serious threat to the villages downstream.",
+        "note": "También pose a risk / a challenge / a question."
+      },
+      {
+        "id": "voc-phr-colloc-004",
+        "front": "press charges",
+        "back": "presentar cargos, denunciar",
+        "example": "The shop owner refused to press charges against the teenager.",
+        "note": "Against somebody."
+      },
+      {
+        "id": "voc-phr-colloc-005",
+        "front": "raise awareness",
+        "back": "concienciar, sensibilizar",
+        "example": "The campaign aims to raise awareness of the dangers of speeding.",
+        "note": "\"Raise awareness of/about\"."
+      },
+      {
+        "id": "voc-phr-colloc-006",
+        "front": "take into account",
+        "back": "tener en cuenta",
+        "example": "The report fails to take into account seasonal variations.",
+        "note": "También take something into account."
+      },
+      {
+        "id": "voc-phr-colloc-007",
+        "front": "reach a consensus",
+        "back": "alcanzar un consenso",
+        "example": "After hours of debate, the committee reached a consensus.",
+        "note": "También reach an agreement / a compromise."
+      },
+      {
+        "id": "voc-phr-colloc-008",
+        "front": "bear responsibility",
+        "back": "tener / asumir la responsabilidad",
+        "example": "Managers bear ultimate responsibility for safety on site.",
+        "note": "Más formal que \"have responsibility\"."
+      },
+      {
+        "id": "voc-phr-colloc-009",
+        "front": "draw a conclusion",
+        "back": "sacar una conclusión",
+        "example": "It is too early to draw any firm conclusions.",
+        "note": "No \"take a conclusion\"."
+      },
+      {
+        "id": "voc-phr-colloc-010",
+        "front": "conduct an investigation",
+        "back": "llevar a cabo una investigación",
+        "example": "Internal affairs conducted an investigation into the complaint.",
+        "note": "Formal; launch an investigation = abrir."
+      },
+      {
+        "id": "voc-phr-colloc-011",
+        "front": "raise a concern",
+        "back": "plantear una inquietud",
+        "example": "Several residents raised concerns about noise.",
+        "note": "También voice concerns."
+      },
+      {
+        "id": "voc-phr-colloc-012",
+        "front": "make a recommendation",
+        "back": "hacer una recomendación",
+        "example": "The report makes three key recommendations.",
+        "note": "No \"give a recommendation\" (aunque se oye)."
+      },
+      {
+        "id": "voc-phr-colloc-013",
+        "front": "run a risk",
+        "back": "correr un riesgo",
+        "example": "If we delay, we run the risk of losing the contract.",
+        "note": "\"Run the risk of + -ing\"."
+      },
+      {
+        "id": "voc-phr-colloc-014",
+        "front": "place emphasis on",
+        "back": "hacer hincapié en",
+        "example": "The new curriculum places greater emphasis on speaking.",
+        "note": "También put / lay emphasis on."
+      },
+      {
+        "id": "voc-phr-colloc-015",
+        "front": "address an issue",
+        "back": "abordar un problema",
+        "example": "The plan does not address the issue of funding.",
+        "note": "Formal y muy frecuente."
+      },
+      {
+        "id": "voc-phr-colloc-016",
+        "front": "implement a policy",
+        "back": "aplicar / implantar una política",
+        "example": "The new policy will be implemented from January.",
+        "note": "Implementation."
+      },
+      {
+        "id": "voc-phr-colloc-017",
+        "front": "grant permission",
+        "back": "conceder permiso",
+        "example": "The council granted permission for the extension.",
+        "note": "Planning permission = licencia de obra."
+      },
+      {
+        "id": "voc-phr-colloc-018",
+        "front": "commit a crime / an offence",
+        "back": "cometer un delito",
+        "example": "Most offences are committed by a small number of repeat offenders.",
+        "note": "No \"make a crime\"."
+      },
+      {
+        "id": "voc-phr-colloc-019",
+        "front": "launch an appeal",
+        "back": "hacer un llamamiento (a testigos, donaciones)",
+        "example": "Police have launched an appeal for witnesses.",
+        "note": "\"Appeal for information\"."
+      },
+      {
+        "id": "voc-phr-colloc-020",
+        "front": "heavy traffic",
+        "back": "tráfico denso",
+        "example": "Heavy traffic delayed the ambulance.",
+        "note": "No \"strong traffic\"."
+      },
+      {
+        "id": "voc-phr-colloc-021",
+        "front": "a high-ranking official",
+        "back": "un alto cargo",
+        "example": "A high-ranking official confirmed the talks.",
+        "note": "Senior official."
+      },
+      {
+        "id": "voc-phr-colloc-022",
+        "front": "a narrow escape",
+        "back": "escapar por los pelos",
+        "example": "The driver had a narrow escape when his car caught fire.",
+        "note": "También a close call."
+      },
+      {
+        "id": "voc-phr-colloc-023",
+        "front": "a sharp increase",
+        "back": "un aumento pronunciado",
+        "example": "There has been a sharp increase in thefts.",
+        "note": "También steep, dramatic."
+      },
+      {
+        "id": "voc-phr-colloc-024",
+        "front": "a vested interest",
+        "back": "un interés personal (creado)",
+        "example": "Developers have a vested interest in relaxing the rules.",
+        "note": "Implica beneficio propio."
+      },
+      {
+        "id": "voc-phr-colloc-025",
+        "front": "bitterly disappointed",
+        "back": "profundamente decepcionado",
+        "example": "The team was bitterly disappointed by the decision.",
+        "note": "Intensificador típico."
+      },
+      {
+        "id": "voc-phr-colloc-026",
+        "front": "highly unlikely",
+        "back": "muy poco probable",
+        "example": "It is highly unlikely that the plant will reopen.",
+        "note": "No \"very unlikely\" (posible, pero menos C1)."
+      },
+      {
+        "id": "voc-phr-colloc-027",
+        "front": "fully aware",
+        "back": "plenamente consciente",
+        "example": "We are fully aware of the risks involved.",
+        "note": "Well aware también."
+      },
+      {
+        "id": "voc-phr-colloc-028",
+        "front": "deeply concerned",
+        "back": "profundamente preocupado",
+        "example": "The union is deeply concerned about job losses.",
+        "note": "Gravely concerned (más formal)."
+      },
+      {
+        "id": "voc-phr-colloc-029",
+        "front": "widely regarded as",
+        "back": "ampliamente considerado como",
+        "example": "She is widely regarded as the leading expert in the field.",
+        "note": "Widely recognised / accepted."
+      },
+      {
+        "id": "voc-phr-colloc-030",
+        "front": "strictly prohibited",
+        "back": "terminantemente prohibido",
+        "example": "Smoking is strictly prohibited on the premises.",
+        "note": "Strictly forbidden."
+      },
+      {
+        "id": "voc-phr-colloc-031",
+        "front": "a growing body of evidence",
+        "back": "un creciente conjunto de pruebas",
+        "example": "A growing body of evidence links air pollution to dementia.",
+        "note": "Muy académico."
+      },
+      {
+        "id": "voc-phr-colloc-032",
+        "front": "take precautions",
+        "back": "tomar precauciones",
+        "example": "Take precautions when handling chemicals.",
+        "note": "No \"make precautions\"."
+      },
+      {
+        "id": "voc-phr-colloc-033",
+        "front": "exert pressure on",
+        "back": "ejercer presión sobre",
+        "example": "Lobbyists exerted pressure on the ministry.",
+        "note": "Put pressure on (más neutro)."
+      },
+      {
+        "id": "voc-phr-colloc-034",
+        "front": "set a precedent",
+        "back": "sentar un precedente",
+        "example": "The ruling could set a dangerous precedent.",
+        "note": "Establish a precedent."
+      },
+      {
+        "id": "voc-phr-colloc-035",
+        "front": "come to terms with",
+        "back": "aceptar, asumir (algo difícil)",
+        "example": "The family is still coming to terms with the loss.",
+        "note": "Expresión fija."
+      },
+      {
+        "id": "voc-phr-colloc-036",
+        "front": "shed light on",
+        "back": "arrojar luz sobre",
+        "example": "The new documents shed light on the decision.",
+        "note": "Throw light on."
+      },
+      {
+        "id": "voc-phr-colloc-037",
+        "front": "pay attention to",
+        "back": "prestar atención a",
+        "example": "Pay close attention to the safety briefing.",
+        "note": "\"Close attention\" intensifica."
+      },
+      {
+        "id": "voc-phr-colloc-038",
+        "front": "undergo surgery / training",
+        "back": "someterse a cirugía / recibir formación",
+        "example": "All recruits undergo six months of training.",
+        "note": "Undergo changes / testing."
+      },
+      {
+        "id": "voc-phr-colloc-039",
+        "front": "tackle a problem",
+        "back": "atajar / abordar un problema",
+        "example": "The government pledged to tackle knife crime.",
+        "note": "Periodístico."
+      },
+      {
+        "id": "voc-phr-colloc-040",
+        "front": "make headway",
+        "back": "avanzar, hacer progresos",
+        "example": "Negotiators are finally making headway.",
+        "note": "Make progress."
+      },
+      {
+        "id": "voc-phr-colloc-041",
+        "front": "incur costs",
+        "back": "incurrir en gastos",
+        "example": "The company incurred heavy costs during the strike.",
+        "note": "Incur losses / debts / penalties."
+      },
+      {
+        "id": "voc-phr-colloc-042",
+        "front": "gain insight into",
+        "back": "obtener una visión / comprensión de",
+        "example": "The study gives valuable insight into consumer behaviour.",
+        "note": "Insight es incontable aquí."
+      },
+      {
+        "id": "voc-phr-colloc-043",
+        "front": "file a report",
+        "back": "presentar un informe / una denuncia",
+        "example": "She filed a report with the local police.",
+        "note": "También file a complaint."
+      },
+      {
+        "id": "voc-phr-colloc-044",
+        "front": "serve a sentence",
+        "back": "cumplir condena",
+        "example": "He is serving a ten-year sentence for armed robbery.",
+        "note": "Hand down a sentence = dictar."
+      },
+      {
+        "id": "voc-phr-colloc-045",
+        "front": "hold talks",
+        "back": "mantener conversaciones / negociaciones",
+        "example": "The two sides are holding talks in Geneva.",
+        "note": "Hold a meeting / an election."
+      },
+      {
+        "id": "voc-phr-colloc-046",
+        "front": "bridge the gap",
+        "back": "reducir la brecha",
+        "example": "The programme aims to bridge the gap between theory and practice.",
+        "note": "Close the gap."
+      },
+      {
+        "id": "voc-phr-colloc-047",
+        "front": "broaden one's horizons",
+        "back": "ampliar horizontes",
+        "example": "Working abroad broadened her horizons.",
+        "note": "Expand."
+      },
+      {
+        "id": "voc-phr-colloc-048",
+        "front": "a viable alternative",
+        "back": "una alternativa viable",
+        "example": "Rail is not yet a viable alternative for freight here.",
+        "note": "Feasible."
+      },
+      {
+        "id": "voc-phr-colloc-049",
+        "front": "an integral part",
+        "back": "una parte esencial",
+        "example": "Training is an integral part of the job.",
+        "note": "Integral = esencial, no \"integral\" en sentido español de \"completo\"."
+      },
+      {
+        "id": "voc-phr-colloc-050",
+        "front": "lodge a complaint",
+        "back": "presentar una queja / reclamación",
+        "example": "Passengers lodged complaints with the airline.",
+        "note": "Formal: lodge an appeal / a claim."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-phr-phrasal",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "phrasal verbs",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Phrasal verbs C1",
+    "category": "phrasal-verbs",
+    "cards": [
+      {
+        "id": "voc-phr-phrasal-001",
+        "front": "phase out",
+        "back": "eliminar gradualmente",
+        "example": "Single-use plastics are being phased out.",
+        "note": "Separable. Lo contrario: phase in."
+      },
+      {
+        "id": "voc-phr-phrasal-002",
+        "front": "shut down",
+        "back": "cerrar, apagar (planta, sistema)",
+        "example": "The reactor was shut down for safety checks.",
+        "note": "Sustantivo: shutdown."
+      },
+      {
+        "id": "voc-phr-phrasal-003",
+        "front": "track down",
+        "back": "localizar (tras búsqueda)",
+        "example": "Detectives tracked down the suspect in Málaga.",
+        "note": "Separable."
+      },
+      {
+        "id": "voc-phr-phrasal-004",
+        "front": "crack down on",
+        "back": "tomar medidas enérgicas contra",
+        "example": "The police are cracking down on drink-driving.",
+        "note": "Sustantivo: crackdown."
+      },
+      {
+        "id": "voc-phr-phrasal-005",
+        "front": "carry out",
+        "back": "llevar a cabo, realizar",
+        "example": "Repairs will be carried out overnight.",
+        "note": "Separable."
+      },
+      {
+        "id": "voc-phr-phrasal-006",
+        "front": "call off",
+        "back": "cancelar, suspender",
+        "example": "The search was called off at nightfall.",
+        "note": "Separable."
+      },
+      {
+        "id": "voc-phr-phrasal-007",
+        "front": "break down",
+        "back": "averiarse; desglosar; derrumbarse",
+        "example": "Talks broke down after a week.",
+        "note": "Breakdown = avería / desglose."
+      },
+      {
+        "id": "voc-phr-phrasal-008",
+        "front": "bring about",
+        "back": "provocar, ocasionar",
+        "example": "The reforms brought about significant change.",
+        "note": "Formal."
+      },
+      {
+        "id": "voc-phr-phrasal-009",
+        "front": "come up with",
+        "back": "idear, proponer",
+        "example": "The team came up with an ingenious solution.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-010",
+        "front": "drop off",
+        "back": "disminuir; dejar (a alguien)",
+        "example": "Demand drops off sharply in summer.",
+        "note": "También quedarse dormido."
+      },
+      {
+        "id": "voc-phr-phrasal-011",
+        "front": "set up",
+        "back": "establecer, montar, crear",
+        "example": "A task force was set up to investigate.",
+        "note": "Sustantivo: set-up."
+      },
+      {
+        "id": "voc-phr-phrasal-012",
+        "front": "look into",
+        "back": "investigar, estudiar",
+        "example": "Officers are looking into the complaint.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-013",
+        "front": "rule out",
+        "back": "descartar",
+        "example": "Police have not ruled out foul play.",
+        "note": "Foul play = juego sucio / acto criminal."
+      },
+      {
+        "id": "voc-phr-phrasal-014",
+        "front": "point out",
+        "back": "señalar, indicar",
+        "example": "The inspector pointed out several defects.",
+        "note": "\"Point out that...\"."
+      },
+      {
+        "id": "voc-phr-phrasal-015",
+        "front": "put forward",
+        "back": "proponer, presentar",
+        "example": "She put forward a proposal to cut costs.",
+        "note": "Formal."
+      },
+      {
+        "id": "voc-phr-phrasal-016",
+        "front": "take over",
+        "back": "asumir el control, hacerse cargo",
+        "example": "The night shift took over at ten.",
+        "note": "Takeover = adquisición."
+      },
+      {
+        "id": "voc-phr-phrasal-017",
+        "front": "back up",
+        "back": "respaldar; hacer copia de seguridad",
+        "example": "Can you back up your claims with data?",
+        "note": "Backup."
+      },
+      {
+        "id": "voc-phr-phrasal-018",
+        "front": "cut back on",
+        "back": "recortar, reducir",
+        "example": "The firm is cutting back on travel.",
+        "note": "Cutbacks = recortes."
+      },
+      {
+        "id": "voc-phr-phrasal-019",
+        "front": "fall through",
+        "back": "fracasar, venirse abajo",
+        "example": "The deal fell through at the last minute.",
+        "note": "Intransitivo."
+      },
+      {
+        "id": "voc-phr-phrasal-020",
+        "front": "iron out",
+        "back": "resolver, limar (problemas)",
+        "example": "We need to iron out a few technical issues.",
+        "note": "Problemas menores."
+      },
+      {
+        "id": "voc-phr-phrasal-021",
+        "front": "hand over",
+        "back": "entregar, traspasar",
+        "example": "He was ordered to hand over his passport.",
+        "note": "Handover."
+      },
+      {
+        "id": "voc-phr-phrasal-022",
+        "front": "hold up",
+        "back": "retrasar; atracar",
+        "example": "Roadworks held us up for an hour.",
+        "note": "Hold-up = retraso / atraco."
+      },
+      {
+        "id": "voc-phr-phrasal-023",
+        "front": "break into",
+        "back": "entrar a robar, forzar",
+        "example": "Thieves broke into the warehouse overnight.",
+        "note": "Break-in = robo con fuerza."
+      },
+      {
+        "id": "voc-phr-phrasal-024",
+        "front": "get away with",
+        "back": "salir impune de",
+        "example": "He thought he could get away with fraud.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-025",
+        "front": "turn down",
+        "back": "rechazar; bajar (volumen)",
+        "example": "She turned down the promotion.",
+        "note": "Separable."
+      },
+      {
+        "id": "voc-phr-phrasal-026",
+        "front": "draw up",
+        "back": "redactar, elaborar (plan, contrato)",
+        "example": "Lawyers drew up a new contract.",
+        "note": "También detenerse un vehículo."
+      },
+      {
+        "id": "voc-phr-phrasal-027",
+        "front": "account for",
+        "back": "explicar; representar",
+        "example": "How do you account for the missing funds?",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-028",
+        "front": "stem from",
+        "back": "derivarse de, tener su origen en",
+        "example": "Most delays stem from poor planning.",
+        "note": "Formal."
+      },
+      {
+        "id": "voc-phr-phrasal-029",
+        "front": "step up",
+        "back": "intensificar, aumentar",
+        "example": "Patrols have been stepped up in the area.",
+        "note": "Step up efforts / security."
+      },
+      {
+        "id": "voc-phr-phrasal-030",
+        "front": "wind down",
+        "back": "ir reduciendo, ir cerrando",
+        "example": "The company is winding down its operations in Asia.",
+        "note": "También relajarse."
+      },
+      {
+        "id": "voc-phr-phrasal-031",
+        "front": "call for",
+        "back": "exigir, requerir",
+        "example": "Unions are calling for better safety measures.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-032",
+        "front": "run out of",
+        "back": "quedarse sin",
+        "example": "The patrol car ran out of fuel.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-033",
+        "front": "tip off",
+        "back": "dar el soplo",
+        "example": "Someone tipped off the police about the shipment.",
+        "note": "Tip-off."
+      },
+      {
+        "id": "voc-phr-phrasal-034",
+        "front": "cover up",
+        "back": "encubrir, tapar",
+        "example": "Officials tried to cover up the scandal.",
+        "note": "Cover-up."
+      },
+      {
+        "id": "voc-phr-phrasal-035",
+        "front": "round up",
+        "back": "reunir, detener a varios",
+        "example": "Police rounded up the gang members.",
+        "note": "Round-up = redada; resumen."
+      },
+      {
+        "id": "voc-phr-phrasal-036",
+        "front": "stand by",
+        "back": "estar preparado; mantener (lo dicho)",
+        "example": "Firefighters stood by in case of a fire.",
+        "note": "\"I stand by my statement\"."
+      },
+      {
+        "id": "voc-phr-phrasal-037",
+        "front": "seal off",
+        "back": "precintar, acordonar",
+        "example": "The area was sealed off after the explosion.",
+        "note": "Cordon off."
+      },
+      {
+        "id": "voc-phr-phrasal-038",
+        "front": "bring in",
+        "back": "introducir (ley); traer a comisaría",
+        "example": "The government brought in new regulations.",
+        "note": "Bring someone in for questioning."
+      },
+      {
+        "id": "voc-phr-phrasal-039",
+        "front": "pull out",
+        "back": "retirarse",
+        "example": "The investor pulled out of the project.",
+        "note": "Pull-out."
+      },
+      {
+        "id": "voc-phr-phrasal-040",
+        "front": "keep up with",
+        "back": "mantenerse al día, seguir el ritmo",
+        "example": "It is hard to keep up with changes in legislation.",
+        "note": "Inseparable."
+      },
+      {
+        "id": "voc-phr-phrasal-041",
+        "front": "go ahead",
+        "back": "seguir adelante, llevarse a cabo",
+        "example": "The match will go ahead despite the rain.",
+        "note": "Give the go-ahead = dar luz verde."
+      },
+      {
+        "id": "voc-phr-phrasal-042",
+        "front": "work out",
+        "back": "calcular; resolver; salir bien",
+        "example": "We need to work out the total cost.",
+        "note": "Workout = entrenamiento."
+      },
+      {
+        "id": "voc-phr-phrasal-043",
+        "front": "set off",
+        "back": "activar; ponerse en marcha",
+        "example": "The smoke set off the fire alarm.",
+        "note": "Set off for = salir hacia."
+      },
+      {
+        "id": "voc-phr-phrasal-044",
+        "front": "take on",
+        "back": "asumir; contratar",
+        "example": "The plant is taking on 50 new workers.",
+        "note": "Take on responsibility."
+      },
+      {
+        "id": "voc-phr-phrasal-045",
+        "front": "let off",
+        "back": "perdonar, dejar ir sin castigo",
+        "example": "The officer let him off with a warning.",
+        "note": "También disparar/explotar."
+      },
+      {
+        "id": "voc-phr-phrasal-046",
+        "front": "back down",
+        "back": "echarse atrás, ceder",
+        "example": "The minister refused to back down.",
+        "note": "Intransitivo."
+      },
+      {
+        "id": "voc-phr-phrasal-047",
+        "front": "fill in",
+        "back": "rellenar (formulario); sustituir",
+        "example": "Please fill in the incident report.",
+        "note": "Fill in for someone = sustituir."
+      },
+      {
+        "id": "voc-phr-phrasal-048",
+        "front": "scale back",
+        "back": "reducir (la escala)",
+        "example": "The project was scaled back due to costs.",
+        "note": "Scale down."
+      },
+      {
+        "id": "voc-phr-phrasal-049",
+        "front": "follow up",
+        "back": "hacer seguimiento",
+        "example": "We will follow up on all outstanding actions.",
+        "note": "Follow-up."
+      },
+      {
+        "id": "voc-phr-phrasal-050",
+        "front": "lay off",
+        "back": "despedir (por falta de trabajo)",
+        "example": "The mine laid off 200 workers.",
+        "note": "Lay-offs = despidos."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-phr-idioms",
+      "skill": "vocabulary",
+      "level": "C1",
+      "topic": "idioms",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Idioms C1",
+    "category": "idioms",
+    "cards": [
+      {
+        "id": "voc-phr-idioms-001",
+        "front": "to cut corners",
+        "back": "escatimar, hacer las cosas de mala manera para ahorrar",
+        "example": "Accidents happen when contractors cut corners on safety.",
+        "note": "Connotación negativa."
+      },
+      {
+        "id": "voc-phr-idioms-002",
+        "front": "to be on the same page",
+        "back": "estar de acuerdo / en sintonía",
+        "example": "Before the meeting, let's make sure we're on the same page.",
+        "note": "Informal-neutro."
+      },
+      {
+        "id": "voc-phr-idioms-003",
+        "front": "the tip of the iceberg",
+        "back": "la punta del iceberg",
+        "example": "The reported cases are just the tip of the iceberg.",
+        "note": "Muy común en prensa."
+      },
+      {
+        "id": "voc-phr-idioms-004",
+        "front": "to get the ball rolling",
+        "back": "poner las cosas en marcha",
+        "example": "Let's get the ball rolling with a quick introduction.",
+        "note": "Start the ball rolling."
+      },
+      {
+        "id": "voc-phr-idioms-005",
+        "front": "back to square one",
+        "back": "volver a empezar desde cero",
+        "example": "The tests failed, so we're back to square one.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-006",
+        "front": "to bite the bullet",
+        "back": "hacer de tripas corazón",
+        "example": "We had to bite the bullet and replace the entire system.",
+        "note": "Aceptar algo desagradable."
+      },
+      {
+        "id": "voc-phr-idioms-007",
+        "front": "a blessing in disguise",
+        "back": "no hay mal que por bien no venga",
+        "example": "Losing the contract was a blessing in disguise.",
+        "note": "Algo malo que resulta bueno."
+      },
+      {
+        "id": "voc-phr-idioms-008",
+        "front": "to call it a day",
+        "back": "dar por terminada la jornada",
+        "example": "It's nearly ten, let's call it a day.",
+        "note": "También retirarse."
+      },
+      {
+        "id": "voc-phr-idioms-009",
+        "front": "to go the extra mile",
+        "back": "esforzarse más de lo necesario",
+        "example": "Our staff always go the extra mile for customers.",
+        "note": "Positivo."
+      },
+      {
+        "id": "voc-phr-idioms-010",
+        "front": "to keep a low profile",
+        "back": "pasar desapercibido",
+        "example": "After the scandal, he kept a low profile.",
+        "note": "Lo contrario: high profile."
+      },
+      {
+        "id": "voc-phr-idioms-011",
+        "front": "a red herring",
+        "back": "una pista falsa, una distracción",
+        "example": "The anonymous letter turned out to be a red herring.",
+        "note": "Muy usado en investigaciones."
+      },
+      {
+        "id": "voc-phr-idioms-012",
+        "front": "to be caught red-handed",
+        "back": "ser pillado con las manos en la masa",
+        "example": "The thief was caught red-handed.",
+        "note": "Expresión policial clásica."
+      },
+      {
+        "id": "voc-phr-idioms-013",
+        "front": "to turn a blind eye",
+        "back": "hacer la vista gorda",
+        "example": "Managers turned a blind eye to the breaches.",
+        "note": "To something."
+      },
+      {
+        "id": "voc-phr-idioms-014",
+        "front": "to hit the nail on the head",
+        "back": "dar en el clavo",
+        "example": "You've hit the nail on the head: the issue is funding.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-015",
+        "front": "a grey area",
+        "back": "una zona gris",
+        "example": "The use of drones in this context is a legal grey area.",
+        "note": "Ortografía británica: grey."
+      },
+      {
+        "id": "voc-phr-idioms-016",
+        "front": "to play it by ear",
+        "back": "improvisar sobre la marcha",
+        "example": "We don't know the numbers yet, so we'll play it by ear.",
+        "note": "Informal."
+      },
+      {
+        "id": "voc-phr-idioms-017",
+        "front": "the bottom line",
+        "back": "lo esencial; el resultado final",
+        "example": "The bottom line is that we cannot afford it.",
+        "note": "También beneficio neto."
+      },
+      {
+        "id": "voc-phr-idioms-018",
+        "front": "to be in the pipeline",
+        "back": "estar en preparación / en trámite",
+        "example": "Several new projects are in the pipeline.",
+        "note": "Neutro-formal."
+      },
+      {
+        "id": "voc-phr-idioms-019",
+        "front": "to touch base",
+        "back": "ponerse en contacto brevemente",
+        "example": "I'll touch base with you next week.",
+        "note": "Business English."
+      },
+      {
+        "id": "voc-phr-idioms-020",
+        "front": "to think outside the box",
+        "back": "pensar de forma creativa",
+        "example": "We need to think outside the box to solve this.",
+        "note": "Algo trillado."
+      },
+      {
+        "id": "voc-phr-idioms-021",
+        "front": "to be up in the air",
+        "back": "estar en el aire, sin decidir",
+        "example": "The date of the inspection is still up in the air.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-022",
+        "front": "to pull one's weight",
+        "back": "arrimar el hombro, hacer su parte",
+        "example": "Everyone on the team must pull their weight.",
+        "note": "A menudo en negativa."
+      },
+      {
+        "id": "voc-phr-idioms-023",
+        "front": "to jump to conclusions",
+        "back": "sacar conclusiones precipitadas",
+        "example": "Investigators must avoid jumping to conclusions.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-024",
+        "front": "a drop in the ocean",
+        "back": "una gota en el océano",
+        "example": "The funding is a drop in the ocean compared with what is needed.",
+        "note": "Insignificante."
+      },
+      {
+        "id": "voc-phr-idioms-025",
+        "front": "to keep someone in the loop",
+        "back": "mantener a alguien informado",
+        "example": "Please keep me in the loop about any developments.",
+        "note": "Out of the loop."
+      },
+      {
+        "id": "voc-phr-idioms-026",
+        "front": "to break the ice",
+        "back": "romper el hielo",
+        "example": "A short anecdote helped to break the ice.",
+        "note": "Icebreaker."
+      },
+      {
+        "id": "voc-phr-idioms-027",
+        "front": "to be at a crossroads",
+        "back": "estar en una encrucijada",
+        "example": "The industry is at a crossroads.",
+        "note": "Formal-neutro."
+      },
+      {
+        "id": "voc-phr-idioms-028",
+        "front": "a double-edged sword",
+        "back": "un arma de doble filo",
+        "example": "Social media is a double-edged sword for the police.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-029",
+        "front": "to learn the ropes",
+        "back": "aprender el oficio",
+        "example": "New recruits spend weeks learning the ropes.",
+        "note": "Show someone the ropes."
+      },
+      {
+        "id": "voc-phr-idioms-030",
+        "front": "to have a lot on one's plate",
+        "back": "estar muy ocupado",
+        "example": "I have a lot on my plate this week.",
+        "note": "Informal."
+      },
+      {
+        "id": "voc-phr-idioms-031",
+        "front": "by the book",
+        "back": "según las normas, al pie de la letra",
+        "example": "The arrest was done strictly by the book.",
+        "note": "Go by the book."
+      },
+      {
+        "id": "voc-phr-idioms-032",
+        "front": "to raise the alarm",
+        "back": "dar la voz de alarma",
+        "example": "A neighbour raised the alarm when she smelt gas.",
+        "note": "Sound the alarm."
+      },
+      {
+        "id": "voc-phr-idioms-033",
+        "front": "to be a far cry from",
+        "back": "distar mucho de",
+        "example": "The final product is a far cry from the original design.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-034",
+        "front": "the elephant in the room",
+        "back": "el tema tabú que todos evitan",
+        "example": "The budget deficit is the elephant in the room.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-035",
+        "front": "to stand one's ground",
+        "back": "mantenerse firme",
+        "example": "The officers stood their ground as the crowd advanced.",
+        "note": "Hold one's ground."
+      },
+      {
+        "id": "voc-phr-idioms-036",
+        "front": "to be up against it",
+        "back": "tenerlo muy difícil",
+        "example": "With two staff off sick, we're really up against it.",
+        "note": "Informal."
+      },
+      {
+        "id": "voc-phr-idioms-037",
+        "front": "to make ends meet",
+        "back": "llegar a fin de mes",
+        "example": "Many families struggle to make ends meet.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-038",
+        "front": "to set the record straight",
+        "back": "aclarar las cosas",
+        "example": "I want to set the record straight about what happened.",
+        "note": "Neutro."
+      },
+      {
+        "id": "voc-phr-idioms-039",
+        "front": "a level playing field",
+        "back": "igualdad de condiciones",
+        "example": "The rules aim to create a level playing field for all bidders.",
+        "note": "Business / política."
+      },
+      {
+        "id": "voc-phr-idioms-040",
+        "front": "to nip something in the bud",
+        "back": "cortar algo de raíz",
+        "example": "We need to nip this problem in the bud.",
+        "note": "Actuar pronto."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-phr-falsefriends",
+      "skill": "vocabulary",
+      "level": "C1",
+      "topic": "false friends",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "False friends ES-EN",
+    "category": "false-friends",
+    "cards": [
+      {
+        "id": "voc-phr-falsefriends-001",
+        "front": "actually",
+        "back": "en realidad, de hecho. TRAMPA: no significa \"actualmente\" (= currently, at present).",
+        "example": "I thought he was the manager, but actually he's a consultant.",
+        "note": "Actualmente = currently / nowadays."
+      },
+      {
+        "id": "voc-phr-falsefriends-002",
+        "front": "eventually",
+        "back": "finalmente, al final. TRAMPA: no significa \"eventualmente\" (= possibly, occasionally).",
+        "example": "After hours of searching, they eventually found the boy.",
+        "note": "Eventual (ES) = possible / temporary."
+      },
+      {
+        "id": "voc-phr-falsefriends-003",
+        "front": "sensible",
+        "back": "sensato, razonable. TRAMPA: no es \"sensible\" (= sensitive).",
+        "example": "Wearing a helmet is the sensible thing to do.",
+        "note": "Sensible (ES) = sensitive."
+      },
+      {
+        "id": "voc-phr-falsefriends-004",
+        "front": "carpet",
+        "back": "moqueta, alfombra. TRAMPA: no es \"carpeta\" (= folder, file).",
+        "example": "Coffee was spilt on the carpet.",
+        "note": "Carpeta = folder."
+      },
+      {
+        "id": "voc-phr-falsefriends-005",
+        "front": "to assist",
+        "back": "ayudar. TRAMPA: no significa \"asistir\" a un evento (= attend).",
+        "example": "Officers assisted the paramedics at the scene.",
+        "note": "Asistir a una reunión = attend a meeting."
+      },
+      {
+        "id": "voc-phr-falsefriends-006",
+        "front": "to attend",
+        "back": "asistir (a un acto). TRAMPA: no significa \"atender\" (= serve, deal with, look after).",
+        "example": "Over 200 delegates attended the conference.",
+        "note": "Atender a un cliente = serve / deal with a customer."
+      },
+      {
+        "id": "voc-phr-falsefriends-007",
+        "front": "career",
+        "back": "trayectoria profesional. TRAMPA: no es \"carrera universitaria\" (= degree).",
+        "example": "She has had a long career in the police.",
+        "note": "Carrera = degree; carrera deportiva = race."
+      },
+      {
+        "id": "voc-phr-falsefriends-008",
+        "front": "embarrassed",
+        "back": "avergonzado, abochornado. TRAMPA: no es \"embarazada\" (= pregnant).",
+        "example": "He was embarrassed when he forgot the minister's name.",
+        "note": "Embarazada = pregnant."
+      },
+      {
+        "id": "voc-phr-falsefriends-009",
+        "front": "library",
+        "back": "biblioteca. TRAMPA: no es \"librería\" (= bookshop).",
+        "example": "The university library is open until midnight.",
+        "note": "Librería = bookshop (RU) / bookstore (EE. UU.)."
+      },
+      {
+        "id": "voc-phr-falsefriends-010",
+        "front": "constipated",
+        "back": "estreñido. TRAMPA: no es \"constipado\" (= to have a cold).",
+        "example": "The medication can leave patients constipated.",
+        "note": "Estar constipado = to have a cold."
+      },
+      {
+        "id": "voc-phr-falsefriends-011",
+        "front": "compromise",
+        "back": "acuerdo con concesiones mutuas; comprometer (poner en riesgo). TRAMPA: no es \"compromiso\" (= commitment, engagement).",
+        "example": "Both sides made concessions to reach a compromise.",
+        "note": "Compromiso = commitment; compromiso matrimonial = engagement."
+      },
+      {
+        "id": "voc-phr-falsefriends-012",
+        "front": "deception",
+        "back": "engaño. TRAMPA: no es \"decepción\" (= disappointment).",
+        "example": "He obtained the money by deception.",
+        "note": "Decepción = disappointment."
+      },
+      {
+        "id": "voc-phr-falsefriends-013",
+        "front": "record",
+        "back": "registro, expediente; récord; grabar. TRAMPA: no es \"recordar\" (= remember / remind).",
+        "example": "He has no criminal record.",
+        "note": "Recordar = remember; recordar a alguien = remind."
+      },
+      {
+        "id": "voc-phr-falsefriends-014",
+        "front": "to resume",
+        "back": "reanudar. TRAMPA: no es \"resumir\" (= summarise).",
+        "example": "Talks will resume next week.",
+        "note": "Resumen = summary. \"Résumé\" (EE. UU.) = CV."
+      },
+      {
+        "id": "voc-phr-falsefriends-015",
+        "front": "sympathetic",
+        "back": "comprensivo, compasivo. TRAMPA: no es \"simpático\" (= nice, friendly).",
+        "example": "The judge was sympathetic to her situation.",
+        "note": "Simpático = nice / friendly / likeable."
+      },
+      {
+        "id": "voc-phr-falsefriends-016",
+        "front": "to introduce",
+        "back": "presentar (a alguien); introducir (ley, medida). TRAMPA: no es \"meter\" algo en un sitio (= insert, put in).",
+        "example": "Let me introduce you to our new inspector.",
+        "note": "Introducir la tarjeta = insert the card."
+      },
+      {
+        "id": "voc-phr-falsefriends-017",
+        "front": "exit",
+        "back": "salida. TRAMPA: no es \"éxito\" (= success).",
+        "example": "Use the nearest emergency exit.",
+        "note": "Éxito = success."
+      },
+      {
+        "id": "voc-phr-falsefriends-018",
+        "front": "success",
+        "back": "éxito. TRAMPA: no es \"suceso\" (= event, incident).",
+        "example": "The operation was a complete success.",
+        "note": "Suceso = event / incident."
+      },
+      {
+        "id": "voc-phr-falsefriends-019",
+        "front": "argument",
+        "back": "discusión, pelea; argumento (razonamiento). TRAMPA: no es \"argumento\" de una película (= plot).",
+        "example": "The neighbours had a heated argument.",
+        "note": "Argumento de novela = plot."
+      },
+      {
+        "id": "voc-phr-falsefriends-020",
+        "front": "lecture",
+        "back": "conferencia, clase magistral; sermón. TRAMPA: no es \"lectura\" (= reading).",
+        "example": "He gave a lecture on forensic science.",
+        "note": "Lectura = reading."
+      },
+      {
+        "id": "voc-phr-falsefriends-021",
+        "front": "to realise",
+        "back": "darse cuenta. TRAMPA: no es \"realizar\" (= carry out, do).",
+        "example": "I realised I had left my badge at home.",
+        "note": "Realizar un estudio = carry out a study."
+      },
+      {
+        "id": "voc-phr-falsefriends-022",
+        "front": "to pretend",
+        "back": "fingir. TRAMPA: no es \"pretender\" (= intend, aim).",
+        "example": "He pretended to be a gas engineer to get into the house.",
+        "note": "Pretender = intend / aim to."
+      },
+      {
+        "id": "voc-phr-falsefriends-023",
+        "front": "fabric",
+        "back": "tela, tejido. TRAMPA: no es \"fábrica\" (= factory, plant).",
+        "example": "The fabric is fire-resistant.",
+        "note": "Fábrica = factory / plant."
+      },
+      {
+        "id": "voc-phr-falsefriends-024",
+        "front": "to molest",
+        "back": "abusar sexualmente. TRAMPA: no es \"molestar\" (= bother, disturb).",
+        "example": "He was convicted of molesting a child.",
+        "note": "Molestar = bother / disturb / annoy. Error grave."
+      },
+      {
+        "id": "voc-phr-falsefriends-025",
+        "front": "preservative",
+        "back": "conservante. TRAMPA: no es \"preservativo\" (= condom).",
+        "example": "The food contains no artificial preservatives.",
+        "note": "Preservativo = condom."
+      },
+      {
+        "id": "voc-phr-falsefriends-026",
+        "front": "casualty",
+        "back": "víctima (herido o muerto). TRAMPA: no es \"casualidad\" (= coincidence, chance).",
+        "example": "There were no casualties in the fire.",
+        "note": "Casualidad = coincidence / by chance."
+      },
+      {
+        "id": "voc-phr-falsefriends-027",
+        "front": "commodity",
+        "back": "materia prima, bien básico. TRAMPA: no es \"comodidad\" (= comfort, convenience).",
+        "example": "Copper is a key commodity for the energy transition.",
+        "note": "Comodidad = comfort / convenience."
+      },
+      {
+        "id": "voc-phr-falsefriends-028",
+        "front": "contest",
+        "back": "competición, concurso. TRAMPA: no es \"contestar\" (= answer).",
+        "example": "The contest attracted over a thousand entries.",
+        "note": "Contestar = answer / reply."
+      },
+      {
+        "id": "voc-phr-falsefriends-029",
+        "front": "to discuss",
+        "back": "debatir, hablar de. TRAMPA: no es \"discutir\" en sentido de pelear (= argue).",
+        "example": "We discussed the plan at length.",
+        "note": "Discutir (pelear) = argue. Sin preposición: discuss something."
+      },
+      {
+        "id": "voc-phr-falsefriends-030",
+        "front": "diversion",
+        "back": "desvío (de tráfico); distracción. TRAMPA: no es \"diversión\" (= fun, entertainment).",
+        "example": "There is a diversion because of roadworks.",
+        "note": "Diversión = fun."
+      },
+      {
+        "id": "voc-phr-falsefriends-031",
+        "front": "large",
+        "back": "grande. TRAMPA: no es \"largo\" (= long).",
+        "example": "A large crowd gathered outside.",
+        "note": "Largo = long."
+      },
+      {
+        "id": "voc-phr-falsefriends-032",
+        "front": "to quit",
+        "back": "dejar, abandonar. TRAMPA: no es \"quitar\" (= remove, take away).",
+        "example": "She quit her job to study engineering.",
+        "note": "Quitar = remove / take off."
+      },
+      {
+        "id": "voc-phr-falsefriends-033",
+        "front": "to support",
+        "back": "apoyar, respaldar. TRAMPA: no es \"soportar\" (= put up with, bear, stand).",
+        "example": "The union supports the proposal.",
+        "note": "No soporto = I can't stand."
+      },
+      {
+        "id": "voc-phr-falsefriends-034",
+        "front": "notice",
+        "back": "aviso, letrero; notar. TRAMPA: no es \"noticia\" (= news).",
+        "example": "Read the safety notice before entering.",
+        "note": "Noticias = news (incontable)."
+      },
+      {
+        "id": "voc-phr-falsefriends-035",
+        "front": "parents",
+        "back": "padres (padre y madre). TRAMPA: no es \"parientes\" (= relatives).",
+        "example": "Both of his parents are police officers.",
+        "note": "Parientes = relatives."
+      },
+      {
+        "id": "voc-phr-falsefriends-036",
+        "front": "to rape",
+        "back": "violar (agresión sexual). TRAMPA: no es \"rapar\" (= shave one's head).",
+        "example": "He was charged with rape.",
+        "note": "Violar una norma = breach / violate a rule."
+      },
+      {
+        "id": "voc-phr-falsefriends-037",
+        "front": "ultimately",
+        "back": "en última instancia, a fin de cuentas. TRAMPA: no es \"últimamente\" (= lately, recently).",
+        "example": "Ultimately, the decision rests with the director.",
+        "note": "Últimamente = lately."
+      },
+      {
+        "id": "voc-phr-falsefriends-038",
+        "front": "to approve",
+        "back": "aprobar (dar el visto bueno). TRAMPA: no se usa para \"aprobar un examen\" (= pass).",
+        "example": "The board approved the budget.",
+        "note": "Aprobar un examen = pass an exam."
+      },
+      {
+        "id": "voc-phr-falsefriends-039",
+        "front": "agenda",
+        "back": "orden del día. TRAMPA: no es la \"agenda\" personal (= diary, planner).",
+        "example": "The first item on the agenda is safety.",
+        "note": "Agenda (libreta) = diary."
+      },
+      {
+        "id": "voc-phr-falsefriends-040",
+        "front": "to excite",
+        "back": "emocionar, entusiasmar. TRAMPA: no tiene la carga sexual de \"excitar\" en español en la mayoría de contextos.",
+        "example": "The new project excites the whole team.",
+        "note": "Excited = ilusionado, entusiasmado."
+      },
+      {
+        "id": "voc-phr-falsefriends-041",
+        "front": "assessment",
+        "back": "evaluación. TRAMPA: no es \"asesoramiento\" (= advice).",
+        "example": "A risk assessment was carried out.",
+        "note": "Asesoramiento = advice / consultancy."
+      },
+      {
+        "id": "voc-phr-falsefriends-042",
+        "front": "currently",
+        "back": "actualmente. Es la traducción correcta de \"actualmente\" (no actually).",
+        "example": "The suspect is currently in custody.",
+        "note": "Pareja con actually."
+      },
+      {
+        "id": "voc-phr-falsefriends-043",
+        "front": "crime",
+        "back": "delito (en general). TRAMPA: no siempre es \"crimen\" en el sentido de homicidio (= murder).",
+        "example": "Crime has fallen in the area.",
+        "note": "Crimen (asesinato) = murder / homicide."
+      },
+      {
+        "id": "voc-phr-falsefriends-044",
+        "front": "inhabitable",
+        "back": "habitable. TRAMPA: no significa \"inhabitable\" en español (= uninhabitable).",
+        "example": "After the repairs, the building was declared inhabitable again.",
+        "note": "Inhabitable (ES) = uninhabitable. Habitable también existe en inglés."
+      },
+      {
+        "id": "voc-phr-falsefriends-045",
+        "front": "consistent",
+        "back": "coherente, constante, regular. TRAMPA: no es \"consistente\" (sólido/espeso = firm, thick).",
+        "example": "His statements have been consistent throughout.",
+        "note": "Consistente (textura) = thick / solid."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-phr-connectors",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "connectors",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Connectors & discourse markers",
+    "category": "connectors",
+    "cards": [
+      {
+        "id": "voc-phr-connectors-001",
+        "front": "however",
+        "back": "sin embargo — contraste; neutro/formal",
+        "example": "The plan is ambitious. However, it is not unrealistic.",
+        "note": "Tras punto o punto y coma, seguido de coma."
+      },
+      {
+        "id": "voc-phr-connectors-002",
+        "front": "nevertheless / nonetheless",
+        "back": "no obstante, aun así — contraste; formal",
+        "example": "The risks are considerable; nevertheless, we will proceed.",
+        "note": "Nonetheless es algo más formal."
+      },
+      {
+        "id": "voc-phr-connectors-003",
+        "front": "whereas",
+        "back": "mientras que — contraste entre dos hechos; neutro/formal",
+        "example": "Directives need transposition, whereas regulations apply directly.",
+        "note": "Une dos oraciones."
+      },
+      {
+        "id": "voc-phr-connectors-004",
+        "front": "while / whilst",
+        "back": "mientras que; aunque — contraste; whilst más formal (RU)",
+        "example": "While the idea is attractive, it is too costly.",
+        "note": "Whilst es británico."
+      },
+      {
+        "id": "voc-phr-connectors-005",
+        "front": "despite / in spite of",
+        "back": "a pesar de — concesión; neutro",
+        "example": "Despite the rain, the event went ahead.",
+        "note": "+ sustantivo / -ing. Nunca \"despite of\"."
+      },
+      {
+        "id": "voc-phr-connectors-006",
+        "front": "although / even though",
+        "back": "aunque — concesión; neutro",
+        "example": "Even though he had an alibi, he remained a suspect.",
+        "note": "Even though es más enfático."
+      },
+      {
+        "id": "voc-phr-connectors-007",
+        "front": "on the other hand",
+        "back": "por otro lado — contraste de argumentos; neutro",
+        "example": "Wind is clean. On the other hand, it is intermittent.",
+        "note": "No usar \"on the contrary\" con este sentido."
+      },
+      {
+        "id": "voc-phr-connectors-008",
+        "front": "on the contrary",
+        "back": "al contrario — niega lo anterior; neutro",
+        "example": "The test was not a failure; on the contrary, it exceeded expectations.",
+        "note": "Corrige una idea, no contrasta."
+      },
+      {
+        "id": "voc-phr-connectors-009",
+        "front": "furthermore",
+        "back": "además — adición; formal",
+        "example": "The design is costly. Furthermore, it is hard to maintain.",
+        "note": "Escritura formal."
+      },
+      {
+        "id": "voc-phr-connectors-010",
+        "front": "moreover",
+        "back": "además, es más — adición; formal",
+        "example": "The project is behind schedule; moreover, it is over budget.",
+        "note": "Añade un argumento más fuerte."
+      },
+      {
+        "id": "voc-phr-connectors-011",
+        "front": "in addition (to)",
+        "back": "además (de) — adición; neutro/formal",
+        "example": "In addition to training, officers receive mentoring.",
+        "note": "In addition to + sustantivo / -ing."
+      },
+      {
+        "id": "voc-phr-connectors-012",
+        "front": "what is more",
+        "back": "lo que es más — adición enfática; neutro",
+        "example": "It's cheaper and, what is more, it's safer.",
+        "note": "Oral y escrito."
+      },
+      {
+        "id": "voc-phr-connectors-013",
+        "front": "therefore",
+        "back": "por lo tanto — consecuencia; formal",
+        "example": "The evidence was contaminated and therefore inadmissible.",
+        "note": "Puede ir en medio de la oración."
+      },
+      {
+        "id": "voc-phr-connectors-014",
+        "front": "consequently / as a consequence",
+        "back": "en consecuencia — consecuencia; formal",
+        "example": "Funding was cut; consequently, the unit was disbanded.",
+        "note": "Disband = disolver."
+      },
+      {
+        "id": "voc-phr-connectors-015",
+        "front": "thus",
+        "back": "así, de este modo — consecuencia; muy formal",
+        "example": "The valve failed, thus causing the leak.",
+        "note": "Thus + -ing para resultado."
+      },
+      {
+        "id": "voc-phr-connectors-016",
+        "front": "hence",
+        "back": "de ahí — consecuencia; muy formal",
+        "example": "The material is lightweight, hence its popularity.",
+        "note": "Puede ir seguido de sustantivo sin verbo."
+      },
+      {
+        "id": "voc-phr-connectors-017",
+        "front": "as a result",
+        "back": "como resultado — consecuencia; neutro",
+        "example": "As a result, the road was closed for hours.",
+        "note": "As a result of + sustantivo."
+      },
+      {
+        "id": "voc-phr-connectors-018",
+        "front": "owing to / due to",
+        "back": "debido a — causa; formal",
+        "example": "Owing to bad weather, the flight was cancelled.",
+        "note": "Due to tras \"be\": \"the delay was due to...\"."
+      },
+      {
+        "id": "voc-phr-connectors-019",
+        "front": "given that",
+        "back": "dado que — causa; neutro/formal",
+        "example": "Given that resources are limited, we must prioritise.",
+        "note": "+ oración. Given + sustantivo."
+      },
+      {
+        "id": "voc-phr-connectors-020",
+        "front": "in view of",
+        "back": "en vista de — causa; formal",
+        "example": "In view of the risks, the operation was postponed.",
+        "note": "+ sustantivo."
+      },
+      {
+        "id": "voc-phr-connectors-021",
+        "front": "provided that / providing",
+        "back": "siempre que, con tal de que — condición; neutro/formal",
+        "example": "You may enter provided that you wear PPE.",
+        "note": "Sinónimo: as long as (más informal)."
+      },
+      {
+        "id": "voc-phr-connectors-022",
+        "front": "unless",
+        "back": "a menos que — condición negativa; neutro",
+        "example": "Do not enter unless you are authorised.",
+        "note": "No usar con negativa doble."
+      },
+      {
+        "id": "voc-phr-connectors-023",
+        "front": "otherwise",
+        "back": "de lo contrario — condición; neutro",
+        "example": "Wear your harness; otherwise, you could fall.",
+        "note": "También \"de otro modo\"."
+      },
+      {
+        "id": "voc-phr-connectors-024",
+        "front": "in other words",
+        "back": "es decir, en otras palabras — reformulación; neutro",
+        "example": "Output fell by half; in other words, the plan failed.",
+        "note": "That is to say (más formal)."
+      },
+      {
+        "id": "voc-phr-connectors-025",
+        "front": "namely",
+        "back": "a saber, concretamente — especificación; formal",
+        "example": "Two factors were key, namely cost and safety.",
+        "note": "Introduce una lista concreta."
+      },
+      {
+        "id": "voc-phr-connectors-026",
+        "front": "for instance / for example",
+        "back": "por ejemplo — ejemplificación; neutro",
+        "example": "Some metals, for instance lithium, are in high demand.",
+        "note": "e.g. en notas escritas."
+      },
+      {
+        "id": "voc-phr-connectors-027",
+        "front": "such as",
+        "back": "como, tales como — ejemplificación; neutro",
+        "example": "Renewables such as wind and solar are expanding.",
+        "note": "No va seguido de coma."
+      },
+      {
+        "id": "voc-phr-connectors-028",
+        "front": "to begin with / firstly",
+        "back": "para empezar / en primer lugar — secuencia; neutro",
+        "example": "To begin with, let me outline the main risks.",
+        "note": "No usar \"at first\" para enumerar."
+      },
+      {
+        "id": "voc-phr-connectors-029",
+        "front": "subsequently",
+        "back": "posteriormente — secuencia temporal; formal",
+        "example": "He was arrested and subsequently charged.",
+        "note": "Formal frente a \"later\"."
+      },
+      {
+        "id": "voc-phr-connectors-030",
+        "front": "meanwhile / in the meantime",
+        "back": "mientras tanto — simultaneidad; neutro",
+        "example": "In the meantime, the area will remain closed.",
+        "note": "Meanwhile también contraste."
+      },
+      {
+        "id": "voc-phr-connectors-031",
+        "front": "in conclusion / to sum up",
+        "back": "en conclusión / en resumen — cierre; formal/neutro",
+        "example": "In conclusion, the benefits outweigh the costs.",
+        "note": "Para cerrar ensayos y presentaciones."
+      },
+      {
+        "id": "voc-phr-connectors-032",
+        "front": "all in all",
+        "back": "en definitiva, en general — balance final; neutro/informal",
+        "example": "All in all, it was a successful operation.",
+        "note": "Oral."
+      },
+      {
+        "id": "voc-phr-connectors-033",
+        "front": "as far as ... is concerned",
+        "back": "en lo que respecta a — tema; neutro",
+        "example": "As far as safety is concerned, there were no issues.",
+        "note": "Útil en speaking."
+      },
+      {
+        "id": "voc-phr-connectors-034",
+        "front": "with regard to / regarding",
+        "back": "en cuanto a, respecto a — tema; formal",
+        "example": "With regard to your request, we will reply shortly.",
+        "note": "No \"with regards to\" en escritura formal."
+      },
+      {
+        "id": "voc-phr-connectors-035",
+        "front": "admittedly",
+        "back": "hay que reconocer que — concesión; neutro/formal",
+        "example": "Admittedly, the system is expensive, but it saves lives.",
+        "note": "Introduce una concesión antes de contraargumentar."
+      },
+      {
+        "id": "voc-phr-connectors-036",
+        "front": "that said / having said that",
+        "back": "dicho esto — contraste tras concesión; neutro",
+        "example": "The results are good. That said, there is room for improvement.",
+        "note": "Muy natural en speaking."
+      },
+      {
+        "id": "voc-phr-connectors-037",
+        "front": "by contrast / in contrast",
+        "back": "en cambio, por el contrario — contraste; formal",
+        "example": "Urban crime rose; by contrast, rural crime fell.",
+        "note": "In contrast to + sustantivo."
+      },
+      {
+        "id": "voc-phr-connectors-038",
+        "front": "likewise / similarly",
+        "back": "del mismo modo — semejanza; formal",
+        "example": "Officers must report incidents; likewise, civilians are encouraged to do so.",
+        "note": "Comparación."
+      },
+      {
+        "id": "voc-phr-connectors-039",
+        "front": "notably",
+        "back": "en particular, especialmente — énfasis; formal",
+        "example": "Several countries, notably France and Italy, objected.",
+        "note": "In particular."
+      },
+      {
+        "id": "voc-phr-connectors-040",
+        "front": "all things considered",
+        "back": "teniéndolo todo en cuenta — balance; neutro",
+        "example": "All things considered, the project was a success.",
+        "note": "Conclusión ponderada."
+      }
+    ]
+  }
+]

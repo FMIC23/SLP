@@ -1,0 +1,594 @@
+[
+  {
+    "meta": {
+      "id": "voc-gen-academic",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "academic vocabulary",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "C1 academic & abstract vocabulary",
+    "category": "general",
+    "cards": [
+      {
+        "id": "voc-gen-academic-001",
+        "front": "albeit",
+        "back": "aunque, si bien (formal)",
+        "example": "The new procedure was adopted, albeit with considerable reluctance from senior staff.",
+        "note": "Va seguido de adjetivo, adverbio o sintagma, no de oración completa: \"albeit slowly\", no \"albeit it was slow\"."
+      },
+      {
+        "id": "voc-gen-academic-002",
+        "front": "notwithstanding",
+        "back": "a pesar de, no obstante (muy formal)",
+        "example": "Notwithstanding the budget cuts, the department met all of its targets.",
+        "note": "Puede ir antes o después del sustantivo: \"the cuts notwithstanding\". Típico de textos jurídicos."
+      },
+      {
+        "id": "voc-gen-academic-003",
+        "front": "to exacerbate",
+        "back": "agravar, empeorar (un problema ya existente)",
+        "example": "Poor communication between the two teams only exacerbated the delays.",
+        "note": "Colocaciones: exacerbate tensions / a problem / symptoms. Más formal que \"make worse\"."
+      },
+      {
+        "id": "voc-gen-academic-004",
+        "front": "to mitigate",
+        "back": "mitigar, atenuar, reducir (riesgo o impacto)",
+        "example": "Several measures were introduced to mitigate the impact of the floods on local businesses.",
+        "note": "No confundir con \"militate against\" (obrar en contra de). Sustantivo: mitigation."
+      },
+      {
+        "id": "voc-gen-academic-005",
+        "front": "unprecedented",
+        "back": "sin precedentes",
+        "example": "The region has experienced an unprecedented rise in demand for skilled workers.",
+        "note": "Colocaciones: unprecedented scale / levels / step."
+      },
+      {
+        "id": "voc-gen-academic-006",
+        "front": "inherent",
+        "back": "inherente, intrínseco",
+        "example": "There are risks inherent in any attempt to automate decision-making.",
+        "note": "Rige \"in\": inherent in something."
+      },
+      {
+        "id": "voc-gen-academic-007",
+        "front": "discrepancy",
+        "back": "discrepancia, disparidad (entre datos o versiones)",
+        "example": "Auditors noticed a discrepancy between the stock records and the physical count.",
+        "note": "Rige \"between\". Para opiniones se usa más \"disagreement\"."
+      },
+      {
+        "id": "voc-gen-academic-008",
+        "front": "scrutiny",
+        "back": "escrutinio, examen minucioso",
+        "example": "The minister's expenses came under intense public scrutiny.",
+        "note": "Colocaciones: come under / be subject to / withstand scrutiny."
+      },
+      {
+        "id": "voc-gen-academic-009",
+        "front": "to undermine",
+        "back": "socavar, minar, debilitar",
+        "example": "Constant last-minute changes undermine the team's confidence in the plan.",
+        "note": "Suele implicar un daño gradual o indirecto."
+      },
+      {
+        "id": "voc-gen-academic-010",
+        "front": "to underpin",
+        "back": "sustentar, servir de base a",
+        "example": "A set of shared values underpins the organisation's approach to recruitment.",
+        "note": "Sustantivo: underpinning. No confundir con undermine (lo contrario)."
+      },
+      {
+        "id": "voc-gen-academic-011",
+        "front": "to entail",
+        "back": "conllevar, implicar, suponer",
+        "example": "Moving the plant to a new site would entail significant retraining costs.",
+        "note": "Va seguido de sustantivo o -ing: \"it entails working nights\"."
+      },
+      {
+        "id": "voc-gen-academic-012",
+        "front": "to warrant",
+        "back": "justificar, merecer",
+        "example": "The minor drop in sales hardly warrants a complete overhaul of the strategy.",
+        "note": "Formal. \"Further investigation is warranted\" = está justificado investigar más."
+      },
+      {
+        "id": "voc-gen-academic-013",
+        "front": "to substantiate",
+        "back": "fundamentar, corroborar con pruebas",
+        "example": "The journalist was unable to substantiate her claims with documentary evidence.",
+        "note": "Lo contrario: unsubstantiated claims / allegations."
+      },
+      {
+        "id": "voc-gen-academic-014",
+        "front": "to curtail",
+        "back": "restringir, recortar, limitar",
+        "example": "The new rules curtail the ability of companies to export personal data.",
+        "note": "Colocaciones: curtail spending / powers / freedom."
+      },
+      {
+        "id": "voc-gen-academic-015",
+        "front": "to bolster",
+        "back": "reforzar, apuntalar",
+        "example": "The positive results bolstered support for the reform within the party.",
+        "note": "Colocaciones: bolster confidence / the economy / a claim."
+      },
+      {
+        "id": "voc-gen-academic-016",
+        "front": "to hamper",
+        "back": "obstaculizar, dificultar",
+        "example": "Rescue efforts were hampered by heavy snow and poor visibility.",
+        "note": "Muy frecuente en pasiva. Sinónimo: hinder, impede."
+      },
+      {
+        "id": "voc-gen-academic-017",
+        "front": "to alleviate",
+        "back": "aliviar, paliar",
+        "example": "Additional buses were laid on to alleviate congestion during the festival.",
+        "note": "Colocaciones: alleviate poverty / pain / pressure."
+      },
+      {
+        "id": "voc-gen-academic-018",
+        "front": "to foster",
+        "back": "fomentar, propiciar",
+        "example": "Mentoring schemes help foster a culture of continuous learning.",
+        "note": "También \"foster child\" (hijo de acogida)."
+      },
+      {
+        "id": "voc-gen-academic-019",
+        "front": "to hinge on",
+        "back": "depender de (algo decisivo)",
+        "example": "The success of the project hinges on securing the second round of funding.",
+        "note": "Implica que una sola condición es clave. También \"hinge upon\"."
+      },
+      {
+        "id": "voc-gen-academic-020",
+        "front": "to outweigh",
+        "back": "pesar más que, superar (ventajas/inconvenientes)",
+        "example": "In this case, the benefits of early intervention far outweigh the costs.",
+        "note": "Estructura: the advantages outweigh the drawbacks."
+      },
+      {
+        "id": "voc-gen-academic-021",
+        "front": "to render",
+        "back": "hacer, volver (algo + adjetivo); prestar (servicio)",
+        "example": "A single software error rendered the entire database unusable.",
+        "note": "\"Render something + adj.\" es formal; también \"render assistance\" (prestar ayuda)."
+      },
+      {
+        "id": "voc-gen-academic-022",
+        "front": "to encompass",
+        "back": "abarcar, englobar",
+        "example": "The study encompasses all aspects of rural development, from transport to housing.",
+        "note": "Más formal que \"include\" o \"cover\"."
+      },
+      {
+        "id": "voc-gen-academic-023",
+        "front": "to convey",
+        "back": "transmitir, comunicar",
+        "example": "The report fails to convey the urgency of the situation.",
+        "note": "Colocaciones: convey a message / an impression / meaning."
+      },
+      {
+        "id": "voc-gen-academic-024",
+        "front": "to discern",
+        "back": "discernir, distinguir, percibir",
+        "example": "It is difficult to discern any clear pattern in the figures.",
+        "note": "Adjetivo: discernible (perceptible). \"Discerning\" = exigente, con criterio."
+      },
+      {
+        "id": "voc-gen-academic-025",
+        "front": "to presuppose",
+        "back": "presuponer, dar por sentado",
+        "example": "The plan presupposes that interest rates will remain low.",
+        "note": "Sustantivo: presupposition."
+      },
+      {
+        "id": "voc-gen-academic-026",
+        "front": "to reconcile",
+        "back": "conciliar, compaginar; reconciliar",
+        "example": "It can be hard to reconcile economic growth with environmental protection.",
+        "note": "\"Reconcile X with Y\". También: cuadrar cuentas (reconcile accounts)."
+      },
+      {
+        "id": "voc-gen-academic-027",
+        "front": "to ascertain",
+        "back": "averiguar, determinar con certeza",
+        "example": "Investigators are trying to ascertain the cause of the outage.",
+        "note": "Muy formal; equivale a \"find out\"."
+      },
+      {
+        "id": "voc-gen-academic-028",
+        "front": "to allocate",
+        "back": "asignar, destinar (recursos)",
+        "example": "A larger share of the budget has been allocated to staff training.",
+        "note": "Sustantivo: allocation. Colocación: allocate resources / funds."
+      },
+      {
+        "id": "voc-gen-academic-029",
+        "front": "to compile",
+        "back": "recopilar, elaborar (lista, informe)",
+        "example": "The team compiled a list of all suppliers that had failed inspections.",
+        "note": "También compilar código en informática."
+      },
+      {
+        "id": "voc-gen-academic-030",
+        "front": "to deem",
+        "back": "considerar, estimar (formal)",
+        "example": "The building was deemed unsafe and evacuated immediately.",
+        "note": "Sin \"as\": \"deemed necessary\", no \"deemed as necessary\" (aunque se oye, se considera menos correcto)."
+      },
+      {
+        "id": "voc-gen-academic-031",
+        "front": "to refute",
+        "back": "refutar, rebatir (con argumentos o pruebas)",
+        "example": "The company issued a statement refuting the allegations of negligence.",
+        "note": "Estrictamente significa demostrar que algo es falso; \"deny\" solo es negarlo."
+      },
+      {
+        "id": "voc-gen-academic-032",
+        "front": "to prompt",
+        "back": "provocar, motivar, impulsar",
+        "example": "The accident prompted a review of safety procedures across the sector.",
+        "note": "Estructura: prompt somebody to do something."
+      },
+      {
+        "id": "voc-gen-academic-033",
+        "front": "to yield",
+        "back": "producir, arrojar (resultados); ceder",
+        "example": "The survey yielded some surprising results.",
+        "note": "Sustantivo: yield (rendimiento). \"Yield to\" = ceder el paso / ceder ante."
+      },
+      {
+        "id": "voc-gen-academic-034",
+        "front": "to supersede",
+        "back": "sustituir, reemplazar (algo obsoleto)",
+        "example": "The 2015 guidelines have now been superseded by a revised edition.",
+        "note": "Ortografía: con \"s\", no \"supercede\"."
+      },
+      {
+        "id": "voc-gen-academic-035",
+        "front": "to adhere to",
+        "back": "cumplir, ceñirse a, respetar (normas)",
+        "example": "All contractors must adhere to the site safety rules.",
+        "note": "Sustantivo: adherence. Formal frente a \"stick to\"."
+      },
+      {
+        "id": "voc-gen-academic-036",
+        "front": "to enhance",
+        "back": "mejorar, potenciar, realzar",
+        "example": "The new software enhances the accuracy of the forecasts.",
+        "note": "Se aplica a cualidades (calidad, reputación), no a personas."
+      },
+      {
+        "id": "voc-gen-academic-037",
+        "front": "viable",
+        "back": "viable, factible",
+        "example": "Without public subsidies, the scheme is not financially viable.",
+        "note": "Sustantivo: viability. Colocaciones: viable option / alternative."
+      },
+      {
+        "id": "voc-gen-academic-038",
+        "front": "tangible",
+        "back": "tangible, palpable, concreto",
+        "example": "Residents want to see tangible improvements, not just promises.",
+        "note": "Lo contrario: intangible (assets)."
+      },
+      {
+        "id": "voc-gen-academic-039",
+        "front": "comprehensive",
+        "back": "exhaustivo, completo, integral",
+        "example": "The inspector produced a comprehensive report on the state of the bridge.",
+        "note": "Falso amigo parcial: no significa \"comprensivo\" (= understanding)."
+      },
+      {
+        "id": "voc-gen-academic-040",
+        "front": "ambiguous",
+        "back": "ambiguo",
+        "example": "The wording of the contract is ambiguous and open to interpretation.",
+        "note": "Sustantivo: ambiguity. Diferente de \"ambivalent\" (con sentimientos encontrados)."
+      },
+      {
+        "id": "voc-gen-academic-041",
+        "front": "arbitrary",
+        "back": "arbitrario",
+        "example": "The cut-off date seemed entirely arbitrary to most applicants.",
+        "note": "Pronunciación: /ˈɑːbɪtrəri/."
+      },
+      {
+        "id": "voc-gen-academic-042",
+        "front": "coherent",
+        "back": "coherente, bien articulado",
+        "example": "The government has yet to present a coherent strategy on housing.",
+        "note": "\"Consistent\" se usa para comportamiento constante; \"coherent\" para lógica y claridad."
+      },
+      {
+        "id": "voc-gen-academic-043",
+        "front": "feasible",
+        "back": "factible, viable",
+        "example": "Engineers are assessing whether a tunnel is technically feasible.",
+        "note": "Colocación: feasibility study (estudio de viabilidad)."
+      },
+      {
+        "id": "voc-gen-academic-044",
+        "front": "pervasive",
+        "back": "generalizado, omnipresente",
+        "example": "There is a pervasive sense of distrust towards official statistics.",
+        "note": "Suele tener connotación negativa."
+      },
+      {
+        "id": "voc-gen-academic-045",
+        "front": "contentious",
+        "back": "polémico, controvertido",
+        "example": "The location of the new incinerator remains highly contentious.",
+        "note": "Sinónimo: controversial. Colocación: contentious issue."
+      },
+      {
+        "id": "voc-gen-academic-046",
+        "front": "detrimental",
+        "back": "perjudicial, nocivo",
+        "example": "Long working hours can be detrimental to both health and productivity.",
+        "note": "Rige \"to\": detrimental to something."
+      },
+      {
+        "id": "voc-gen-academic-047",
+        "front": "implicit",
+        "back": "implícito, tácito",
+        "example": "There was an implicit assumption that everyone would work overtime.",
+        "note": "Lo contrario: explicit. \"Implicit trust\" = confianza total."
+      },
+      {
+        "id": "voc-gen-academic-048",
+        "front": "prevalent",
+        "back": "predominante, extendido, frecuente",
+        "example": "This type of fraud is particularly prevalent among small online retailers.",
+        "note": "Sustantivo: prevalence (prevalencia)."
+      },
+      {
+        "id": "voc-gen-academic-049",
+        "front": "a trade-off",
+        "back": "compromiso, equilibrio entre ventajas e inconvenientes",
+        "example": "There is always a trade-off between speed and accuracy.",
+        "note": "Rige \"between\". Verbo: trade off X against Y."
+      },
+      {
+        "id": "voc-gen-academic-050",
+        "front": "a premise",
+        "back": "premisa",
+        "example": "The whole argument rests on the premise that demand will keep growing.",
+        "note": "Plural \"premises\" también significa \"local, instalaciones\": on the premises."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "voc-gen-trends",
+      "skill": "vocabulary",
+      "level": "C1/SLP3",
+      "topic": "trends and data",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Describing trends & data",
+    "category": "general",
+    "cards": [
+      {
+        "id": "voc-gen-trends-001",
+        "front": "to plummet",
+        "back": "desplomarse, caer en picado",
+        "example": "Share prices plummeted after the company issued a profit warning.",
+        "note": "Verbo intransitivo: no lleva objeto. Sinónimo: plunge."
+      },
+      {
+        "id": "voc-gen-trends-002",
+        "front": "to soar",
+        "back": "dispararse, subir vertiginosamente",
+        "example": "Energy prices soared during the winter months.",
+        "note": "Sinónimos: rocket, skyrocket (más informales)."
+      },
+      {
+        "id": "voc-gen-trends-003",
+        "front": "to level off",
+        "back": "estabilizarse (tras subir o bajar)",
+        "example": "After rising steadily for five years, enrolment levelled off in 2023.",
+        "note": "Ortografía británica: levelled, levelling. Sinónimo: level out, plateau."
+      },
+      {
+        "id": "voc-gen-trends-004",
+        "front": "a marginal increase",
+        "back": "un aumento mínimo / marginal",
+        "example": "The figures show only a marginal increase in productivity.",
+        "note": "Otros adjetivos: slight, negligible (insignificante), modest."
+      },
+      {
+        "id": "voc-gen-trends-005",
+        "front": "to plateau",
+        "back": "estancarse, alcanzar una meseta",
+        "example": "Sales plateaued in the third quarter despite heavy advertising.",
+        "note": "También sustantivo: reach a plateau."
+      },
+      {
+        "id": "voc-gen-trends-006",
+        "front": "to fluctuate",
+        "back": "fluctuar, oscilar",
+        "example": "Water consumption fluctuates considerably depending on the season.",
+        "note": "Sustantivo: fluctuation. \"Fluctuate between X and Y\"."
+      },
+      {
+        "id": "voc-gen-trends-007",
+        "front": "to peak (at)",
+        "back": "alcanzar el máximo (en)",
+        "example": "Unemployment peaked at 26% before starting to fall.",
+        "note": "\"Peak at\" + cifra. Sustantivo: reach a peak."
+      },
+      {
+        "id": "voc-gen-trends-008",
+        "front": "to bottom out",
+        "back": "tocar fondo",
+        "example": "Analysts believe the housing market has finally bottomed out.",
+        "note": "Implica que empezará a recuperarse."
+      },
+      {
+        "id": "voc-gen-trends-009",
+        "front": "to dip",
+        "back": "bajar ligeramente (de forma temporal)",
+        "example": "Visitor numbers dipped slightly in February before recovering in spring.",
+        "note": "Sustantivo: a dip in sales."
+      },
+      {
+        "id": "voc-gen-trends-010",
+        "front": "to surge",
+        "back": "aumentar bruscamente, dispararse",
+        "example": "Online orders surged during the lockdown.",
+        "note": "Sustantivo: a surge in demand. Matiz de rapidez repentina."
+      },
+      {
+        "id": "voc-gen-trends-011",
+        "front": "to dwindle",
+        "back": "menguar, ir disminuyendo",
+        "example": "The village's population has dwindled to fewer than two hundred.",
+        "note": "Disminución gradual hasta quedar poco."
+      },
+      {
+        "id": "voc-gen-trends-012",
+        "front": "to stagnate",
+        "back": "estancarse",
+        "example": "Wages have stagnated while living costs continue to rise.",
+        "note": "Connotación negativa. Sustantivo: stagnation."
+      },
+      {
+        "id": "voc-gen-trends-013",
+        "front": "to rebound",
+        "back": "repuntar, recuperarse",
+        "example": "Exports rebounded strongly in the second half of the year.",
+        "note": "También sustantivo: a rebound in tourism."
+      },
+      {
+        "id": "voc-gen-trends-014",
+        "front": "to outstrip",
+        "back": "superar, sobrepasar",
+        "example": "Demand for engineers is outstripping supply.",
+        "note": "Muy útil: \"demand outstrips supply\"."
+      },
+      {
+        "id": "voc-gen-trends-015",
+        "front": "to double / to treble",
+        "back": "duplicarse / triplicarse",
+        "example": "The number of applications has more than doubled since 2019.",
+        "note": "\"Treble\" es más británico; \"triple\" también es correcto."
+      },
+      {
+        "id": "voc-gen-trends-016",
+        "front": "a steady rise",
+        "back": "un aumento constante / sostenido",
+        "example": "There has been a steady rise in the number of electric vehicles on our roads.",
+        "note": "Otros: gradual, sustained, consistent rise."
+      },
+      {
+        "id": "voc-gen-trends-017",
+        "front": "a sharp drop",
+        "back": "una caída brusca / pronunciada",
+        "example": "The chart shows a sharp drop in output in April.",
+        "note": "Sinónimos: steep, dramatic, sudden."
+      },
+      {
+        "id": "voc-gen-trends-018",
+        "front": "a downward trend",
+        "back": "una tendencia a la baja",
+        "example": "Crime figures have followed a downward trend for over a decade.",
+        "note": "Lo contrario: an upward trend. \"Buck the trend\" = ir a contracorriente."
+      },
+      {
+        "id": "voc-gen-trends-019",
+        "front": "to account for",
+        "back": "representar (un porcentaje); explicar",
+        "example": "Wind power accounts for roughly a quarter of total generation.",
+        "note": "Útil en descripción de gráficos de sectores."
+      },
+      {
+        "id": "voc-gen-trends-020",
+        "front": "the vast majority",
+        "back": "la gran mayoría",
+        "example": "The vast majority of respondents supported the proposal.",
+        "note": "Concordancia: \"the majority of people are...\" (plural con sustantivo plural)."
+      },
+      {
+        "id": "voc-gen-trends-021",
+        "front": "a fraction of",
+        "back": "una fracción de, una mínima parte de",
+        "example": "Solar panels now cost a fraction of what they did twenty years ago.",
+        "note": "\"A small fraction\" enfatiza lo poco."
+      },
+      {
+        "id": "voc-gen-trends-022",
+        "front": "in excess of",
+        "back": "superior a, más de (formal)",
+        "example": "Losses in excess of two million euros were reported.",
+        "note": "Equivale a \"more than\" en registro formal."
+      },
+      {
+        "id": "voc-gen-trends-023",
+        "front": "roughly / approximately",
+        "back": "aproximadamente",
+        "example": "Roughly one in five households has no internet connection.",
+        "note": "\"Roughly\" es neutro; \"approximately\" más formal; \"in the region of\" también formal."
+      },
+      {
+        "id": "voc-gen-trends-024",
+        "front": "year on year",
+        "back": "interanual, respecto al año anterior",
+        "example": "Revenue grew by 8% year on year.",
+        "note": "También adjetivo: a year-on-year increase."
+      },
+      {
+        "id": "voc-gen-trends-025",
+        "front": "to stand at",
+        "back": "situarse en, ascender a (cifra)",
+        "example": "The inflation rate currently stands at 3.2%.",
+        "note": "Para el valor actual: \"stands at\"; para el pasado: \"stood at\"."
+      },
+      {
+        "id": "voc-gen-trends-026",
+        "front": "negligible",
+        "back": "insignificante, despreciable",
+        "example": "The difference between the two groups was negligible.",
+        "note": "No confundir con \"negligent\" (negligente)."
+      },
+      {
+        "id": "voc-gen-trends-027",
+        "front": "to hit a record high / low",
+        "back": "alcanzar un máximo / mínimo histórico",
+        "example": "Petrol prices hit a record high last summer.",
+        "note": "También \"an all-time high\"."
+      },
+      {
+        "id": "voc-gen-trends-028",
+        "front": "to taper off",
+        "back": "disminuir gradualmente, ir remitiendo",
+        "example": "Complaints tapered off once the new system was in place.",
+        "note": "Implica reducción progresiva hacia cero."
+      },
+      {
+        "id": "voc-gen-trends-029",
+        "front": "erratic",
+        "back": "irregular, errático",
+        "example": "Rainfall in the region has become increasingly erratic.",
+        "note": "Para datos sin patrón claro."
+      },
+      {
+        "id": "voc-gen-trends-030",
+        "front": "to be on the rise / on the decline",
+        "back": "ir en aumento / en declive",
+        "example": "Cybercrime is on the rise, while traditional burglary is on the decline.",
+        "note": "Expresiones útiles para variar frente a \"increase/decrease\"."
+      }
+    ]
+  }
+]

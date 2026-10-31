@@ -1,0 +1,1026 @@
+[
+  {
+    "meta": {
+      "id": "rd-c1-mc-01",
+      "skill": "reading",
+      "level": "C1",
+      "topic": "Psychology of habit and willpower",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The Myth of Willpower",
+    "format": "multiple-choice",
+    "instructions": "You are going to read an article. For questions 1–6, choose the answer which you think fits best according to the text.",
+    "timeMinutes": 15,
+    "text": "For decades, the dominant account of self-improvement rested on a single, flattering idea: that people who eat well, exercise regularly and finish what they start are simply endowed with more willpower than the rest of us. It is an appealing story, not least because it casts virtue as a personal possession, something earned and therefore deserved. Yet a growing body of research into habit formation suggests that this story has things almost exactly backwards. The people who appear most disciplined, it turns out, are often those who need discipline least.\n\nConsider a series of studies in which volunteers carried devices that prompted them, at random intervals, to report what they were doing and whether they were resisting any temptation. Researchers expected that participants who scored highly on questionnaires measuring self-control would report winning more of these daily battles. Instead, they reported fighting fewer of them. Their days were arranged in such a way that temptation rarely arose: the biscuits were not in the cupboard, the gym bag was already by the door, the phone was charging in another room. What looked from the outside like heroic restraint was, on closer inspection, a matter of careful logistics.\n\nThis finding chimes with what psychologists have long known about the architecture of habit. A habit, in the technical sense, is not simply a behaviour that is repeated often. It is a behaviour that has become yoked to a cue in the environment — a time of day, a location, a preceding action — so tightly that the cue triggers it with little or no conscious deliberation. Once that link is forged, the behaviour no longer draws on the limited reserves of attention that deliberate choice requires. Brushing one's teeth after breakfast is not an act of will; it is closer to a reflex that happens to have been learnt.\n\nThe implications for anyone hoping to change their behaviour are considerable, if somewhat deflating. Resolutions framed in terms of motivation — \"this year I will really try to run more\" — tend to founder because motivation is, by its nature, volatile. It surges after a health scare or a New Year's party and ebbs away within weeks. Far more durable, the research suggests, are interventions that tamper with the context in which behaviour occurs. One study found that people who had recently moved house were significantly more likely to succeed in adopting new commuting habits, precisely because the upheaval had dismantled the cues that sustained their old routines. A fresh environment is a rare window in which habits are briefly up for negotiation.\n\nNone of this means that intention is irrelevant. Deciding to change is a necessary first step, and some researchers caution against an overly mechanistic reading of the evidence. They point out that the most successful habit-builders tend to combine environmental engineering with what are known as implementation intentions: concrete plans that specify when, where and how a behaviour will take place. \"I will go for a run\" is a wish; \"I will run for twenty minutes as soon as I get home on Mondays and Thursdays\" is a plan that piggybacks on an existing cue. The difference sounds trivial, but across dozens of trials it has been shown to roughly double the likelihood that people follow through.\n\nThere is, however, a less comfortable side to the science. If good habits are largely the product of favourable circumstances, then so are bad ones — and circumstances are not distributed evenly. A person who works irregular shifts, lives in a neighbourhood where fresh food is scarce and cannot afford to keep the temptations of the modern world at arm's length faces a far steeper climb than someone whose life is orderly and well resourced. To attribute the gap between them to a deficit of character is not merely unkind; it is, on the evidence, inaccurate.\n\nThis is perhaps the most significant shift that habit research invites. It moves the conversation away from moral judgement and towards design. Rather than exhorting individuals to try harder, policymakers, employers and urban planners might ask how the environments they control could make the desirable choice the easy one. Placing stairs where people can see them, setting healthier options as the default in canteens, or designing streets that make walking feel natural rather than perilous are all, in effect, ways of distributing willpower more fairly.\n\nFor the individual reader, the lesson is both humbling and liberating. Humbling, because it suggests that our past failures owe less to weakness than to circumstance, and our successes less to strength. Liberating, because it implies that change need not depend on summoning reserves of determination we may not possess. The question to ask is not \"How can I resist?\" but \"How can I arrange things so that there is less to resist?\"",
+    "questions": [
+      {
+        "id": "rd-c1-mc-01-q1",
+        "kind": "choice",
+        "prompt": "What did the studies described in the second paragraph reveal about people with high self-control?",
+        "options": [
+          "They resisted temptation successfully on more occasions than other participants.",
+          "They found themselves in situations requiring resistance less often than others.",
+          "They tended to underestimate how often they were tempted during the day.",
+          "They depended on technology to warn them when temptation was likely."
+        ],
+        "answer": 1,
+        "explanation": "El texto dice «Instead, they reported fighting fewer of them»: no ganaban más batallas, sino que tenían menos. La opción A es lo que esperaban los investigadores («Researchers expected...»), y nada indica que subestimaran las tentaciones ni que dependieran de la tecnología (el móvil cargando en otra habitación es logística, no ayuda tecnológica).",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-c1-mc-01-q2",
+        "kind": "choice",
+        "prompt": "The phrase \"yoked to\" in the third paragraph is closest in meaning to",
+        "options": [
+          "gradually weakened by",
+          "deliberately concealed from",
+          "firmly linked to",
+          "occasionally prompted by"
+        ],
+        "answer": 2,
+        "explanation": "«Yoke» es el yugo que une a dos animales: el hábito queda unido a una señal «so tightly that the cue triggers it». «Occasionally» contradice la idea de automatismo y las otras opciones no tienen apoyo en el texto.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "rd-c1-mc-01-q3",
+        "kind": "choice",
+        "prompt": "Why does the writer mention people who had recently moved house?",
+        "options": [
+          "to show that major life changes tend to reduce people's motivation",
+          "to argue that commuting habits are harder to change than other habits",
+          "to recommend that people change their surroundings on a regular basis",
+          "to illustrate how disrupting familiar cues creates an opportunity for change"
+        ],
+        "answer": 3,
+        "explanation": "El ejemplo muestra que la mudanza «had dismantled the cues that sustained their old routines», abriendo «a rare window». No se recomienda mudarse a menudo («rare» lo contradice) ni se compara la dificultad de distintos hábitos.",
+        "tag": "purpose"
+      },
+      {
+        "id": "rd-c1-mc-01-q4",
+        "kind": "choice",
+        "prompt": "In the fifth paragraph, what is the writer's view of the researchers who \"caution against an overly mechanistic reading of the evidence\"?",
+        "options": [
+          "Their point is valid and is supported by findings about specific planning.",
+          "Their concerns are understandable but largely misplaced.",
+          "They overstate the importance of motivation in changing behaviour.",
+          "Their findings contradict the research discussed earlier in the article."
+        ],
+        "answer": 0,
+        "explanation": "El autor abre con «None of this means that intention is irrelevant» y apoya la idea con datos: los planes concretos «roughly double the likelihood». No habla de motivación sino de planes, y estos se combinan con el diseño del entorno, no lo contradicen.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-c1-mc-01-q5",
+        "kind": "choice",
+        "prompt": "What does \"them\" refer to in the phrase \"the gap between them\" in the sixth paragraph?",
+        "options": [
+          "good habits and bad habits",
+          "a person in difficult circumstances and a person whose life is well ordered",
+          "favourable circumstances and personal character",
+          "the temptations of modern life and the means to resist them"
+        ],
+        "answer": 1,
+        "explanation": "La frase anterior compara a «A person who works irregular shifts...» con «someone whose life is orderly and well resourced»; «them» remite a esas dos personas. Las demás opciones mencionan elementos del párrafo pero no son el antecedente.",
+        "tag": "reference",
+        "grammarRef": "reference-cohesion"
+      },
+      {
+        "id": "rd-c1-mc-01-q6",
+        "kind": "choice",
+        "prompt": "What does the writer suggest in the final two paragraphs?",
+        "options": [
+          "Individuals should not be held responsible for any of their habits.",
+          "Determination is an illusion that people would do better to abandon.",
+          "Those who shape public environments could help to reduce unfairness in behaviour.",
+          "Urban design is the single most important influence on people's health."
+        ],
+        "answer": 2,
+        "explanation": "El autor propone que «policymakers, employers and urban planners» diseñen entornos como forma de «distributing willpower more fairly». A es excesiva (dice «less to weakness», no «nada»), B también, y D exagera: el urbanismo es solo un ejemplo.",
+        "tag": "inference"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-mc-02",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Mine closure and rehabilitation",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "After the Last Shift",
+    "format": "multiple-choice",
+    "instructions": "You are going to read an article. For questions 1–6, choose the answer which you think fits best according to the text.",
+    "timeMinutes": 15,
+    "text": "When the final truck rolled out of the open pit at Valle Hondo last spring, the local newspaper ran a photograph of miners embracing at the gate under the headline \"The End of an Era\". It was an understandable choice, but it told only half the story. For the engineers who remained on site, the departure of the last load of ore did not mark an ending at all. It marked the beginning of a phase that would, in all likelihood, outlast most of their careers.\n\nMine closure was once treated as little more than an afterthought — a matter of removing the machinery, fencing off the worst hazards and walking away. The consequences of that approach are still visible across much of Europe in the form of unstable spoil heaps, flooded workings and streams stained orange by acid drainage. Modern regulation has changed the calculus. Operators are now required to submit a closure plan before extraction even begins, and to set aside financial guarantees large enough to fund rehabilitation should the company fail. In theory, at least, the bill for the aftermath is paid in advance.\n\nIn practice, as the site's closure manager readily concedes, a plan drafted thirty years ago is a blunt instrument. \"The people who wrote ours were working with the best information they had,\" she says, \"but they couldn't have predicted how the pit would evolve, or how much our understanding of groundwater chemistry would change.\" The original document envisaged allowing the pit to fill naturally with water and become a recreational lake. Subsequent modelling suggested that, left untreated, the water would become acidic enough to leach metals from the surrounding rock and carry them into the river downstream. The lake, in other words, would have been a liability masquerading as an amenity.\n\nThe revised scheme is considerably more ambitious, and considerably more expensive. Waste rock containing sulphide minerals — the principal source of acidity when exposed to air and water — is being relocated to the base of the pit, where it will eventually lie beneath a permanent water cover that starves it of oxygen. Above ground, the remaining dumps are being reshaped to gentler slopes and capped with layers of clay and topsoil designed to shed rainfall rather than absorb it. A passive treatment system of wetlands and limestone channels will deal with whatever seepage escapes. None of it is glamorous, and very little of it will be visible to future visitors, which is rather the point.\n\nWhat is striking, talking to the team, is how much of the work is social rather than technical. The town grew up around the mine, and its closure has removed several hundred direct jobs and many more in the supply chain. Residents' expectations about what the land should become vary enormously. Some want an industrial estate to replace the lost employment; others a nature reserve; still others would prefer that the site be left alone altogether, a monument to the community's history. The engineers have found themselves acting as mediators, explaining why certain options are geotechnically unworkable without appearing to dismiss local wishes out of hand.\n\nOne proposal has gained unexpected traction. The steep walls of the pit, which pose a stability risk if left exposed, could be partially flooded and used as the lower reservoir of a pumped-storage hydroelectric scheme, with an upper reservoir constructed on the adjacent plateau. Such schemes act as giant batteries, pumping water uphill when electricity is cheap and plentiful and releasing it through turbines when demand peaks. The idea appeals to those who would like the site to retain an industrial identity, though the closure manager is careful not to oversell it. \"It's an option worth studying,\" she says. \"It isn't a promise, and I'd rather people heard that from me now than discovered it later.\"\n\nHer caution is born of experience. Elsewhere in the region, a high-profile scheme to convert a former colliery into a technology park was announced with great fanfare and quietly abandoned when the anticipated investors failed to materialise. The resulting cynicism, she believes, made every subsequent project harder to deliver. Trust, once squandered, is slow to rebuild, and a closure programme spanning several decades cannot afford to lose it at the outset.\n\nMonitoring, meanwhile, will continue long after the bulldozers have departed. Boreholes around the site will be sampled for decades, and the financial guarantee includes provision for treatment to continue indefinitely if necessary. It is a sobering thought that the true cost of extracting a mineral may not be known until generations after the last tonne has been sold. Mining, the team likes to say, is a short chapter in a very long book. Their job is to make sure the rest of the book is worth reading.",
+    "questions": [
+      {
+        "id": "rd-c1-mc-02-q1",
+        "kind": "choice",
+        "prompt": "What does the writer suggest about the newspaper headline in the first paragraph?",
+        "options": [
+          "It misrepresented how the miners felt about the closure.",
+          "It exaggerated the economic consequences for the town.",
+          "It gave an incomplete picture of what the closure involved.",
+          "It was deliberately chosen to provoke the mining company."
+        ],
+        "answer": 2,
+        "explanation": "«It told only half the story»: para los ingenieros el cierre no es un final sino el inicio de una larga fase. El autor considera el titular comprensible, no provocador, y no cuestiona los sentimientos de los mineros ni habla aquí de economía.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-c1-mc-02-q2",
+        "kind": "choice",
+        "prompt": "According to the second paragraph, current regulation requires mining companies to",
+        "options": [
+          "rehabilitate the land progressively while extraction is under way.",
+          "secure the funding for closure before mining operations start.",
+          "remove all waste material from the site once operations end.",
+          "repair the damage caused by earlier generations of mines."
+        ],
+        "answer": 1,
+        "explanation": "Deben presentar un plan de cierre «before extraction even begins» y aportar «financial guarantees»: «the bill for the aftermath is paid in advance». Los daños históricos se citan como consecuencia del enfoque antiguo, no como obligación actual.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-c1-mc-02-q3",
+        "kind": "choice",
+        "prompt": "The phrase \"a liability masquerading as an amenity\" means that the lake would have",
+        "options": [
+          "cost more to maintain than it earned from visitors.",
+          "been popular with the public but environmentally neutral.",
+          "been unsafe for people swimming in it.",
+          "seemed to be an asset while actually being a source of harm."
+        ],
+        "answer": 3,
+        "explanation": "«Masquerade as» = hacerse pasar por. El lago parecería un atractivo («amenity») pero sería un problema («liability») porque el agua ácida arrastraría metales al río. No se habla de ingresos ni de bañistas.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "rd-c1-mc-02-q4",
+        "kind": "choice",
+        "prompt": "What is the main purpose of placing the sulphide-bearing waste rock at the bottom of the pit?",
+        "options": [
+          "to keep oxygen away from the material that generates acidity",
+          "to create space for reshaping the dumps above ground",
+          "to filter seepage before it reaches the river",
+          "to reinforce the unstable walls of the pit"
+        ],
+        "answer": 0,
+        "explanation": "Quedará bajo una lámina de agua permanente «that starves it of oxygen», y los sulfuros son «the principal source of acidity when exposed to air and water». El filtrado lo hacen los humedales y canales de caliza, y la estabilidad de los taludes se trata más adelante.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-c1-mc-02-q5",
+        "kind": "choice",
+        "prompt": "How does the closure manager feel about the pumped-storage proposal?",
+        "options": [
+          "enthusiastic, because it would preserve the site's industrial jobs",
+          "open to it, but anxious not to create unrealistic expectations",
+          "doubtful about whether it is technically feasible",
+          "resigned to it, since it is what most residents want"
+        ],
+        "answer": 1,
+        "explanation": "Dice «It's an option worth studying... It isn't a promise» y el autor señala que «is careful not to oversell it». No duda de su viabilidad técnica ni se dice que la mayoría de vecinos la prefiera.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-c1-mc-02-q6",
+        "kind": "choice",
+        "prompt": "Why does the writer mention the former colliery in the seventh paragraph?",
+        "options": [
+          "to give an example of a successful conversion of a mining site",
+          "to criticise the regional authorities for poor planning",
+          "to suggest that technology parks are unsuitable for former mines",
+          "to explain why the closure manager avoids promising what she cannot guarantee"
+        ],
+        "answer": 3,
+        "explanation": "«Her caution is born of experience»: el proyecto anunciado «with great fanfare» y abandonado generó desconfianza. Fue un fracaso, no un éxito, y no se critica a las autoridades ni se generaliza sobre parques tecnológicos.",
+        "tag": "purpose"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-mc-03",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Predictive policing and algorithmic bias",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Forecasting Crime: Promise and Peril",
+    "format": "multiple-choice",
+    "instructions": "You are going to read an article. For questions 1–6, choose the answer which you think fits best according to the text.",
+    "timeMinutes": 15,
+    "text": "The pitch is seductive in its simplicity. Feed a computer several years of crime records, let it identify the patterns that elude human analysts, and it will tell you where the next burglary or street robbery is most likely to occur. Officers can then be deployed to those places in advance, deterring offenders before they strike. For police forces facing shrinking budgets and rising demand, the promise of doing more with less has proved difficult to resist.\n\nEarly results appeared to vindicate the enthusiasm. Several forces reported falls in burglary within the zones flagged by their software, and vendors were quick to cite these figures in their marketing. Yet criminologists who examined the data more closely urged caution. Crime rates fluctuate for all sorts of reasons, and a drop in one neighbourhood may simply reflect offending displaced to another. Few of the early evaluations had been designed to rule out such explanations, and some had been conducted by the very companies whose products were under scrutiny.\n\nThe more fundamental objection, however, concerns the data themselves. Crime records are not a neutral census of wrongdoing; they are a record of what the police have detected and chosen to log. Offences that occur in public, in areas already subject to heavy patrolling, are far more likely to appear in the statistics than those committed behind closed doors in affluent suburbs. An algorithm trained on such records does not learn where crime happens. It learns where policing has happened — and then recommends more of it.\n\nCritics describe the result as a feedback loop. Officers sent to a flagged area will inevitably observe and record more incidents there, which the system then treats as confirmation that its forecast was accurate. Over time, the predictions become self-fulfilling, and neighbourhoods that were over-policed to begin with find themselves under ever more intensive scrutiny. Because the reasoning is embedded in software, it acquires a veneer of objectivity that a sergeant's hunch would never enjoy. Nobody, after all, accuses a spreadsheet of prejudice.\n\nDefenders of the technology respond that this critique, while valid in principle, applies equally to traditional policing. Commanders have always allocated patrols on the basis of historical crime data; the software merely does so more systematically. They argue, moreover, that algorithms can be audited in ways that human judgement cannot. If a model is found to be skewed, its inputs can be adjusted and its outputs tested, whereas the biases of an experienced officer are largely invisible, even to the officer concerned.\n\nThere is some force in this argument, but it rests on an assumption that is frequently unmet: that the algorithms are in fact open to inspection. Many are proprietary products whose inner workings are protected as commercial secrets. Police forces that purchase them may have no clearer idea than the public of why a particular street has been singled out. In such circumstances, accountability becomes almost impossible. A citizen who wishes to challenge the intensity of policing in her neighbourhood cannot cross-examine a black box.\n\nSome jurisdictions have responded by restricting or abandoning the tools altogether. Others have chosen a middle path, insisting that any predictive system used by the police must be independently evaluated, that its methodology be published, and that its forecasts serve only as one input among many rather than as instructions. A distinction is also increasingly drawn between place-based systems, which predict locations, and person-based systems, which assign risk scores to individuals. The latter raise particularly acute concerns, since they may affect someone's treatment by the authorities on the basis of who they know or where they live rather than anything they have done.\n\nWhat emerges from the debate is less a verdict on the technology than a reminder of an old principle. Policing by consent depends on the public's confidence that decisions are fair, explicable and open to challenge. A tool that improves efficiency at the expense of those qualities may prove a false economy. The question for police leaders is not whether an algorithm can predict crime, but whether they can explain, and defend, the decisions it informs.",
+    "questions": [
+      {
+        "id": "rd-c1-mc-03-q1",
+        "kind": "choice",
+        "prompt": "What point does the writer make about the early evaluations in the second paragraph?",
+        "options": [
+          "They proved that the software had reduced crime overall.",
+          "They showed that offending had moved to other neighbourhoods.",
+          "Their design and independence were open to question.",
+          "They had been deliberately falsified by the vendors."
+        ],
+        "answer": 2,
+        "explanation": "Pocas evaluaciones estaban diseñadas «to rule out such explanations» y algunas las hicieron las propias empresas. El desplazamiento del delito es solo una posibilidad («may simply reflect»), no algo demostrado, y no se habla de falsificación.",
+        "tag": "inference"
+      },
+      {
+        "id": "rd-c1-mc-03-q2",
+        "kind": "choice",
+        "prompt": "According to the third paragraph, the main problem with crime records is that they",
+        "options": [
+          "are too incomplete to be used for training an algorithm.",
+          "reflect where police have been active as much as where offences occur.",
+          "under-represent offences committed in public places.",
+          "are not updated often enough to be useful."
+        ],
+        "answer": 1,
+        "explanation": "«It learns where policing has happened»: los registros recogen lo que la policía detecta y anota. C dice lo contrario (los delitos en la calle están sobrerrepresentados) y no se mencionan la actualización ni la falta de datos.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-c1-mc-03-q3",
+        "kind": "choice",
+        "prompt": "The phrase \"a veneer of objectivity\" suggests that the software's reasoning",
+        "options": [
+          "is genuinely more impartial than human judgement.",
+          "is too complex for officers to understand.",
+          "is gradually becoming more objective as it learns.",
+          "appears neutral on the surface without necessarily being so."
+        ],
+        "answer": 3,
+        "explanation": "Un «veneer» es una chapa o capa superficial: aparenta objetividad. La frase irónica «Nobody... accuses a spreadsheet of prejudice» lo confirma. Las demás opciones no se apoyan en el texto.",
+        "tag": "vocabulary"
+      },
+      {
+        "id": "rd-c1-mc-03-q4",
+        "kind": "choice",
+        "prompt": "What do defenders of the technology argue in the fifth paragraph?",
+        "options": [
+          "Algorithms are free from the influence of historical data.",
+          "Unlike human judgement, the software can be examined and corrected.",
+          "Experienced officers are more biased than less experienced ones.",
+          "Traditional methods of allocating patrols should be abandoned."
+        ],
+        "answer": 1,
+        "explanation": "Sostienen que «algorithms can be audited in ways that human judgement cannot» y pueden ajustarse. Admiten que usan datos históricos como siempre, y no comparan agentes veteranos con novatos.",
+        "tag": "detail"
+      },
+      {
+        "id": "rd-c1-mc-03-q5",
+        "kind": "choice",
+        "prompt": "What is the writer's view of the defenders' argument?",
+        "options": [
+          "It is entirely without merit.",
+          "It is more persuasive than the critics' case.",
+          "It is convincing only if the systems can actually be inspected.",
+          "It is irrelevant now that most forces have abandoned the tools."
+        ],
+        "answer": 2,
+        "explanation": "«There is some force in this argument, but it rests on an assumption that is frequently unmet: that the algorithms are in fact open to inspection». Le concede algo de razón (no A) y solo «some» jurisdicciones han abandonado las herramientas.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-c1-mc-03-q6",
+        "kind": "choice",
+        "prompt": "What does \"The latter\" refer to in the seventh paragraph?",
+        "options": [
+          "jurisdictions that have abandoned predictive tools",
+          "place-based systems",
+          "independent evaluations of predictive systems",
+          "person-based systems"
+        ],
+        "answer": 3,
+        "explanation": "«The latter» remite al último de los dos elementos mencionados: «person-based systems, which assign risk scores to individuals», lo que encaja con «affect someone's treatment».",
+        "tag": "reference",
+        "grammarRef": "reference-cohesion"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-gt-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Predictive maintenance in a paper mill",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Listening to the Machines",
+    "format": "gapped-text",
+    "instructions": "You are going to read an article from which six paragraphs have been removed. Choose from the paragraphs the one which fits each gap (1–6). There is one extra paragraph which you do not need to use.",
+    "timeMinutes": 15,
+    "text": "When Marta Ibáñez took over as maintenance manager at a paper mill in northern Spain, the plant's philosophy could be summed up in four words: fix it when it breaks. Her predecessor had kept a vast stock of spare parts and a team of fitters on permanent standby, and on the whole the system worked — until, in her second month, a bearing on the main drying cylinder seized without warning.\n\n[[1]]\n\nPersuading the board was another matter. Predictive maintenance, as the approach is known, relies on installing sensors that continuously track the condition of critical equipment — vibration, temperature, oil quality, power consumption — and on software that flags deviations from normal behaviour long before they become failures. The hardware is not cheap, and the benefits, by definition, consist of disasters that never happen.\n\n[[2]]\n\nThe pilot began on a single production line. Within weeks, the team had more data than it knew what to do with. Every motor and pump generated thousands of readings a day, and the early version of the software raised alerts so frequently that operators started ignoring them altogether.\n\n[[3]]\n\nTuning the system took the best part of a year. Ibáñez's team worked alongside the software supplier's data scientists to teach the algorithms what \"normal\" looked like for each machine, accounting for the fact that a pump running at full load in August behaves very differently from the same pump idling in January.\n\n[[4]]\n\nThat moment came on a Sunday night in the pilot's eleventh month. The vibration signature of a gearbox on the winding section began to change in a pattern the software had learnt to associate with tooth damage. The duty engineer, who admits he was tempted to dismiss the alert, decided instead to call Ibáñez.\n\n[[5]]\n\nThe episode transformed attitudes on the shop floor. Fitters who had regarded the sensors as a management gimmick began to request them for equipment they knew to be temperamental. Ibáñez, however, is quick to point out that the technology has not replaced their expertise.\n\n[[6]]\n\nThree years on, the system covers almost every critical asset in the plant, and unplanned downtime has fallen by more than a third. The spare-parts store, once the size of a small warehouse, has shrunk considerably. Ibáñez, though, remains wary of the word \"solved\". \"Machines change, processes change, people move on,\" she says. \"The day we stop questioning the data is the day it starts to mislead us.\"",
+    "questions": [
+      {
+        "id": "rd-c1-gt-01-q1",
+        "kind": "choice",
+        "prompt": "Gap 1",
+        "options": [
+          "Gradually, the number of false alarms fell from dozens a day to two or three a week, and operators started to take notice when the system spoke. Yet Ibáñez knew that confidence built merely on the absence of errors was fragile. What the project still lacked was a single, unambiguous success that everybody on site, from the board to the newest apprentice, could point to.",
+          "The breakdown halted production for four days. Replacement parts had to be flown in from Germany, overtime bills mounted, and customers were left waiting for orders that had been promised for the same week. When the final cost was calculated, it exceeded the plant's entire maintenance budget for the previous year. Ibáñez resolved that it would not happen again on her watch, and began drafting a proposal for a very different way of working.",
+          "The decision to replace the drying cylinder entirely, rather than repair it, proved controversial. Some board members felt that the plant was being asked to pay twice for the same mistake, and it took several meetings before the purchase was approved. By the time it was, a new cylinder had already been ordered from the manufacturer in Germany.",
+          "\"The software tells us that something is changing,\" she explains. \"It doesn't tell us why, and it certainly doesn't fix it. That still takes a fitter who has spent twenty years listening to these machines and knows what a healthy one sounds like.\" In her view, the real gain has been to direct that experience to where it is most needed.",
+          "This phenomenon, which engineers call alarm fatigue, is one of the commonest reasons such projects fail. If every minor fluctuation triggers a warning, the genuinely significant ones are lost in the noise. Worse, staff who have been misled a dozen times quickly lose faith in the system altogether, and that kind of scepticism, once established on a shop floor, is far harder to reverse than any technical fault.",
+          "She authorised an inspection at the next scheduled pause, six hours later. When the casing was opened, the fitters found two cracked teeth and metal fragments circulating in the oil. Left to run, the gearbox would almost certainly have disintegrated within days, taking the winder with it. Instead, the repair took a single shift and cost a fraction of what a failure would have done.",
+          "To make her case, Ibáñez avoided abstract promises and instead put a figure on that invisible benefit. Using the plant's own records, she calculated how much each hour of unplanned stoppage had cost over the previous five years and set it against the price of equipping a single line. Even on cautious assumptions, the sums suggested the investment would pay for itself within three years. The board agreed to a limited trial."
+        ],
+        "answer": 1,
+        "explanation": "«The breakdown» retoma el rodamiento que se agarrotó («seized without warning») y «a proposal for a very different way of working» prepara «Persuading the board was another matter». El distractor sobre sustituir el cilindro habla de una decisión que el texto nunca menciona.",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-01-q2",
+        "kind": "choice",
+        "prompt": "Gap 2",
+        "options": [
+          "Gradually, the number of false alarms fell from dozens a day to two or three a week, and operators started to take notice when the system spoke. Yet Ibáñez knew that confidence built merely on the absence of errors was fragile. What the project still lacked was a single, unambiguous success that everybody on site, from the board to the newest apprentice, could point to.",
+          "The breakdown halted production for four days. Replacement parts had to be flown in from Germany, overtime bills mounted, and customers were left waiting for orders that had been promised for the same week. When the final cost was calculated, it exceeded the plant's entire maintenance budget for the previous year. Ibáñez resolved that it would not happen again on her watch, and began drafting a proposal for a very different way of working.",
+          "The decision to replace the drying cylinder entirely, rather than repair it, proved controversial. Some board members felt that the plant was being asked to pay twice for the same mistake, and it took several meetings before the purchase was approved. By the time it was, a new cylinder had already been ordered from the manufacturer in Germany.",
+          "\"The software tells us that something is changing,\" she explains. \"It doesn't tell us why, and it certainly doesn't fix it. That still takes a fitter who has spent twenty years listening to these machines and knows what a healthy one sounds like.\" In her view, the real gain has been to direct that experience to where it is most needed.",
+          "This phenomenon, which engineers call alarm fatigue, is one of the commonest reasons such projects fail. If every minor fluctuation triggers a warning, the genuinely significant ones are lost in the noise. Worse, staff who have been misled a dozen times quickly lose faith in the system altogether, and that kind of scepticism, once established on a shop floor, is far harder to reverse than any technical fault.",
+          "She authorised an inspection at the next scheduled pause, six hours later. When the casing was opened, the fitters found two cracked teeth and metal fragments circulating in the oil. Left to run, the gearbox would almost certainly have disintegrated within days, taking the winder with it. Instead, the repair took a single shift and cost a fraction of what a failure would have done.",
+          "To make her case, Ibáñez avoided abstract promises and instead put a figure on that invisible benefit. Using the plant's own records, she calculated how much each hour of unplanned stoppage had cost over the previous five years and set it against the price of equipping a single line. Even on cautious assumptions, the sums suggested the investment would pay for itself within three years. The board agreed to a limited trial."
+        ],
+        "answer": 6,
+        "explanation": "«That invisible benefit» remite a «benefits... consist of disasters that never happen», y «The board agreed to a limited trial» enlaza con «The pilot began on a single production line». El distractor también menciona al consejo, pero no responde a la dificultad de cuantificar beneficios.",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-01-q3",
+        "kind": "choice",
+        "prompt": "Gap 3",
+        "options": [
+          "Gradually, the number of false alarms fell from dozens a day to two or three a week, and operators started to take notice when the system spoke. Yet Ibáñez knew that confidence built merely on the absence of errors was fragile. What the project still lacked was a single, unambiguous success that everybody on site, from the board to the newest apprentice, could point to.",
+          "The breakdown halted production for four days. Replacement parts had to be flown in from Germany, overtime bills mounted, and customers were left waiting for orders that had been promised for the same week. When the final cost was calculated, it exceeded the plant's entire maintenance budget for the previous year. Ibáñez resolved that it would not happen again on her watch, and began drafting a proposal for a very different way of working.",
+          "The decision to replace the drying cylinder entirely, rather than repair it, proved controversial. Some board members felt that the plant was being asked to pay twice for the same mistake, and it took several meetings before the purchase was approved. By the time it was, a new cylinder had already been ordered from the manufacturer in Germany.",
+          "\"The software tells us that something is changing,\" she explains. \"It doesn't tell us why, and it certainly doesn't fix it. That still takes a fitter who has spent twenty years listening to these machines and knows what a healthy one sounds like.\" In her view, the real gain has been to direct that experience to where it is most needed.",
+          "This phenomenon, which engineers call alarm fatigue, is one of the commonest reasons such projects fail. If every minor fluctuation triggers a warning, the genuinely significant ones are lost in the noise. Worse, staff who have been misled a dozen times quickly lose faith in the system altogether, and that kind of scepticism, once established on a shop floor, is far harder to reverse than any technical fault.",
+          "She authorised an inspection at the next scheduled pause, six hours later. When the casing was opened, the fitters found two cracked teeth and metal fragments circulating in the oil. Left to run, the gearbox would almost certainly have disintegrated within days, taking the winder with it. Instead, the repair took a single shift and cost a fraction of what a failure would have done.",
+          "To make her case, Ibáñez avoided abstract promises and instead put a figure on that invisible benefit. Using the plant's own records, she calculated how much each hour of unplanned stoppage had cost over the previous five years and set it against the price of equipping a single line. Even on cautious assumptions, the sums suggested the investment would pay for itself within three years. The board agreed to a limited trial."
+        ],
+        "answer": 4,
+        "explanation": "«This phenomenon, which engineers call alarm fatigue» nombra lo descrito justo antes: los operarios ignoraban las alertas. El párrafo siguiente («Tuning the system took...») presenta la solución.",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-01-q4",
+        "kind": "choice",
+        "prompt": "Gap 4",
+        "options": [
+          "Gradually, the number of false alarms fell from dozens a day to two or three a week, and operators started to take notice when the system spoke. Yet Ibáñez knew that confidence built merely on the absence of errors was fragile. What the project still lacked was a single, unambiguous success that everybody on site, from the board to the newest apprentice, could point to.",
+          "The breakdown halted production for four days. Replacement parts had to be flown in from Germany, overtime bills mounted, and customers were left waiting for orders that had been promised for the same week. When the final cost was calculated, it exceeded the plant's entire maintenance budget for the previous year. Ibáñez resolved that it would not happen again on her watch, and began drafting a proposal for a very different way of working.",
+          "The decision to replace the drying cylinder entirely, rather than repair it, proved controversial. Some board members felt that the plant was being asked to pay twice for the same mistake, and it took several meetings before the purchase was approved. By the time it was, a new cylinder had already been ordered from the manufacturer in Germany.",
+          "\"The software tells us that something is changing,\" she explains. \"It doesn't tell us why, and it certainly doesn't fix it. That still takes a fitter who has spent twenty years listening to these machines and knows what a healthy one sounds like.\" In her view, the real gain has been to direct that experience to where it is most needed.",
+          "This phenomenon, which engineers call alarm fatigue, is one of the commonest reasons such projects fail. If every minor fluctuation triggers a warning, the genuinely significant ones are lost in the noise. Worse, staff who have been misled a dozen times quickly lose faith in the system altogether, and that kind of scepticism, once established on a shop floor, is far harder to reverse than any technical fault.",
+          "She authorised an inspection at the next scheduled pause, six hours later. When the casing was opened, the fitters found two cracked teeth and metal fragments circulating in the oil. Left to run, the gearbox would almost certainly have disintegrated within days, taking the winder with it. Instead, the repair took a single shift and cost a fraction of what a failure would have done.",
+          "To make her case, Ibáñez avoided abstract promises and instead put a figure on that invisible benefit. Using the plant's own records, she calculated how much each hour of unplanned stoppage had cost over the previous five years and set it against the price of equipping a single line. Even on cautious assumptions, the sums suggested the investment would pay for itself within three years. The board agreed to a limited trial."
+        ],
+        "answer": 0,
+        "explanation": "«Gradually, the number of false alarms fell» es el resultado del ajuste descrito antes, y «a single, unambiguous success» anticipa «That moment came on a Sunday night».",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-01-q5",
+        "kind": "choice",
+        "prompt": "Gap 5",
+        "options": [
+          "Gradually, the number of false alarms fell from dozens a day to two or three a week, and operators started to take notice when the system spoke. Yet Ibáñez knew that confidence built merely on the absence of errors was fragile. What the project still lacked was a single, unambiguous success that everybody on site, from the board to the newest apprentice, could point to.",
+          "The breakdown halted production for four days. Replacement parts had to be flown in from Germany, overtime bills mounted, and customers were left waiting for orders that had been promised for the same week. When the final cost was calculated, it exceeded the plant's entire maintenance budget for the previous year. Ibáñez resolved that it would not happen again on her watch, and began drafting a proposal for a very different way of working.",
+          "The decision to replace the drying cylinder entirely, rather than repair it, proved controversial. Some board members felt that the plant was being asked to pay twice for the same mistake, and it took several meetings before the purchase was approved. By the time it was, a new cylinder had already been ordered from the manufacturer in Germany.",
+          "\"The software tells us that something is changing,\" she explains. \"It doesn't tell us why, and it certainly doesn't fix it. That still takes a fitter who has spent twenty years listening to these machines and knows what a healthy one sounds like.\" In her view, the real gain has been to direct that experience to where it is most needed.",
+          "This phenomenon, which engineers call alarm fatigue, is one of the commonest reasons such projects fail. If every minor fluctuation triggers a warning, the genuinely significant ones are lost in the noise. Worse, staff who have been misled a dozen times quickly lose faith in the system altogether, and that kind of scepticism, once established on a shop floor, is far harder to reverse than any technical fault.",
+          "She authorised an inspection at the next scheduled pause, six hours later. When the casing was opened, the fitters found two cracked teeth and metal fragments circulating in the oil. Left to run, the gearbox would almost certainly have disintegrated within days, taking the winder with it. Instead, the repair took a single shift and cost a fraction of what a failure would have done.",
+          "To make her case, Ibáñez avoided abstract promises and instead put a figure on that invisible benefit. Using the plant's own records, she calculated how much each hour of unplanned stoppage had cost over the previous five years and set it against the price of equipping a single line. Even on cautious assumptions, the sums suggested the investment would pay for itself within three years. The board agreed to a limited trial."
+        ],
+        "answer": 5,
+        "explanation": "«She authorised an inspection» responde a la llamada a Ibáñez del ingeniero de guardia, y la reparación barata explica que después «The episode transformed attitudes».",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-01-q6",
+        "kind": "choice",
+        "prompt": "Gap 6",
+        "options": [
+          "Gradually, the number of false alarms fell from dozens a day to two or three a week, and operators started to take notice when the system spoke. Yet Ibáñez knew that confidence built merely on the absence of errors was fragile. What the project still lacked was a single, unambiguous success that everybody on site, from the board to the newest apprentice, could point to.",
+          "The breakdown halted production for four days. Replacement parts had to be flown in from Germany, overtime bills mounted, and customers were left waiting for orders that had been promised for the same week. When the final cost was calculated, it exceeded the plant's entire maintenance budget for the previous year. Ibáñez resolved that it would not happen again on her watch, and began drafting a proposal for a very different way of working.",
+          "The decision to replace the drying cylinder entirely, rather than repair it, proved controversial. Some board members felt that the plant was being asked to pay twice for the same mistake, and it took several meetings before the purchase was approved. By the time it was, a new cylinder had already been ordered from the manufacturer in Germany.",
+          "\"The software tells us that something is changing,\" she explains. \"It doesn't tell us why, and it certainly doesn't fix it. That still takes a fitter who has spent twenty years listening to these machines and knows what a healthy one sounds like.\" In her view, the real gain has been to direct that experience to where it is most needed.",
+          "This phenomenon, which engineers call alarm fatigue, is one of the commonest reasons such projects fail. If every minor fluctuation triggers a warning, the genuinely significant ones are lost in the noise. Worse, staff who have been misled a dozen times quickly lose faith in the system altogether, and that kind of scepticism, once established on a shop floor, is far harder to reverse than any technical fault.",
+          "She authorised an inspection at the next scheduled pause, six hours later. When the casing was opened, the fitters found two cracked teeth and metal fragments circulating in the oil. Left to run, the gearbox would almost certainly have disintegrated within days, taking the winder with it. Instead, the repair took a single shift and cost a fraction of what a failure would have done.",
+          "To make her case, Ibáñez avoided abstract promises and instead put a figure on that invisible benefit. Using the plant's own records, she calculated how much each hour of unplanned stoppage had cost over the previous five years and set it against the price of equipping a single line. Even on cautious assumptions, the sums suggested the investment would pay for itself within three years. The board agreed to a limited trial."
+        ],
+        "answer": 3,
+        "explanation": "Tras «the technology has not replaced their expertise», la cita («she explains») desarrolla esa idea: el software detecta cambios, pero hace falta un mecánico experto. «That experience» retoma «twenty years listening to these machines».",
+        "tag": "cohesion"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-gt-02",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Business email compromise investigation",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Following the Money",
+    "format": "gapped-text",
+    "instructions": "You are going to read an article from which six paragraphs have been removed. Choose from the paragraphs the one which fits each gap (1–6). There is one extra paragraph which you do not need to use.",
+    "timeMinutes": 15,
+    "text": "The first sign that something was wrong came from a small logistics firm in Valencia. On a Monday morning in March, its accountant discovered that a payment of nearly €200,000, intended for a long-standing supplier, had been sent to an account in Lithuania. The email instructing her to update the supplier's bank details had looked entirely genuine. It had, in fact, been sent from a cloned domain that differed from the real one by a single letter.\n\n[[1]]\n\nThe case was assigned to a sergeant in a regional cybercrime unit, who recognised the hallmarks immediately. Business email compromise, as this type of fraud is known, had become one of the most lucrative forms of online crime, precisely because it requires no sophisticated hacking. It exploits trust, not technology.\n\n[[2]]\n\nThe Lithuanian account, it emerged, had been opened weeks earlier using a forged passport, and the money had been moved on within hours of arriving. It passed through accounts in three further countries before most of it was converted into cryptocurrency.\n\n[[3]]\n\nThis proved crucial. Contrary to popular belief, cryptocurrency is far from anonymous. Every transaction is permanently recorded on a public ledger, and specialist analysts can often trace funds from wallet to wallet, even when criminals try to muddy the trail by splitting them into hundreds of smaller sums.\n\n[[4]]\n\nThe breakthrough, however, came from an unexpected direction. While reviewing the cloned domain's registration details, an analyst noticed that the same anonymous email address had been used to register more than forty other lookalike domains, each imitating a different European company.\n\n[[5]]\n\nThe coordinated operation that followed took nine months to prepare. Investigators from four countries, supported by Europol, agreed on a single day for simultaneous searches so that no member of the network could warn the others.\n\n[[6]]\n\nOnly a fraction of the stolen money has been recovered, and the logistics firm in Valencia is still negotiating with its insurer. The sergeant is philosophical about it. \"Every arrest disrupts a network for a while,\" she says. \"But the best protection is still an accountant who picks up the phone and calls the supplier to check.\"",
+    "questions": [
+      {
+        "id": "rd-c1-gt-02-q1",
+        "kind": "choice",
+        "prompt": "Gap 1",
+        "options": [
+          "For many investigators, that conversion would once have marked the end of the trail. Unlike banks, which can be compelled by court order to disclose the identity of account holders, cryptocurrency exchanges operating outside Europe were often slow or unwilling to cooperate. The sergeant's team, however, had recently completed specialist training in blockchain analysis, and she was determined to put it to the test on a real case.",
+          "The sergeant decided against contacting the Lithuanian authorities at that stage. A formal request for assistance could take months to process, and she feared that any approach might alert the account holder. Instead, she asked the firm to keep corresponding with the fraudsters from the compromised account, in the hope that they would grow overconfident and attempt a second theft.",
+          "Each of those domains, it turned out, had been used in attacks similar to the one in Valencia. Once investigators began contacting the companies concerned, a picture emerged of a network that had stolen an estimated €11 million over two years. The Valencia fraud, far from being an isolated incident, was a single thread in a much larger web.",
+          "By the time the firm realised its mistake and contacted its bank, the money had gone. The bank's fraud team managed to freeze a small portion that was still in transit, but the bulk had already been withdrawn or transferred elsewhere. The company's director, aware that his insurance policy might not cover a loss caused by an employee's error, filed a complaint with the police that same afternoon.",
+          "On the chosen morning, officers raided eleven addresses, including the flat in Rotterdam, and arrested nine suspects. They seized laptops, hardware wallets and, in one case, a notebook containing handwritten passwords — a rare lapse in operational security that allowed analysts to unlock several encrypted devices and reconstruct, transaction by transaction, how the stolen funds had been divided among the network's members.",
+          "Her first task was to establish how the criminals had known whom to impersonate, and when. Analysis of the firm's email server revealed that one of its accounts had been compromised months earlier through a phishing message. Since then, the intruders had silently read correspondence with suppliers, learning the tone, the invoice schedule and even the nicknames staff used for one another. When they struck, they knew exactly when a large payment was due.",
+          "Following those fragments across the blockchain, the analysts eventually found that a large share converged on a single wallet. That wallet had previously been used to buy goods from an online marketplace that required a delivery address. It was not a name, and the address might well have been used only once, but it was a start: a flat on the outskirts of Rotterdam."
+        ],
+        "answer": 3,
+        "explanation": "«By the time the firm realised its mistake» sigue al descubrimiento del pago, y «filed a complaint with the police» explica que después «The case was assigned to a sergeant».",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-02-q2",
+        "kind": "choice",
+        "prompt": "Gap 2",
+        "options": [
+          "For many investigators, that conversion would once have marked the end of the trail. Unlike banks, which can be compelled by court order to disclose the identity of account holders, cryptocurrency exchanges operating outside Europe were often slow or unwilling to cooperate. The sergeant's team, however, had recently completed specialist training in blockchain analysis, and she was determined to put it to the test on a real case.",
+          "The sergeant decided against contacting the Lithuanian authorities at that stage. A formal request for assistance could take months to process, and she feared that any approach might alert the account holder. Instead, she asked the firm to keep corresponding with the fraudsters from the compromised account, in the hope that they would grow overconfident and attempt a second theft.",
+          "Each of those domains, it turned out, had been used in attacks similar to the one in Valencia. Once investigators began contacting the companies concerned, a picture emerged of a network that had stolen an estimated €11 million over two years. The Valencia fraud, far from being an isolated incident, was a single thread in a much larger web.",
+          "By the time the firm realised its mistake and contacted its bank, the money had gone. The bank's fraud team managed to freeze a small portion that was still in transit, but the bulk had already been withdrawn or transferred elsewhere. The company's director, aware that his insurance policy might not cover a loss caused by an employee's error, filed a complaint with the police that same afternoon.",
+          "On the chosen morning, officers raided eleven addresses, including the flat in Rotterdam, and arrested nine suspects. They seized laptops, hardware wallets and, in one case, a notebook containing handwritten passwords — a rare lapse in operational security that allowed analysts to unlock several encrypted devices and reconstruct, transaction by transaction, how the stolen funds had been divided among the network's members.",
+          "Her first task was to establish how the criminals had known whom to impersonate, and when. Analysis of the firm's email server revealed that one of its accounts had been compromised months earlier through a phishing message. Since then, the intruders had silently read correspondence with suppliers, learning the tone, the invoice schedule and even the nicknames staff used for one another. When they struck, they knew exactly when a large payment was due.",
+          "Following those fragments across the blockchain, the analysts eventually found that a large share converged on a single wallet. That wallet had previously been used to buy goods from an online marketplace that required a delivery address. It was not a name, and the address might well have been used only once, but it was a start: a flat on the outskirts of Rotterdam."
+        ],
+        "answer": 5,
+        "explanation": "«Her first task» se refiere a la sargento recién presentada, y explicar cómo sabían a quién suplantar desarrolla «It exploits trust, not technology». El distractor no encaja porque el párrafo siguiente ya da información sobre la cuenta lituana («it emerged») y la idea de seguir escribiendo a los estafadores nunca se retoma.",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-02-q3",
+        "kind": "choice",
+        "prompt": "Gap 3",
+        "options": [
+          "For many investigators, that conversion would once have marked the end of the trail. Unlike banks, which can be compelled by court order to disclose the identity of account holders, cryptocurrency exchanges operating outside Europe were often slow or unwilling to cooperate. The sergeant's team, however, had recently completed specialist training in blockchain analysis, and she was determined to put it to the test on a real case.",
+          "The sergeant decided against contacting the Lithuanian authorities at that stage. A formal request for assistance could take months to process, and she feared that any approach might alert the account holder. Instead, she asked the firm to keep corresponding with the fraudsters from the compromised account, in the hope that they would grow overconfident and attempt a second theft.",
+          "Each of those domains, it turned out, had been used in attacks similar to the one in Valencia. Once investigators began contacting the companies concerned, a picture emerged of a network that had stolen an estimated €11 million over two years. The Valencia fraud, far from being an isolated incident, was a single thread in a much larger web.",
+          "By the time the firm realised its mistake and contacted its bank, the money had gone. The bank's fraud team managed to freeze a small portion that was still in transit, but the bulk had already been withdrawn or transferred elsewhere. The company's director, aware that his insurance policy might not cover a loss caused by an employee's error, filed a complaint with the police that same afternoon.",
+          "On the chosen morning, officers raided eleven addresses, including the flat in Rotterdam, and arrested nine suspects. They seized laptops, hardware wallets and, in one case, a notebook containing handwritten passwords — a rare lapse in operational security that allowed analysts to unlock several encrypted devices and reconstruct, transaction by transaction, how the stolen funds had been divided among the network's members.",
+          "Her first task was to establish how the criminals had known whom to impersonate, and when. Analysis of the firm's email server revealed that one of its accounts had been compromised months earlier through a phishing message. Since then, the intruders had silently read correspondence with suppliers, learning the tone, the invoice schedule and even the nicknames staff used for one another. When they struck, they knew exactly when a large payment was due.",
+          "Following those fragments across the blockchain, the analysts eventually found that a large share converged on a single wallet. That wallet had previously been used to buy goods from an online marketplace that required a delivery address. It was not a name, and the address might well have been used only once, but it was a start: a flat on the outskirts of Rotterdam."
+        ],
+        "answer": 0,
+        "explanation": "«That conversion» retoma «converted into cryptocurrency», y la formación en análisis de blockchain es lo que «This proved crucial» señala a continuación.",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-02-q4",
+        "kind": "choice",
+        "prompt": "Gap 4",
+        "options": [
+          "For many investigators, that conversion would once have marked the end of the trail. Unlike banks, which can be compelled by court order to disclose the identity of account holders, cryptocurrency exchanges operating outside Europe were often slow or unwilling to cooperate. The sergeant's team, however, had recently completed specialist training in blockchain analysis, and she was determined to put it to the test on a real case.",
+          "The sergeant decided against contacting the Lithuanian authorities at that stage. A formal request for assistance could take months to process, and she feared that any approach might alert the account holder. Instead, she asked the firm to keep corresponding with the fraudsters from the compromised account, in the hope that they would grow overconfident and attempt a second theft.",
+          "Each of those domains, it turned out, had been used in attacks similar to the one in Valencia. Once investigators began contacting the companies concerned, a picture emerged of a network that had stolen an estimated €11 million over two years. The Valencia fraud, far from being an isolated incident, was a single thread in a much larger web.",
+          "By the time the firm realised its mistake and contacted its bank, the money had gone. The bank's fraud team managed to freeze a small portion that was still in transit, but the bulk had already been withdrawn or transferred elsewhere. The company's director, aware that his insurance policy might not cover a loss caused by an employee's error, filed a complaint with the police that same afternoon.",
+          "On the chosen morning, officers raided eleven addresses, including the flat in Rotterdam, and arrested nine suspects. They seized laptops, hardware wallets and, in one case, a notebook containing handwritten passwords — a rare lapse in operational security that allowed analysts to unlock several encrypted devices and reconstruct, transaction by transaction, how the stolen funds had been divided among the network's members.",
+          "Her first task was to establish how the criminals had known whom to impersonate, and when. Analysis of the firm's email server revealed that one of its accounts had been compromised months earlier through a phishing message. Since then, the intruders had silently read correspondence with suppliers, learning the tone, the invoice schedule and even the nicknames staff used for one another. When they struck, they knew exactly when a large payment was due.",
+          "Following those fragments across the blockchain, the analysts eventually found that a large share converged on a single wallet. That wallet had previously been used to buy goods from an online marketplace that required a delivery address. It was not a name, and the address might well have been used only once, but it was a start: a flat on the outskirts of Rotterdam."
+        ],
+        "answer": 6,
+        "explanation": "«Those fragments» remite a «splitting them into hundreds of smaller sums», y la pista del piso en Rotterdam se retoma en el hueco 6. «It was not a name, but it was a start» contrasta con «The breakthrough came from an unexpected direction».",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-02-q5",
+        "kind": "choice",
+        "prompt": "Gap 5",
+        "options": [
+          "For many investigators, that conversion would once have marked the end of the trail. Unlike banks, which can be compelled by court order to disclose the identity of account holders, cryptocurrency exchanges operating outside Europe were often slow or unwilling to cooperate. The sergeant's team, however, had recently completed specialist training in blockchain analysis, and she was determined to put it to the test on a real case.",
+          "The sergeant decided against contacting the Lithuanian authorities at that stage. A formal request for assistance could take months to process, and she feared that any approach might alert the account holder. Instead, she asked the firm to keep corresponding with the fraudsters from the compromised account, in the hope that they would grow overconfident and attempt a second theft.",
+          "Each of those domains, it turned out, had been used in attacks similar to the one in Valencia. Once investigators began contacting the companies concerned, a picture emerged of a network that had stolen an estimated €11 million over two years. The Valencia fraud, far from being an isolated incident, was a single thread in a much larger web.",
+          "By the time the firm realised its mistake and contacted its bank, the money had gone. The bank's fraud team managed to freeze a small portion that was still in transit, but the bulk had already been withdrawn or transferred elsewhere. The company's director, aware that his insurance policy might not cover a loss caused by an employee's error, filed a complaint with the police that same afternoon.",
+          "On the chosen morning, officers raided eleven addresses, including the flat in Rotterdam, and arrested nine suspects. They seized laptops, hardware wallets and, in one case, a notebook containing handwritten passwords — a rare lapse in operational security that allowed analysts to unlock several encrypted devices and reconstruct, transaction by transaction, how the stolen funds had been divided among the network's members.",
+          "Her first task was to establish how the criminals had known whom to impersonate, and when. Analysis of the firm's email server revealed that one of its accounts had been compromised months earlier through a phishing message. Since then, the intruders had silently read correspondence with suppliers, learning the tone, the invoice schedule and even the nicknames staff used for one another. When they struck, they knew exactly when a large payment was due.",
+          "Following those fragments across the blockchain, the analysts eventually found that a large share converged on a single wallet. That wallet had previously been used to buy goods from an online marketplace that required a delivery address. It was not a name, and the address might well have been used only once, but it was a start: a flat on the outskirts of Rotterdam."
+        ],
+        "answer": 2,
+        "explanation": "«Each of those domains» retoma «over forty other lookalike domains», y la red de 11 millones justifica «The coordinated operation that followed».",
+        "tag": "cohesion"
+      },
+      {
+        "id": "rd-c1-gt-02-q6",
+        "kind": "choice",
+        "prompt": "Gap 6",
+        "options": [
+          "For many investigators, that conversion would once have marked the end of the trail. Unlike banks, which can be compelled by court order to disclose the identity of account holders, cryptocurrency exchanges operating outside Europe were often slow or unwilling to cooperate. The sergeant's team, however, had recently completed specialist training in blockchain analysis, and she was determined to put it to the test on a real case.",
+          "The sergeant decided against contacting the Lithuanian authorities at that stage. A formal request for assistance could take months to process, and she feared that any approach might alert the account holder. Instead, she asked the firm to keep corresponding with the fraudsters from the compromised account, in the hope that they would grow overconfident and attempt a second theft.",
+          "Each of those domains, it turned out, had been used in attacks similar to the one in Valencia. Once investigators began contacting the companies concerned, a picture emerged of a network that had stolen an estimated €11 million over two years. The Valencia fraud, far from being an isolated incident, was a single thread in a much larger web.",
+          "By the time the firm realised its mistake and contacted its bank, the money had gone. The bank's fraud team managed to freeze a small portion that was still in transit, but the bulk had already been withdrawn or transferred elsewhere. The company's director, aware that his insurance policy might not cover a loss caused by an employee's error, filed a complaint with the police that same afternoon.",
+          "On the chosen morning, officers raided eleven addresses, including the flat in Rotterdam, and arrested nine suspects. They seized laptops, hardware wallets and, in one case, a notebook containing handwritten passwords — a rare lapse in operational security that allowed analysts to unlock several encrypted devices and reconstruct, transaction by transaction, how the stolen funds had been divided among the network's members.",
+          "Her first task was to establish how the criminals had known whom to impersonate, and when. Analysis of the firm's email server revealed that one of its accounts had been compromised months earlier through a phishing message. Since then, the intruders had silently read correspondence with suppliers, learning the tone, the invoice schedule and even the nicknames staff used for one another. When they struck, they knew exactly when a large payment was due.",
+          "Following those fragments across the blockchain, the analysts eventually found that a large share converged on a single wallet. That wallet had previously been used to buy goods from an online marketplace that required a delivery address. It was not a name, and the address might well have been used only once, but it was a start: a flat on the outskirts of Rotterdam."
+        ],
+        "answer": 4,
+        "explanation": "«On the chosen morning» enlaza con «agreed a single day for simultaneous searches», y «the flat in Rotterdam» usa el artículo definido porque ya se ha mencionado. Después, «Only a fraction of the stolen money has been recovered» cierra la historia.",
+        "tag": "cohesion"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-mm-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Engineering careers",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Engineers on the Projects That Shaped Them",
+    "format": "multiple-matching",
+    "instructions": "You are going to read an article in which several people describe their experience. For questions 1–10, choose from the sections (A–E). The sections may be chosen more than once.",
+    "timeMinutes": 15,
+    "sections": [
+      {
+        "label": "A",
+        "title": "Mining engineer",
+        "text": "I spent my first eight years designing blasts in a limestone quarry, and I still think it was the best possible training. Blasting forces you to be precise: get the burden or the timing wrong and you either waste explosive or send rock where it should never go. What I didn't appreciate then was how much of the job involves people outside the fence. Every blast generated complaints from neighbours about vibration, even when our monitors showed levels well below legal limits. I learnt that data alone rarely reassures anyone; inviting residents to watch the seismograph during a blast did more than any report. These days I work on rehabilitation plans for closed sites, and that early lesson about earning a community's trust has turned out to be more useful than anything I know about explosives."
+      },
+      {
+        "label": "B",
+        "title": "Grid engineer",
+        "text": "My field is integrating renewable generation into the transmission network, which sounds dry until you realise that the grid has to balance supply and demand every single second. When most of our power came from large thermal plants, their spinning turbines gave the system natural inertia that cushioned sudden disturbances. Wind and solar farms connect through power electronics and provide none of that by default, so we have had to engineer it back in. The project I'm proudest of involved persuading a wind farm operator to trial grid-forming inverters, which mimic the stabilising behaviour of conventional generators. Nobody had tried it at that scale in our region, and for months I was convinced it would fail. It didn't, and the approach is now written into our connection requirements. I still find it astonishing how quickly the unthinkable becomes standard practice."
+      },
+      {
+        "label": "C",
+        "title": "Quality manager",
+        "text": "I came into quality management almost by accident. I was a production engineer at an automotive components plant when our biggest customer threatened to drop us over a run of defective brackets, and I was asked to lead the investigation. Using Six Sigma tools, we traced the problem to tiny variations in the temperature of a heat-treatment furnace that nobody had thought to monitor. Fixing it was straightforward; the harder part was changing a culture in which operators saw quality inspectors as police. I now spend most of my time training shop-floor teams to own their processes rather than wait for someone else to find their mistakes. People sometimes assume that ISO 9001 certification is mainly about paperwork. Done badly, it is. Done well, it gives everyone a shared language for improvement."
+      },
+      {
+        "label": "D",
+        "title": "Safety engineer",
+        "text": "I specialise in explosive atmospheres, mainly in chemical plants and grain-handling facilities, where a cloud of dust can be every bit as dangerous as a gas leak. A lot of my work involves classifying hazardous zones and checking that every piece of equipment inside them is certified for that environment. It's meticulous and, I'll admit, occasionally tedious. But early in my career I investigated a dust explosion in which two workers were seriously injured, and the cause turned out to be an ordinary extension lead that someone had brought in from home. Since then I've never underestimated the small things. The other part of the job I value is lockout procedures: making sure nobody works on a machine that could be switched on. It's the simplest rule in the book and still the one most often broken."
+      },
+      {
+        "label": "E",
+        "title": "Environmental engineer",
+        "text": "I worked for a consultancy for twelve years before moving to a municipal water company, and the change of perspective was dramatic. As a consultant, I would design a treatment plant, hand it over and move on; I rarely saw how my designs performed after five winters. Now I'm the one operating them, and I've become far more critical of solutions that look elegant on paper but demand constant attention. My current project is recovering phosphorus from sewage sludge, which would otherwise be lost, and turning it into fertiliser. It ticks every box for the circular economy, yet the business case remains fragile because the market price of mined phosphate is so volatile. I've learnt to be patient. Environmental projects tend to make sense long before they make money."
+      }
+    ],
+    "questions": [
+      {
+        "id": "rd-c1-mm-01-q1",
+        "kind": "choice",
+        "prompt": "Which engineer admits to having doubted for some time that a project would succeed?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 1,
+        "explanation": "B: «for months I was convinced it would fail». E habla de un modelo de negocio frágil en el presente, no de dudas iniciales.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q2",
+        "kind": "choice",
+        "prompt": "Which engineer says that an everyday object was responsible for a serious accident?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 3,
+        "explanation": "D: la causa de la explosión fue «an ordinary extension lead that someone had brought in from home». En C las variaciones de temperatura causaron defectos, no un accidente.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q3",
+        "kind": "choice",
+        "prompt": "Which engineer says that a change of employer has made them more critical of a certain type of design?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 4,
+        "explanation": "E pasó de consultora a operadora y ahora es «far more critical of solutions that look elegant on paper but demand constant attention».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q4",
+        "kind": "choice",
+        "prompt": "Which engineer found that involving the public directly was more reassuring than presenting technical evidence?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 0,
+        "explanation": "A: «data alone rarely reassures anyone; inviting residents to watch the seismograph... did more than any report».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q5",
+        "kind": "choice",
+        "prompt": "Which engineer describes a project whose environmental benefits are not matched by its financial security?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 4,
+        "explanation": "E: el fósforo recuperado «ticks every box for the circular economy, yet the business case remains fragile».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q6",
+        "kind": "choice",
+        "prompt": "Which engineer suggests that a particular standard can be pointless if it is poorly applied?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 2,
+        "explanation": "C: sobre la ISO 9001, «People sometimes assume [it] is mainly about paperwork. Done badly, it is».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q7",
+        "kind": "choice",
+        "prompt": "Which engineer concedes that parts of their job are not always stimulating?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 3,
+        "explanation": "D: «It's meticulous and, I'll admit, occasionally tedious».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q8",
+        "kind": "choice",
+        "prompt": "Which engineer says that a lesson from their first job has proved valuable in a different area of work?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 0,
+        "explanation": "A: la lección de ganarse la confianza vecinal en la cantera le sirve ahora en planes de rehabilitación y es «more useful than anything I know about explosives».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q9",
+        "kind": "choice",
+        "prompt": "Which engineer describes having to compensate for something that newer technology does not provide?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 1,
+        "explanation": "B: los parques eólicos y solares no aportan inercia «by default, so we have had to engineer it back in».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-01-q10",
+        "kind": "choice",
+        "prompt": "Which engineer was put in charge of solving a problem that threatened an important business relationship?",
+        "options": [
+          "A – Mining engineer",
+          "B – Grid engineer",
+          "C – Quality manager",
+          "D – Safety engineer",
+          "E – Environmental engineer"
+        ],
+        "answer": 2,
+        "explanation": "C: su mayor cliente amenazó con retirarse por unos soportes defectuosos «and I was asked to lead the investigation».",
+        "tag": "paraphrase"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-mm-02",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Police officers on international postings",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Serving Abroad: Four Officers Look Back",
+    "format": "multiple-matching",
+    "instructions": "You are going to read an article in which several people describe their experience. For questions 1–10, choose from the sections (A–D). The sections may be chosen more than once.",
+    "timeMinutes": 15,
+    "sections": [
+      {
+        "label": "A",
+        "title": "Border operation officer",
+        "text": "My first posting abroad was to a joint border operation on the EU's south-eastern frontier, where officers from a dozen countries worked side by side. On paper, we all applied the same procedures; in practice, every national team brought its own habits, and the first weeks were spent quietly negotiating whose way of doing things would prevail. What struck me most was the sheer human weight of the job. You might process a family who had walked for weeks in the morning and intercept a smuggling vehicle in the afternoon, and you had to switch between compassion and suspicion without letting one contaminate the other. I came home convinced that border work cannot be done well by anyone who has stopped seeing the people in front of them as individuals. That conviction has shaped the way I have trained recruits ever since."
+      },
+      {
+        "label": "B",
+        "title": "Liaison officer",
+        "text": "For three years I was a liaison officer attached to our embassy in South America, working on drug-trafficking cases with links to Spanish ports. The role is essentially about relationships. You have no powers of arrest, no authority to demand anything, and everything you achieve depends on whether local colleagues trust you enough to share information. That trust is built slowly, over coffees and shared frustrations, and it can be destroyed in an instant if someone back home leaks a detail to the press. The most satisfying moment was a container seizure in Algeciras that began with an informal tip from a counterpart I had known for two years. Officially, it was a triumph of international cooperation. Unofficially, it was the result of a friendship."
+      },
+      {
+        "label": "C",
+        "title": "Training adviser",
+        "text": "I spent eighteen months as a training adviser to a national police force in the Sahel, as part of an international capacity-building mission. I arrived with a carefully prepared curriculum and discovered within a week that much of it was irrelevant. There was no point teaching advanced forensic techniques to officers whose stations lacked reliable electricity, so I rewrote the programme around things they could actually apply: scene preservation, interview technique, and recording evidence by hand in a way a court would accept. It was humbling to realise how much I had taken for granted. If I were advising anyone about to go on a similar mission, I would tell them to listen for a month before teaching anything. The local officers understood their problems far better than we did; what they lacked was resources, not insight."
+      },
+      {
+        "label": "D",
+        "title": "Maritime surveillance officer",
+        "text": "I was seconded for a year to a maritime surveillance centre in the Mediterranean, coordinating information from patrol boats, aircraft and satellites. People imagine the work is all dramatic interceptions, but most of it happens in front of screens, analysing vessel movements for anomalies: a fishing boat that never seems to fish, a cargo ship that switches off its transponder for six hours. The hardest moments were search and rescue cases, when the priority shifts instantly from law enforcement to saving lives and every decision is made under enormous pressure. I won't pretend that everything went right; there were nights when we arrived too late. But the experience taught me the value of a calm, structured response. Panic spreads faster than any wave."
+      }
+    ],
+    "questions": [
+      {
+        "id": "rd-c1-mm-02-q1",
+        "kind": "choice",
+        "prompt": "Which officer says that results depended on other people's goodwill rather than on formal powers?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 1,
+        "explanation": "B: «You have no powers of arrest... everything you achieve depends on whether local colleagues trust you».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q2",
+        "kind": "choice",
+        "prompt": "Which officer had to rethink material prepared before arriving?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 2,
+        "explanation": "C llegó con «a carefully prepared curriculum» y lo reescribió porque gran parte era irrelevante.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q3",
+        "kind": "choice",
+        "prompt": "Which officer acknowledges that some operations ended badly?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 3,
+        "explanation": "D: «I won't pretend that everything went right; there were nights when we arrived too late».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q4",
+        "kind": "choice",
+        "prompt": "Which officer describes having to move between opposing attitudes within the same day?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 0,
+        "explanation": "A: por la mañana una familia, por la tarde un vehículo de contrabando: «switch between compassion and suspicion».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q5",
+        "kind": "choice",
+        "prompt": "Which officer suggests that people have a mistaken idea of what the job involves?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 3,
+        "explanation": "D: «People imagine the work is all dramatic interceptions, but most of it happens in front of screens».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q6",
+        "kind": "choice",
+        "prompt": "Which officer contrasts the official version of a success with what really made it possible?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 1,
+        "explanation": "B: «Officially, it was a triumph of international cooperation. Unofficially, it was the result of a friendship».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q7",
+        "kind": "choice",
+        "prompt": "Which officer mentions initial friction caused by different national ways of working?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 0,
+        "explanation": "A: «every national team brought its own habits... negotiating whose way of doing things would prevail».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q8",
+        "kind": "choice",
+        "prompt": "Which officer gives explicit advice to anyone about to take on a comparable posting?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 2,
+        "explanation": "C: «If I were advising anyone about to go on a similar mission, I would tell them to listen for a month». A expresa una convicción, pero no da un consejo explícito.",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q9",
+        "kind": "choice",
+        "prompt": "Which officer explains how the experience abroad has influenced their later work at home?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 0,
+        "explanation": "A: «That conviction has shaped the way I have trained recruits ever since».",
+        "tag": "paraphrase"
+      },
+      {
+        "id": "rd-c1-mm-02-q10",
+        "kind": "choice",
+        "prompt": "Which officer concludes that a shortage of means, not of understanding, was the main obstacle?",
+        "options": [
+          "A – Border operation officer",
+          "B – Liaison officer",
+          "C – Training adviser",
+          "D – Maritime surveillance officer"
+        ],
+        "answer": 2,
+        "explanation": "C: «what they lacked was resources, not insight».",
+        "tag": "paraphrase"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "rd-c1-ct-01",
+      "skill": "reading",
+      "level": "C1/SLP3",
+      "topic": "Facial recognition technology in policing",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Facial Recognition and the Police",
+    "format": "cross-text",
+    "instructions": "You are going to read four extracts in which experts give their views on the same issue. For questions 1–4, choose from the experts A–D. The experts may be chosen more than once.",
+    "timeMinutes": 12,
+    "sections": [
+      {
+        "label": "A",
+        "title": "Human rights lawyer",
+        "text": "Proponents of live facial recognition like to frame the debate as a trade-off between privacy and security, but that misses its more insidious effect. When people know that every face in a crowd may be scanned and checked against a watchlist, many will think twice before attending a demonstration or visiting a particular place of worship. That chilling effect corrodes the relationship between citizens and police in ways no statistic will capture. Nor am I reassured by vendors' claims about accuracy; independent testing still finds error rates that vary with skin tone and age, and a false match can lead to a humiliating stop. I accept that comparing a suspect's image with custody photographs after a serious crime can be a legitimate investigative step. But that use, and any other, needs a dedicated statute, not improvisation under general data rules."
+      },
+      {
+        "label": "B",
+        "title": "Former police commissioner",
+        "text": "In thirty years of operational policing, I saw facial recognition help identify suspects in cases that would otherwise have gone cold, particularly when officers compared stills from CCTV footage against existing records. The early systems were rightly criticised for their error rates, but the best current algorithms perform to a standard that makes misidentification a marginal risk, provided a trained officer always verifies the match. Where I part company with some colleagues is on the call for new legislation. Our existing data protection and human rights framework already demands that any intrusion be necessary and proportionate; the problem has been inconsistent application, not an absence of rules. Public confidence will follow if forces are open about where and why the technology is deployed."
+      },
+      {
+        "label": "C",
+        "title": "Computer scientist",
+        "text": "Much of the public debate rests on accuracy figures obtained in laboratory conditions, with well-lit, front-facing images. Street cameras capture faces at odd angles, in poor light and often partly covered, and performance in those circumstances is considerably less impressive, especially for groups under-represented in the training data. I would also challenge the assumption that the technology has transformed investigations. Police forces cite individual success stories, yet there is remarkably little independent evidence that its use has led to more convictions than conventional methods would have achieved. Until such evidence exists, it is hard to justify the expense, let alone the intrusion. If deployment continues, legislators need to set binding standards for testing and disclosure; leaving those matters to procurement contracts is no substitute for law."
+      },
+      {
+        "label": "D",
+        "title": "Sociologist",
+        "text": "I am less troubled by the technology's reliability, which has improved enormously, than by the pattern of its use. In the cities I have studied, live cameras have been positioned overwhelmingly in poorer, more ethnically diverse districts, which sends residents a clear message about whom the police regard as a threat. Young people in those areas told us they had started avoiding certain streets altogether. That kind of withdrawal is precisely what erodes the trust on which community policing depends. None of this means the tool has no place; officers I interviewed described genuine breakthroughs in locating missing persons and wanted suspects. But decisions about where cameras go are currently made with little oversight, and the general rules we have were simply not written with this capability in mind. Parliament should address that directly."
+      }
+    ],
+    "questions": [
+      {
+        "id": "rd-c1-ct-01-q1",
+        "kind": "choice",
+        "prompt": "Which expert shares B's view on the reliability of current facial recognition systems?",
+        "options": [
+          "A – Human rights lawyer",
+          "B – Former police commissioner",
+          "C – Computer scientist",
+          "D – Sociologist"
+        ],
+        "answer": 3,
+        "explanation": "B considera el error «a marginal risk» y D afirma que la fiabilidad «has improved enormously». A y C siguen viendo tasas de error relevantes, sobre todo en ciertos grupos.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-c1-ct-01-q2",
+        "kind": "choice",
+        "prompt": "Which expert takes a different view from the others on whether new legislation is needed?",
+        "options": [
+          "A – Human rights lawyer",
+          "B – Former police commissioner",
+          "C – Computer scientist",
+          "D – Sociologist"
+        ],
+        "answer": 1,
+        "explanation": "B cree que el marco actual basta («the problem has been inconsistent application, not an absence of rules»). A pide «a dedicated statute», C «binding standards» fijados por el legislador y D que el Parlamento actúe.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-c1-ct-01-q3",
+        "kind": "choice",
+        "prompt": "Which expert expresses a similar view to D about how the technology can change people's behaviour and their relationship with the police?",
+        "options": [
+          "A – Human rights lawyer",
+          "B – Former police commissioner",
+          "C – Computer scientist",
+          "D – Sociologist"
+        ],
+        "answer": 0,
+        "explanation": "D describe cómo los jóvenes evitan ciertas calles y se erosiona la confianza; A habla del «chilling effect» que «corrodes the relationship between citizens and police». B cree que la confianza llegará con transparencia y C no trata este punto.",
+        "tag": "attitude"
+      },
+      {
+        "id": "rd-c1-ct-01-q4",
+        "kind": "choice",
+        "prompt": "Which expert has a different opinion from the others regarding the technology's value in solving crimes?",
+        "options": [
+          "A – Human rights lawyer",
+          "B – Former police commissioner",
+          "C – Computer scientist",
+          "D – Sociologist"
+        ],
+        "answer": 2,
+        "explanation": "C duda de que haya «independent evidence that its use has led to more convictions». A acepta su uso tras delitos graves, B y D citan casos resueltos o «genuine breakthroughs».",
+        "tag": "attitude"
+      }
+    ]
+  }
+]

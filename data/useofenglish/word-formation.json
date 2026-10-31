@@ -1,0 +1,465 @@
+[
+  {
+    "meta": {
+      "id": "uoe-word-formation-01",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Misinformation online",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "The truth about fake news",
+    "part": "word-formation",
+    "instructions": "For questions 1-8, read the text below. Use the word given in capitals to form a word that fits in the gap in the same line.",
+    "text": "The spread of false information online has become one of the most pressing concerns of our time. What makes the problem so [[1]] (WORRY) is not simply the volume of misleading content but the speed at which it circulates. A fabricated story can reach millions of readers before any [[2]] (CORRECT) is published, and by then the damage has usually been done.\n\nPsychologists have found that people are particularly [[3]] (RECEIVE) to claims that confirm what they already believe, while evidence that contradicts their views tends to be dismissed as [[4]] (RELY) or biased. This tendency is readily exploited by those who produce misleading content, often for political or financial gain.\n\nSocial media platforms have come under growing pressure to accept [[5]] (RESPONSIBLE) for the material they host. Yet heavy-handed moderation raises concerns of its own, and civil liberties groups warn that it could easily slide into [[6]] (CENSOR).\n\nMany experts therefore argue that the most effective long-term remedy lies in education. Teaching young people to [[7]] (CRITIC) evaluate sources, to check who is behind a website and to spot [[8]] (CONSISTENT) in a story could do more to curb misinformation than any algorithm. After all, a sceptical, well-informed reader is far harder to deceive than one who simply shares whatever appears on their screen.",
+    "questions": [
+      {
+        "id": "uoe-word-formation-01-q1",
+        "kind": "text",
+        "stem": "WORRY",
+        "prompt": "WORRY",
+        "accepted": [
+          "worrying",
+          "worrisome"
+        ],
+        "explanation": "Tras «so» hace falta un adjetivo que describa la causa de la preocupación: «worrying» (-ing = que produce el efecto); «worrisome» es una variante más americana. «Worried» describiría a la persona.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-01-q2",
+        "kind": "text",
+        "stem": "CORRECT",
+        "prompt": "CORRECT",
+        "accepted": [
+          "correction"
+        ],
+        "explanation": "Tras el determinante «any» y como sujeto de «is published» se necesita un sustantivo singular: «correction» (sufijo -ion).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-01-q3",
+        "kind": "text",
+        "stem": "RECEIVE",
+        "prompt": "RECEIVE",
+        "accepted": [
+          "receptive"
+        ],
+        "explanation": "«Be receptive to» = estar abierto a, ser receptivo a. Cambio de raíz: receive → recept- + -ive.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-01-q4",
+        "kind": "text",
+        "stem": "RELY",
+        "prompt": "RELY",
+        "accepted": [
+          "unreliable"
+        ],
+        "explanation": "Adjetivo con sentido negativo coordinado con «biased»: «unreliable» (prefijo un- + rely + -able, con y → i).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-word-formation-01-q5",
+        "kind": "text",
+        "stem": "RESPONSIBLE",
+        "prompt": "RESPONSIBLE",
+        "accepted": [
+          "responsibility"
+        ],
+        "explanation": "«Accept responsibility for» = asumir la responsabilidad de. Se necesita el sustantivo: responsible → responsibility.",
+        "tag": "word-formation",
+        "grammarRef": "collocations"
+      },
+      {
+        "id": "uoe-word-formation-01-q6",
+        "kind": "text",
+        "stem": "CENSOR",
+        "prompt": "CENSOR",
+        "accepted": [
+          "censorship"
+        ],
+        "explanation": "«Slide into» exige un sustantivo; el que designa la práctica de censurar es «censorship» (sufijo -ship).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-01-q7",
+        "kind": "text",
+        "stem": "CRITIC",
+        "prompt": "CRITIC",
+        "accepted": [
+          "critically"
+        ],
+        "explanation": "Adverbio que modifica al verbo «evaluate»: critic → critical → critically. «Evaluate critically» = evaluar con espíritu crítico.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-01-q8",
+        "kind": "text",
+        "stem": "CONSISTENT",
+        "prompt": "CONSISTENT",
+        "accepted": [
+          "inconsistencies",
+          "inconsistency"
+        ],
+        "explanation": "El sentido pide algo negativo que detectar (contradicciones): prefijo in- + -ency. Lo más natural es el plural «inconsistencies», aunque se acepta el singular incontable.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-word-formation-02",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Six Sigma and quality management",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Chasing zero defects",
+    "part": "word-formation",
+    "instructions": "For questions 1-8, read the text below. Use the word given in capitals to form a word that fits in the gap in the same line.",
+    "text": "When a manufacturer adopts Six Sigma, the aim is to reduce [[1]] (VARY) in its processes until defects become extremely rare. The methodology relies heavily on statistical analysis, and its [[2]] (PRACTICE) are trained to identify the root causes of problems rather than simply treating the symptoms.\n\nA typical project begins by defining the problem and measuring current [[3]] (PERFORM). Only then do teams analyse the data, implement improvements and introduce controls to ensure that the gains are sustained. Although the approach can seem [[4]] (BUREAUCRACY), its supporters point out that decisions are based on evidence rather than intuition.\n\nNevertheless, the method is not without its critics. Some argue that an excessive focus on [[5]] (STANDARD) can stifle creativity and discourage the kind of experimentation that leads to genuine [[6]] (BREAK). Others note that project leaders often [[7]] (ESTIMATE) the time required to change entrenched working habits, which leads to frustration when results fail to materialise as quickly as promised.\n\nIn practice, the most successful organisations combine the rigour of Six Sigma with a culture that values [[8]] (OPEN) and encourages staff to report problems without fear of blame. Without that, even the most sophisticated statistical tools are likely to produce disappointing results. Quality, in other words, is as much a matter of people as of numbers.",
+    "questions": [
+      {
+        "id": "uoe-word-formation-02-q1",
+        "kind": "text",
+        "stem": "VARY",
+        "prompt": "VARY",
+        "accepted": [
+          "variation",
+          "variability",
+          "variance",
+          "variations"
+        ],
+        "explanation": "Sustantivo objeto de «reduce»: «variation» (o «variability/variance», términos estadísticos también correctos). Cambio y → i + sufijo.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-02-q2",
+        "kind": "text",
+        "stem": "PRACTICE",
+        "prompt": "PRACTICE",
+        "accepted": [
+          "practitioners"
+        ],
+        "explanation": "El posesivo «its» y el verbo «are trained» exigen un sustantivo plural de persona: «practitioners» (profesionales que aplican el método).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-02-q3",
+        "kind": "text",
+        "stem": "PERFORM",
+        "prompt": "PERFORM",
+        "accepted": [
+          "performance"
+        ],
+        "explanation": "«Measure current performance» = medir el rendimiento actual. Sustantivo con sufijo -ance.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-02-q4",
+        "kind": "text",
+        "stem": "BUREAUCRACY",
+        "prompt": "BUREAUCRACY",
+        "accepted": [
+          "bureaucratic"
+        ],
+        "explanation": "Tras «seem» se necesita un adjetivo: bureaucracy → bureaucratic (-cy → -tic).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-02-q5",
+        "kind": "text",
+        "stem": "STANDARD",
+        "prompt": "STANDARD",
+        "accepted": [
+          "standardisation",
+          "standardization"
+        ],
+        "explanation": "Tras «focus on» se necesita un sustantivo de proceso: standard → standardise → standardisation (-ize/-ization en ortografía americana u Oxford).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-02-q6",
+        "kind": "text",
+        "stem": "BREAK",
+        "prompt": "BREAK",
+        "accepted": [
+          "breakthroughs"
+        ],
+        "explanation": "Palabra compuesta: «breakthrough» (avance decisivo). Sin artículo delante y contable, debe ir en plural: «genuine breakthroughs».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-02-q7",
+        "kind": "text",
+        "stem": "ESTIMATE",
+        "prompt": "ESTIMATE",
+        "accepted": [
+          "underestimate"
+        ],
+        "explanation": "El contexto (frustración porque los resultados tardan) indica que calculan de menos: prefijo under- → «underestimate». Presente simple con sujeto plural.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-word-formation-02-q8",
+        "kind": "text",
+        "stem": "OPEN",
+        "prompt": "OPEN",
+        "accepted": [
+          "openness"
+        ],
+        "explanation": "Sustantivo abstracto objeto de «values»: open + -ness = «openness» (transparencia, franqueza), con doble n.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-word-formation-03",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Border control and human rights",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Guarding the frontier",
+    "part": "word-formation",
+    "instructions": "For questions 1-8, read the text below. Use the word given in capitals to form a word that fits in the gap in the same line.",
+    "text": "Managing the external borders of the European Union is a task of enormous [[1]] (COMPLEX). Every year, millions of travellers enter the Schengen area, and officers must distinguish genuine visitors from those attempting to cross [[2]] (LEGAL), often in a matter of seconds.\n\nTechnology has transformed the way these checks are carried out. Automated gates verify passports in a fraction of the time once required, and shared databases help officers detect [[3]] (FORGE) that would be almost impossible to spot with the naked eye. Yet machines cannot replace human judgement entirely. Experienced officers are trained to notice subtle signs of nervousness or [[4]] (CONTRADICT) in a traveller's account of their journey.\n\nAt sea, the challenges are of a different nature. Criminal networks of [[5]] (TRAFFIC) charge desperate people huge sums to make dangerous crossings in overcrowded boats, and rescue operations frequently take priority over law enforcement.\n\nHuman rights organisations have repeatedly stressed that every person intercepted at the border must be treated with dignity. Collective expulsions are prohibited, and the use of force must never be [[6]] (PROPORTION) to the threat faced. Each [[7]] (APPLY) for asylum has to be examined individually, and any [[8]] (REFUSE) of entry must be justified in writing. Striking the right balance between security and humanity remains one of the most demanding aspects of the job.",
+    "questions": [
+      {
+        "id": "uoe-word-formation-03-q1",
+        "kind": "text",
+        "stem": "COMPLEX",
+        "prompt": "COMPLEX",
+        "accepted": [
+          "complexity"
+        ],
+        "explanation": "«A task of enormous + sustantivo»: complex → complexity (sufijo -ity).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-03-q2",
+        "kind": "text",
+        "stem": "LEGAL",
+        "prompt": "LEGAL",
+        "accepted": [
+          "illegally"
+        ],
+        "explanation": "Adverbio que modifica a «cross» con sentido negativo: prefijo il- (ante l) + legal + -ly = «illegally».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-word-formation-03-q3",
+        "kind": "text",
+        "stem": "FORGE",
+        "prompt": "FORGE",
+        "accepted": [
+          "forgeries"
+        ],
+        "explanation": "Objeto de «detect» y antecedente de «that would be»: sustantivo contable plural «forgeries» (falsificaciones), con y → ies.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-03-q4",
+        "kind": "text",
+        "stem": "CONTRADICT",
+        "prompt": "CONTRADICT",
+        "accepted": [
+          "contradictions",
+          "contradiction"
+        ],
+        "explanation": "Coordinado con «nervousness» tras «signs of»: sustantivo «contradictions» (plural, lo más natural) o «contradiction».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-03-q5",
+        "kind": "text",
+        "stem": "TRAFFIC",
+        "prompt": "TRAFFIC",
+        "accepted": [
+          "traffickers"
+        ],
+        "explanation": "«Networks of + personas»: «traffickers» (traficantes), con k añadida antes de -er y en plural.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-03-q6",
+        "kind": "text",
+        "stem": "PROPORTION",
+        "prompt": "PROPORTION",
+        "accepted": [
+          "disproportionate"
+        ],
+        "explanation": "El uso de la fuerza nunca debe ser desproporcionado: prefijo dis- + proportion + -ate. Fíjate en «to the threat».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-word-formation-03-q7",
+        "kind": "text",
+        "stem": "APPLY",
+        "prompt": "APPLY",
+        "accepted": [
+          "application"
+        ],
+        "explanation": "«Each» exige sustantivo singular: «application for asylum» (solicitud de asilo). «Applicant» sería la persona, que no se «examina» con «for asylum».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-03-q8",
+        "kind": "text",
+        "stem": "REFUSE",
+        "prompt": "REFUSE",
+        "accepted": [
+          "refusal"
+        ],
+        "explanation": "«Refusal of entry» = denegación de entrada. Sustantivo con sufijo -al.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "uoe-word-formation-04",
+      "skill": "useofenglish",
+      "level": "C1",
+      "topic": "Renewables and grid stability",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Keeping the lights on",
+    "part": "word-formation",
+    "instructions": "For questions 1-8, read the text below. Use the word given in capitals to form a word that fits in the gap in the same line.",
+    "text": "The rapid growth of wind and solar power has created a new set of challenges for electricity grids. Unlike conventional power stations, which can adjust their output at will, renewable sources are inherently [[1]] (PREDICT): their output depends on weather conditions that may change [[2]] (EXPECT) and at very short notice. Maintaining a stable supply therefore requires a degree of [[3]] (FLEXIBLE) that older grids were never designed to provide.\n\nOne solution is large-scale energy [[4]] (STORE), whether in batteries or in pumped hydroelectric plants, which absorb surplus energy when demand is low and release it when [[5]] (CONSUME) need it most. Another is to [[6]] (STRONG) the interconnections between national networks, so that a shortfall in one country can be offset by a surplus in another.\n\nGrid operators are also experimenting with demand-response schemes, in which large [[7]] (INDUSTRY) users are paid to cut their consumption at critical moments. Although all these measures require substantial investment, the alternative, namely frequent blackouts and a continued [[8]] (RELY) on fossil fuels as a backup, is hardly an attractive prospect. Policymakers will therefore have to weigh short-term costs against long-term security of supply, and explain those choices clearly to a public that tends to notice the grid only when it fails. The stakes could hardly be higher.",
+    "questions": [
+      {
+        "id": "uoe-word-formation-04-q1",
+        "kind": "text",
+        "stem": "PREDICT",
+        "prompt": "PREDICT",
+        "accepted": [
+          "unpredictable"
+        ],
+        "explanation": "Adjetivo con sentido negativo (la producción depende del tiempo): un- + predict + -able.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-word-formation-04-q2",
+        "kind": "text",
+        "stem": "EXPECT",
+        "prompt": "EXPECT",
+        "accepted": [
+          "unexpectedly"
+        ],
+        "explanation": "Adverbio que modifica a «change», coordinado con «at very short notice»: un- + expected + -ly.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-prefix"
+      },
+      {
+        "id": "uoe-word-formation-04-q3",
+        "kind": "text",
+        "stem": "FLEXIBLE",
+        "prompt": "FLEXIBLE",
+        "accepted": [
+          "flexibility"
+        ],
+        "explanation": "«A degree of + sustantivo»: flexible → flexibility (-ible → -ibility).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-04-q4",
+        "kind": "text",
+        "stem": "STORE",
+        "prompt": "STORE",
+        "accepted": [
+          "storage"
+        ],
+        "explanation": "«Energy storage» = almacenamiento de energía. Sustantivo con sufijo -age (se pierde la e).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-04-q5",
+        "kind": "text",
+        "stem": "CONSUME",
+        "prompt": "CONSUME",
+        "accepted": [
+          "consumers"
+        ],
+        "explanation": "Sujeto plural de «need»: «consumers» (sustantivo de persona con -er, en plural).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-04-q6",
+        "kind": "text",
+        "stem": "STRONG",
+        "prompt": "STRONG",
+        "accepted": [
+          "strengthen"
+        ],
+        "explanation": "Tras «to» hace falta un verbo: strong → strength → strengthen (sufijo verbal -en, con cambio vocálico o → e).",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-04-q7",
+        "kind": "text",
+        "stem": "INDUSTRY",
+        "prompt": "INDUSTRY",
+        "accepted": [
+          "industrial"
+        ],
+        "explanation": "Adjetivo antes de «users»: «industrial» (relativo a la industria). «Industrious» significa «trabajador, diligente», que no encaja.",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      },
+      {
+        "id": "uoe-word-formation-04-q8",
+        "kind": "text",
+        "stem": "RELY",
+        "prompt": "RELY",
+        "accepted": [
+          "reliance"
+        ],
+        "explanation": "«A continued reliance on» = una dependencia continuada de. Sustantivo con -ance (y → i). «Reliability» (fiabilidad) no encaja con «on fossil fuels».",
+        "tag": "word-formation",
+        "grammarRef": "word-formation-suffix"
+      }
+    ]
+  }
+]

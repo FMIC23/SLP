@@ -1,0 +1,817 @@
+[
+  {
+    "meta": {
+      "id": "ls-slp-01",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Boletín de noticias: fronteras, energía y ciberdelincuencia",
+      "domain": "general",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Six o'clock news bulletin",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Newsreader": "female",
+      "Correspondent": "male"
+    },
+    "script": [
+      {
+        "speaker": "Newsreader",
+        "text": "Good evening. Here's the news at six. Authorities at the eastern land border say queues have eased after a weekend of severe delays caused by the launch of the new biometric entry system. Travellers from outside the area now have their fingerprints and a facial image recorded on their first crossing."
+      },
+      {
+        "speaker": "Newsreader",
+        "text": "At the busiest checkpoint, waiting times reached nearly seven hours on Saturday, but officials say they've since fallen to under ninety minutes after extra staff and additional kiosks were deployed. Our correspondent is at the border."
+      },
+      {
+        "speaker": "Correspondent",
+        "text": "Thanks. Well, the mood here this evening is a lot calmer than it was at the weekend. Border officers I've spoken to admit, privately, that the rollout was rushed, and that the software kept freezing during the first few hours."
+      },
+      {
+        "speaker": "Correspondent",
+        "text": "The government, though, insists the system is working as intended, and argues that once a traveller's registered, future crossings will actually be quicker than before. Hauliers aren't convinced. Their association says it'll be seeking compensation for perishable goods that spoiled in the queues."
+      },
+      {
+        "speaker": "Newsreader",
+        "text": "The national grid operator has warned that electricity reserves could be tighter than usual this winter, following the unexpected closure of two ageing gas-fired power stations. In a statement, the operator stressed there's no immediate risk of power cuts, but said it may ask large industrial users to reduce consumption at peak times in return for payment."
+      },
+      {
+        "speaker": "Newsreader",
+        "text": "Consumer groups have welcomed the scheme, but have called for clearer information for households."
+      },
+      {
+        "speaker": "Newsreader",
+        "text": "And finally, police from six countries have taken down a criminal network accused of launching ransomware attacks against hospitals and local authorities. The operation, coordinated through the European police agency, led to eleven arrests and the seizure of servers in three countries."
+      },
+      {
+        "speaker": "Newsreader",
+        "text": "Investigators say the group encrypted patient records and demanded payment in cryptocurrency, in one case forcing a regional hospital to postpone hundreds of operations. Officers have also recovered decryption keys, which they say will be made available free of charge to victims. That's all from us for now. The next bulletin is at seven."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-slp-01-q1",
+        "kind": "choice",
+        "prompt": "According to officials, what has reduced waiting times at the border?",
+        "options": [
+          "Temporarily suspending the biometric checks.",
+          "Deploying more staff and extra kiosks.",
+          "Opening an additional checkpoint.",
+          "Installing an updated version of the software."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "Los tiempos bajaron \"after extra staff and additional kiosks were deployed\". Se menciona que el software se colgaba, pero no que se actualizara."
+      },
+      {
+        "id": "ls-slp-01-q2",
+        "kind": "choice",
+        "prompt": "What can be inferred about the border officers' view of the new system?",
+        "options": [
+          "They have publicly criticised the government.",
+          "They believe the system will never work properly.",
+          "It differs from the official position of the government.",
+          "They think hauliers deserve compensation."
+        ],
+        "answer": 2,
+        "tag": "inference",
+        "explanation": "Los agentes admiten \"privately, that the rollout was rushed\", mientras que \"the government, though, insists the system is working as intended\". Lo dicen en privado, así que A no vale."
+      },
+      {
+        "id": "ls-slp-01-q3",
+        "kind": "choice",
+        "prompt": "What is the hauliers' association's attitude?",
+        "options": [
+          "Dissatisfied, and intending to claim financial redress.",
+          "Satisfied with the government's explanation.",
+          "Supportive of the system in the long term.",
+          "Indifferent, since freight is exempt from the checks."
+        ],
+        "answer": 0,
+        "tag": "attitude",
+        "explanation": "\"Hauliers aren't convinced. Their association says it'll be seeking compensation for perishable goods that spoiled in the queues.\""
+      },
+      {
+        "id": "ls-slp-01-q4",
+        "kind": "choice",
+        "prompt": "What is the main purpose of the grid operator's statement?",
+        "options": [
+          "To announce a schedule of planned power cuts.",
+          "To justify the closure of two power stations.",
+          "To urge households to cut their consumption immediately.",
+          "To reassure the public while preparing measures to manage peak demand."
+        ],
+        "answer": 3,
+        "tag": "purpose",
+        "explanation": "Insiste en que \"there's no immediate risk of power cuts\" (tranquilizar) y anuncia que podría pedir a grandes industrias \"to reduce consumption at peak times in return for payment\". Se dirige a la industria, no a los hogares (C)."
+      },
+      {
+        "id": "ls-slp-01-q5",
+        "kind": "choice",
+        "prompt": "What did police recover during the operation against the ransomware network?",
+        "options": [
+          "Cryptocurrency paid by the hospitals.",
+          "Decryption keys that will be offered free to victims.",
+          "Stolen patient records offered for sale.",
+          "The source code of the ransomware."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"Officers have also recovered decryption keys, which they say will be made available free of charge to victims.\""
+      },
+      {
+        "id": "ls-slp-01-q6",
+        "kind": "choice",
+        "prompt": "Which statement best summarises the final news item?",
+        "options": [
+          "A hospital has been fined for failing to protect patient data.",
+          "Six countries have agreed to share data on ransomware attacks.",
+          "An international operation has dismantled a group targeting public services.",
+          "Local authorities have paid a ransom to recover encrypted files."
+        ],
+        "answer": 2,
+        "tag": "gist",
+        "explanation": "La noticia trata de que \"police from six countries have taken down a criminal network\" que atacaba \"hospitals and local authorities\", con 11 detenciones e incautación de servidores."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-slp-02",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Briefing previo a una operación conjunta (trata y explotación laboral)",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Pre-operation briefing",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Commander": "male",
+      "Officer": "female"
+    },
+    "script": [
+      {
+        "speaker": "Commander",
+        "text": "Right, everyone, settle down, please. We haven't got long. Good morning."
+      },
+      {
+        "speaker": "Commander",
+        "text": "For those I haven't met, I'm the commander for today's operation, which is a joint operation with customs and the labour inspectorate. Some of you have come in from neighbouring divisions, so thank you for that."
+      },
+      {
+        "speaker": "Commander",
+        "text": "The target is a warehouse on the northern industrial estate, unit fourteen. Intelligence suggests it's being used to store counterfeit car parts. Brake pads, mainly, which is why this matters: these things fail."
+      },
+      {
+        "speaker": "Commander",
+        "text": "But, and this is the important bit, we also have credible information that between fifteen and twenty workers are living on site, in very poor conditions, and that their passports have been taken from them. So let me be absolutely clear. The people inside are to be treated as potential victims until we know otherwise."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Not suspects. Victims."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Timings. We go in at oh-six-hundred. Team A takes the front entrance."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Team B covers the rear loading bay; that's the most likely exit route if anyone decides to run. Customs officers will follow once the building's secure, and not before. I don't want any civilian staff in there until I've had the all-clear."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Now, a word about the dogs. There are reports of at least two guard dogs on the premises. The dog unit will deal with them. Nobody else is to approach them, whatever happens."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Interpreters. We've got two, speaking Romanian and Vietnamese. They'll wait at the rendezvous point and be brought forward to the welfare area once it's set up."
+      },
+      {
+        "speaker": "Commander",
+        "text": "That's the area by the gatehouse. Every worker we find goes there first. They get water, something to eat, and a chance to speak to someone in their own language before anybody starts asking them questions about their status."
+      },
+      {
+        "speaker": "Officer",
+        "text": "Sir, what if any of them refuse to cooperate?"
+      },
+      {
+        "speaker": "Commander",
+        "text": "Then we note it and we move on. Look, people who've been exploited are often terrified, of the people who brought them here and, frankly, of us. If the first thing they experience is someone shouting at them, we've lost them as witnesses, and quite possibly lost the case. Patience is evidence, if you like."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Last thing. Body-worn cameras on from the moment you leave the vehicles. Any seized items are to be bagged, labelled and logged with the exhibits officer. No exceptions."
+      },
+      {
+        "speaker": "Commander",
+        "text": "Right. Any other questions, grab me at the vehicles. Let's get this done properly. Thank you."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-slp-02-q1",
+        "kind": "choice",
+        "prompt": "What is the main purpose of the briefing?",
+        "options": [
+          "To set out the plan and priorities for a joint raid.",
+          "To review the results of a previous operation.",
+          "To train officers in how to interview trafficking victims.",
+          "To request extra staff from neighbouring divisions."
+        ],
+        "answer": 0,
+        "tag": "purpose",
+        "explanation": "El comandante presenta el objetivo, horarios, equipos y prioridades de \"a joint operation with customs and the labour inspectorate\". Los agentes de otras divisiones ya están presentes (D)."
+      },
+      {
+        "id": "ls-slp-02-q2",
+        "kind": "choice",
+        "prompt": "When will customs officers enter the warehouse?",
+        "options": [
+          "At the same time as Team A.",
+          "Before the police, to identify counterfeit goods.",
+          "Only after the building has been secured.",
+          "Once the interpreters have arrived."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"Customs officers will follow once the building's secure, and not before.\""
+      },
+      {
+        "id": "ls-slp-02-q3",
+        "kind": "choice",
+        "prompt": "Where will workers found in the warehouse be taken first?",
+        "options": [
+          "To the rear loading bay.",
+          "To the rendezvous point, to meet the interpreters.",
+          "Straight to the police station for questioning.",
+          "To a welfare area near the gatehouse."
+        ],
+        "answer": 3,
+        "tag": "detail",
+        "explanation": "\"The welfare area... That's the area by the gatehouse. Every worker we find goes there first.\" Los intérpretes esperan en el punto de encuentro, pero los trabajadores no van allí (B)."
+      },
+      {
+        "id": "ls-slp-02-q4",
+        "kind": "choice",
+        "prompt": "What is the commander's attitude towards the workers living on site?",
+        "options": [
+          "He suspects them of involvement in the counterfeit trade.",
+          "He regards them primarily as possible victims who need careful handling.",
+          "He considers their immigration status the first priority.",
+          "He doubts the intelligence that they are there at all."
+        ],
+        "answer": 1,
+        "tag": "attitude",
+        "explanation": "\"The people inside are to be treated as potential victims until we know otherwise. Not suspects. Victims.\" Y se les preguntará por su situación solo después de atenderlos (C)."
+      },
+      {
+        "id": "ls-slp-02-q5",
+        "kind": "choice",
+        "prompt": "What does the commander mean by \"Patience is evidence\"?",
+        "options": [
+          "Officers should wait for a warrant before seizing any items.",
+          "Recording everything on camera saves time later in court.",
+          "Treating frightened workers calmly makes them more likely to act as witnesses.",
+          "Uncooperative workers should be arrested to preserve evidence."
+        ],
+        "answer": 2,
+        "tag": "inference",
+        "explanation": "Justo antes dice: \"If the first thing they experience is someone shouting at them, we've lost them as witnesses, and quite possibly lost the case.\""
+      },
+      {
+        "id": "ls-slp-02-q6",
+        "kind": "choice",
+        "prompt": "Which best describes the tone of the briefing?",
+        "options": [
+          "Relaxed and humorous.",
+          "Firm and businesslike, with a clear emphasis on welfare.",
+          "Hesitant and uncertain about the intelligence.",
+          "Angry and critical of previous mistakes."
+        ],
+        "answer": 1,
+        "tag": "tone",
+        "explanation": "Usa órdenes tajantes (\"No exceptions\", \"Nobody else is to approach them, whatever happens\") y a la vez insiste en el trato a las víctimas (\"water, something to eat\")."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-slp-03",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Llamada de emergencia: fuga de amoniaco en una planta frigorífica",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Emergency call: ammonia leak",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Operator": "female",
+      "Caller": "male"
+    },
+    "script": [
+      {
+        "speaker": "Operator",
+        "text": "Emergency services. Which service do you require?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "Fire, and, well, probably ambulance too. I'm calling from Northgate Cold Storage, on the Riverside industrial estate. We've got an ammonia leak in the plant room."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Okay, sir, stay on the line. Can you tell me your name and your role?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "Yes, it's Peter. I'm the night shift supervisor."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Thank you, Peter. How do you know it's ammonia?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "The detectors went off about five minutes ago, the alarm in the control room. And you can smell it, it's, it's really strong near the loading bay. It's coming from the compressor area, I think."
+      },
+      {
+        "speaker": "Caller",
+        "text": "One of the valves, maybe. I honestly don't know yet."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Is anyone injured?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "One of the maintenance lads was in the plant room when it started. He got out on his own, but he's coughing a lot and says his eyes are burning. We've got him in the canteen, and we're rinsing his eyes with water, like the procedure says."
+      },
+      {
+        "speaker": "Operator",
+        "text": "That's good, keep doing that. Has everyone else been evacuated?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "Yes. Well, I think so. We've done a head count at the assembly point and we've got thirty-one out of thirty-two."
+      },
+      {
+        "speaker": "Caller",
+        "text": "The one we're missing is a driver who came in to collect a load. He might've gone back to his cab, he might've left the site, we just don't know. I'm not sending anyone back in to look for him."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Absolutely right, don't send anyone in. Where's the assembly point in relation to the leak?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "It's at the front gate, which is... hang on... yeah, the wind's blowing away from us, towards the river. So we should be okay there. But there's a housing estate on the other side of the river, maybe four hundred metres away."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Okay, I'm passing that on now. Has the ammonia system been shut down?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "I hit the emergency stop in the control room before we left, so the compressors are off. But I can't isolate the main valve. It's inside the plant room, and I'm not going in there without breathing apparatus."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Understood. Fire crews are on their way, about eight minutes out. Can someone meet them at the gate with the site plan?"
+      },
+      {
+        "speaker": "Caller",
+        "text": "Yeah, I'll do that myself. I've got the plan and the chemical inventory right here."
+      },
+      {
+        "speaker": "Operator",
+        "text": "Perfect. Stay on the line, Peter."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-slp-03-q1",
+        "kind": "choice",
+        "prompt": "What is the main reason for the call?",
+        "options": [
+          "To report a chemical leak and request emergency assistance.",
+          "To ask for advice on restarting the refrigeration system.",
+          "To report a missing driver to the police.",
+          "To complain about a smell coming from a neighbouring site."
+        ],
+        "answer": 0,
+        "tag": "purpose",
+        "explanation": "\"Fire, and, well, probably ambulance too... We've got an ammonia leak in the plant room.\" El conductor desaparecido es un detalle secundario (C)."
+      },
+      {
+        "id": "ls-slp-03-q2",
+        "kind": "choice",
+        "prompt": "What has happened to the maintenance worker?",
+        "options": [
+          "He is trapped inside the plant room.",
+          "He has been taken to hospital by a colleague.",
+          "He is suffering from coughing and eye irritation and is being treated on site.",
+          "He has gone back to isolate the main valve."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"He's coughing a lot and says his eyes are burning. We've got him in the canteen, and we're rinsing his eyes with water.\" Salió por su propio pie (\"He got out on his own\"), así que A no vale."
+      },
+      {
+        "id": "ls-slp-03-q3",
+        "kind": "choice",
+        "prompt": "Why is the head count incomplete?",
+        "options": [
+          "A maintenance worker is still in the plant room.",
+          "A visiting driver cannot be accounted for.",
+          "Some staff left the site before the alarm.",
+          "The supervisor has lost the staff list."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"We've got thirty-one out of thirty-two. The one we're missing is a driver who came in to collect a load.\""
+      },
+      {
+        "id": "ls-slp-03-q4",
+        "kind": "choice",
+        "prompt": "Why does the caller mention the housing estate?",
+        "options": [
+          "Because the missing driver may have gone there.",
+          "Because residents have already complained about the smell.",
+          "Because the fire crews will approach from that direction.",
+          "Because the wind could carry the gas towards it."
+        ],
+        "answer": 3,
+        "tag": "inference",
+        "explanation": "Dice que el viento sopla \"towards the river\" y que al otro lado del río hay \"a housing estate... maybe four hundred metres away\": se deduce el riesgo para los vecinos."
+      },
+      {
+        "id": "ls-slp-03-q5",
+        "kind": "choice",
+        "prompt": "Why has the main valve not been isolated?",
+        "options": [
+          "The emergency stop failed to work.",
+          "Nobody knows where the valve is located.",
+          "It is inside the plant room and there is no breathing apparatus available to him.",
+          "The operator told him not to touch it."
+        ],
+        "answer": 2,
+        "tag": "detail",
+        "explanation": "\"It's inside the plant room, and I'm not going in there without breathing apparatus.\" La parada de emergencia sí funcionó (\"the compressors are off\")."
+      },
+      {
+        "id": "ls-slp-03-q6",
+        "kind": "choice",
+        "prompt": "Which best describes the caller's manner?",
+        "options": [
+          "Calm and detached, as if reporting a routine event.",
+          "Panicked and unable to give useful information.",
+          "Under pressure, but following procedures methodically.",
+          "Defensive about his own responsibility for the leak."
+        ],
+        "answer": 2,
+        "tag": "tone",
+        "explanation": "Duda y se corrige (\"it's, it's really strong\", \"Well, I think so\"), pero aplica el protocolo: lavado de ojos \"like the procedure says\", recuento, parada de emergencia y no enviar a nadie dentro."
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-slp-04",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Debate en pódcast: renovables, red eléctrica y almacenamiento",
+      "domain": "industrial",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Podcast: can the grid keep up?",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Host": "male",
+      "Marta": "female",
+      "Simon": "male"
+    },
+    "script": [
+      {
+        "speaker": "Host",
+        "text": "Welcome back to Power Lines, the podcast about energy policy. This week: is the country building renewables faster than the grid can cope with? With me are Marta, an energy economist, and Simon, who spent twenty years in grid planning. Simon, you've been fairly outspoken about this."
+      },
+      {
+        "speaker": "Simon",
+        "text": "I have, and let me say straight away, I'm not anti-renewables. Far from it. But we've got solar farms in the south that are being told to switch off on sunny afternoons because the lines can't carry the power."
+      },
+      {
+        "speaker": "Simon",
+        "text": "And the operators get paid compensation for not generating. So consumers are paying, effectively, for electricity that never gets used. That's not a green policy, that's a planning failure."
+      },
+      {
+        "speaker": "Host",
+        "text": "Marta, is he right?"
+      },
+      {
+        "speaker": "Marta",
+        "text": "On the facts, broadly, yes. Curtailment payments have shot up. Where I part company with Simon is on the conclusion. Some people use those numbers to argue we should slow down the rollout of wind and solar until the grid catches up."
+      },
+      {
+        "speaker": "Marta",
+        "text": "I think that'd be a serious mistake. Grid projects take ten, twelve years. If we hit pause on generation, we just end up burning gas for longer."
+      },
+      {
+        "speaker": "Simon",
+        "text": "I've never said we should hit pause."
+      },
+      {
+        "speaker": "Marta",
+        "text": "Not you, no. But your figures get quoted by people who do."
+      },
+      {
+        "speaker": "Simon",
+        "text": "Fair enough. What I'm arguing is that the subsidy system rewards the wrong thing. It pays developers per megawatt installed, wherever they put it."
+      },
+      {
+        "speaker": "Simon",
+        "text": "So naturally they build where land is cheap, which is often precisely where the grid is weakest. If you paid more for capacity in the right places, you'd change behaviour overnight."
+      },
+      {
+        "speaker": "Marta",
+        "text": "Now that, I'd support. Locational pricing, making it cheaper to generate near where the demand is, is probably the single most effective reform on the table. The difficulty is political. Regions with cheap land and lots of projects would see their income fall, and their representatives will fight it."
+      },
+      {
+        "speaker": "Host",
+        "text": "What about storage? Batteries are often presented as the answer."
+      },
+      {
+        "speaker": "Simon",
+        "text": "They're part of the answer. A big battery next to a solar farm can soak up that afternoon surplus and release it in the evening peak. But four-hour batteries don't solve a cold, still week in January. For that, we need longer-duration storage, and frankly, the market for that barely exists yet."
+      },
+      {
+        "speaker": "Marta",
+        "text": "I'd go further. Without some form of guaranteed revenue, nobody's going to build long-duration storage at scale. It's just too risky. That's one area where I think the state simply has to step in."
+      },
+      {
+        "speaker": "Host",
+        "text": "So, if you each had one recommendation for the minister?"
+      },
+      {
+        "speaker": "Simon",
+        "text": "Fix where we build, not just how much."
+      },
+      {
+        "speaker": "Marta",
+        "text": "And don't let the grid argument become an excuse for doing less."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-slp-04-q1",
+        "kind": "choice",
+        "prompt": "What is the main issue discussed in the podcast?",
+        "options": [
+          "Whether renewable energy is too expensive for consumers.",
+          "How to match the expansion of renewables with the capacity of the grid.",
+          "Whether gas should be phased out more quickly.",
+          "Which battery technology is the most efficient."
+        ],
+        "answer": 1,
+        "tag": "gist",
+        "explanation": "El presentador plantea: \"is the country building renewables faster than the grid can cope with?\" y todo el debate gira en torno a red, ubicación y almacenamiento."
+      },
+      {
+        "id": "ls-slp-04-q2",
+        "kind": "choice",
+        "prompt": "What does Simon criticise about some solar farms in the south?",
+        "options": [
+          "They were built without planning permission.",
+          "They produce less electricity than predicted.",
+          "They are paid to stop generating when the lines are saturated.",
+          "They have damaged agricultural land."
+        ],
+        "answer": 2,
+        "tag": "paraphrase",
+        "explanation": "Se les ordena \"switch off on sunny afternoons because the lines can't carry the power. And the operators get paid compensation for not generating.\""
+      },
+      {
+        "id": "ls-slp-04-q3",
+        "kind": "choice",
+        "prompt": "What is Marta's attitude to Simon's figures?",
+        "options": [
+          "She accepts them but rejects the conclusion some people draw from them.",
+          "She believes they have been deliberately exaggerated.",
+          "She thinks they are out of date.",
+          "She agrees that they justify slowing down new projects."
+        ],
+        "answer": 0,
+        "tag": "attitude",
+        "explanation": "\"On the facts, broadly, yes... Where I part company with Simon is on the conclusion.\" Considera un \"serious mistake\" frenar las renovables (D)."
+      },
+      {
+        "id": "ls-slp-04-q4",
+        "kind": "choice",
+        "prompt": "Which reform do both speakers support?",
+        "options": [
+          "Paying developers more for every megawatt installed.",
+          "Pausing new generation until grid projects are finished.",
+          "Building more gas plants as a back-up.",
+          "Rewarding generation located closer to where electricity is needed."
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "Simon propone \"paid more for capacity in the right places\" y Marta responde \"Now that, I'd support. Locational pricing, making it cheaper to generate near where the demand is\". A es precisamente lo que Simon critica."
+      },
+      {
+        "id": "ls-slp-04-q5",
+        "kind": "choice",
+        "prompt": "Why does Marta think locational pricing would be hard to introduce?",
+        "options": [
+          "It would require new legislation at European level.",
+          "Regions that would lose income are likely to oppose it.",
+          "Developers do not have enough data on demand.",
+          "It would increase consumer bills significantly."
+        ],
+        "answer": 1,
+        "tag": "inference",
+        "explanation": "\"The difficulty is political. Regions with cheap land and lots of projects would see their income fall, and their representatives will fight it.\""
+      },
+      {
+        "id": "ls-slp-04-q6",
+        "kind": "choice",
+        "prompt": "What is Marta's view on long-duration storage?",
+        "options": [
+          "The market will develop it without help.",
+          "It is unnecessary if enough batteries are built.",
+          "It will need some form of public support to be built at scale.",
+          "It is less important than reforming subsidies."
+        ],
+        "answer": 2,
+        "tag": "attitude",
+        "explanation": "\"Without some form of guaranteed revenue, nobody's going to build long-duration storage at scale... the state simply has to step in.\""
+      }
+    ]
+  },
+  {
+    "meta": {
+      "id": "ls-slp-05",
+      "skill": "listening",
+      "level": "SLP3",
+      "topic": "Clase magistral: policía de proximidad",
+      "domain": "police",
+      "source": "Generado para el proyecto (original)",
+      "license": "CC BY 4.0",
+      "generated": true
+    },
+    "title": "Lecture: community policing",
+    "part": "stanag",
+    "instructions": "Listen to the recording and answer the questions. Choose the best answer (A, B, C or D). You may take notes while you listen.",
+    "speakers": {
+      "Lecturer": "female"
+    },
+    "script": [
+      {
+        "speaker": "Lecturer",
+        "text": "Okay, so last week we looked at what you might call the 'professional' model of policing: rapid response, patrol cars, crime statistics. Today I want to look at its main rival, community policing, and I'd like to start by clearing up a misconception."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "Community policing is very often confused with, well, being nice. Officers on foot, chatting to shopkeepers, visiting schools. And all of that can be part of it, of course."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "But the core idea is something rather different. It's that the police can't control crime on their own, and that the public isn't just a source of complaints, but a partner in identifying and solving problems."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "Now, why did this approach emerge? Basically, because the professional model hit a wall. Forces got faster and faster at responding to calls, and yet research found that, for most crimes, response time made almost no difference to whether anyone was caught."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "Meanwhile, officers in cars had become strangers to the neighbourhoods they policed. People stopped passing on information, and you can't solve crimes without information."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "So what does community policing look like in practice? One well-known example is the problem-solving approach. Rather than responding to the same address forty times, officers analyse why the calls keep coming."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "A badly lit alley, an empty building, a late-night bar with no door staff. And then they work with the council, landlords, residents, whoever, to change those underlying conditions."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "Does it work? Here, I'm afraid, I have to disappoint those of you who were hoping for a clear answer. The evidence is genuinely mixed."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "Studies consistently find that community policing improves public trust and satisfaction with the police. That's well established. The evidence that it reduces crime, on the other hand, is much weaker: positive in some places, negligible in others."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "And there's a practical problem I'd flag up as well. Community policing is often the first thing to go when budgets are cut. Neighbourhood officers get pulled back into response teams to cover shortages, and the relationships they've spent years building simply evaporate."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "Then, a few years later, the force announces a shiny 'new' community strategy and starts again from scratch. I've seen that cycle happen three times in one city."
+      },
+      {
+        "speaker": "Lecturer",
+        "text": "So, for next week, I'd like you to read the two case studies on the module page and come prepared to argue, whichever side you're given, whether trust is a worthwhile goal in itself, even if the crime figures don't move."
+      }
+    ],
+    "questions": [
+      {
+        "id": "ls-slp-05-q1",
+        "kind": "choice",
+        "prompt": "Why does the lecturer begin by discussing \"being nice\"?",
+        "options": [
+          "To correct a common misunderstanding of community policing.",
+          "To argue that officers should be more polite to the public.",
+          "To summarise the content of last week's lecture.",
+          "To criticise officers who patrol on foot."
+        ],
+        "answer": 0,
+        "tag": "purpose",
+        "explanation": "Anuncia \"I'd like to start by clearing up a misconception\": la policía de proximidad \"is very often confused with, well, being nice\", pero \"the core idea is something rather different\"."
+      },
+      {
+        "id": "ls-slp-05-q2",
+        "kind": "choice",
+        "prompt": "According to the lecturer, why did the professional model \"hit a wall\"?",
+        "options": [
+          "Patrol cars became too expensive to run.",
+          "Faster responses did little to catch offenders, and officers lost touch with communities.",
+          "The public demanded more officers on foot.",
+          "Crime statistics were shown to be unreliable."
+        ],
+        "answer": 1,
+        "tag": "detail",
+        "explanation": "\"Response time made almost no difference to whether anyone was caught. Meanwhile, officers in cars had become strangers to the neighbourhoods they policed.\""
+      },
+      {
+        "id": "ls-slp-05-q3",
+        "kind": "choice",
+        "prompt": "What does the problem-solving approach involve?",
+        "options": [
+          "Responding more quickly to repeat calls from the same address.",
+          "Increasing patrols in high-crime areas at night.",
+          "Prosecuting landlords who fail to report crime.",
+          "Tackling the underlying causes of repeated incidents together with other organisations."
+        ],
+        "answer": 3,
+        "tag": "paraphrase",
+        "explanation": "\"Officers analyse why the calls keep coming... and then they work with the council, landlords, residents, whoever, to change those underlying conditions.\" A es justo lo que se quiere evitar."
+      },
+      {
+        "id": "ls-slp-05-q4",
+        "kind": "choice",
+        "prompt": "What is the lecturer's view of the research evidence?",
+        "options": [
+          "It clearly shows that community policing reduces crime.",
+          "It is too limited to draw any conclusions at all.",
+          "It firmly supports gains in public trust, but is inconclusive on crime reduction.",
+          "It suggests community policing damages public satisfaction."
+        ],
+        "answer": 2,
+        "tag": "attitude",
+        "explanation": "\"Community policing improves public trust... That's well established. The evidence that it reduces crime, on the other hand, is much weaker.\""
+      },
+      {
+        "id": "ls-slp-05-q5",
+        "kind": "choice",
+        "prompt": "How does the lecturer feel about the way forces respond to budget cuts?",
+        "options": [
+          "Sympathetic, as there is no realistic alternative.",
+          "Critical, regarding the repeated cycle as wasteful.",
+          "Optimistic that new strategies will be more successful.",
+          "Neutral, simply describing the process."
+        ],
+        "answer": 1,
+        "tag": "tone",
+        "explanation": "Su ironía lo muestra: \"announces a shiny 'new' community strategy and starts again from scratch. I've seen that cycle happen three times in one city\", y las relaciones \"simply evaporate\"."
+      },
+      {
+        "id": "ls-slp-05-q6",
+        "kind": "choice",
+        "prompt": "What is the purpose of the task set for next week?",
+        "options": [
+          "To compare crime figures from two different cities.",
+          "To evaluate the professional model of policing.",
+          "To design a new community policing strategy.",
+          "To debate whether building trust justifies community policing regardless of its effect on crime."
+        ],
+        "answer": 3,
+        "tag": "purpose",
+        "explanation": "Deben argumentar \"whether trust is a worthwhile goal in itself, even if the crime figures don't move\"."
+      }
+    ]
+  }
+]
